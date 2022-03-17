@@ -1,0 +1,4 @@
+name = "Bracketology"
+uuid = "3c56fca3-c766-4b8a-b7f2-25c58c61440f"
+authors = ["david merrell <davidpmerrell@gmail.com>"]
+version = "0.1.0"
