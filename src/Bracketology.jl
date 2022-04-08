@@ -1,5 +1,10 @@
 module Bracketology
 
-greet() = print("Hello World!")
+using CSV, DataFrames, SparseMatFac, Dates, SparseArrays,
+      ScikitLearnBase, CUDA, HDF5
+
+include("model.jl")
+include("assemble_model.jl")
+include("run_model.jl")
 
 end # module
