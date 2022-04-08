@@ -58,6 +58,9 @@ function assemble_regmat(team_a_vec, team_b_vec, date_vec;
             push!(J, idx-1)
             push!(V, -weight)
         end
+
+        prev_team = team
+        prev_date = date
     end
 
     for (i, d) in enumerate(diag)
