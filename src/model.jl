@@ -22,7 +22,7 @@ function save_model(hdf_filename, model)
     end
 end
 
-function load_model(hdf_filename, model)
+function load_model(hdf_filename)
     h5open(hdf_filename, "r") do f
         matfac = model_from_hdf(f, "matfac")
         team_vec = f["team_vec"][:]
