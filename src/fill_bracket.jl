@@ -1,6 +1,6 @@
 
 
-export fill_bracket
+export fill_bracket, bracket_to_df, bracket_to_dict
 
 
 function rec_fill_bracket(model, team_list)
@@ -32,6 +32,37 @@ function rec_fill_bracket(model, team_list)
 end
 
 
+function fill_bracket(model, team_list)
+
+    @assert isinteger(log2(length(team_list))) "Length of team list must be a power of 2"
+
+    bracket = rec_fill_bracket(model, team_list)
+
+    return bracket 
+end
+
+
+function rec_bracket_to_dict(bracket_tuple)
+    
+    if length(bracket_tuple) == 2
+        d = nothing
+    else
+        sub_A = rec_bracket_to_dict(bracket_tuple[3])
+        sub_B = rec_bracket_to_dict(bracket_tuple[4])
+
+        d = Dict(bracket_tuple[3][1] => sub_A,
+                 bracket_tuple[4][1] => sub_B)
+    end
+
+    return d
+end
+
+function bracket_to_dict(bracket_tuple)
+    d = rec_bracket_to_dict(bracket_tuple)
+    return Dict(bracket_tuple[1] => d)
+end
+
+
 function rec_fill_arr!(arr, bracket)
 
     M,N = size(arr)
@@ -45,21 +76,13 @@ function rec_fill_arr!(arr, bracket)
 end
 
 
-function fill_bracket(model, team_list)
-
-    @assert isinteger(log2(length(team_list))) "Length of team list must be a power of 2"
-
-    bracket = rec_fill_bracket(model, team_list)
-    println(bracket)
-
+function bracket_to_df(bracket_tuple, team_list)
     N_teams = length(team_list)
     bracket_arr = fill("", N_teams, Int(log2(N_teams) + 1))
 
-    rec_fill_arr!(view(bracket_arr,:,:), bracket)
+    rec_fill_arr!(view(bracket_arr,:,:), bracket_tuple)
 
     df = DataFrame(bracket_arr, :auto)
-
-    return df
 end
 
 

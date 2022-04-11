@@ -28,7 +28,7 @@ version = "0.2.0"
 uuid = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
 
 [[Bracketology]]
-deps = ["CSV", "CUDA", "DataFrames", "Dates", "Distributions", "HDF5", "ScikitLearnBase", "SparseArrays", "SparseMatFac"]
+deps = ["CSV", "CUDA", "DataFrames", "Dates", "Distributions", "HDF5", "LinearAlgebra", "ScikitLearnBase", "SparseArrays", "SparseMatFac"]
 path = ".."
 uuid = "3c56fca3-c766-4b8a-b7f2-25c58c61440f"
 version = "0.1.0"
@@ -280,6 +280,12 @@ deps = ["Preferences"]
 git-tree-sha1 = "abc9885a7ca2052a736a600f7fa66209f96506e1"
 uuid = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
 version = "1.4.1"
+
+[[JSON]]
+deps = ["Dates", "Mmap", "Parsers", "Unicode"]
+git-tree-sha1 = "3c837543ddb02250ef42f4738347454f95079d4e"
+uuid = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+version = "0.21.3"
 
 [[LLVM]]
 deps = ["CEnum", "LLVMExtra_jll", "Libdl", "Printf", "Unicode"]

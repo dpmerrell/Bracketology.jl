@@ -1,19 +1,16 @@
 
-using Bracketology, CSV, DataFrames
+using Bracketology, CSV, DataFrames, JSON
 
-function fill_bracket_script(model_hdf::String, team_csv::String)
+function fill_bracket_script(model_hdf::String, team_ls)
 
     println("Loading model")
     model = load_model(model_hdf)
 
-    team_df = DataFrame(CSV.File(team_csv; header=0))
-    team_ls = team_df[:,1] 
-    team_ls = convert(Vector{String}, team_ls)
 
     println("Filling bracket")
-    bracket_df = fill_bracket(model, team_ls)
+    bracket = fill_bracket(model, team_ls)
 
-    return bracket_df
+    return bracket
 end
 
 
@@ -22,11 +19,24 @@ function main(args)
     model_hdf = args[1]
     team_csv = args[2]
     out_csv = args[3]
+    out_json = args[4]
 
-    bracket_df = fill_bracket_script(model_hdf, team_csv)
+    team_df = DataFrame(CSV.File(team_csv))
+    team_ls = team_df[:,:TEAMS] 
+    team_ls = convert(Vector{String}, team_ls)
+
+    bracket = fill_bracket_script(model_hdf, team_ls)
+    bracket_df = bracket_to_df(bracket, team_ls)
 
     println(string("Writing bracket to ", out_csv))
     CSV.write(out_csv, bracket_df)
+
+    bracket_dict = bracket_to_dict(bracket)
+
+    println(string("Writing bracket to ", out_json))
+    open(out_json, "w") do f
+        JSON.print(f, bracket_dict, 4) 
+    end
 end
 
 main(ARGS)

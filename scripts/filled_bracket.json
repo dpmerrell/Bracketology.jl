@@ -1,0 +1,192 @@
+{
+    "Kansas": {
+        "North Carolina": {
+            "Duke": {
+                "Duke": {
+                    "Duke": {
+                        "Michigan St.": {
+                            "Michigan St.": null,
+                            "Davidson": null
+                        },
+                        "Duke": {
+                            "Duke": null,
+                            "Cal St. Fullerton": null
+                        }
+                    },
+                    "Texas Tech": {
+                        "Notre Dame": {
+                            "Alabama": null,
+                            "Notre Dame": null
+                        },
+                        "Texas Tech": {
+                            "Montana St.": null,
+                            "Texas Tech": null
+                        }
+                    }
+                },
+                "Gonzaga": {
+                    "New Mexico St.": {
+                        "New Mexico St.": {
+                            "Connecticut": null,
+                            "New Mexico St.": null
+                        },
+                        "Arkansas": {
+                            "Vermont": null,
+                            "Arkansas": null
+                        }
+                    },
+                    "Gonzaga": {
+                        "Memphis": {
+                            "Boise St.": null,
+                            "Memphis": null
+                        },
+                        "Gonzaga": {
+                            "Georgia St.": null,
+                            "Gonzaga": null
+                        }
+                    }
+                }
+            },
+            "North Carolina": {
+                "North Carolina": {
+                    "North Carolina": {
+                        "Baylor": {
+                            "Baylor": null,
+                            "Norfolk St.": null
+                        },
+                        "North Carolina": {
+                            "North Carolina": null,
+                            "Marquette": null
+                        }
+                    },
+                    "Saint Mary's": {
+                        "Akron": {
+                            "UCLA": null,
+                            "Akron": null
+                        },
+                        "Saint Mary's": {
+                            "Indiana": null,
+                            "Saint Mary's": null
+                        }
+                    }
+                },
+                "Purdue": {
+                    "Purdue": {
+                        "Virginia Tech": {
+                            "Texas": null,
+                            "Virginia Tech": null
+                        },
+                        "Purdue": {
+                            "Yale": null,
+                            "Purdue": null
+                        }
+                    },
+                    "Murray St.": {
+                        "Saint Peter's": {
+                            "Kentucky": null,
+                            "Saint Peter's": null
+                        },
+                        "Murray St.": {
+                            "San Francisco": null,
+                            "Murray St.": null
+                        }
+                    }
+                }
+            }
+        },
+        "Kansas": {
+            "Kansas": {
+                "Miami FL": {
+                    "Wisconsin": {
+                        "Wisconsin": {
+                            "Colgate": null,
+                            "Wisconsin": null
+                        },
+                        "LSU": {
+                            "LSU": null,
+                            "Iowa St.": null
+                        }
+                    },
+                    "Miami FL": {
+                        "Auburn": {
+                            "Auburn": null,
+                            "Jacksonville St.": null
+                        },
+                        "Miami FL": {
+                            "Miami FL": null,
+                            "USC": null
+                        }
+                    }
+                },
+                "Kansas": {
+                    "Iowa": {
+                        "Iowa": {
+                            "Iowa": null,
+                            "Richmond": null
+                        },
+                        "Providence": {
+                            "South Dakota St.": null,
+                            "Providence": null
+                        }
+                    },
+                    "Kansas": {
+                        "Creighton": {
+                            "Creighton": null,
+                            "San Diego St.": null
+                        },
+                        "Kansas": {
+                            "Kansas": null,
+                            "Texas Southern": null
+                        }
+                    }
+                }
+            },
+            "Houston": {
+                "Tennessee": {
+                    "Tennessee": {
+                        "Tennessee": {
+                            "Longwood": null,
+                            "Tennessee": null
+                        },
+                        "Michigan": {
+                            "Colorado St.": null,
+                            "Michigan": null
+                        }
+                    },
+                    "Villanova": {
+                        "Loyola Chicago": {
+                            "Ohio St.": null,
+                            "Loyola Chicago": null
+                        },
+                        "Villanova": {
+                            "Delaware": null,
+                            "Villanova": null
+                        }
+                    }
+                },
+                "Houston": {
+                    "TCU": {
+                        "TCU": {
+                            "Seton Hall": null,
+                            "TCU": null
+                        },
+                        "Arizona": {
+                            "Wright St.": null,
+                            "Arizona": null
+                        }
+                    },
+                    "Houston": {
+                        "Illinois": {
+                            "Illinois": null,
+                            "Chattanooga": null
+                        },
+                        "Houston": {
+                            "Houston": null,
+                            "UAB": null
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
