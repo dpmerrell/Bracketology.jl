@@ -7,7 +7,7 @@ This repository contains code for:
 2. Predicting the outcomes of future games (and assigning probabilities to those outcomes).
 3. Filling a most-probable bracket based on the model's inferences.
 
-Of course, this code could be used for other sports or games than basketball.
+Of course, this code could be used for sports or games other than basketball.
 
 ## Model
 
@@ -51,9 +51,9 @@ It contains NCAA games from 2019 through January 2022.
 
 ## Results
 
-A bracket constructed from the `games_19-22.tsv` data can be found in `scripts/filled_bracket.csv`. Alternatively, see it in [Google Sheets](https://docs.google.com/spreadsheets/d/1V59gH4-CDqSBj4xKBC4ClzewRVO1hap4pQ00M74tS8Y/edit?usp=sharing).
+A bracket predicted from the `games_19-22.tsv` data can be found in `scripts/filled_bracket.csv`. Alternatively, see it in [Google Sheets](https://docs.google.com/spreadsheets/d/1V59gH4-CDqSBj4xKBC4ClzewRVO1hap4pQ00M74tS8Y/edit?usp=sharing).
 
-It predicted the correct champion (Kansas) of 2022 March Madness.
+It got an ESPN score of 1530 for the 2022 March Madness. (For reference, max ESPN score is 1920 and the top bracket got 1710.)
 
-I'm working on a more rigorous evaluation&mdash;scoring against the true results and comparing against simpler baselines (e.g., based on seed).
+I'm working on a more rigorous evaluation. This should include measuring accuracy on held-out data and comparisons against simpler baselines (e.g., based on seed).
 
