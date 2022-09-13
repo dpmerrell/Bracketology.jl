@@ -11,7 +11,7 @@ function main(args)
 
     # Model hyperparameters
     K=1
-    reg_weight=100.0
+    reg_weight=10.0
 
     # Optimizer hyperparameters
     lr=0.25
