@@ -1,33 +1,41 @@
 
-export TeamModel, save_model, load_model
+export CompetitionModel, save_model, load_model
 
-mutable struct TeamModel
+mutable struct CompetitionModel
     matfac::SparseMatFacModel
-    team_vec::Vector{String}
-    date_vec::Vector{String}
+    team_dates::Vector{<:Tuple}
 end
 
 
-function TeamModel(matfac, team_dates::Vector{<:Tuple})
-    return TeamModel(matfac, String[p[1] for p in team_dates],
-                             String[p[2] for p in team_dates])
+function CompetitionModel(team_a_vec, team_b_vec, date_vec;
+                          K=3, noise_model="poisson", reg_weight=1.0)
+
+    model = assemble_model(team_a_vec, team_b_vec, date_vec;
+                           K=K, noise_model=noise_model, reg_weight=reg_weight)
+
+    return model
+end
+
+################################################
+# Model file I/O
+
+"""
+    save_model(model, filename)
+
+Save `model` to a BSON file located at `filename`.
+"""
+function save_model(model::CompetitionModel, filename)
+    BSON.@save filename model
+end
+
+"""
+    load_model(filename)
+
+load a model from the BSON located at `filename`.
+"""
+function load_model(filename)
+    d = BSON.load(filename, @__MODULE__)
+    return d[:model]
 end
 
 
-function save_model(hdf_filename, model)
-    h5open(hdf_filename, "w") do f
-        write(f, "team_vec", model.team_vec)
-        write(f, "date_vec", model.date_vec)
-        write(f, "matfac", model.matfac)
-    end
-end
-
-function load_model(hdf_filename)
-    h5open(hdf_filename, "r") do f
-        matfac = model_from_hdf(f, "matfac")
-        team_vec = f["team_vec"][:]
-        date_vec = f["date_vec"][:]
-
-        return TeamModel(matfac, team_vec, date_vec)
-    end
-end

@@ -1,0 +1,5 @@
+[deps]
+ScikitLearnBase = "6e75b9c4-186b-50bd-896f-2d2496a4843e"
+SparseMatFac = "bde43a16-fe23-4bce-be8f-f199af2997b3"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"

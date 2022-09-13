@@ -1,11 +1,16 @@
+"""
+Utilities for checking whether you have consistent team names.
+Often a team goes by different aliases or abbreviations
+in different datasets; it's important to check for inconsistencies.
+"""
 
-using HDF5, CSV, DataFrames
+
+using Bracketology, CSV, DataFrames
 
 
-function check_teams(model_hdf, team_csv)
+function check_teams(model, team_csv)
 
-    f = h5open(model_hdf, "r")
-    model_teams = Set(f["team_vec"][:])
+    model_teams = model.team_vec
    
     team_df = DataFrame(CSV.File(team_csv;header=0))
     team_ls = team_df[:,1]
@@ -25,10 +30,12 @@ end
 
 function main(args)
 
-    model_hdf = args[1]
+    model_bson = args[1]
     team_csv = args[2]
 
-    check_teams(model_hdf, team_csv)
+    model = load_model(model_bson)
+
+    check_teams(model, team_csv)
 end
 
 

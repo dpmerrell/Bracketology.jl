@@ -1,4 +1,7 @@
-
+"""
+Receives JSON files for (1) a predicted bracket and (2) a true bracket.
+Computes the predicted bracket's ESPN score and prints a summary to stdout.
+"""
 
 using Bracketology, JSON
 

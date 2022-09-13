@@ -1,3 +1,10 @@
+"""
+Utilities for constructing an empty bracket in JSON format
+compatible with the other code in this repository.
+
+This is useful for, e.g., manually filling out a true bracket.
+"""
+
 
 using CSV, DataFrames, JSON
 

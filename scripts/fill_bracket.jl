@@ -1,10 +1,19 @@
+"""
+This script receives a saved model (BSON file)
+and a CSV file of team names 
+(their ordering defines the structure of the tournament).
+
+It then outputs a single most probable bracket, in both
+JSON and CSV format.
+"""
 
 using Bracketology, CSV, DataFrames, JSON
 
-function fill_bracket_script(model_hdf::String, team_ls)
+
+function fill_bracket_script(model_bson::String, team_ls)
 
     println("Loading model")
-    model = load_model(model_hdf)
+    model = load_model(model_bson)
 
 
     println("Filling bracket")
@@ -16,7 +25,7 @@ end
 
 function main(args)
 
-    model_hdf = args[1]
+    model_bson = args[1]
     team_csv = args[2]
     out_csv = args[3]
     out_json = args[4]

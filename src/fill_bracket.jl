@@ -2,6 +2,10 @@
 
 export fill_bracket, bracket_to_df, bracket_to_dict
 
+# TODO: write a function that simulates a bracket many times
+#       and computes posterior marginals for each bracket slot.
+#       Would be useful for maximizing ESPN score if we are
+#       allowed to submit brackets that are not internally consistent
 
 function rec_fill_bracket(model, team_list)
 

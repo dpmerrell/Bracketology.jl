@@ -1,7 +1,18 @@
 
+"""
+    Given three vectors describing the set of games: 
+        (1) team A, (2) team B, and (3) date;
 
+    return a vector of (team, date) pairs that covers 
+    every appearance of every team in every game.
+    
+    The returned vector will be ordered s.t.:
+        * the entries for a team appear contiguously; and
+        * the entries for a team are sorted by date.
+"""
 function unique_team_dates(team_a_vec, team_b_vec, date_vec)
 
+    # A dictionary mapping each team to the set of dates they played
     team_dates = Dict{String, Set}()
 
     for (team_a,date) in zip(team_a_vec,date_vec)
@@ -20,75 +31,40 @@ function unique_team_dates(team_a_vec, team_b_vec, date_vec)
         end
     end
 
+    # For each team, sort the dates into chronological order.
     team_dates = Dict{String, Vector}(k => sort(collect(v)) for (k,v) in team_dates)
+    # Then flatten the dictionary into a vector of (team, date) pairs.
     team_dates = Tuple{String,String}[(k,v) for (k, v_ls) in team_dates for v in v_ls]
 
     return team_dates 
 end
 
 
-function assemble_regmat(team_a_vec, team_b_vec, date_vec;
-                         epsilon=0.0, coeff=1.0)
-
-    team_dates = unique_team_dates(team_a_vec, team_b_vec,
-                                   date_vec)
-
-    M = length(team_dates)
-
-    diag = ones(M).*epsilon
-    I = Int32[]
-    J = Int32[]
-    V = Float32[]
-
-    prev_team, prev_date = team_dates[1]
-    for idx=2:M
-        team, date = team_dates[idx]
-        
-        if team == prev_team
-            delta_t = Dates.days(Date(date) - Date(prev_date))/365.0
-            weight = 1/delta_t
-            diag[idx-1] += weight 
-            diag[idx] += weight
-
-            push!(I, idx-1)
-            push!(J, idx)
-            push!(V, -weight)
-            
-            push!(I, idx)
-            push!(J, idx-1)
-            push!(V, -weight)
-        end
-
-        prev_team = team
-        prev_date = date
-    end
-
-    for (i, d) in enumerate(diag)
-        push!(I, i)
-        push!(J, i)
-        push!(V, d)
-    end
-
-    V .*= Float32(coeff)
-
-    regmat = CUDA.CUSPARSE.CuSparseMatrixCSC(sparse(I,J,V))
-    return regmat, team_dates
-end
-
-
 function assemble_model(team_a_vec, team_b_vec, date_vec;
-                        K=3, loss="poisson", reg_weight=1.0)
+                        K=3, noise_model="poisson", reg_weight=1.0)
 
-    regmat, team_dates = assemble_regmat(team_a_vec, team_b_vec, date_vec;
-                                         coeff=reg_weight)
-    
-    X_reg = fill(regmat, K)
-    Y_reg = fill(regmat, K)
+    team_dates = unique_team_dates(team_a_vec, team_b_vec, date_vec) 
+    regmat = assemble_regmat(team_dates)
+    M = size(regmat,1)
+ 
+    X_reg = MatrixRegularizer(regmat)
+    Y_reg = MatrixRegularizer(regmat)
+    row_trans_reg = ShiftRegularizer(regmat)
+    col_trans_reg = ShiftRegularizer(regmat)
 
-    matfac = SparseMatFacModel(X_reg, Y_reg, regmat, regmat;
-                              loss=loss)
+    matfac = SparseMatFacModel(M, M, K;
+                               row_transform=ShiftLayer(M),
+                               col_transform=ShiftLayer(M),
+                               X_reg=X_reg, Y_reg=Y_reg, 
+                               row_transform_reg=row_trans_reg, 
+                               col_transform_reg=col_trans_reg,
+                               noise_model=noise_model,
+                               lambda_X=reg_weight,
+                               lambda_Y=reg_weight,
+                               lambda_row=reg_weight,
+                               lambda_col=reg_weight)
 
-    return TeamModel(matfac, team_dates)
+    return CompetitionModel(matfac, team_dates)
 
 end
 
