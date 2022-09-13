@@ -30,7 +30,7 @@ function fit!(model::CompetitionModel,
               lr=0.01, max_iter=1000, abs_tol=1e-12, rel_tol=1e-9, kwargs...)
 
     # Translate the games into a sparse I, J, V representation of scores.
-    team_dates = model.team_dates
+    team_dates = collect(zip(model.team_vec, model.date_vec))
     team_date_to_idx = Dict(p => idx for (idx, p) in enumerate(team_dates))
 
     I = Int[]
@@ -51,9 +51,15 @@ function fit!(model::CompetitionModel,
         push!(J, a_idx)
         push!(V, bscore) 
     end
-    
-    fit!(model.matfac, I, J, V; lr=lr, max_iter=max_iter,
-                                abs_tol=abs_tol, rel_tol=rel_tol, kwargs...)
+   
+    # The GPU really makes a difference, if one is available
+    matfac_gpu = gpu(model.matfac)
+    V_gpu = gpu(V)
+     
+    fit!(matfac_gpu, I, J, V_gpu; lr=lr, max_iter=max_iter,
+                                  abs_tol=abs_tol, rel_tol=rel_tol, kwargs...)
+
+    model.matfac = cpu(matfac_gpu)
 
     return model
 end
@@ -66,9 +72,8 @@ function impute_game(model::CompetitionModel, team_A::AbstractString, team_B::Ab
 
     # Find the model indices corresponding 
     # to these teams' most recent games
-    team_vec = [pair[1] for pair in model.team_dates]
-    A_idx = findlast(team_vec .== team_A)
-    B_idx = findlast(team_vec .== team_B)
+    A_idx = findlast(model.team_vec .== team_A)
+    B_idx = findlast(model.team_vec .== team_B)
 
     # Impute each team's score
     scores = impute(model.matfac, [A_idx, B_idx], [B_idx, A_idx])

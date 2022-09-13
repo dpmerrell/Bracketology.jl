@@ -40,6 +40,13 @@ function unique_team_dates(team_a_vec, team_b_vec, date_vec)
 end
 
 
+function split_pairs(v::Vector{<:Tuple})
+    v1 = [p[1] for p in v]
+    v2 = [p[2] for p in v]
+    return v1, v2
+end
+
+
 function assemble_model(team_a_vec, team_b_vec, date_vec;
                         K=3, noise_model="poisson", reg_weight=1.0)
 
@@ -64,7 +71,8 @@ function assemble_model(team_a_vec, team_b_vec, date_vec;
                                lambda_row=reg_weight,
                                lambda_col=reg_weight)
 
-    return CompetitionModel(matfac, team_dates)
+    teams_vec, dates_vec = split_pairs(team_dates)
+    return CompetitionModel(matfac, teams_vec, dates_vec)
 
 end
 

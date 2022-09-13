@@ -3,11 +3,14 @@ export CompetitionModel, save_model, load_model
 
 mutable struct CompetitionModel
     matfac::SparseMatFacModel
-    team_dates::Vector{<:Tuple}
+    team_vec::Vector{String}
+    date_vec::Vector{String}
 end
 
 
-function CompetitionModel(team_a_vec, team_b_vec, date_vec;
+function CompetitionModel(team_a_vec::AbstractVector{<:AbstractString}, 
+                          team_b_vec::AbstractVector{<:AbstractString}, 
+                          date_vec::AbstractVector{<:AbstractString};
                           K=3, noise_model="poisson", reg_weight=1.0)
 
     model = assemble_model(team_a_vec, team_b_vec, date_vec;
@@ -24,7 +27,7 @@ end
 
 Save `model` to a BSON file located at `filename`.
 """
-function save_model(model::CompetitionModel, filename)
+function save_model(model, filename)
     BSON.@save filename model
 end
 

@@ -7,13 +7,13 @@ It then outputs a single most probable bracket, in both
 JSON and CSV format.
 """
 
-using Bracketology, CSV, DataFrames, JSON
+using Bracketology, SparseMatFac, CSV, DataFrames, JSON
 
 
 function fill_bracket_script(model_bson::String, team_ls)
 
     println("Loading model")
-    model = load_model(model_bson)
+    model = Bracketology.load_model(model_bson)
 
 
     println("Filling bracket")
@@ -34,7 +34,7 @@ function main(args)
     team_ls = team_df[:,:TEAMS] 
     team_ls = convert(Vector{String}, team_ls)
 
-    bracket = fill_bracket_script(model_hdf, team_ls)
+    bracket = fill_bracket_script(model_bson, team_ls)
     bracket_df = bracket_to_df(bracket, team_ls)
 
     println(string("Writing bracket to ", out_csv))
