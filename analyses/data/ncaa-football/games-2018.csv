@@ -1,0 +1,1557 @@
+﻿start_date,home_team,home_points,away_team,away_points
+2018-08-25T21:30:00.000Z,UMass,63,Duquesne,15
+2018-08-25T23:00:00.000Z,Rice,31,Prairie View,28
+2018-08-25T23:00:00.000Z,Jacksonville State,17,North Carolina A&T,20
+2018-08-25T23:30:00.000Z,Colorado State,34,Hawai'i,43
+2018-08-26T02:00:00.000Z,New Mexico State,7,Wyoming,29
+2018-08-30T22:00:00.000Z,Wagner,40,Bowie State,23
+2018-08-30T23:00:00.000Z,Connecticut,17,UCF,56
+2018-08-30T23:00:00.000Z,Ball State,42,Central Connecticut,6
+2018-08-30T23:00:00.000Z,Georgia State,24,Kennesaw State,20
+2018-08-30T23:00:00.000Z,Eastern Kentucky,49,Morehead State,23
+2018-08-30T23:00:00.000Z,Murray State,10,Southern Illinois,49
+2018-08-30T23:00:00.000Z,Indiana State,49,Quincy,0
+2018-08-30T23:00:00.000Z,Campbell,49,Chowan,26
+2018-08-30T23:00:00.000Z,Maine,35,New Hampshire,7
+2018-08-30T23:00:00.000Z,Delaware,19,Rhode Island,21
+2018-08-30T23:00:00.000Z,Chattanooga,34,Tennessee Tech,10
+2018-08-30T23:00:00.000Z,Minnesota,48,New Mexico State,10
+2018-08-30T23:30:00.000Z,Samford,66,Shorter,9
+2018-08-30T23:30:00.000Z,North Dakota,35,Mississippi Valley State,7
+2018-08-31T00:00:00.000Z,Oklahoma State,58,Missouri State,17
+2018-08-31T00:00:00.000Z,Louisiana Monroe,34,Southeastern Louisiana,31
+2018-08-31T00:00:00.000Z,Purdue,27,Northwestern,31
+2018-08-31T00:00:00.000Z,Utah,41,Weber State,10
+2018-08-31T00:00:00.000Z,Tulane,17,Wake Forest,23
+2018-08-31T00:00:00.000Z,UAB,52,Savannah State,0
+2018-08-31T00:30:00.000Z,Texas A&M,59,Northwestern State,7
+2018-08-31T01:00:00.000Z,Montana State,26,Western Illinois,23
+2018-08-31T02:00:00.000Z,San José State,38,UC Davis,44
+2018-08-31T22:00:00.000Z,Western Michigan,42,Syracuse,55
+2018-08-31T22:30:00.000Z,Eastern Michigan,51,Monmouth,17
+2018-08-31T23:00:00.000Z,Duke,34,Army,14
+2018-08-31T23:00:00.000Z,Michigan State,38,Utah State,31
+2018-09-01T00:35:00.000Z,Idaho State,45,Western State,10
+2018-09-01T01:00:00.000Z,Stanford,31,San Diego State,10
+2018-09-01T01:00:00.000Z,Wisconsin,34,Western Kentucky,3
+2018-09-01T01:00:00.000Z,Nevada,72,Portland State,19
+2018-09-01T01:30:00.000Z,Colorado State,13,Colorado,45
+2018-09-01T16:00:00.000Z,NC State,24,James Madison,13
+2018-09-01T16:00:00.000Z,Ohio State,77,Oregon State,31
+2018-09-01T16:00:00.000Z,Texas Tech,27,Ole Miss,47
+2018-09-01T16:00:00.000Z,Rice,27,Houston,45
+2018-09-01T16:00:00.000Z,Illinois,31,Kent State,24
+2018-09-01T16:00:00.000Z,South Carolina,49,Coastal Carolina,15
+2018-09-01T16:00:00.000Z,Rutgers,35,Texas State,7
+2018-09-01T16:00:00.000Z,Maryland,34,Texas,29
+2018-09-01T16:00:00.000Z,Oklahoma,63,Florida Atlantic,14
+2018-09-01T16:00:00.000Z,Temple,17,Villanova,19
+2018-09-01T16:00:00.000Z,TCU,55,Southern,7
+2018-09-01T16:20:00.000Z,Clemson,48,Furman,7
+2018-09-01T16:30:00.000Z,Lehigh,21,St Francis (PA),19
+2018-09-01T16:30:00.000Z,Georgia Tech,41,Alcorn State,0
+2018-09-01T17:00:00.000Z,Marist,14,Georgetown,39
+2018-09-01T17:00:00.000Z,Boston College,55,UMass,21
+2018-09-01T17:00:00.000Z,Colgate,24,Holy Cross,17
+2018-09-01T17:00:00.000Z,Dayton,49,Robert Morris,28
+2018-09-01T17:00:00.000Z,Jacksonville,63,St. Augustine's,14
+2018-09-01T18:00:00.000Z,Air Force,38,Stony Brook,0
+2018-09-01T18:00:00.000Z,Ohio,38,Howard,32
+2018-09-01T18:00:00.000Z,Youngstown State,21,Butler,23
+2018-09-01T18:00:00.000Z,Duquesne,45,Lock Haven,0
+2018-09-01T19:00:00.000Z,Bryant,41,New Haven,31
+2018-09-01T19:30:00.000Z,North Dakota State,49,Cal Poly,3
+2018-09-01T19:30:00.000Z,Auburn,21,Washington,16
+2018-09-01T19:30:00.000Z,Kentucky,35,Central Michigan,20
+2018-09-01T19:30:00.000Z,Georgia,45,Austin Peay,0
+2018-09-01T19:30:00.000Z,Pittsburgh,33,Albany,7
+2018-09-01T19:30:00.000Z,Wyoming,19,Washington State,41
+2018-09-01T19:30:00.000Z,Tennessee,14,West Virginia,40
+2018-09-01T19:30:00.000Z,Penn State,45,Appalachian State,38
+2018-09-01T19:40:00.000Z,Iowa,33,Northern Illinois,7
+2018-09-01T20:00:00.000Z,Arkansas,55,Eastern Illinois,20
+2018-09-01T20:00:00.000Z,California,24,North Carolina,17
+2018-09-01T20:00:00.000Z,USC,43,UNLV,21
+2018-09-01T20:00:00.000Z,Missouri,51,UT Martin,14
+2018-09-01T20:00:00.000Z,Northern Colorado,14,McNeese,17
+2018-09-01T20:05:00.000Z,Eastern Washington,58,Central Washington,13
+2018-09-01T21:00:00.000Z,Florida A&M,41,Fort Valley State,7
+2018-09-01T21:00:00.000Z,San Diego,38,Western New Mexico,9
+2018-09-01T22:00:00.000Z,Norfolk State,34,Virginia State,13
+2018-09-01T22:00:00.000Z,Western Carolina,33,Newberry,26
+2018-09-01T22:00:00.000Z,Wofford,28,The Citadel,21
+2018-09-01T22:00:00.000Z,Hampton,38,Shaw,10
+2018-09-01T22:00:00.000Z,Charlotte,34,Fordham,10
+2018-09-01T22:00:00.000Z,Liberty,52,Old Dominion,10
+2018-09-01T22:00:00.000Z,Gardner-Webb,52,Limestone,17
+2018-09-01T22:00:00.000Z,Miami (OH),28,Marshall,35
+2018-09-01T22:00:00.000Z,Troy,20,Boise State,56
+2018-09-01T22:00:00.000Z,Buffalo,48,Delaware State,10
+2018-09-01T22:00:00.000Z,Virginia,42,Richmond,13
+2018-09-01T22:00:00.000Z,Georgia Southern,37,South Carolina State,6
+2018-09-01T22:00:00.000Z,Sacred Heart,35,Lafayette,6
+2018-09-01T22:00:00.000Z,Bucknell,7,William & Mary,14
+2018-09-01T22:00:00.000Z,South Florida,34,Elon,14
+2018-09-01T23:00:00.000Z,Kansas,23,Nicholls,26
+2018-09-01T23:00:00.000Z,UCLA,17,Cincinnati,26
+2018-09-01T23:00:00.000Z,Houston Baptist,49,Southwest Baptist,7
+2018-09-01T23:00:00.000Z,Lamar,70,Kentucky Christian,7
+2018-09-01T23:00:00.000Z,Tennessee State,34,Bethune-Cookman,3
+2018-09-01T23:00:00.000Z,South Alabama,26,Louisiana Tech,30
+2018-09-01T23:00:00.000Z,Southern Mississippi,55,Jackson State,7
+2018-09-01T23:00:00.000Z,Memphis,66,Mercer,14
+2018-09-01T23:00:00.000Z,Louisiana,49,Grambling,17
+2018-09-01T23:00:00.000Z,Tulsa,38,Central Arkansas,27
+2018-09-01T23:00:00.000Z,Arkansas State,48,Southeast Missouri State,21
+2018-09-01T23:00:00.000Z,Kansas State,27,South Dakota,24
+2018-09-01T23:00:00.000Z,Davidson,34,Brevard College,13
+2018-09-01T23:00:00.000Z,Morgan State,10,Towson,36
+2018-09-01T23:00:00.000Z,Florida International,28,Indiana,38
+2018-09-01T23:00:00.000Z,Stetson,48,Point University,7
+2018-09-01T23:00:00.000Z,Toledo,66,VMI,3
+2018-09-01T23:30:00.000Z,Illinois State,46,St. Xavier (IL),0
+2018-09-01T23:30:00.000Z,East Tennessee State,28,Mars Hill,7
+2018-09-01T23:30:00.000Z,Mississippi State,63,Stephen F. Austin,6
+2018-09-01T23:30:00.000Z,Notre Dame,24,Michigan,17
+2018-09-01T23:30:00.000Z,UTEP,10,Northern Arizona,30
+2018-09-01T23:30:00.000Z,Florida,53,Charleston Southern,6
+2018-09-01T23:30:00.000Z,Vanderbilt,35,Middle Tennessee,7
+2018-09-01T23:30:00.000Z,North Texas,46,SMU,23
+2018-09-02T00:00:00.000Z,Alabama,51,Louisville,14
+2018-09-02T00:00:00.000Z,Oregon,58,Bowling Green,24
+2018-09-02T00:00:00.000Z,Southern Utah,30,North Alabama,34
+2018-09-02T00:00:00.000Z,Baylor,55,Abilene Christian,27
+2018-09-02T00:00:00.000Z,New Mexico,62,Incarnate Word,30
+2018-09-02T01:00:00.000Z,Montana,26,Northern Iowa,23
+2018-09-02T01:00:00.000Z,Sacramento State,55,St. Francis (IL),7
+2018-09-02T02:00:00.000Z,Fresno State,79,Idaho,13
+2018-09-02T02:30:00.000Z,Arizona State,49,UT San Antonio,7
+2018-09-02T02:45:00.000Z,Arizona,23,BYU,28
+2018-09-02T03:00:00.000Z,Hawai'i,59,Navy,41
+2018-09-02T16:00:00.000Z,North Carolina Central,24,Prairie View,40
+2018-09-02T19:30:00.000Z,East Carolina,23,North Carolina A&T,28
+2018-09-02T23:30:00.000Z,LSU,33,Miami,17
+2018-09-04T00:00:00.000Z,Florida State,3,Virginia Tech,24
+2018-12-15T00:00:00.000Z,Mary Hardin-Baylor,24,Mount Union,16
+2018-12-15T01:00:00.000Z,North Dakota State,44,South Dakota State,21
+2018-12-15T17:00:00.000Z,Alcorn State,22,North Carolina A&T,24
+2018-12-15T18:30:00.000Z,Louisiana,24,Tulane,41
+2018-12-15T19:00:00.000Z,North Texas,13,Utah State,52
+2018-12-15T19:00:00.000Z,Eastern Washington,50,Maine,19
+2018-12-15T20:30:00.000Z,Fresno State,31,Arizona State,20
+2018-12-15T21:00:00.000Z,Valdosta State,49,Ferris State,47
+2018-12-15T22:30:00.000Z,Eastern Michigan,21,Georgia Southern,23
+2018-12-16T02:00:00.000Z,Appalachian State,45,Middle Tennessee,13
+2018-12-19T00:00:00.000Z,Northern Illinois,13,UAB,37
+2018-12-20T01:00:00.000Z,Ohio,27,San Diego State,0
+2018-12-21T01:00:00.000Z,South Florida,20,Marshall,38
+2018-12-21T17:30:00.000Z,Toledo,32,Florida International,35
+2018-12-21T21:00:00.000Z,BYU,49,Western Michigan,18
+2018-12-22T17:00:00.000Z,Wake Forest,37,Memphis,34
+2018-12-22T20:30:00.000Z,Army,70,Houston,14
+2018-12-23T00:00:00.000Z,Troy,42,Buffalo,32
+2018-12-23T03:30:00.000Z,Louisiana Tech,31,Hawai'i,14
+2018-12-26T22:15:00.000Z,Georgia Tech,10,Minnesota,34
+2018-12-27T02:00:00.000Z,TCU,10,California,7
+2018-12-27T18:30:00.000Z,Duke,56,Temple,27
+2018-12-27T22:15:00.000Z,Wisconsin,35,Miami,3
+2018-12-28T02:00:00.000Z,Vanderbilt,38,Baylor,45
+2018-12-28T18:30:00.000Z,Auburn,63,Purdue,14
+2018-12-28T22:15:00.000Z,Syracuse,34,West Virginia,18
+2018-12-29T02:00:00.000Z,Washington State,28,Iowa State,26
+2018-12-29T17:00:00.000Z,Virginia,28,South Carolina,0
+2018-12-29T17:00:00.000Z,Michigan,15,Florida,41
+2018-12-29T18:15:00.000Z,Nevada,16,Arkansas State,13
+2018-12-29T21:00:00.000Z,Clemson,30,Notre Dame,3
+2018-12-30T01:00:00.000Z,Alabama,45,Oklahoma,34
+2018-12-31T17:00:00.000Z,Virginia Tech,31,Cincinnati,35
+2018-12-31T19:00:00.000Z,Pittsburgh,13,Stanford,14
+2018-12-31T20:00:00.000Z,Oregon,7,Michigan State,6
+2018-12-31T20:45:00.000Z,Oklahoma State,38,Missouri,33
+2019-01-01T00:00:00.000Z,Utah,20,Northwestern,31
+2019-01-01T00:30:00.000Z,Texas A&M,52,NC State,13
+2019-01-01T17:00:00.000Z,Iowa,27,Mississippi State,22
+2019-01-01T18:00:00.000Z,Penn State,24,Kentucky,27
+2019-01-01T18:00:00.000Z,UCF,32,LSU,40
+2019-01-01T22:00:00.000Z,Ohio State,28,Washington,23
+2019-01-02T01:45:00.000Z,Georgia,21,Texas,28
+2019-01-05T17:00:00.000Z,North Dakota State,38,Eastern Washington,24
+2019-01-08T01:00:00.000Z,Alabama,16,Clemson,44
+2018-09-06T16:00:00.000Z,Missouri State,52,Lincoln (MO),24
+2018-09-06T23:00:00.000Z,Tennessee Tech,10,Kennesaw State,49
+2018-09-07T22:00:00.000Z,Central Connecticut,55,Lincoln (PA),0
+2018-09-08T00:00:00.000Z,SMU,12,TCU,42
+2018-09-08T16:00:00.000Z,Purdue,19,Eastern Michigan,20
+2018-09-08T16:00:00.000Z,South Florida,49,Georgia Tech,38
+2018-09-08T16:00:00.000Z,Army,38,Liberty,14
+2018-09-08T16:00:00.000Z,Northwestern,7,Duke,21
+2018-09-08T16:00:00.000Z,Kansas State,10,Mississippi State,31
+2018-09-08T16:00:00.000Z,Wisconsin,45,New Mexico,14
+2018-09-08T16:00:00.000Z,Vanderbilt,41,Nevada,10
+2018-09-08T16:00:00.000Z,Michigan,49,Western Michigan,3
+2018-09-08T16:00:00.000Z,Houston,45,Arizona,18
+2018-09-08T16:00:00.000Z,Robert Morris,22,Virginia State,19
+2018-09-08T16:00:00.000Z,Wake Forest,51,Towson,20
+2018-09-08T16:00:00.000Z,St Francis (PA),45,Delaware State,14
+2018-09-08T16:00:00.000Z,Duquesne,23,Valparaiso,21
+2018-09-08T16:30:00.000Z,Lehigh,9,Villanova,31
+2018-09-08T16:30:00.000Z,Georgetown,8,Campbell,13
+2018-09-08T16:30:00.000Z,NC State,41,Georgia State,7
+2018-09-08T17:00:00.000Z,Oklahoma,49,UCLA,21
+2018-09-08T17:00:00.000Z,Boston College,62,Holy Cross,14
+2018-09-08T17:00:00.000Z,Rhode Island,45,Albany,26
+2018-09-08T18:00:00.000Z,Oregon,62,Portland State,14
+2018-09-08T18:00:00.000Z,Southeast Missouri State,40,Dayton,21
+2018-09-08T18:00:00.000Z,Virginia Tech,62,William & Mary,17
+2018-09-08T18:00:00.000Z,Florida Atlantic,33,Air Force,26
+2018-09-08T19:00:00.000Z,Central Michigan,7,Kansas,31
+2018-09-08T19:00:00.000Z,Bucknell,14,Sacred Heart,30
+2018-09-08T19:00:00.000Z,Montana,48,Drake,16
+2018-09-08T19:00:00.000Z,South Dakota,43,Northern Colorado,28
+2018-09-08T19:00:00.000Z,Monmouth,56,Hampton,28
+2018-09-08T19:30:00.000Z,Akron,41,Morgan State,7
+2018-09-08T19:30:00.000Z,Delaware,37,Lafayette,0
+2018-09-08T19:30:00.000Z,East Carolina,41,North Carolina,19
+2018-09-08T19:30:00.000Z,Ohio State,52,Rutgers,3
+2018-09-08T19:30:00.000Z,Kent State,54,Howard,14
+2018-09-08T19:30:00.000Z,Nebraska,28,Colorado,33
+2018-09-08T19:30:00.000Z,Notre Dame,24,Ball State,16
+2018-09-08T19:30:00.000Z,Syracuse,62,Wagner,10
+2018-09-08T19:30:00.000Z,South Carolina,17,Georgia,41
+2018-09-08T19:30:00.000Z,Alabama,57,Arkansas State,7
+2018-09-08T19:30:00.000Z,Temple,29,Buffalo,36
+2018-09-08T19:30:00.000Z,Navy,22,Memphis,21
+2018-09-08T20:00:00.000Z,Tennessee,59,East Tennessee State,3
+2018-09-08T20:00:00.000Z,Ole Miss,76,Southern Illinois,41
+2018-09-08T20:00:00.000Z,Texas Tech,77,Lamar,0
+2018-09-08T20:00:00.000Z,Bethune-Cookman,79,Virginia Lynchburg,16
+2018-09-08T21:00:00.000Z,Idaho,56,Western New Mexico,10
+2018-09-08T21:00:00.000Z,Washington,45,North Dakota,3
+2018-09-08T21:00:00.000Z,Iowa,13,Iowa State,3
+2018-09-08T22:00:00.000Z,UCF,38,South Carolina State,0
+2018-09-08T22:00:00.000Z,Georgia Southern,34,UMass,13
+2018-09-08T22:00:00.000Z,Charlotte,9,Appalachian State,45
+2018-09-08T22:00:00.000Z,Bowling Green,14,Maryland,45
+2018-09-08T22:00:00.000Z,Miami,77,Savannah State,0
+2018-09-08T22:00:00.000Z,West Virginia,52,Youngstown State,17
+2018-09-08T22:00:00.000Z,Stetson,63,Waldorf,34
+2018-09-08T22:00:00.000Z,North Carolina Central,51,St. Augustine's,14
+2018-09-08T22:00:00.000Z,Taylor,17,Butler,31
+2018-09-08T22:00:00.000Z,Mercer,45,Jacksonville,3
+2018-09-08T22:00:00.000Z,Wofford,59,VMI,14
+2018-09-08T22:00:00.000Z,The Citadel,28,Chattanooga,29
+2018-09-08T22:00:00.000Z,Norfolk State,0,James Madison,17
+2018-09-08T22:00:00.000Z,Elon,45,Furman,7
+2018-09-08T22:00:00.000Z,North Carolina A&T,45,Gardner-Webb,6
+2018-09-08T22:00:00.000Z,Stony Brook,50,Bryant,21
+2018-09-08T22:00:00.000Z,Richmond,52,Fordham,7
+2018-09-08T22:00:00.000Z,New Hampshire,3,Colgate,10
+2018-09-08T22:00:00.000Z,Morehead State,48,Mount St. Joseph,19
+2018-09-08T22:30:00.000Z,Marshall,32,Eastern Kentucky,16
+2018-09-08T23:00:00.000Z,Arkansas-Pine Bluff,55,Cumberland,0
+2018-09-08T23:00:00.000Z,Alcorn State,78,Louisiana College,0
+2018-09-08T23:00:00.000Z,Alabama A&M,20,North Alabama,25
+2018-09-08T23:00:00.000Z,Texas State,36,Texas Southern,20
+2018-09-08T23:00:00.000Z,Missouri,40,Wyoming,13
+2018-09-08T23:00:00.000Z,Middle Tennessee,61,UT Martin,37
+2018-09-08T23:00:00.000Z,Southern Mississippi,20,Louisiana Monroe,21
+2018-09-08T23:00:00.000Z,Texas A&M,26,Clemson,28
+2018-09-08T23:00:00.000Z,Troy,59,Florida A&M,7
+2018-09-08T23:00:00.000Z,Louisiana Tech,54,Southern,17
+2018-09-08T23:00:00.000Z,LSU,31,Southeastern Louisiana,0
+2018-09-08T23:00:00.000Z,Coastal Carolina,47,UAB,24
+2018-09-08T23:00:00.000Z,UT San Antonio,20,Baylor,37
+2018-09-08T23:00:00.000Z,Louisville,31,Indiana State,7
+2018-09-08T23:00:00.000Z,Central Arkansas,26,Murray State,13
+2018-09-08T23:00:00.000Z,Abilene Christian,41,Angelo State,24
+2018-09-08T23:00:00.000Z,Austin Peay,24,Presbyterian College,0
+2018-09-08T23:00:00.000Z,Northwestern State,34,Grambling,7
+2018-09-08T23:00:00.000Z,Houston Baptist,34,McNeese,51
+2018-09-08T23:00:00.000Z,Davidson,49,Chowan,28
+2018-09-08T23:00:00.000Z,Northern Arizona,26,Eastern Washington,31
+2018-09-08T23:00:00.000Z,South Dakota State,45,Montana State,14
+2018-09-08T23:00:00.000Z,Jacksonville State,71,Mississippi Valley State,0
+2018-09-08T23:00:00.000Z,Sam Houston State,41,Prairie View,32
+2018-09-08T23:20:00.000Z,Florida State,36,Samford,26
+2018-09-08T23:30:00.000Z,Old Dominion,20,Florida International,28
+2018-09-08T23:30:00.000Z,Northern Illinois,6,Utah,17
+2018-09-08T23:30:00.000Z,North Texas,58,Incarnate Word,16
+2018-09-08T23:30:00.000Z,Auburn,63,Alabama State,9
+2018-09-08T23:30:00.000Z,Western Kentucky,28,Maine,31
+2018-09-08T23:30:00.000Z,Illinois,34,Western Illinois,14
+2018-09-08T23:30:00.000Z,Florida,16,Kentucky,27
+2018-09-08T23:30:00.000Z,Illinois State,48,Eastern Illinois,10
+2018-09-08T23:30:00.000Z,Minnesota,21,Fresno State,14
+2018-09-08T23:30:00.000Z,Colorado State,34,Arkansas,27
+2018-09-08T23:30:00.000Z,Indiana,20,Virginia,16
+2018-09-09T00:00:00.000Z,Oregon State,48,Southern Utah,25
+2018-09-09T00:00:00.000Z,Pittsburgh,6,Penn State,51
+2018-09-09T00:00:00.000Z,Utah State,60,New Mexico State,13
+2018-09-09T00:00:00.000Z,Oklahoma State,55,South Alabama,13
+2018-09-09T00:00:00.000Z,Miami (OH),0,Cincinnati,21
+2018-09-09T00:00:00.000Z,Tulane,42,Nicholls,17
+2018-09-09T00:00:00.000Z,Texas,28,Tulsa,21
+2018-09-09T00:30:00.000Z,Stanford,17,USC,3
+2018-09-09T01:00:00.000Z,San Diego State,28,Sacramento State,14
+2018-09-09T01:00:00.000Z,UNLV,52,UTEP,24
+2018-09-09T01:05:00.000Z,Cal Poly,17,Weber State,24
+2018-09-09T02:00:00.000Z,UC Davis,54,San Diego,21
+2018-09-09T02:15:00.000Z,Boise State,62,Connecticut,7
+2018-09-09T02:15:00.000Z,BYU,18,California,21
+2018-09-09T02:45:00.000Z,Arizona State,16,Michigan State,13
+2018-09-09T03:00:00.000Z,Washington State,31,San José State,0
+2018-09-09T03:59:00.000Z,Hawai'i,43,Rice,29
+2018-09-12T18:00:00.000Z,Campbell,21,Coastal Carolina,58
+2018-09-13T20:00:00.000Z,Charlotte,28,Old Dominion,25
+2018-09-13T21:00:00.000Z,St Francis (PA),27,Richmond,35
+2018-09-13T21:30:00.000Z,Wake Forest,34,Boston College,41
+2018-09-13T23:00:00.000Z,James Madison,73,Robert Morris,7
+2018-09-13T23:00:00.000Z,Davidson,91,Guilford,61
+2018-09-14T00:00:00.000Z,Utah State,73,Tennessee Tech,12
+2018-09-14T18:30:00.000Z,VMI,24,East Tennessee State,27
+2018-09-14T22:00:00.000Z,Gardner-Webb,10,Western Carolina,28
+2018-09-14T23:00:00.000Z,Memphis,59,Georgia State,22
+2018-09-15T02:05:00.000Z,Cal Poly,44,Brown,15
+2018-09-15T16:00:00.000Z,Harvard,36,San Diego,14
+2018-09-15T16:00:00.000Z,Toledo,24,Miami,49
+2018-09-15T16:00:00.000Z,Kentucky,48,Murray State,10
+2018-09-15T16:00:00.000Z,Army,28,Hawai'i,21
+2018-09-15T16:00:00.000Z,Nebraska,19,Troy,24
+2018-09-15T16:00:00.000Z,Kansas,55,Rutgers,14
+2018-09-15T16:00:00.000Z,Connecticut,56,Rhode Island,49
+2018-09-15T16:00:00.000Z,Duquesne,31,Dayton,26
+2018-09-15T16:00:00.000Z,Penn State,63,Kent State,10
+2018-09-15T16:00:00.000Z,Syracuse,30,Florida State,7
+2018-09-15T16:00:00.000Z,Iowa State,27,Oklahoma,37
+2018-09-15T16:00:00.000Z,Indiana,38,Ball State,10
+2018-09-15T16:00:00.000Z,Maryland,14,Temple,35
+2018-09-15T16:00:00.000Z,Georgia,49,Middle Tennessee,7
+2018-09-15T16:00:00.000Z,Clemson,38,Georgia Southern,7
+2018-09-15T16:00:00.000Z,Tennessee,24,UTEP,0
+2018-09-15T16:30:00.000Z,Pittsburgh,24,Georgia Tech,19
+2018-09-15T17:00:00.000Z,UAB,31,Tulane,24
+2018-09-15T17:05:00.000Z,Holy Cross,31,Yale,28
+2018-09-15T17:30:00.000Z,Dartmouth,41,Georgetown,0
+2018-09-15T18:00:00.000Z,Drake,52,Missouri S&T,12
+2018-09-15T18:00:00.000Z,Youngstown State,42,Valparaiso,7
+2018-09-15T18:00:00.000Z,Stanford,30,UC Davis,10
+2018-09-15T18:30:00.000Z,Notre Dame,22,Vanderbilt,17
+2018-09-15T19:00:00.000Z,Montana State,47,Wagner,24
+2018-09-15T19:00:00.000Z,Samford,24,Mercer,30
+2018-09-15T19:00:00.000Z,Missouri State,40,Northern Arizona,8
+2018-09-15T19:00:00.000Z,Pennsylvania,34,Bucknell,17
+2018-09-15T19:30:00.000Z,Minnesota,26,Miami (OH),3
+2018-09-15T19:30:00.000Z,Northern Illinois,24,Central Michigan,16
+2018-09-15T19:30:00.000Z,Delaware,27,Cornell,10
+2018-09-15T19:30:00.000Z,Auburn,21,LSU,22
+2018-09-15T19:30:00.000Z,Illinois,19,South Florida,25
+2018-09-15T19:30:00.000Z,Wisconsin,21,BYU,24
+2018-09-15T19:30:00.000Z,Navy,51,Lehigh,21
+2018-09-15T19:30:00.000Z,North Dakota State,38,North Alabama,7
+2018-09-15T19:30:00.000Z,Michigan,45,SMU,20
+2018-09-15T19:30:00.000Z,Baylor,27,Duke,40
+2018-09-15T19:30:00.000Z,Oklahoma State,44,Boise State,21
+2018-09-15T19:30:00.000Z,Villanova,35,Towson,45
+2018-09-15T20:00:00.000Z,UT Martin,24,Chattanooga,34
+2018-09-15T20:00:00.000Z,Northern Colorado,25,Sacramento State,28
+2018-09-15T20:00:00.000Z,Western Illinois,31,Montana,27
+2018-09-15T20:00:00.000Z,Florida,48,Colorado State,10
+2018-09-15T20:00:00.000Z,Kansas State,41,UT San Antonio,17
+2018-09-15T20:00:00.000Z,Arkansas,17,North Texas,44
+2018-09-15T20:00:00.000Z,Wyoming,17,Wofford,14
+2018-09-15T20:00:00.000Z,Bowling Green,42,Eastern Kentucky,35
+2018-09-15T20:15:00.000Z,Texas Tech,63,Houston,49
+2018-09-15T20:30:00.000Z,Virginia,45,Ohio,31
+2018-09-15T21:00:00.000Z,Oregon,35,San José State,22
+2018-09-15T21:00:00.000Z,Colorado,45,New Hampshire,14
+2018-09-15T21:00:00.000Z,Central Connecticut,24,Columbia,41
+2018-09-15T21:00:00.000Z,Kennesaw State,62,Alabama State,13
+2018-09-15T21:00:00.000Z,Florida A&M,16,Jackson State,18
+2018-09-15T21:05:00.000Z,Portland State,63,College of Idaho,14
+2018-09-15T22:00:00.000Z,Lafayette,20,Monmouth,24
+2018-09-15T22:00:00.000Z,Butler,7,Princeton,50
+2018-09-15T22:00:00.000Z,Fordham,6,Stony Brook,28
+2018-09-15T22:00:00.000Z,Morehead State,40,Austin Peay,78
+2018-09-15T22:00:00.000Z,Bryant,37,Marist,27
+2018-09-15T22:00:00.000Z,Buffalo,35,Eastern Michigan,28
+2018-09-15T22:00:00.000Z,Florida Atlantic,49,Bethune-Cookman,28
+2018-09-15T22:00:00.000Z,California,45,Idaho State,23
+2018-09-15T23:00:00.000Z,Cincinnati,63,Alabama A&M,7
+2018-09-15T23:00:00.000Z,Western Michigan,68,Delaware State,0
+2018-09-15T23:00:00.000Z,Ole Miss,7,Alabama,62
+2018-09-15T23:00:00.000Z,Nevada,37,Oregon State,35
+2018-09-15T23:00:00.000Z,Tulsa,20,Arkansas State,29
+2018-09-15T23:00:00.000Z,Albany,30,Morgan State,27
+2018-09-15T23:00:00.000Z,Eastern Illinois,41,Indiana State,55
+2018-09-15T23:00:00.000Z,Houston Baptist,13,Abilene Christian,38
+2018-09-15T23:00:00.000Z,South Dakota State,90,Arkansas-Pine Bluff,6
+2018-09-15T23:00:00.000Z,Southern Illinois,44,Southeast Missouri State,48
+2018-09-15T23:00:00.000Z,Incarnate Word,31,Stephen F. Austin,7
+2018-09-15T23:00:00.000Z,Lamar,48,Northwestern State,49
+2018-09-15T23:00:00.000Z,McNeese,20,Nicholls,10
+2018-09-15T23:00:00.000Z,Sam Houston State,23,North Dakota,24
+2018-09-15T23:00:00.000Z,Alcorn State,27,Texas Southern,15
+2018-09-15T23:00:00.000Z,Southern,33,Langston,18
+2018-09-15T23:00:00.000Z,South Alabama,41,Texas State,31
+2018-09-15T23:30:00.000Z,Florida International,63,UMass,24
+2018-09-15T23:30:00.000Z,Texas A&M,48,Louisiana Monroe,10
+2018-09-15T23:30:00.000Z,Northwestern,34,Akron,39
+2018-09-15T23:30:00.000Z,Purdue,37,Missouri,40
+2018-09-15T23:30:00.000Z,Louisville,20,Western Kentucky,17
+2018-09-15T23:30:00.000Z,Mississippi State,56,Louisiana,10
+2018-09-15T23:30:00.000Z,Iowa,38,Northern Iowa,14
+2018-09-16T00:00:00.000Z,Washington State,59,Eastern Washington,24
+2018-09-16T00:00:00.000Z,New Mexico State,25,New Mexico,42
+2018-09-16T00:00:00.000Z,Southeastern Louisiana,25,Central Arkansas,33
+2018-09-16T00:00:00.000Z,Weber State,27,South Dakota,10
+2018-09-16T00:00:00.000Z,TCU,28,Ohio State,40
+2018-09-16T00:00:00.000Z,Texas,37,USC,14
+2018-09-16T02:00:00.000Z,UNLV,46,Prairie View,17
+2018-09-16T02:10:00.000Z,Utah,7,Washington,21
+2018-09-16T02:30:00.000Z,UCLA,14,Fresno State,38
+2018-09-16T02:30:00.000Z,San Diego State,28,Arizona State,21
+2018-09-16T03:00:00.000Z,Arizona,62,Southern Utah,31
+2018-09-20T23:30:00.000Z,Temple,31,Tulsa,17
+2018-09-21T23:00:00.000Z,Brown,17,Harvard,31
+2018-09-21T23:00:00.000Z,UCF,56,Florida Atlantic,36
+2018-09-22T01:00:00.000Z,Illinois,24,Penn State,63
+2018-09-22T02:30:00.000Z,USC,39,Washington State,36
+2018-09-22T16:00:00.000Z,Rutgers,13,Buffalo,42
+2018-09-22T16:00:00.000Z,Cincinnati,34,Ohio,30
+2018-09-22T16:00:00.000Z,SMU,31,Navy,30
+2018-09-22T16:00:00.000Z,Purdue,30,Boston College,13
+2018-09-22T16:00:00.000Z,Maryland,42,Minnesota,13
+2018-09-22T16:00:00.000Z,Missouri,29,Georgia,43
+2018-09-22T16:00:00.000Z,Iowa State,26,Akron,13
+2018-09-22T16:00:00.000Z,Toledo,63,Nevada,44
+2018-09-22T16:00:00.000Z,Wake Forest,27,Notre Dame,56
+2018-09-22T16:00:00.000Z,Ole Miss,38,Kent State,17
+2018-09-22T16:00:00.000Z,Michigan,56,Nebraska,10
+2018-09-22T16:20:00.000Z,North Carolina,38,Pittsburgh,35
+2018-09-22T16:30:00.000Z,Virginia,27,Louisville,3
+2018-09-22T17:00:00.000Z,Colgate,45,Lafayette,0
+2018-09-22T17:00:00.000Z,Bryant,49,Robert Morris,46
+2018-09-22T17:00:00.000Z,Fordham,13,Central Connecticut,24
+2018-09-22T17:00:00.000Z,Stetson,19,Marist,14
+2018-09-22T17:00:00.000Z,Dayton,42,Davidson,21
+2018-09-22T17:05:00.000Z,Holy Cross,14,Dartmouth,34
+2018-09-22T18:00:00.000Z,Valparaiso,20,Truman State,34
+2018-09-22T18:00:00.000Z,Georgia State,15,Western Michigan,34
+2018-09-22T18:00:00.000Z,Georgetown,15,Columbia,23
+2018-09-22T18:00:00.000Z,North Dakota State,38,Delaware,10
+2018-09-22T19:00:00.000Z,Eastern Illinois,40,Tennessee State,41
+2018-09-22T19:00:00.000Z,UT Martin,37,Austin Peay,7
+2018-09-22T19:00:00.000Z,Pennsylvania,30,Lehigh,10
+2018-09-22T19:00:00.000Z,Cornell,24,Yale,30
+2018-09-22T19:00:00.000Z,Montana,41,Sacramento State,34
+2018-09-22T19:00:00.000Z,Bethune-Cookman,35,Howard,41
+2018-09-22T19:00:00.000Z,Colorado State,19,Illinois State,35
+2018-09-22T19:00:00.000Z,Central Michigan,17,Maine,5
+2018-09-22T19:00:00.000Z,Bowling Green,23,Miami (OH),38
+2018-09-22T19:00:00.000Z,Ball State,20,Western Kentucky,28
+2018-09-22T19:30:00.000Z,Ohio State,49,Tulane,6
+2018-09-22T19:30:00.000Z,Old Dominion,49,Virginia Tech,35
+2018-09-22T19:30:00.000Z,Alabama,45,Texas A&M,23
+2018-09-22T19:30:00.000Z,Baylor,26,Kansas,7
+2018-09-22T19:30:00.000Z,Georgia Tech,21,Clemson,49
+2018-09-22T19:30:00.000Z,James Madison,51,William & Mary,0
+2018-09-22T19:30:00.000Z,Miami,31,Florida International,17
+2018-09-22T19:30:00.000Z,West Virginia,35,Kansas State,6
+2018-09-22T19:30:00.000Z,Florida State,37,Northern Illinois,19
+2018-09-22T19:30:00.000Z,UMass,49,Charlotte,31
+2018-09-22T19:30:00.000Z,Duke,55,North Carolina Central,13
+2018-09-22T19:30:00.000Z,Appalachian State,72,Gardner-Webb,7
+2018-09-22T19:30:00.000Z,Western Carolina,52,VMI,50
+2018-09-22T20:00:00.000Z,Eastern Kentucky,23,Southeast Missouri State,14
+2018-09-22T20:00:00.000Z,Mercer,31,The Citadel,38
+2018-09-22T20:00:00.000Z,Syracuse,51,Connecticut,21
+2018-09-22T20:00:00.000Z,Oregon State,14,Arizona,35
+2018-09-22T20:00:00.000Z,Vanderbilt,14,South Carolina,37
+2018-09-22T20:05:00.000Z,Eastern Washington,70,Cal Poly,17
+2018-09-22T20:30:00.000Z,Princeton,51,Monmouth,9
+2018-09-22T20:30:00.000Z,Texas,31,TCU,16
+2018-09-22T21:00:00.000Z,North Dakota,21,Idaho State,25
+2018-09-22T21:00:00.000Z,Alabama A&M,27,Southern,29
+2018-09-22T21:00:00.000Z,Northern Iowa,44,Hampton,0
+2018-09-22T21:05:00.000Z,Portland State,23,Montana State,43
+2018-09-22T21:30:00.000Z,Nicholls,27,Sam Houston State,7
+2018-09-22T22:00:00.000Z,Charleston Southern,22,Elon,31
+2018-09-22T22:00:00.000Z,Florida A&M,31,Savannah State,13
+2018-09-22T22:00:00.000Z,North Carolina A&T,13,Morgan State,16
+2018-09-22T22:00:00.000Z,South Carolina State,7,Norfolk State,17
+2018-09-22T22:00:00.000Z,Wagner,14,Sacred Heart,41
+2018-09-22T22:00:00.000Z,Villanova,49,Bucknell,7
+2018-09-22T22:00:00.000Z,BYU,30,McNeese,3
+2018-09-22T22:00:00.000Z,Campbell,42,Shaw,0
+2018-09-22T22:00:00.000Z,Stony Brook,36,Richmond,10
+2018-09-22T22:00:00.000Z,Kennesaw State,70,Clark Atlanta,13
+2018-09-22T22:00:00.000Z,Liberty,7,North Texas,47
+2018-09-22T23:00:00.000Z,Mississippi Valley State,20,Alcorn State,56
+2018-09-22T23:00:00.000Z,Grambling,34,Alabama State,0
+2018-09-22T23:00:00.000Z,Northern Arizona,31,Southern Utah,23
+2018-09-22T23:00:00.000Z,Chattanooga,27,Samford,20
+2018-09-22T23:00:00.000Z,Jacksonville State,48,Tennessee Tech,20
+2018-09-22T23:00:00.000Z,Lamar,24,Southeastern Louisiana,30
+2018-09-22T23:00:00.000Z,Stephen F. Austin,24,Abilene Christian,21
+2018-09-22T23:00:00.000Z,UC Davis,44,Idaho,21
+2018-09-22T23:00:00.000Z,Presbyterian College,41,Bluefield College,10
+2018-09-22T23:00:00.000Z,Albany,35,St Francis (PA),28
+2018-09-22T23:00:00.000Z,Arkansas-Pine Bluff,13,Prairie View,62
+2018-09-22T23:00:00.000Z,North Alabama,37,Azusa Pacific,35
+2018-09-22T23:00:00.000Z,Oklahoma State,17,Texas Tech,41
+2018-09-22T23:00:00.000Z,UT San Antonio,25,Texas State,21
+2018-09-22T23:00:00.000Z,LSU,38,Louisiana Tech,21
+2018-09-22T23:00:00.000Z,Arkansas State,27,UNLV,20
+2018-09-22T23:00:00.000Z,Louisiana Monroe,27,Troy,35
+2018-09-22T23:00:00.000Z,Kentucky,28,Mississippi State,7
+2018-09-22T23:00:00.000Z,Louisiana,28,Coastal Carolina,30
+2018-09-22T23:00:00.000Z,Tennessee,21,Florida,47
+2018-09-22T23:00:00.000Z,Oklahoma,28,Army,21
+2018-09-22T23:00:00.000Z,Southern Mississippi,40,Rice,22
+2018-09-22T23:00:00.000Z,Marshall,20,NC State,37
+2018-09-22T23:30:00.000Z,Indiana,21,Michigan State,35
+2018-09-22T23:30:00.000Z,East Tennessee State,29,Furman,27
+2018-09-22T23:30:00.000Z,UTEP,20,New Mexico State,27
+2018-09-22T23:30:00.000Z,Auburn,34,Arkansas,3
+2018-09-23T00:00:00.000Z,Weber State,45,Northern Colorado,28
+2018-09-23T00:00:00.000Z,Memphis,52,South Alabama,35
+2018-09-23T00:00:00.000Z,Oregon,31,Stanford,38
+2018-09-23T00:00:00.000Z,South Florida,20,East Carolina,13
+2018-09-23T00:00:00.000Z,Houston,70,Texas Southern,14
+2018-09-23T00:35:00.000Z,Iowa,17,Wisconsin,28
+2018-09-23T02:30:00.000Z,San Diego State,23,Eastern Michigan,20
+2018-09-23T02:30:00.000Z,Washington,27,Arizona State,20
+2018-09-23T02:30:00.000Z,Utah State,42,Air Force,32
+2018-09-23T03:59:00.000Z,Hawai'i,42,Duquesne,21
+2018-09-27T23:00:00.000Z,North Carolina A&T,31,South Carolina State,16
+2018-09-27T23:00:00.000Z,Indiana State,0,Northern Iowa,33
+2018-09-27T23:00:00.000Z,Presbyterian College,10,Lindsey Wilson,0
+2018-09-28T00:00:00.000Z,Miami,47,North Carolina,10
+2018-09-28T22:00:00.000Z,Columbia,10,Princeton,45
+2018-09-28T23:00:00.000Z,Harvard,16,Rhode Island,23
+2018-09-29T00:00:00.000Z,Tulane,40,Memphis,24
+2018-09-29T01:00:00.000Z,Colorado,38,UCLA,16
+2018-09-29T16:00:00.000Z,Alabama,56,Louisiana,14
+2018-09-29T16:00:00.000Z,Texas A&M,24,Arkansas,17
+2018-09-29T16:00:00.000Z,Clemson,27,Syracuse,23
+2018-09-29T16:00:00.000Z,Texas Tech,34,West Virginia,42
+2018-09-29T16:00:00.000Z,Buffalo,13,Army,42
+2018-09-29T16:00:00.000Z,Kansas,28,Oklahoma State,48
+2018-09-29T16:00:00.000Z,Michigan State,31,Central Michigan,20
+2018-09-29T16:00:00.000Z,Georgia Tech,63,Bowling Green,17
+2018-09-29T16:00:00.000Z,Boston College,45,Temple,35
+2018-09-29T16:00:00.000Z,Rutgers,17,Indiana,24
+2018-09-29T16:20:00.000Z,NC State,35,Virginia,21
+2018-09-29T17:00:00.000Z,Marist,28,Dayton,17
+2018-09-29T17:00:00.000Z,Brown,35,Georgetown,7
+2018-09-29T17:00:00.000Z,Yale,35,Maine,14
+2018-09-29T17:00:00.000Z,Monmouth,54,Wagner,47
+2018-09-29T17:00:00.000Z,Butler,24,Morehead State,21
+2018-09-29T17:00:00.000Z,Jacksonville,9,Drake,41
+2018-09-29T17:05:00.000Z,Holy Cross,16,Bucknell,19
+2018-09-29T17:30:00.000Z,Cornell,43,Sacred Heart,24
+2018-09-29T17:30:00.000Z,VMI,38,Mercer,48
+2018-09-29T17:30:00.000Z,Elon,30,New Hampshire,9
+2018-09-29T17:30:00.000Z,Dartmouth,37,Pennsylvania,14
+2018-09-29T18:00:00.000Z,Georgia State,46,Louisiana Monroe,14
+2018-09-29T18:00:00.000Z,Hampton,14,Charleston Southern,48
+2018-09-29T18:00:00.000Z,Furman,44,Western Carolina,38
+2018-09-29T18:00:00.000Z,Valparaiso,35,Davidson,40
+2018-09-29T18:00:00.000Z,Northern Colorado,13,North Dakota,38
+2018-09-29T18:00:00.000Z,Ohio,58,UMass,42
+2018-09-29T19:00:00.000Z,Missouri State,24,Illinois State,21
+2018-09-29T19:00:00.000Z,Montana State,17,Eastern Washington,34
+2018-09-29T19:00:00.000Z,Richmond,10,James Madison,63
+2018-09-29T19:00:00.000Z,Ball State,52,Kent State,24
+2018-09-29T19:30:00.000Z,Georgia,38,Tennessee,12
+2018-09-29T19:30:00.000Z,Miami (OH),39,Western Michigan,40
+2018-09-29T19:30:00.000Z,Connecticut,7,Cincinnati,49
+2018-09-29T19:30:00.000Z,Kansas State,14,Texas,19
+2018-09-29T19:30:00.000Z,Appalachian State,52,South Alabama,7
+2018-09-29T19:30:00.000Z,Troy,45,Coastal Carolina,21
+2018-09-29T19:30:00.000Z,Nebraska,28,Purdue,42
+2018-09-29T19:30:00.000Z,Nicholls,50,Lamar,27
+2018-09-29T19:30:00.000Z,North Dakota State,21,South Dakota State,17
+2018-09-29T19:30:00.000Z,Oklahoma,66,Baylor,33
+2018-09-29T19:30:00.000Z,Wake Forest,56,Rice,24
+2018-09-29T19:30:00.000Z,UCF,45,Pittsburgh,14
+2018-09-29T19:30:00.000Z,East Carolina,37,Old Dominion,35
+2018-09-29T19:30:00.000Z,Louisville,24,Florida State,28
+2018-09-29T20:00:00.000Z,Auburn,24,Southern Mississippi,13
+2018-09-29T20:00:00.000Z,Western Illinois,45,Youngstown State,38
+2018-09-29T20:00:00.000Z,Vanderbilt,31,Tennessee State,27
+2018-09-29T20:00:00.000Z,Sam Houston State,34,Central Arkansas,31
+2018-09-29T20:00:00.000Z,Towson,44,The Citadel,27
+2018-09-29T20:00:00.000Z,Air Force,25,Nevada,28
+2018-09-29T20:00:00.000Z,St Francis (PA),59,WV Wesleyan,3
+2018-09-29T20:00:00.000Z,North Carolina Central,14,Florida A&M,55
+2018-09-29T20:00:00.000Z,Norfolk State,54,Delaware State,28
+2018-09-29T20:00:00.000Z,Jacksonville State,48,Austin Peay,32
+2018-09-29T20:35:00.000Z,Idaho State,56,Northern Arizona,42
+2018-09-29T20:47:00.000Z,Northwestern,17,Michigan,20
+2018-09-29T21:00:00.000Z,Grambling,16,Prairie View,22
+2018-09-29T21:00:00.000Z,Idaho,20,Portland State,7
+2018-09-29T21:00:00.000Z,San Diego,49,Stetson,10
+2018-09-29T21:00:00.000Z,Jackson State,16,Alabama A&M,21
+2018-09-29T22:00:00.000Z,Campbell,30,North Alabama,7
+2018-09-29T22:00:00.000Z,Savannah State,20,Bethune-Cookman,35
+2018-09-29T22:00:00.000Z,Lafayette,31,Central Connecticut,24
+2018-09-29T22:00:00.000Z,Kennesaw State,24,Samford,10
+2018-09-29T22:00:00.000Z,Georgia Southern,28,Arkansas State,21
+2018-09-29T22:00:00.000Z,Mississippi State,6,Florida,13
+2018-09-29T22:00:00.000Z,Gardner-Webb,14,Wofford,45
+2018-09-29T22:00:00.000Z,Stony Brook,29,Villanova,27
+2018-09-29T22:00:00.000Z,William & Mary,0,Colgate,23
+2018-09-29T22:00:00.000Z,Washington State,28,Utah,24
+2018-09-29T22:00:00.000Z,New Mexico,43,Liberty,52
+2018-09-29T22:00:00.000Z,Eastern Michigan,23,Northern Illinois,26
+2018-09-29T23:00:00.000Z,UT San Antonio,30,UTEP,21
+2018-09-29T23:00:00.000Z,Middle Tennessee,25,Florida Atlantic,24
+2018-09-29T23:00:00.000Z,Wyoming,14,Boise State,34
+2018-09-29T23:00:00.000Z,Duke,14,Virginia Tech,31
+2018-09-29T23:00:00.000Z,UAB,28,Charlotte,7
+2018-09-29T23:00:00.000Z,TCU,17,Iowa State,14
+2018-09-29T23:00:00.000Z,Murray State,45,UT Martin,38
+2018-09-29T23:00:00.000Z,Southern,3,Alcorn State,20
+2018-09-29T23:00:00.000Z,San José State,41,Hawai'i,44
+2018-09-29T23:00:00.000Z,SMU,63,Houston Baptist,27
+2018-09-29T23:00:00.000Z,Southern Illinois,24,South Dakota,31
+2018-09-29T23:00:00.000Z,Abilene Christian,34,Incarnate Word,44
+2018-09-29T23:00:00.000Z,McNeese,17,Stephen F. Austin,10
+2018-09-29T23:00:00.000Z,Tennessee Tech,38,Eastern Illinois,52
+2018-09-29T23:05:00.000Z,Cal Poly,28,Montana,48
+2018-09-29T23:30:00.000Z,Florida International,55,Arkansas-Pine Bluff,9
+2018-09-29T23:30:00.000Z,East Tennessee State,17,Chattanooga,14
+2018-09-29T23:30:00.000Z,Kentucky,24,South Carolina,10
+2018-09-29T23:30:00.000Z,Western Kentucky,17,Marshall,20
+2018-09-29T23:30:00.000Z,Notre Dame,38,Stanford,17
+2018-09-29T23:30:00.000Z,Penn State,26,Ohio State,27
+2018-09-29T23:30:00.000Z,North Texas,27,Louisiana Tech,29
+2018-09-30T00:00:00.000Z,Southeastern Louisiana,24,Northwestern State,17
+2018-09-30T00:30:00.000Z,Washington,35,BYU,7
+2018-09-30T01:00:00.000Z,LSU,45,Ole Miss,16
+2018-09-30T02:00:00.000Z,Arizona State,52,Oregon State,24
+2018-09-30T02:30:00.000Z,Fresno State,49,Toledo,27
+2018-09-30T02:30:00.000Z,Arizona,20,USC,24
+2018-09-30T02:30:00.000Z,California,24,Oregon,42
+2018-10-04T23:30:00.000Z,Troy,37,Georgia State,20
+2018-10-05T00:00:00.000Z,Houston,41,Tulsa,26
+2018-10-05T22:00:00.000Z,Yale,18,Dartmouth,41
+2018-10-05T23:00:00.000Z,Louisville,31,Georgia Tech,66
+2018-10-05T23:30:00.000Z,Marshall,24,Middle Tennessee,34
+2018-10-06T01:00:00.000Z,BYU,20,Utah State,45
+2018-10-06T16:00:00.000Z,Western Michigan,27,Eastern Michigan,24
+2018-10-06T16:00:00.000Z,Temple,49,East Carolina,6
+2018-10-06T16:00:00.000Z,West Virginia,38,Kansas,22
+2018-10-06T16:00:00.000Z,Rutgers,17,Illinois,38
+2018-10-06T16:00:00.000Z,Cincinnati,37,Tulane,21
+2018-10-06T16:00:00.000Z,Michigan State,19,Northwestern,29
+2018-10-06T16:00:00.000Z,Oklahoma,45,Texas,48
+2018-10-06T16:00:00.000Z,Michigan,42,Maryland,21
+2018-10-06T16:00:00.000Z,Central Michigan,24,Buffalo,34
+2018-10-06T16:00:00.000Z,Arkansas,31,Alabama,65
+2018-10-06T16:00:00.000Z,South Carolina,37,Missouri,35
+2018-10-06T16:00:00.000Z,Morehead State,34,San Diego,51
+2018-10-06T16:00:00.000Z,Bucknell,3,Colgate,27
+2018-10-06T16:00:00.000Z,New Hampshire,28,Holy Cross,0
+2018-10-06T16:20:00.000Z,Pittsburgh,44,Syracuse,37
+2018-10-06T16:30:00.000Z,NC State,28,Boston College,23
+2018-10-06T17:00:00.000Z,Morgan State,18,South Carolina State,21
+2018-10-06T17:00:00.000Z,Duquesne,20,Bryant,21
+2018-10-06T17:00:00.000Z,Robert Morris,35,Central Connecticut,56
+2018-10-06T17:00:00.000Z,Dayton,53,Valparaiso,20
+2018-10-06T17:00:00.000Z,Princeton,66,Lehigh,7
+2018-10-06T17:00:00.000Z,Fordham,11,Georgetown,23
+2018-10-06T17:00:00.000Z,Davidson,44,Jacksonville,37
+2018-10-06T17:00:00.000Z,Rhode Island,48,Brown,0
+2018-10-06T17:00:00.000Z,Columbia,34,Marist,24
+2018-10-06T17:30:00.000Z,Samford,66,Western Carolina,28
+2018-10-06T17:30:00.000Z,James Madison,24,Elon,27
+2018-10-06T17:30:00.000Z,Cornell,28,Harvard,24
+2018-10-06T18:00:00.000Z,Drake,36,Butler,6
+2018-10-06T18:00:00.000Z,Northern Iowa,31,North Dakota State,56
+2018-10-06T18:00:00.000Z,Campbell,49,Wagner,3
+2018-10-06T18:00:00.000Z,Kennesaw State,56,Presbyterian College,0
+2018-10-06T18:00:00.000Z,Sam Houston State,54,Stephen F. Austin,21
+2018-10-06T18:00:00.000Z,Northern Colorado,36,UC Davis,49
+2018-10-06T18:00:00.000Z,North Carolina Central,40,Howard,35
+2018-10-06T18:00:00.000Z,Hampton,41,Lane,8
+2018-10-06T19:00:00.000Z,Sacred Heart,27,Pennsylvania,31
+2018-10-06T19:00:00.000Z,Illinois State,33,Western Illinois,16
+2018-10-06T19:00:00.000Z,South Dakota,35,Missouri State,28
+2018-10-06T19:00:00.000Z,Ball State,16,Northern Illinois,24
+2018-10-06T19:00:00.000Z,Chattanooga,10,Wofford,21
+2018-10-06T19:00:00.000Z,Richmond,28,Delaware,43
+2018-10-06T19:00:00.000Z,Alcorn State,25,Alabama State,28
+2018-10-06T19:05:00.000Z,Eastern Washington,55,Southern Utah,17
+2018-10-06T19:30:00.000Z,Wake Forest,3,Clemson,63
+2018-10-06T19:30:00.000Z,Boise State,13,San Diego State,19
+2018-10-06T19:30:00.000Z,East Tennessee State,45,Gardner-Webb,0
+2018-10-06T19:30:00.000Z,Akron,17,Miami (OH),41
+2018-10-06T19:30:00.000Z,William & Mary,25,Albany,22
+2018-10-06T19:30:00.000Z,Maine,13,Villanova,10
+2018-10-06T19:30:00.000Z,Arkansas-Pine Bluff,27,Jackson State,30
+2018-10-06T19:30:00.000Z,Georgia Southern,48,South Alabama,13
+2018-10-06T19:30:00.000Z,Toledo,52,Bowling Green,36
+2018-10-06T19:30:00.000Z,UMass,42,South Florida,58
+2018-10-06T19:30:00.000Z,Minnesota,31,Iowa,48
+2018-10-06T19:30:00.000Z,Kent State,26,Ohio,27
+2018-10-06T19:30:00.000Z,Oklahoma State,42,Iowa State,48
+2018-10-06T19:30:00.000Z,Air Force,35,Navy,7
+2018-10-06T19:30:00.000Z,Florida,27,LSU,19
+2018-10-06T19:30:00.000Z,Miami,28,Florida State,27
+2018-10-06T19:30:00.000Z,Baylor,37,Kansas State,34
+2018-10-06T20:00:00.000Z,Colorado,28,Arizona State,21
+2018-10-06T20:00:00.000Z,Florida A&M,17,Norfolk State,0
+2018-10-06T20:00:00.000Z,UNLV,14,New Mexico,50
+2018-10-06T20:00:00.000Z,Bethune-Cookman,41,Mississippi Valley State,27
+2018-10-06T20:00:00.000Z,Ole Miss,70,Louisiana Monroe,21
+2018-10-06T20:00:00.000Z,Ohio State,49,Indiana,26
+2018-10-06T20:00:00.000Z,Towson,52,Stony Brook,28
+2018-10-06T20:00:00.000Z,Eastern Kentucky,7,Jacksonville State,56
+2018-10-06T20:00:00.000Z,Montana,20,Portland State,22
+2018-10-06T21:00:00.000Z,Florida Atlantic,52,Old Dominion,33
+2018-10-06T21:00:00.000Z,Incarnate Word,52,Southeastern Louisiana,34
+2018-10-06T21:30:00.000Z,Northern Arizona,28,Weber State,24
+2018-10-06T21:35:00.000Z,Idaho State,62,Idaho,28
+2018-10-06T22:00:00.000Z,Savannah State,23,Charleston Southern,3
+2018-10-06T22:00:00.000Z,Youngstown State,17,Southern Illinois,14
+2018-10-06T23:00:00.000Z,South Dakota State,54,Indiana State,51
+2018-10-06T23:00:00.000Z,Louisiana Tech,7,UAB,28
+2018-10-06T23:00:00.000Z,Texas A&M,20,Kentucky,14
+2018-10-06T23:00:00.000Z,Texas State,27,Louisiana,42
+2018-10-06T23:00:00.000Z,Rice,3,UT San Antonio,20
+2018-10-06T23:00:00.000Z,Tennessee Tech,38,Southeast Missouri State,70
+2018-10-06T23:00:00.000Z,Eastern Illinois,41,Murray State,48
+2018-10-06T23:00:00.000Z,Northwestern State,10,Nicholls,28
+2018-10-06T23:00:00.000Z,Austin Peay,49,Tennessee State,34
+2018-10-06T23:00:00.000Z,Central Arkansas,66,Houston Baptist,35
+2018-10-06T23:00:00.000Z,McNeese,24,Abilene Christian,21
+2018-10-06T23:00:00.000Z,Memphis,55,Connecticut,14
+2018-10-06T23:00:00.000Z,North Alabama,19,West Florida,24
+2018-10-06T23:00:00.000Z,UCF,48,SMU,20
+2018-10-06T23:00:00.000Z,Grambling,62,OK Panhandle St,7
+2018-10-06T23:00:00.000Z,Delaware State,6,North Carolina A&T,34
+2018-10-06T23:00:00.000Z,Texas Southern,21,Alabama A&M,42
+2018-10-06T23:30:00.000Z,Wisconsin,41,Nebraska,24
+2018-10-06T23:30:00.000Z,UCLA,24,Washington,31
+2018-10-06T23:30:00.000Z,Georgia,41,Vanderbilt,13
+2018-10-06T23:30:00.000Z,Mississippi State,23,Auburn,9
+2018-10-06T23:30:00.000Z,UTEP,24,North Texas,27
+2018-10-07T00:00:00.000Z,Virginia Tech,23,Notre Dame,45
+2018-10-07T00:00:00.000Z,New Mexico State,49,Liberty,41
+2018-10-07T01:00:00.000Z,Oregon State,37,Washington State,56
+2018-10-07T01:00:00.000Z,Sacramento State,27,Cal Poly,41
+2018-10-07T02:00:00.000Z,Arizona,24,California,17
+2018-10-07T02:30:00.000Z,Stanford,21,Utah,40
+2018-10-07T02:30:00.000Z,San José State,30,Colorado State,42
+2018-10-07T02:30:00.000Z,Nevada,3,Fresno State,21
+2018-10-07T03:59:00.000Z,Hawai'i,17,Wyoming,13
+2018-10-10T00:00:00.000Z,Arkansas State,9,Appalachian State,35
+2018-10-11T23:30:00.000Z,TCU,14,Texas Tech,17
+2018-10-11T23:30:00.000Z,Texas State,13,Georgia Southern,15
+2018-10-12T23:00:00.000Z,Tulsa,24,South Florida,25
+2018-10-12T23:00:00.000Z,Harvard,33,Holy Cross,31
+2018-10-13T01:00:00.000Z,San Diego State,21,Air Force,17
+2018-10-13T02:00:00.000Z,Utah,42,Arizona,10
+2018-10-13T16:00:00.000Z,Buffalo,24,Akron,6
+2018-10-13T16:00:00.000Z,Rhode Island,36,Maine,38
+2018-10-13T16:00:00.000Z,Presbyterian College,23,Hampton,24
+2018-10-13T16:00:00.000Z,Wagner,23,St Francis (PA),22
+2018-10-13T16:00:00.000Z,Auburn,24,Tennessee,30
+2018-10-13T16:00:00.000Z,Ohio State,30,Minnesota,14
+2018-10-13T16:00:00.000Z,Eastern Michigan,28,Toledo,26
+2018-10-13T16:00:00.000Z,Northwestern,34,Nebraska,31
+2018-10-13T16:00:00.000Z,Vanderbilt,27,Florida,37
+2018-10-13T16:00:00.000Z,Kansas State,31,Oklahoma State,12
+2018-10-13T16:00:00.000Z,Colgate,31,Cornell,0
+2018-10-13T16:00:00.000Z,Indiana,16,Iowa,42
+2018-10-13T16:00:00.000Z,Maryland,34,Rutgers,7
+2018-10-13T16:20:00.000Z,Georgia Tech,14,Duke,28
+2018-10-13T16:30:00.000Z,Lehigh,14,Fordham,43
+2018-10-13T16:30:00.000Z,Boston College,38,Louisville,20
+2018-10-13T17:00:00.000Z,Villanova,0,James Madison,37
+2018-10-13T17:00:00.000Z,Monmouth,36,Bucknell,19
+2018-10-13T17:00:00.000Z,Yale,35,Mercer,28
+2018-10-13T17:00:00.000Z,Pennsylvania,13,Columbia,10
+2018-10-13T17:00:00.000Z,Princeton,48,Brown,10
+2018-10-13T17:00:00.000Z,Rice,0,UAB,42
+2018-10-13T17:00:00.000Z,Bryant,14,Central Connecticut,48
+2018-10-13T17:00:00.000Z,North Carolina A&T,21,Florida A&M,22
+2018-10-13T17:00:00.000Z,Howard,55,Delaware State,13
+2018-10-13T17:00:00.000Z,Davidson,28,Morehead State,35
+2018-10-13T17:00:00.000Z,Furman,34,Wofford,14
+2018-10-13T17:00:00.000Z,Jacksonville,17,Marist,20
+2018-10-13T17:30:00.000Z,Gardner-Webb,17,Kennesaw State,56
+2018-10-13T18:00:00.000Z,North Dakota,41,Montana,14
+2018-10-13T18:00:00.000Z,Drake,21,Stetson,23
+2018-10-13T18:00:00.000Z,South Carolina State,26,Bethune-Cookman,28
+2018-10-13T18:00:00.000Z,Indiana State,26,Missouri State,29
+2018-10-13T18:00:00.000Z,Valparaiso,35,Butler,17
+2018-10-13T18:00:00.000Z,Murray State,45,Tennessee State,21
+2018-10-13T18:00:00.000Z,The Citadel,23,East Tennessee State,26
+2018-10-13T18:00:00.000Z,Southeast Missouri State,31,Austin Peay,27
+2018-10-13T18:00:00.000Z,North Texas,30,Southern Mississippi,7
+2018-10-13T18:00:00.000Z,Liberty,22,Troy,16
+2018-10-13T18:30:00.000Z,Notre Dame,19,Pittsburgh,14
+2018-10-13T18:30:00.000Z,Miami (OH),31,Kent State,6
+2018-10-13T19:00:00.000Z,Bowling Green,35,Western Michigan,42
+2018-10-13T19:00:00.000Z,Central Michigan,23,Ball State,24
+2018-10-13T19:00:00.000Z,South Dakota State,36,Youngstown State,7
+2018-10-13T19:00:00.000Z,Jackson State,23,Mississippi Valley State,7
+2018-10-13T19:00:00.000Z,Alabama A&M,26,Alcorn State,35
+2018-10-13T19:00:00.000Z,Samford,73,VMI,22
+2018-10-13T19:00:00.000Z,UT Martin,34,Eastern Kentucky,35
+2018-10-13T19:00:00.000Z,Stephen F. Austin,17,Central Arkansas,27
+2018-10-13T19:00:00.000Z,Illinois State,51,Southern Illinois,3
+2018-10-13T19:30:00.000Z,Western Carolina,6,Chattanooga,26
+2018-10-13T19:30:00.000Z,New Hampshire,7,Stony Brook,35
+2018-10-13T19:30:00.000Z,Delaware,28,Elon,16
+2018-10-13T19:30:00.000Z,Lafayette,6,Georgetown,13
+2018-10-13T19:30:00.000Z,Penn State,17,Michigan State,21
+2018-10-13T19:30:00.000Z,Abilene Christian,28,Nicholls,12
+2018-10-13T19:30:00.000Z,Oregon,30,Washington,27
+2018-10-13T19:30:00.000Z,South Carolina,23,Texas A&M,26
+2018-10-13T19:30:00.000Z,LSU,36,Georgia,16
+2018-10-13T19:30:00.000Z,Texas,23,Baylor,17
+2018-10-13T19:30:00.000Z,Navy,17,Temple,24
+2018-10-13T19:30:00.000Z,San José State,3,Army,52
+2018-10-13T19:30:00.000Z,Northern Illinois,24,Ohio,21
+2018-10-13T19:30:00.000Z,Charlotte,40,Western Kentucky,14
+2018-10-13T19:30:00.000Z,Old Dominion,20,Marshall,42
+2018-10-13T19:30:00.000Z,Memphis,30,UCF,31
+2018-10-13T19:30:00.000Z,Illinois,7,Purdue,46
+2018-10-13T20:00:00.000Z,Colorado State,20,New Mexico,18
+2018-10-13T20:00:00.000Z,Utah State,59,UNLV,28
+2018-10-13T20:00:00.000Z,Montana State,24,Idaho,23
+2018-10-13T20:00:00.000Z,Jacksonville State,49,Eastern Illinois,22
+2018-10-13T20:00:00.000Z,Lamar,27,Incarnate Word,21
+2018-10-13T20:00:00.000Z,Towson,29,William & Mary,13
+2018-10-13T21:00:00.000Z,Louisiana,66,New Mexico State,38
+2018-10-13T21:00:00.000Z,San Diego,36,Dayton,34
+2018-10-13T21:00:00.000Z,Southeastern Louisiana,62,Houston Baptist,52
+2018-10-13T21:00:00.000Z,Portland State,35,Northern Colorado,14
+2018-10-13T21:00:00.000Z,South Alabama,45,Alabama State,7
+2018-10-13T22:00:00.000Z,Charleston Southern,58,Virginia Lynchburg,6
+2018-10-13T22:00:00.000Z,Dartmouth,42,Sacred Heart,0
+2018-10-13T22:00:00.000Z,Weber State,14,Eastern Washington,6
+2018-10-13T22:00:00.000Z,Savannah State,11,Morgan State,18
+2018-10-13T22:00:00.000Z,Prairie View,0,Southern,38
+2018-10-13T22:00:00.000Z,Coastal Carolina,20,Louisiana Monroe,45
+2018-10-13T23:00:00.000Z,Alabama,39,Missouri,10
+2018-10-13T23:00:00.000Z,Virginia,16,Miami,13
+2018-10-13T23:00:00.000Z,Duquesne,48,Robert Morris,24
+2018-10-13T23:00:00.000Z,North Alabama,34,Mississippi College,17
+2018-10-13T23:00:00.000Z,California,7,UCLA,30
+2018-10-13T23:00:00.000Z,North Carolina,19,Virginia Tech,22
+2018-10-13T23:00:00.000Z,UT San Antonio,3,Louisiana Tech,31
+2018-10-13T23:00:00.000Z,East Carolina,20,Houston,42
+2018-10-13T23:00:00.000Z,Iowa State,30,West Virginia,14
+2018-10-13T23:00:00.000Z,Western Illinois,7,North Dakota State,34
+2018-10-13T23:00:00.000Z,South Dakota,28,Northern Iowa,42
+2018-10-13T23:00:00.000Z,Albany,24,Richmond,27
+2018-10-13T23:00:00.000Z,UC Davis,44,Idaho State,37
+2018-10-13T23:00:00.000Z,Texas Southern,21,Grambling,34
+2018-10-13T23:00:00.000Z,Northwestern State,28,Sam Houston State,42
+2018-10-13T23:30:00.000Z,Michigan,38,Wisconsin,13
+2018-10-13T23:30:00.000Z,Florida International,24,Middle Tennessee,21
+2018-10-13T23:30:00.000Z,Arkansas,33,Ole Miss,37
+2018-10-14T00:00:00.000Z,Southern Utah,48,Sacramento State,27
+2018-10-14T02:15:00.000Z,BYU,49,Hawai'i,23
+2018-10-14T02:30:00.000Z,Nevada,27,Boise State,31
+2018-10-14T02:30:00.000Z,Fresno State,27,Wyoming,3
+2018-10-14T02:30:00.000Z,USC,31,Colorado,20
+2018-10-18T23:30:00.000Z,Arkansas State,51,Georgia State,35
+2018-10-19T01:00:00.000Z,Arizona State,13,Stanford,20
+2018-10-19T23:00:00.000Z,Pennsylvania,10,Yale,23
+2018-10-20T01:00:00.000Z,Boise State,56,Colorado State,28
+2018-10-20T02:00:00.000Z,UNLV,35,Air Force,41
+2018-10-20T16:00:00.000Z,Harvard,21,Princeton,29
+2018-10-20T16:00:00.000Z,Iowa,23,Maryland,0
+2018-10-20T16:00:00.000Z,Arkansas,23,Tulsa,0
+2018-10-20T16:00:00.000Z,Ole Miss,16,Auburn,31
+2018-10-20T16:00:00.000Z,TCU,27,Oklahoma,52
+2018-10-20T16:00:00.000Z,Robert Morris,49,Central State,45
+2018-10-20T16:00:00.000Z,St Francis (PA),20,Duquesne,27
+2018-10-20T16:00:00.000Z,Butler,13,San Diego,42
+2018-10-20T16:00:00.000Z,Bucknell,27,Lafayette,29
+2018-10-20T16:00:00.000Z,Toledo,17,Buffalo,31
+2018-10-20T16:00:00.000Z,Army,31,Miami (OH),30
+2018-10-20T16:00:00.000Z,Michigan State,7,Michigan,21
+2018-10-20T16:00:00.000Z,Wisconsin,49,Illinois,20
+2018-10-20T16:00:00.000Z,Rutgers,15,Northwestern,18
+2018-10-20T16:00:00.000Z,Temple,24,Cincinnati,17
+2018-10-20T16:20:00.000Z,Syracuse,40,North Carolina,37
+2018-10-20T16:30:00.000Z,Duke,14,Virginia,28
+2018-10-20T17:00:00.000Z,Central Connecticut,25,Sacred Heart,28
+2018-10-20T17:00:00.000Z,Marist,48,Davidson,41
+2018-10-20T17:00:00.000Z,Brown,16,Cornell,34
+2018-10-20T17:00:00.000Z,Monmouth,38,Campbell,21
+2018-10-20T17:00:00.000Z,Fordham,41,Bryant,42
+2018-10-20T17:00:00.000Z,Dayton,17,Drake,28
+2018-10-20T17:30:00.000Z,Columbia,12,Dartmouth,28
+2018-10-20T17:30:00.000Z,South Carolina State,30,Delaware State,19
+2018-10-20T17:30:00.000Z,Wofford,30,East Tennessee State,17
+2018-10-20T17:30:00.000Z,VMI,32,The Citadel,34
+2018-10-20T17:30:00.000Z,Elon,38,Richmond,28
+2018-10-20T18:00:00.000Z,Georgetown,22,Lehigh,16
+2018-10-20T18:00:00.000Z,Southeast Missouri State,37,Jacksonville State,14
+2018-10-20T18:00:00.000Z,Morehead State,31,Valparaiso,24
+2018-10-20T18:00:00.000Z,Norfolk State,6,North Carolina Central,36
+2018-10-20T18:00:00.000Z,Northern Colorado,42,Northern Arizona,14
+2018-10-20T18:00:00.000Z,Furman,25,Samford,38
+2018-10-20T18:00:00.000Z,Liberty,48,Idaho State,41
+2018-10-20T18:00:00.000Z,Ohio,49,Bowling Green,14
+2018-10-20T18:30:00.000Z,Marshall,31,Florida Atlantic,7
+2018-10-20T18:30:00.000Z,Wyoming,16,Utah State,24
+2018-10-20T19:00:00.000Z,Southern Illinois,21,Indiana State,24
+2018-10-20T19:00:00.000Z,Southern,21,Texas Southern,7
+2018-10-20T19:00:00.000Z,Central Michigan,10,Western Michigan,35
+2018-10-20T19:00:00.000Z,Jackson State,7,North Alabama,24
+2018-10-20T19:00:00.000Z,Mississippi Valley State,48,Arkansas-Pine Bluff,47
+2018-10-20T19:00:00.000Z,Alcorn State,33,Grambling,26
+2018-10-20T19:00:00.000Z,Eastern Kentucky,6,Murray State,34
+2018-10-20T19:00:00.000Z,Eastern Illinois,24,UT Martin,21
+2018-10-20T19:00:00.000Z,Missouri State,14,Western Illinois,31
+2018-10-20T19:00:00.000Z,Ball State,20,Eastern Michigan,42
+2018-10-20T19:00:00.000Z,Middle Tennessee,21,Charlotte,13
+2018-10-20T19:30:00.000Z,Clemson,41,NC State,7
+2018-10-20T19:30:00.000Z,Tulane,23,SMU,27
+2018-10-20T19:30:00.000Z,Kent State,23,Akron,24
+2018-10-20T19:30:00.000Z,Nebraska,53,Minnesota,28
+2018-10-20T19:30:00.000Z,Florida State,38,Wake Forest,17
+2018-10-20T19:30:00.000Z,Tennessee,21,Alabama,58
+2018-10-20T19:30:00.000Z,Indiana,28,Penn State,33
+2018-10-20T19:30:00.000Z,Texas Tech,48,Kansas,16
+2018-10-20T19:30:00.000Z,Louisiana Tech,31,UTEP,24
+2018-10-20T19:30:00.000Z,Navy,36,Houston,49
+2018-10-20T19:30:00.000Z,UMass,13,Coastal Carolina,24
+2018-10-20T19:30:00.000Z,Appalachian State,27,Louisiana,17
+2018-10-20T19:30:00.000Z,Washington,27,Colorado,13
+2018-10-20T19:30:00.000Z,North Dakota State,28,Illinois State,14
+2018-10-20T19:30:00.000Z,Albany,28,Towson,56
+2018-10-20T19:30:00.000Z,New Hampshire,14,Delaware,38
+2018-10-20T19:30:00.000Z,William & Mary,27,Maine,20
+2018-10-20T20:00:00.000Z,Missouri,65,Memphis,33
+2018-10-20T20:00:00.000Z,Oregon State,7,California,49
+2018-10-20T20:00:00.000Z,Lamar,41,Sam Houston State,23
+2018-10-20T20:00:00.000Z,Mercer,59,Western Carolina,46
+2018-10-20T20:00:00.000Z,Bethune-Cookman,10,North Carolina A&T,35
+2018-10-20T21:00:00.000Z,Idaho,31,Southern Utah,12
+2018-10-20T21:00:00.000Z,Northern Iowa,24,South Dakota State,9
+2018-10-20T21:30:00.000Z,Tennessee State,41,Tennessee Tech,14
+2018-10-20T22:00:00.000Z,Charleston Southern,41,Presbyterian College,7
+2018-10-20T22:00:00.000Z,Stony Brook,52,Rhode Island,14
+2018-10-20T22:00:00.000Z,Weber State,34,Montana State,24
+2018-10-20T22:00:00.000Z,Stetson,38,Jacksonville,35
+2018-10-20T22:00:00.000Z,Youngstown State,29,South Dakota,17
+2018-10-20T22:00:00.000Z,New Mexico State,31,Georgia Southern,48
+2018-10-20T23:00:00.000Z,Louisiana Monroe,20,Texas State,14
+2018-10-20T23:00:00.000Z,East Carolina,10,UCF,37
+2018-10-20T23:00:00.000Z,Southern Mississippi,27,UT San Antonio,17
+2018-10-20T23:00:00.000Z,South Florida,38,Connecticut,30
+2018-10-20T23:00:00.000Z,Morgan State,26,Howard,35
+2018-10-20T23:00:00.000Z,Incarnate Word,45,McNeese,17
+2018-10-20T23:00:00.000Z,Houston Baptist,14,Stephen F. Austin,42
+2018-10-20T23:00:00.000Z,Central Arkansas,38,Northwestern State,17
+2018-10-20T23:00:00.000Z,LSU,19,Mississippi State,3
+2018-10-20T23:05:00.000Z,Cal Poly,10,UC Davis,52
+2018-10-20T23:30:00.000Z,Florida International,36,Rice,17
+2018-10-20T23:30:00.000Z,Kentucky,14,Vanderbilt,7
+2018-10-20T23:30:00.000Z,UAB,29,North Texas,21
+2018-10-20T23:30:00.000Z,Purdue,49,Ohio State,20
+2018-10-20T23:30:00.000Z,Washington State,34,Oregon,20
+2018-10-20T23:30:00.000Z,Western Kentucky,34,Old Dominion,37
+2018-10-20T23:30:00.000Z,New Mexico,7,Fresno State,38
+2018-10-21T00:00:00.000Z,Southeastern Louisiana,27,Abilene Christian,48
+2018-10-21T00:00:00.000Z,Utah,41,USC,28
+2018-10-21T01:00:00.000Z,Sacramento State,15,North Dakota,41
+2018-10-21T02:30:00.000Z,San Diego State,16,San José State,13
+2018-10-21T02:30:00.000Z,UCLA,31,Arizona,30
+2018-10-21T03:59:00.000Z,Hawai'i,22,Nevada,40
+2018-10-24T00:00:00.000Z,South Alabama,17,Troy,38
+2018-10-25T23:00:00.000Z,Western Michigan,24,Toledo,51
+2018-10-25T23:00:00.000Z,Ohio,52,Ball State,14
+2018-10-25T23:00:00.000Z,West Virginia,58,Baylor,14
+2018-10-25T23:30:00.000Z,Georgia Southern,34,Appalachian State,14
+2018-10-25T23:30:00.000Z,Virginia Tech,28,Georgia Tech,49
+2018-10-26T22:30:00.000Z,Florida Atlantic,13,Louisiana Tech,21
+2018-10-26T23:00:00.000Z,Boston College,27,Miami,14
+2018-10-27T00:00:00.000Z,Minnesota,38,Indiana,31
+2018-10-27T02:00:00.000Z,Colorado State,21,Wyoming,34
+2018-10-27T02:30:00.000Z,UCLA,10,Utah,41
+2018-10-27T16:00:00.000Z,Robert Morris,7,St Francis (PA),20
+2018-10-27T16:00:00.000Z,Butler,28,Dayton,38
+2018-10-27T16:00:00.000Z,Colgate,38,Georgetown,0
+2018-10-27T16:00:00.000Z,Rhode Island,21,William & Mary,10
+2018-10-27T16:00:00.000Z,Connecticut,17,UMass,22
+2018-10-27T16:00:00.000Z,Nebraska,45,Bethune-Cookman,9
+2018-10-27T16:00:00.000Z,Central Connecticut,49,Wagner,24
+2018-10-27T16:00:00.000Z,Florida State,10,Clemson,59
+2018-10-27T16:00:00.000Z,Akron,17,Central Michigan,10
+2018-10-27T16:00:00.000Z,Iowa State,40,Texas Tech,31
+2018-10-27T16:00:00.000Z,Michigan State,23,Purdue,13
+2018-10-27T16:00:00.000Z,Arkansas,31,Vanderbilt,45
+2018-10-27T16:00:00.000Z,Northwestern,31,Wisconsin,17
+2018-10-27T16:00:00.000Z,Eastern Michigan,22,Army,37
+2018-10-27T16:00:00.000Z,Louisville,35,Wake Forest,56
+2018-10-27T16:20:00.000Z,Virginia,31,North Carolina,21
+2018-10-27T17:00:00.000Z,Sacred Heart,49,Bryant,26
+2018-10-27T17:00:00.000Z,Morehead State,21,Marist,48
+2018-10-27T17:00:00.000Z,Howard,21,South Carolina State,27
+2018-10-27T17:00:00.000Z,Davidson,53,Stetson,56
+2018-10-27T17:00:00.000Z,Fordham,13,Lafayette,21
+2018-10-27T17:00:00.000Z,Brown,7,Pennsylvania,13
+2018-10-27T17:00:00.000Z,Eastern Kentucky,31,Eastern Illinois,23
+2018-10-27T17:00:00.000Z,Illinois State,28,South Dakota State,38
+2018-10-27T17:00:00.000Z,Maine,28,Albany,9
+2018-10-27T17:00:00.000Z,Princeton,66,Cornell,0
+2018-10-27T17:00:00.000Z,Columbia,17,Yale,10
+2018-10-27T17:05:00.000Z,Holy Cross,56,Lehigh,0
+2018-10-27T17:30:00.000Z,Wofford,42,Mercer,21
+2018-10-27T17:30:00.000Z,Dartmouth,24,Harvard,17
+2018-10-27T18:00:00.000Z,Georgia State,34,Coastal Carolina,37
+2018-10-27T18:00:00.000Z,Youngstown State,17,Indiana State,43
+2018-10-27T18:00:00.000Z,Western Illinois,37,Northern Iowa,17
+2018-10-27T18:00:00.000Z,Sam Houston State,28,Southeastern Louisiana,25
+2018-10-27T18:00:00.000Z,The Citadel,17,Furman,28
+2018-10-27T18:00:00.000Z,Valparaiso,25,Drake,42
+2018-10-27T18:00:00.000Z,Hampton,51,Virginia Lynchburg,28
+2018-10-27T18:00:00.000Z,Delaware State,28,North Carolina Central,13
+2018-10-27T18:00:00.000Z,Villanova,0,New Hampshire,34
+2018-10-27T18:00:00.000Z,Charlotte,20,Southern Mississippi,17
+2018-10-27T18:30:00.000Z,Presbyterian College,14,Monmouth,24
+2018-10-27T19:00:00.000Z,Kansas,27,TCU,26
+2018-10-27T19:00:00.000Z,North Dakota,30,Weber State,35
+2018-10-27T19:00:00.000Z,Prairie View,13,Alcorn State,27
+2018-10-27T19:00:00.000Z,Grambling,45,Arkansas-Pine Bluff,38
+2018-10-27T19:00:00.000Z,Texas Southern,42,Mississippi Valley State,14
+2018-10-27T19:00:00.000Z,Savannah State,32,Norfolk State,3
+2018-10-27T19:00:00.000Z,South Dakota,14,North Dakota State,59
+2018-10-27T19:00:00.000Z,UT Martin,33,Southeast Missouri State,56
+2018-10-27T19:00:00.000Z,Missouri State,35,Southern Illinois,49
+2018-10-27T19:00:00.000Z,Chattanooga,34,VMI,27
+2018-10-27T19:00:00.000Z,Colorado,34,Oregon State,41
+2018-10-27T19:05:00.000Z,Eastern Washington,38,Idaho,14
+2018-10-27T19:30:00.000Z,Maryland,63,Illinois,33
+2018-10-27T19:30:00.000Z,SMU,20,Cincinnati,26
+2018-10-27T19:30:00.000Z,Pittsburgh,54,Duke,45
+2018-10-27T19:30:00.000Z,James Madison,13,Stony Brook,10
+2018-10-27T19:30:00.000Z,Delaware,40,Towson,36
+2018-10-27T19:30:00.000Z,Oklahoma,51,Kansas State,14
+2018-10-27T19:30:00.000Z,Alabama A&M,27,Alabama State,10
+2018-10-27T19:30:00.000Z,Penn State,30,Iowa,24
+2018-10-27T19:30:00.000Z,Houston,57,South Florida,36
+2018-10-27T19:30:00.000Z,Old Dominion,17,Middle Tennessee,51
+2018-10-27T19:30:00.000Z,BYU,6,Northern Illinois,7
+2018-10-27T19:30:00.000Z,East Tennessee State,45,Western Carolina,43
+2018-10-27T19:30:00.000Z,USC,35,Arizona State,38
+2018-10-27T19:30:00.000Z,Georgia,36,Florida,17
+2018-10-27T20:00:00.000Z,Stephen F. Austin,17,Lamar,24
+2018-10-27T20:00:00.000Z,North Texas,41,Rice,17
+2018-10-27T20:00:00.000Z,Campbell,7,Gardner-Webb,35
+2018-10-27T20:00:00.000Z,Nicholls,48,Incarnate Word,21
+2018-10-27T20:00:00.000Z,Utah State,61,New Mexico,19
+2018-10-27T20:00:00.000Z,Murray State,15,Jacksonville State,42
+2018-10-27T20:00:00.000Z,San Diego,59,Jacksonville,35
+2018-10-27T20:00:00.000Z,Montana,21,UC Davis,49
+2018-10-27T20:00:00.000Z,Florida A&M,38,Morgan State,3
+2018-10-27T20:00:00.000Z,Missouri,14,Kentucky,16
+2018-10-27T21:00:00.000Z,Austin Peay,41,Tennessee Tech,10
+2018-10-27T21:30:00.000Z,Idaho State,24,Montana State,17
+2018-10-27T22:00:00.000Z,Charleston Southern,10,Kennesaw State,38
+2018-10-27T22:30:00.000Z,California,12,Washington,10
+2018-10-27T22:30:00.000Z,San José State,50,UNLV,37
+2018-10-27T23:00:00.000Z,Northwestern State,31,Houston Baptist,28
+2018-10-27T23:00:00.000Z,Northern Arizona,28,Cal Poly,38
+2018-10-27T23:00:00.000Z,McNeese,23,Central Arkansas,21
+2018-10-27T23:00:00.000Z,Southern,41,Jackson State,7
+2018-10-27T23:00:00.000Z,Syracuse,51,NC State,41
+2018-10-27T23:00:00.000Z,Tulsa,17,Tulane,24
+2018-10-27T23:00:00.000Z,Texas State,27,New Mexico State,20
+2018-10-27T23:00:00.000Z,Stanford,38,Washington State,41
+2018-10-27T23:00:00.000Z,Air Force,38,Boise State,48
+2018-10-27T23:00:00.000Z,Mississippi State,28,Texas A&M,13
+2018-10-27T23:00:00.000Z,Louisiana,47,Arkansas State,43
+2018-10-27T23:30:00.000Z,Western Kentucky,17,Florida International,38
+2018-10-27T23:30:00.000Z,South Carolina,27,Tennessee,24
+2018-10-27T23:30:00.000Z,UTEP,0,UAB,19
+2018-10-28T00:00:00.000Z,Navy,22,Notre Dame,44
+2018-10-28T00:00:00.000Z,Southern Utah,39,Northern Colorado,42
+2018-10-28T00:00:00.000Z,Oklahoma State,38,Texas,35
+2018-10-28T01:00:00.000Z,Sacramento State,14,Portland State,41
+2018-10-28T02:30:00.000Z,Fresno State,50,Hawai'i,20
+2018-10-28T02:30:00.000Z,Arizona,44,Oregon,15
+2018-10-28T02:30:00.000Z,Nevada,28,San Diego State,24
+2018-10-31T00:00:00.000Z,Bowling Green,28,Kent State,35
+2018-10-31T00:00:00.000Z,Buffalo,51,Miami (OH),42
+2018-10-31T23:30:00.000Z,Toledo,45,Ball State,13
+2018-11-01T23:00:00.000Z,Western Michigan,14,Ohio,59
+2018-11-01T23:00:00.000Z,Akron,26,Northern Illinois,36
+2018-11-01T23:30:00.000Z,UCF,52,Temple,40
+2018-11-02T22:00:00.000Z,Cornell,7,Pennsylvania,20
+2018-11-02T23:30:00.000Z,Virginia,13,Pittsburgh,23
+2018-11-03T00:00:00.000Z,Middle Tennessee,29,Western Kentucky,10
+2018-11-03T02:30:00.000Z,Arizona,42,Colorado,34
+2018-11-03T12:00:00.000Z,Army,17,Air Force,14
+2018-11-03T16:00:00.000Z,Clemson,77,Louisville,16
+2018-11-03T16:00:00.000Z,Sacred Heart,38,Robert Morris,7
+2018-11-03T16:00:00.000Z,Marist,35,Valparaiso,24
+2018-11-03T16:00:00.000Z,East Carolina,41,Memphis,59
+2018-11-03T16:00:00.000Z,Wagner,30,Duquesne,47
+2018-11-03T16:00:00.000Z,Maryland,3,Michigan State,24
+2018-11-03T16:00:00.000Z,Auburn,28,Texas A&M,24
+2018-11-03T16:00:00.000Z,St Francis (PA),27,Bryant,14
+2018-11-03T16:00:00.000Z,Jacksonville,48,Butler,44
+2018-11-03T16:00:00.000Z,Harvard,52,Columbia,18
+2018-11-03T16:00:00.000Z,Baylor,35,Oklahoma State,31
+2018-11-03T16:00:00.000Z,Ole Miss,44,South Carolina,48
+2018-11-03T16:00:00.000Z,Wake Forest,24,Syracuse,41
+2018-11-03T16:00:00.000Z,Ohio State,36,Nebraska,31
+2018-11-03T16:00:00.000Z,Kansas,3,Iowa State,27
+2018-11-03T16:00:00.000Z,Wisconsin,31,Rutgers,17
+2018-11-03T16:00:00.000Z,Eastern Michigan,17,Central Michigan,7
+2018-11-03T16:15:00.000Z,North Carolina,28,Georgia Tech,38
+2018-11-03T16:30:00.000Z,Lehigh,45,Bucknell,17
+2018-11-03T16:30:00.000Z,Lafayette,14,Holy Cross,40
+2018-11-03T17:00:00.000Z,North Carolina A&T,37,Norfolk State,20
+2018-11-03T17:00:00.000Z,SUNY Maritime,10,Hampton,51
+2018-11-03T17:00:00.000Z,Monmouth,37,Charleston Southern,3
+2018-11-03T17:00:00.000Z,Furman,16,Chattanooga,10
+2018-11-03T17:00:00.000Z,Stetson,48,Morehead State,24
+2018-11-03T17:00:00.000Z,Indiana State,51,South Dakota,48
+2018-11-03T17:00:00.000Z,Howard,31,Florida A&M,23
+2018-11-03T17:00:00.000Z,Princeton,14,Dartmouth,9
+2018-11-03T17:00:00.000Z,New Hampshire,35,James Madison,24
+2018-11-03T17:00:00.000Z,Yale,46,Brown,16
+2018-11-03T17:00:00.000Z,Fordham,0,Colgate,41
+2018-11-03T17:30:00.000Z,Elon,24,Rhode Island,21
+2018-11-03T17:30:00.000Z,Gardner-Webb,38,Presbyterian College,20
+2018-11-03T17:30:00.000Z,VMI,20,Tusculum,11
+2018-11-03T18:00:00.000Z,Jacksonville State,21,UT Martin,14
+2018-11-03T18:00:00.000Z,Southern Illinois,31,Western Illinois,34
+2018-11-03T18:00:00.000Z,Kennesaw State,49,Campbell,0
+2018-11-03T18:00:00.000Z,Northern Iowa,26,Illinois State,16
+2018-11-03T18:00:00.000Z,Georgia State,30,Texas State,40
+2018-11-03T18:00:00.000Z,Northern Colorado,13,Eastern Washington,48
+2018-11-03T18:00:00.000Z,Southeast Missouri State,38,Tennessee State,21
+2018-11-03T18:00:00.000Z,Delaware State,25,Savannah State,6
+2018-11-03T18:00:00.000Z,Weber State,26,Sacramento State,14
+2018-11-03T18:00:00.000Z,Wyoming,24,San José State,9
+2018-11-03T18:00:00.000Z,North Carolina Central,52,Edward Waters,12
+2018-11-03T18:00:00.000Z,Drake,10,San Diego,27
+2018-11-03T18:30:00.000Z,Tennessee Tech,27,Murray State,24
+2018-11-03T18:30:00.000Z,North Alabama,41,Shorter,14
+2018-11-03T19:00:00.000Z,Richmond,21,Villanova,45
+2018-11-03T19:00:00.000Z,South Dakota State,59,Missouri State,7
+2018-11-03T19:00:00.000Z,Abilene Christian,49,Northwestern State,47
+2018-11-03T19:00:00.000Z,Houston Baptist,20,Nicholls,41
+2018-11-03T19:00:00.000Z,Incarnate Word,43,Sam Houston State,26
+2018-11-03T19:00:00.000Z,Mercer,18,East Tennessee State,21
+2018-11-03T19:00:00.000Z,Samford,35,Wofford,20
+2018-11-03T19:00:00.000Z,Southern Utah,14,Montana,57
+2018-11-03T19:00:00.000Z,Alabama State,30,Texas Southern,21
+2018-11-03T19:00:00.000Z,Grambling,24,Mississippi Valley State,19
+2018-11-03T19:00:00.000Z,Jackson State,34,Prairie View,28
+2018-11-03T19:00:00.000Z,Louisiana Monroe,44,Georgia Southern,25
+2018-11-03T19:00:00.000Z,Arkansas State,38,South Alabama,14
+2018-11-03T19:00:00.000Z,Southern Mississippi,26,Marshall,24
+2018-11-03T19:30:00.000Z,Rice,26,UTEP,34
+2018-11-03T19:30:00.000Z,Cincinnati,42,Navy,0
+2018-11-03T19:30:00.000Z,Illinois,55,Minnesota,31
+2018-11-03T19:30:00.000Z,Kentucky,17,Georgia,34
+2018-11-03T19:30:00.000Z,South Florida,15,Tulane,41
+2018-11-03T19:30:00.000Z,Troy,26,Louisiana,16
+2018-11-03T19:30:00.000Z,TCU,14,Kansas State,13
+2018-11-03T19:30:00.000Z,Albany,16,Delaware,21
+2018-11-03T19:30:00.000Z,Southeastern Louisiana,23,McNeese,6
+2018-11-03T19:30:00.000Z,North Dakota State,17,Youngstown State,7
+2018-11-03T19:30:00.000Z,UMass,62,Liberty,59
+2018-11-03T19:30:00.000Z,Texas,41,West Virginia,42
+2018-11-03T19:30:00.000Z,NC State,47,Florida State,28
+2018-11-03T19:30:00.000Z,Purdue,38,Iowa,36
+2018-11-03T19:30:00.000Z,Arkansas-Pine Bluff,14,Alabama A&M,45
+2018-11-03T19:30:00.000Z,Western Carolina,24,The Citadel,38
+2018-11-03T19:45:00.000Z,Michigan,42,Penn State,7
+2018-11-03T19:45:00.000Z,Virginia Tech,21,Boston College,31
+2018-11-03T20:00:00.000Z,Florida,17,Missouri,38
+2018-11-03T20:00:00.000Z,Montana State,49,Cal Poly,42
+2018-11-03T20:00:00.000Z,UC Davis,42,Northern Arizona,20
+2018-11-03T20:00:00.000Z,Morgan State,28,Bethune-Cookman,30
+2018-11-03T20:00:00.000Z,Towson,28,Maine,35
+2018-11-03T20:00:00.000Z,Arizona State,38,Utah,20
+2018-11-03T20:00:00.000Z,Tennessee,14,Charlotte,3
+2018-11-03T20:00:00.000Z,New Mexico State,52,Alcorn State,42
+2018-11-03T21:00:00.000Z,Austin Peay,13,Eastern Kentucky,17
+2018-11-03T21:00:00.000Z,Coastal Carolina,7,Appalachian State,23
+2018-11-03T21:00:00.000Z,Idaho,31,North Dakota,27
+2018-11-03T23:00:00.000Z,Miami,12,Duke,20
+2018-11-03T23:00:00.000Z,SMU,45,Houston,31
+2018-11-03T23:00:00.000Z,Tulsa,49,Connecticut,19
+2018-11-03T23:00:00.000Z,Central Arkansas,24,Lamar,38
+2018-11-03T23:15:00.000Z,Northwestern,21,Notre Dame,31
+2018-11-03T23:30:00.000Z,Oregon,42,UCLA,21
+2018-11-03T23:30:00.000Z,Florida International,14,Florida Atlantic,49
+2018-11-03T23:30:00.000Z,Mississippi State,45,Louisiana Tech,3
+2018-11-03T23:30:00.000Z,UAB,52,UT San Antonio,3
+2018-11-04T00:00:00.000Z,LSU,0,Alabama,29
+2018-11-04T00:00:00.000Z,Texas Tech,46,Oklahoma,51
+2018-11-04T01:00:00.000Z,Washington,27,Stanford,23
+2018-11-04T02:00:00.000Z,Oregon State,21,USC,38
+2018-11-04T02:05:00.000Z,Portland State,45,Idaho State,48
+2018-11-04T02:15:00.000Z,New Mexico,23,San Diego State,31
+2018-11-04T02:15:00.000Z,Boise State,21,BYU,16
+2018-11-04T02:30:00.000Z,UNLV,3,Fresno State,48
+2018-11-04T02:45:00.000Z,Washington State,19,California,13
+2018-11-04T03:59:00.000Z,Hawai'i,17,Utah State,56
+2018-11-07T00:30:00.000Z,Buffalo,48,Kent State,14
+2018-11-08T00:00:00.000Z,Miami (OH),30,Ohio,28
+2018-11-08T01:00:00.000Z,Northern Illinois,38,Toledo,15
+2018-11-09T00:00:00.000Z,Bethune-Cookman,28,North Carolina Central,25
+2018-11-09T00:30:00.000Z,NC State,23,Wake Forest,27
+2018-11-10T00:00:00.000Z,Syracuse,54,Louisville,23
+2018-11-10T03:15:00.000Z,Boise State,24,Fresno State,17
+2018-11-10T17:00:00.000Z,Nebraska,54,Illinois,35
+2018-11-10T17:00:00.000Z,Indiana,34,Maryland,32
+2018-11-10T17:00:00.000Z,Michigan State,6,Ohio State,26
+2018-11-10T17:00:00.000Z,Eastern Michigan,27,Akron,7
+2018-11-10T17:00:00.000Z,Memphis,47,Tulsa,21
+2018-11-10T17:00:00.000Z,West Virginia,47,TCU,10
+2018-11-10T17:00:00.000Z,UCF,35,Navy,24
+2018-11-10T17:00:00.000Z,Texas A&M,38,Ole Miss,24
+2018-11-10T17:00:00.000Z,St Francis (PA),14,Central Connecticut,30
+2018-11-10T17:00:00.000Z,Butler,28,Stetson,23
+2018-11-10T17:00:00.000Z,Penn State,22,Wisconsin,10
+2018-11-10T17:00:00.000Z,Missouri,33,Vanderbilt,28
+2018-11-10T17:00:00.000Z,Florida,35,South Carolina,31
+2018-11-10T17:00:00.000Z,Kansas State,21,Kansas,17
+2018-11-10T17:00:00.000Z,Murray State,40,Southeast Missouri State,38
+2018-11-10T17:00:00.000Z,Duquesne,28,Sacred Heart,24
+2018-11-10T17:00:00.000Z,UMass,16,BYU,35
+2018-11-10T17:00:00.000Z,Elon,10,Towson,41
+2018-11-10T17:00:00.000Z,Connecticut,50,SMU,62
+2018-11-10T17:00:00.000Z,Youngstown State,31,Northern Iowa,10
+2018-11-10T17:00:00.000Z,Monmouth,14,Kennesaw State,51
+2018-11-10T17:00:00.000Z,Presbyterian College,6,Campbell,34
+2018-11-10T17:00:00.000Z,Brown,20,Columbia,42
+2018-11-10T17:00:00.000Z,Army,31,Lafayette,13
+2018-11-10T17:05:00.000Z,Holy Cross,17,Fordham,13
+2018-11-10T17:20:00.000Z,Duke,42,North Carolina,35
+2018-11-10T17:30:00.000Z,Georgetown,14,Bucknell,3
+2018-11-10T17:30:00.000Z,Lehigh,6,Colgate,48
+2018-11-10T17:30:00.000Z,Yale,43,Princeton,59
+2018-11-10T18:00:00.000Z,New Hampshire,24,Albany,10
+2018-11-10T18:00:00.000Z,Valparaiso,48,Jacksonville,30
+2018-11-10T18:00:00.000Z,Dayton,63,Morehead State,20
+2018-11-10T18:00:00.000Z,Bryant,36,Wagner,52
+2018-11-10T18:00:00.000Z,Stony Brook,17,Delaware,3
+2018-11-10T18:00:00.000Z,Villanova,17,William & Mary,24
+2018-11-10T18:00:00.000Z,Indiana State,28,Illinois State,23
+2018-11-10T18:00:00.000Z,Eastern Kentucky,40,Robert Morris,39
+2018-11-10T18:00:00.000Z,Chattanooga,9,Mercer,13
+2018-11-10T18:00:00.000Z,Morgan State,9,Delaware State,0
+2018-11-10T18:00:00.000Z,Norfolk State,29,Howard,17
+2018-11-10T18:00:00.000Z,Savannah State,12,North Carolina A&T,28
+2018-11-10T18:00:00.000Z,Pennsylvania,7,Harvard,29
+2018-11-10T18:00:00.000Z,Georgia Southern,21,Troy,35
+2018-11-10T18:30:00.000Z,Cornell,24,Dartmouth,35
+2018-11-10T18:30:00.000Z,VMI,13,Furman,49
+2018-11-10T19:00:00.000Z,James Madison,48,Rhode Island,31
+2018-11-10T19:00:00.000Z,South Dakota,17,Western Illinois,12
+2018-11-10T19:00:00.000Z,Drake,13,Marist,10
+2018-11-10T19:00:00.000Z,Mississippi Valley State,39,Hampton,54
+2018-11-10T19:00:00.000Z,Eastern Illinois,52,Austin Peay,21
+2018-11-10T19:00:00.000Z,Southern Illinois,38,South Dakota State,57
+2018-11-10T19:00:00.000Z,The Citadel,42,Samford,27
+2018-11-10T19:00:00.000Z,Alabama A&M,16,Grambling,29
+2018-11-10T19:00:00.000Z,Arizona State,31,UCLA,28
+2018-11-10T19:30:00.000Z,North Alabama,31,North Greenville,28
+2018-11-10T19:30:00.000Z,Marshall,30,Charlotte,13
+2018-11-10T20:00:00.000Z,UTEP,32,Middle Tennessee,48
+2018-11-10T20:00:00.000Z,Virginia,45,Liberty,24
+2018-11-10T20:00:00.000Z,Richmond,9,Maine,28
+2018-11-10T20:00:00.000Z,Central Michigan,13,Bowling Green,24
+2018-11-10T20:00:00.000Z,Alabama State,2,Jackson State,20
+2018-11-10T20:00:00.000Z,North Dakota,17,Portland State,10
+2018-11-10T20:00:00.000Z,Charleston Southern,16,Gardner-Webb,0
+2018-11-10T20:00:00.000Z,UT Martin,38,Tennessee Tech,13
+2018-11-10T20:00:00.000Z,Tennessee State,14,Jacksonville State,41
+2018-11-10T20:00:00.000Z,Missouri State,7,North Dakota State,48
+2018-11-10T20:00:00.000Z,Montana State,35,Northern Colorado,7
+2018-11-10T20:30:00.000Z,Pittsburgh,52,Virginia Tech,22
+2018-11-10T20:30:00.000Z,Western Carolina,23,Wofford,38
+2018-11-10T20:30:00.000Z,Iowa State,28,Baylor,14
+2018-11-10T20:30:00.000Z,Colorado,7,Washington State,31
+2018-11-10T20:30:00.000Z,Alabama,24,Mississippi State,0
+2018-11-10T20:30:00.000Z,Sam Houston State,10,Abilene Christian,17
+2018-11-10T20:30:00.000Z,Oklahoma,48,Oklahoma State,47
+2018-11-10T20:30:00.000Z,Old Dominion,34,North Texas,31
+2018-11-10T20:30:00.000Z,Minnesota,41,Purdue,10
+2018-11-10T20:30:00.000Z,Rutgers,7,Michigan,42
+2018-11-10T20:30:00.000Z,Tennessee,24,Kentucky,7
+2018-11-10T20:30:00.000Z,Iowa,10,Northwestern,14
+2018-11-10T20:30:00.000Z,Air Force,42,New Mexico,24
+2018-11-10T21:00:00.000Z,Florida A&M,21,South Carolina State,44
+2018-11-10T21:00:00.000Z,Lamar,38,Houston Baptist,9
+2018-11-10T21:00:00.000Z,Utah State,62,San José State,24
+2018-11-10T21:00:00.000Z,Texas State,7,Appalachian State,38
+2018-11-10T21:00:00.000Z,Central Arkansas,27,Incarnate Word,40
+2018-11-10T21:00:00.000Z,Nicholls,47,Stephen F. Austin,14
+2018-11-10T21:00:00.000Z,Tulane,24,East Carolina,18
+2018-11-10T21:05:00.000Z,Eastern Washington,59,UC Davis,20
+2018-11-10T22:00:00.000Z,Coastal Carolina,16,Arkansas State,44
+2018-11-10T22:00:00.000Z,Louisiana,36,Georgia State,22
+2018-11-10T22:00:00.000Z,San Diego,56,Davidson,52
+2018-11-10T22:00:00.000Z,South Alabama,10,Louisiana Monroe,38
+2018-11-10T22:00:00.000Z,Florida Atlantic,34,Western Kentucky,15
+2018-11-10T22:00:00.000Z,Southern,56,Arkansas-Pine Bluff,24
+2018-11-10T22:30:00.000Z,Utah,32,Oregon,25
+2018-11-10T23:30:00.000Z,Idaho,27,Montana,46
+2018-11-11T00:00:00.000Z,Southern Utah,18,Weber State,31
+2018-11-11T00:00:00.000Z,Northwestern State,37,McNeese,34
+2018-11-11T00:00:00.000Z,Houston,49,Temple,59
+2018-11-11T00:00:00.000Z,Cincinnati,35,South Florida,23
+2018-11-11T00:00:00.000Z,Georgia,27,Auburn,10
+2018-11-11T00:00:00.000Z,Georgia Tech,27,Miami,21
+2018-11-11T00:00:00.000Z,Louisiana Tech,28,Rice,13
+2018-11-11T00:00:00.000Z,UT San Antonio,7,Florida International,45
+2018-11-11T00:05:00.000Z,Cal Poly,37,Idaho State,14
+2018-11-11T00:30:00.000Z,Notre Dame,42,Florida State,13
+2018-11-11T00:30:00.000Z,Texas Tech,34,Texas,41
+2018-11-11T00:30:00.000Z,UAB,26,Southern Mississippi,23
+2018-11-11T00:30:00.000Z,Arkansas,17,LSU,24
+2018-11-11T01:00:00.000Z,Boston College,7,Clemson,27
+2018-11-11T02:00:00.000Z,Stanford,48,Oregon State,17
+2018-11-11T03:30:00.000Z,USC,14,California,15
+2018-11-11T03:30:00.000Z,San Diego State,24,UNLV,27
+2018-11-11T03:30:00.000Z,Nevada,49,Colorado State,10
+2018-11-13T23:00:00.000Z,Ball State,42,Western Michigan,41
+2018-11-15T00:00:00.000Z,Ohio,52,Buffalo,17
+2018-11-15T01:00:00.000Z,Northern Illinois,7,Miami (OH),13
+2018-11-15T23:00:00.000Z,Kent State,34,Toledo,56
+2018-11-16T00:00:00.000Z,Nicholls,44,Southeastern Louisiana,0
+2018-11-16T00:00:00.000Z,Stephen F. Austin,23,Northwestern State,35
+2018-11-16T01:00:00.000Z,Houston,48,Tulane,17
+2018-11-16T02:30:00.000Z,North Texas,41,Florida Atlantic,38
+2018-11-17T02:00:00.000Z,SMU,18,Memphis,28
+2018-11-17T02:00:00.000Z,New Mexico,14,Boise State,45
+2018-11-17T03:05:00.000Z,Portland State,23,Eastern Washington,74
+2018-11-17T17:00:00.000Z,Maine,27,Elon,26
+2018-11-17T17:00:00.000Z,Maryland,51,Ohio State,52
+2018-11-17T17:00:00.000Z,Rhode Island,24,New Hampshire,21
+2018-11-17T17:00:00.000Z,Mississippi Valley State,14,Alabama A&M,42
+2018-11-17T17:00:00.000Z,Rutgers,7,Penn State,20
+2018-11-17T17:00:00.000Z,Central Connecticut,31,Duquesne,38
+2018-11-17T17:00:00.000Z,Temple,27,South Florida,17
+2018-11-17T17:00:00.000Z,Robert Morris,7,Wagner,41
+2018-11-17T17:00:00.000Z,Sacred Heart,13,St Francis (PA),7
+2018-11-17T17:00:00.000Z,Kentucky,34,Middle Tennessee,23
+2018-11-17T17:00:00.000Z,Marist,14,San Diego,31
+2018-11-17T17:00:00.000Z,Wake Forest,13,Pittsburgh,34
+2018-11-17T17:00:00.000Z,Harvard,45,Yale,27
+2018-11-17T17:00:00.000Z,Mississippi State,52,Arkansas,6
+2018-11-17T17:00:00.000Z,Minnesota,14,Northwestern,24
+2018-11-17T17:00:00.000Z,Delaware,21,Villanova,42
+2018-11-17T17:00:00.000Z,Florida,63,Idaho,10
+2018-11-17T17:00:00.000Z,Alabama,50,The Citadel,17
+2018-11-17T17:00:00.000Z,Army,28,Colgate,14
+2018-11-17T17:00:00.000Z,Nebraska,9,Michigan State,6
+2018-11-17T17:00:00.000Z,Baylor,9,TCU,16
+2018-11-17T17:20:00.000Z,Louisville,10,NC State,52
+2018-11-17T17:30:00.000Z,Georgetown,31,Holy Cross,32
+2018-11-17T17:30:00.000Z,Lafayette,3,Lehigh,34
+2018-11-17T18:00:00.000Z,Davidson,41,Butler,38
+2018-11-17T18:00:00.000Z,Illinois State,35,Youngstown State,28
+2018-11-17T18:00:00.000Z,Princeton,42,Pennsylvania,14
+2018-11-17T18:00:00.000Z,Columbia,24,Cornell,21
+2018-11-17T18:00:00.000Z,Stetson,45,Valparaiso,31
+2018-11-17T18:00:00.000Z,Jacksonville,7,Dayton,34
+2018-11-17T18:00:00.000Z,Howard,55,Bryant,56
+2018-11-17T18:00:00.000Z,Norfolk State,27,Morgan State,44
+2018-11-17T18:00:00.000Z,East Tennessee State,27,Samford,38
+2018-11-17T18:05:00.000Z,Morehead State,6,Drake,43
+2018-11-17T18:30:00.000Z,Dartmouth,49,Brown,7
+2018-11-17T18:30:00.000Z,South Carolina State,21,Savannah State,17
+2018-11-17T18:30:00.000Z,Bucknell,14,Fordham,17
+2018-11-17T18:30:00.000Z,Gardner-Webb,42,Monmouth,56
+2018-11-17T18:30:00.000Z,Wofford,45,Presbyterian College,21
+2018-11-17T18:30:00.000Z,Colorado,7,Utah,30
+2018-11-17T19:00:00.000Z,Charlotte,35,Florida International,42
+2018-11-17T19:00:00.000Z,Colorado State,24,Utah State,29
+2018-11-17T19:00:00.000Z,Old Dominion,77,VMI,14
+2018-11-17T19:00:00.000Z,Delaware State,41,Virginia Lynchburg,7
+2018-11-17T19:00:00.000Z,North Carolina Central,0,North Carolina A&T,45
+2018-11-17T19:00:00.000Z,Florida A&M,19,Bethune-Cookman,33
+2018-11-17T19:00:00.000Z,Towson,17,James Madison,38
+2018-11-17T19:00:00.000Z,Montana,25,Montana State,29
+2018-11-17T19:00:00.000Z,Campbell,7,Charleston Southern,12
+2018-11-17T19:00:00.000Z,Southeast Missouri State,38,Eastern Illinois,32
+2018-11-17T19:00:00.000Z,William & Mary,6,Richmond,10
+2018-11-17T19:00:00.000Z,Prairie View,66,Alabama State,13
+2018-11-17T19:00:00.000Z,Western Illinois,13,Indiana State,15
+2018-11-17T19:30:00.000Z,Marshall,23,UT San Antonio,0
+2018-11-17T19:30:00.000Z,Tennessee Tech,6,Eastern Kentucky,37
+2018-11-17T19:30:00.000Z,Notre Dame,36,Syracuse,3
+2018-11-17T19:30:00.000Z,Appalachian State,45,Georgia State,17
+2018-11-17T20:00:00.000Z,San José State,12,Nevada,21
+2018-11-17T20:00:00.000Z,Arkansas State,31,Louisiana Monroe,17
+2018-11-17T20:00:00.000Z,Tennessee State,31,UT Martin,28
+2018-11-17T20:00:00.000Z,Kennesaw State,60,Jacksonville State,52
+2018-11-17T20:00:00.000Z,South Dakota State,49,South Dakota,27
+2018-11-17T20:00:00.000Z,Alcorn State,24,Jackson State,3
+2018-11-17T20:00:00.000Z,UC Davis,56,Sacramento State,13
+2018-11-17T20:00:00.000Z,Abilene Christian,7,Central Arkansas,16
+2018-11-17T20:00:00.000Z,North Carolina,49,Western Carolina,26
+2018-11-17T20:00:00.000Z,Houston Baptist,20,Sam Houston State,42
+2018-11-17T20:00:00.000Z,Mercer,30,Furman,35
+2018-11-17T20:30:00.000Z,North Dakota State,65,Southern Illinois,17
+2018-11-17T20:30:00.000Z,Oklahoma State,45,West Virginia,41
+2018-11-17T20:30:00.000Z,Albany,25,Stony Brook,23
+2018-11-17T20:30:00.000Z,Purdue,44,Wisconsin,47
+2018-11-17T20:30:00.000Z,Troy,12,Texas State,7
+2018-11-17T20:30:00.000Z,Illinois,0,Iowa,63
+2018-11-17T20:30:00.000Z,Florida State,22,Boston College,21
+2018-11-17T20:30:00.000Z,Virginia Tech,14,Miami,38
+2018-11-17T20:30:00.000Z,Kansas State,21,Texas Tech,6
+2018-11-17T20:30:00.000Z,Akron,6,Bowling Green,21
+2018-11-17T20:30:00.000Z,UCLA,34,USC,27
+2018-11-17T20:30:00.000Z,Tennessee,17,Missouri,50
+2018-11-17T20:30:00.000Z,Georgia Tech,30,Virginia,27
+2018-11-17T20:30:00.000Z,Southern Mississippi,21,Louisiana Tech,20
+2018-11-17T20:30:00.000Z,Navy,37,Tulsa,29
+2018-11-17T21:00:00.000Z,Wyoming,35,Air Force,27
+2018-11-17T21:00:00.000Z,Georgia,66,UMass,27
+2018-11-17T21:00:00.000Z,Auburn,53,Liberty,0
+2018-11-17T21:00:00.000Z,Michigan,31,Indiana,20
+2018-11-17T21:00:00.000Z,McNeese,17,Lamar,21
+2018-11-17T21:30:00.000Z,Northern Arizona,31,North Dakota,16
+2018-11-17T21:30:00.000Z,Washington,42,Oregon State,23
+2018-11-17T21:35:00.000Z,Idaho State,13,Weber State,26
+2018-11-17T22:00:00.000Z,Louisiana,48,South Alabama,38
+2018-11-17T22:00:00.000Z,Northern Iowa,37,Missouri State,0
+2018-11-17T22:00:00.000Z,Coastal Carolina,17,Georgia Southern,41
+2018-11-17T22:00:00.000Z,Austin Peay,48,Murray State,23
+2018-11-18T00:00:00.000Z,Clemson,35,Duke,6
+2018-11-18T00:00:00.000Z,Texas A&M,41,UAB,20
+2018-11-18T00:00:00.000Z,East Carolina,55,Connecticut,21
+2018-11-18T00:05:00.000Z,Cal Poly,38,Southern Utah,24
+2018-11-18T00:30:00.000Z,LSU,42,Rice,10
+2018-11-18T00:30:00.000Z,Oklahoma,55,Kansas,40
+2018-11-18T00:30:00.000Z,Western Kentucky,40,UTEP,16
+2018-11-18T00:30:00.000Z,South Carolina,49,Chattanooga,9
+2018-11-18T00:30:00.000Z,Vanderbilt,36,Ole Miss,29
+2018-11-18T01:00:00.000Z,UCF,38,Cincinnati,13
+2018-11-18T01:00:00.000Z,Texas,24,Iowa State,10
+2018-11-18T01:30:00.000Z,Texas Southern,10,Arkansas-Pine Bluff,15
+2018-11-18T03:15:00.000Z,BYU,45,New Mexico State,10
+2018-11-18T03:30:00.000Z,Fresno State,23,San Diego State,14
+2018-11-18T03:30:00.000Z,Washington State,69,Arizona,28
+2018-11-18T03:30:00.000Z,Oregon,31,Arizona State,29
+2018-11-18T04:00:00.000Z,Hawai'i,35,UNLV,28
+2018-11-21T00:00:00.000Z,Western Michigan,28,Northern Illinois,21
+2018-11-21T00:00:00.000Z,Miami (OH),42,Ball State,21
+2018-11-22T20:00:00.000Z,Alabama State,31,Mississippi Valley State,24
+2018-11-22T20:30:00.000Z,Air Force,27,Colorado State,19
+2018-11-23T00:30:00.000Z,Ole Miss,3,Mississippi State,35
+2018-11-23T17:00:00.000Z,Kansas,17,Texas,24
+2018-11-23T17:00:00.000Z,Bowling Green,14,Buffalo,44
+2018-11-23T17:00:00.000Z,Iowa,31,Nebraska,28
+2018-11-23T17:00:00.000Z,Memphis,52,Houston,31
+2018-11-23T17:00:00.000Z,Ohio,49,Akron,28
+2018-11-23T17:00:00.000Z,Toledo,51,Central Michigan,13
+2018-11-23T17:00:00.000Z,Kent State,20,Eastern Michigan,28
+2018-11-23T19:30:00.000Z,Missouri,38,Arkansas,0
+2018-11-23T20:00:00.000Z,South Alabama,31,Coastal Carolina,28
+2018-11-23T20:30:00.000Z,Virginia Tech,34,Virginia,31
+2018-11-23T20:30:00.000Z,Cincinnati,56,East Carolina,6
+2018-11-23T21:00:00.000Z,Oregon State,15,Oregon,55
+2018-11-23T21:15:00.000Z,South Florida,10,UCF,38
+2018-11-24T01:00:00.000Z,West Virginia,56,Oklahoma,59
+2018-11-24T01:30:00.000Z,Washington State,15,Washington,28
+2018-11-24T17:00:00.000Z,Indiana,21,Purdue,28
+2018-11-24T17:00:00.000Z,Florida State,14,Florida,41
+2018-11-24T17:00:00.000Z,Georgia,45,Georgia Tech,21
+2018-11-24T17:00:00.000Z,Louisiana Tech,15,Western Kentucky,30
+2018-11-24T17:00:00.000Z,Texas Tech,24,Baylor,35
+2018-11-24T17:00:00.000Z,Boston College,21,Syracuse,42
+2018-11-24T17:00:00.000Z,Florida International,25,Marshall,28
+2018-11-24T17:00:00.000Z,Ohio State,62,Michigan,39
+2018-11-24T17:00:00.000Z,Tulane,29,Navy,28
+2018-11-24T17:20:00.000Z,North Carolina,28,NC State,34
+2018-11-24T17:30:00.000Z,Duke,7,Wake Forest,59
+2018-11-24T18:00:00.000Z,Rice,27,Old Dominion,13
+2018-11-24T18:30:00.000Z,South Carolina State,17,North Carolina Central,21
+2018-11-24T19:00:00.000Z,Prairie View,60,Texas Southern,14
+2018-11-24T19:00:00.000Z,Towson,10,Duquesne,31
+2018-11-24T19:00:00.000Z,Georgia State,14,Georgia Southern,35
+2018-11-24T19:00:00.000Z,Liberty,28,New Mexico State,21
+2018-11-24T19:00:00.000Z,Southeast Missouri State,28,Stony Brook,14
+2018-11-24T19:00:00.000Z,Wofford,19,Elon,7
+2018-11-24T19:30:00.000Z,New Mexico,3,Wyoming,31
+2018-11-24T19:30:00.000Z,Appalachian State,21,Troy,10
+2018-11-24T20:00:00.000Z,UTEP,7,Southern Mississippi,39
+2018-11-24T20:00:00.000Z,James Madison,20,Delaware,6
+2018-11-24T20:00:00.000Z,Louisiana Monroe,28,Louisiana,31
+2018-11-24T20:00:00.000Z,UCLA,42,Stanford,49
+2018-11-24T20:00:00.000Z,Montana State,35,Incarnate Word,14
+2018-11-24T20:00:00.000Z,Middle Tennessee,27,UAB,3
+2018-11-24T20:30:00.000Z,Northwestern,24,Illinois,16
+2018-11-24T20:30:00.000Z,Miami,24,Pittsburgh,3
+2018-11-24T20:30:00.000Z,Connecticut,7,Temple,57
+2018-11-24T20:30:00.000Z,Penn State,38,Maryland,3
+2018-11-24T20:30:00.000Z,Arizona,40,Arizona State,41
+2018-11-24T20:30:00.000Z,Alabama,52,Auburn,21
+2018-11-24T20:30:00.000Z,Wisconsin,15,Minnesota,37
+2018-11-24T20:30:00.000Z,Tulsa,27,SMU,24
+2018-11-24T21:00:00.000Z,Michigan State,14,Rutgers,10
+2018-11-24T21:00:00.000Z,Texas State,7,Arkansas State,33
+2018-11-24T21:00:00.000Z,Vanderbilt,38,Tennessee,13
+2018-11-24T21:00:00.000Z,Nicholls,49,San Diego,30
+2018-11-24T22:00:00.000Z,Southern,38,Grambling,28
+2018-11-24T22:00:00.000Z,Northern Iowa,16,Lamar,13
+2018-11-24T23:00:00.000Z,Florida Atlantic,24,Charlotte,27
+2018-11-25T00:00:00.000Z,California,33,Colorado,21
+2018-11-25T00:00:00.000Z,Louisville,10,Kentucky,56
+2018-11-25T00:00:00.000Z,Clemson,56,South Carolina,35
+2018-11-25T00:00:00.000Z,UT San Antonio,21,North Texas,24
+2018-11-25T00:00:00.000Z,Iowa State,42,Kansas State,38
+2018-11-25T00:00:00.000Z,Fresno State,31,San José State,13
+2018-11-25T00:30:00.000Z,Texas A&M,74,LSU,72
+2018-11-25T00:30:00.000Z,Jacksonville State,34,East Tennessee State,27
+2018-11-25T01:00:00.000Z,TCU,31,Oklahoma State,24
+2018-11-25T01:00:00.000Z,USC,17,Notre Dame,24
+2018-11-25T02:30:00.000Z,UNLV,34,Nevada,29
+2018-11-25T03:00:00.000Z,Utah,35,BYU,27
+2018-11-25T03:15:00.000Z,Boise State,33,Utah State,24
+2018-11-25T03:30:00.000Z,San Diego State,30,Hawai'i,31
+2018-11-30T00:00:00.000Z,The Citadel,43,Charleston Southern,14
+2018-12-01T00:00:00.000Z,Buffalo,29,Northern Illinois,30
+2018-12-01T01:00:00.000Z,Washington,10,Utah,3
+2018-12-01T17:00:00.000Z,South Carolina,28,Akron,3
+2018-12-01T17:00:00.000Z,Appalachian State,30,Louisiana,19
+2018-12-01T17:00:00.000Z,NC State,58,East Carolina,3
+2018-12-01T17:00:00.000Z,Oklahoma,39,Texas,27
+2018-12-01T17:00:00.000Z,Virginia Tech,41,Marshall,20
+2018-12-01T17:00:00.000Z,Maine,55,Jacksonville State,27
+2018-12-01T17:00:00.000Z,Iowa State,27,Drake,24
+2018-12-01T18:00:00.000Z,Colgate,23,James Madison,20
+2018-12-01T18:30:00.000Z,Middle Tennessee,25,UAB,27
+2018-12-01T19:00:00.000Z,Kennesaw State,13,Wofford,10
+2018-12-01T19:00:00.000Z,Liberty,52,Norfolk State,17
+2018-12-01T20:00:00.000Z,North Dakota State,52,Montana State,10
+2018-12-01T20:00:00.000Z,South Dakota State,51,Duquesne,6
+2018-12-01T20:00:00.000Z,California,13,Stanford,23
+2018-12-01T20:45:00.000Z,UCF,56,Memphis,41
+2018-12-01T21:00:00.000Z,Weber State,48,Southeast Missouri State,23
+2018-12-01T21:00:00.000Z,Georgia,28,Alabama,35
+2018-12-01T21:30:00.000Z,Alcorn State,37,Southern,28
+2018-12-01T22:00:00.000Z,Eastern Washington,42,Nicholls,21
+2018-12-02T00:00:00.000Z,UC Davis,23,Northern Iowa,16
+2018-12-02T00:45:00.000Z,Boise State,16,Fresno State,19
+2018-12-02T01:00:00.000Z,Pittsburgh,10,Clemson,42
+2018-12-02T01:00:00.000Z,Ohio State,45,Northwestern,24
+2018-12-08T01:00:00.000Z,Weber State,18,Maine,23
+2018-12-08T17:00:00.000Z,North Dakota State,35,Colgate,0
+2018-12-08T19:00:00.000Z,Kennesaw State,17,South Dakota State,27
+2018-12-08T20:00:00.000Z,Army,17,Navy,10
+2018-12-08T21:00:00.000Z,Eastern Washington,34,UC Davis,29

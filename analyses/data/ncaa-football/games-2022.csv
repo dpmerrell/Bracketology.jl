@@ -1,0 +1,3604 @@
+﻿start_date,home_team,home_points,away_team,away_points
+2022-08-27T16:00:00.000Z,Western Kentucky,38,Austin Peay,27
+2022-08-27T16:30:00.000Z,Northwestern,31,Nebraska,28
+2022-08-27T19:00:00.000Z,Florida Memorial University,39,Edward Waters,34
+2022-08-27T19:30:00.000Z,Jacksonville State,42,Stephen F. Austin,17
+2022-08-27T19:30:00.000Z,UNLV,52,Idaho State,21
+2022-08-27T20:00:00.000Z,Utah State,31,Connecticut,20
+2022-08-27T20:00:00.000Z,Illinois,38,Wyoming,6
+2022-08-27T21:00:00.000Z,Florida State,47,Duquesne,7
+2022-08-27T23:00:00.000Z,Florida Atlantic,43,Charlotte,13
+2022-08-27T23:00:00.000Z,Alabama State,23,Howard,13
+2022-08-27T23:00:00.000Z,Mercer,63,Morehead State,13
+2022-08-28T00:15:00.000Z,North Carolina,56,Florida A&M,24
+2022-08-28T01:00:00.000Z,UTEP,13,North Texas,31
+2022-08-28T02:00:00.000Z,New Mexico State,12,Nevada,23
+2022-08-28T02:30:00.000Z,Hawai'i,10,Vanderbilt,63
+2022-09-01T18:00:00.000Z,New Mexico Highlands,18,Eastern New Mexico,34
+2022-09-01T21:30:00.000Z,Southern Connecticut State,7,Shepherd,48
+2022-09-01T22:00:00.000Z,Saginaw Valley,72,WV Wesleyan,0
+2022-09-01T22:00:00.000Z,Clarion,14,West Liberty,21
+2022-09-01T22:00:00.000Z,Bluefield,35,Johnson C Smith,34
+2022-09-01T22:00:00.000Z,Indiana State,17,North Alabama,14
+2022-09-01T22:00:00.000Z,Akron,30,St Francis (PA),23
+2022-09-01T22:00:00.000Z,Wagner,31,Fordham,48
+2022-09-01T22:00:00.000Z,Tusculum,70,St. Augustine's,13
+2022-09-01T22:00:00.000Z,Chowan,3,Barton College,17
+2022-09-01T22:00:00.000Z,Michigan Tech,23,Wisconsin-Platteville,13
+2022-09-01T22:00:00.000Z,Ashland,31,Notre Dame College,14
+2022-09-01T22:00:00.000Z,Campbell,29,The Citadel,10
+2022-09-01T22:30:00.000Z,California (PA),35,Fairmont State,15
+2022-09-01T23:00:00.000Z,Stony Brook,14,Rhode Island,35
+2022-09-01T23:00:00.000Z,UVA-Wise,41,Ferrum,9
+2022-09-01T23:00:00.000Z,Minnesota St-Moorhead,14,Sioux Falls,27
+2022-09-01T23:00:00.000Z,Frostburg State,21,American International,7
+2022-09-01T23:00:00.000Z,Samford,27,Kennesaw State,17
+2022-09-01T23:00:00.000Z,Furman,52,North Greenville,0
+2022-09-01T23:00:00.000Z,Valdosta State,36,Keiser University,21
+2022-09-01T23:00:00.000Z,Florida International,38,Bryant,37
+2022-09-01T23:00:00.000Z,Toledo,37,Long Island University,0
+2022-09-01T23:00:00.000Z,New Hampshire,31,Monmouth,21
+2022-09-01T23:00:00.000Z,Tennessee,59,Ball State,10
+2022-09-01T23:00:00.000Z,Pittsburgh,38,West Virginia,31
+2022-09-01T23:00:00.000Z,Gannon,47,Charleston (WV),13
+2022-09-01T23:00:00.000Z,Minnesota-Duluth,31,Southwest Minnesota State,21
+2022-09-01T23:00:00.000Z,Bemidji State,34,Minnesota State,37
+2022-09-01T23:00:00.000Z,Pace,31,East Stroudsburg,16
+2022-09-01T23:00:00.000Z,Northern State,30,Upper Iowa,0
+2022-09-01T23:00:00.000Z,UCF,56,South Carolina State,10
+2022-09-01T23:00:00.000Z,St. Anselm,28,Millersville,10
+2022-09-01T23:00:00.000Z,Virginia Union,77,Virginia Lynchburg,0
+2022-09-01T23:00:00.000Z,Wheeling Jesuit,25,Seton Hill College,11
+2022-09-01T23:00:00.000Z,Southern Arkansas,62,Northwestern Oklahoma State,31
+2022-09-01T23:00:00.000Z,East Central,12,Harding,29
+2022-09-01T23:00:00.000Z,Oklahoma Baptist,32,Ouachita Baptist,42
+2022-09-01T23:00:00.000Z,Northern Michigan,24,McKendree,31
+2022-09-01T23:00:00.000Z,Missouri S&T,20,South Dakota Mines,43
+2022-09-01T23:00:00.000Z,Southeastern Oklahoma,41,Arkansas Tech,34
+2022-09-01T23:00:00.000Z,Washburn,45,Lincoln (MO),3
+2022-09-01T23:00:00.000Z,Grand Valley State,25,Colorado Mines,22
+2022-09-01T23:00:00.000Z,Gardner-Webb,56,Limestone,21
+2022-09-01T23:00:00.000Z,Oklahoma State,58,Central Michigan,44
+2022-09-01T23:00:00.000Z,Quincy,15,Glenville State,44
+2022-09-01T23:00:00.000Z,Lakeland University,20,Illinois College,38
+2022-09-01T23:00:00.000Z,Millsaps,21,Belhaven College,49
+2022-09-01T23:00:00.000Z,Trine,38,Anderson (IN),0
+2022-09-01T23:00:00.000Z,Southern Nazarene,26,Arkansas-Monticello,40
+2022-09-01T23:30:00.000Z,Wake Forest,44,VMI,10
+2022-09-01T23:30:00.000Z,UT Martin,42,Western Illinois,25
+2022-09-01T23:30:00.000Z,Concordia-St. Paul,14,Augustana (SD),28
+2022-09-01T23:30:00.000Z,East Tennessee State,44,Mars Hill,7
+2022-09-01T23:30:00.000Z,Ferris State,36,Central Washington,20
+2022-09-02T00:00:00.000Z,UAB,59,Alabama A&M,0
+2022-09-02T00:00:00.000Z,Missouri,52,Louisiana Tech,24
+2022-09-02T00:00:00.000Z,Texas A&M-Commerce,52,Lincoln University (CA),7
+2022-09-02T00:00:00.000Z,Weber State,41,Western Oregon,5
+2022-09-02T00:00:00.000Z,Abilene Christian,28,Lamar,14
+2022-09-02T00:00:00.000Z,Tarleton State,29,Mississippi Valley State,13
+2022-09-02T00:00:00.000Z,Emporia State,42,Northeastern State,17
+2022-09-02T00:00:00.000Z,Dickinson State,2,Black Hills State,17
+2022-09-02T00:00:00.000Z,Northern Illinois,34,Eastern Illinois,27
+2022-09-02T00:00:00.000Z,Northwest Missouri State,33,Fort Hays State,19
+2022-09-02T00:00:00.000Z,Angelo State,35,Chadron State,0
+2022-09-02T00:00:00.000Z,Missouri Western,35,Central Oklahoma,0
+2022-09-02T00:00:00.000Z,Pittsburg State,21,Central Missouri State,10
+2022-09-02T00:00:00.000Z,Purdue,31,Penn State,35
+2022-09-02T00:00:00.000Z,Missouri Southern State,7,Nebraska-Kearney,24
+2022-09-02T00:00:00.000Z,William Jewell College,14,Colorado Mesa,37
+2022-09-02T00:00:00.000Z,Henderson State,30,Southwestern Oklahoma,13
+2022-09-02T00:00:00.000Z,Central Arkansas,14,Missouri State,27
+2022-09-02T00:00:00.000Z,Southern Utah,44,St. Thomas (MN),13
+2022-09-02T01:00:00.000Z,Minnesota,38,New Mexico State,0
+2022-09-02T02:00:00.000Z,Arizona State,40,Northern Arizona,3
+2022-09-02T02:30:00.000Z,San José State,21,Portland State,17
+2022-09-02T02:30:00.000Z,Fresno State,35,Cal Poly,7
+2022-09-02T22:00:00.000Z,West Chester,17,Bentley,16
+2022-09-02T22:00:00.000Z,Villanova,45,Lehigh,17
+2022-09-02T22:00:00.000Z,Salisbury,49,Albright,0
+2022-09-02T22:30:00.000Z,Curry,20,MIT,34
+2022-09-02T23:00:00.000Z,Merrimack,17,Holy Cross,31
+2022-09-02T23:00:00.000Z,Alvernia University,27,Ursinus,59
+2022-09-02T23:00:00.000Z,Worcester State College,21,Worcester Polytechnic,58
+2022-09-02T23:00:00.000Z,Hobart,36,Alfred,6
+2022-09-02T23:00:00.000Z,Michigan State,35,Western Michigan,13
+2022-09-02T23:00:00.000Z,Charlotte,24,William & Mary,41
+2022-09-02T23:00:00.000Z,Westfield State,29,Nichols,30
+2022-09-02T23:00:00.000Z,Eastern Michigan,42,Eastern Kentucky,34
+2022-09-02T23:00:00.000Z,Franklin & Marshall,26,Lebanon Valley,7
+2022-09-02T23:00:00.000Z,Merchant Marine,7,FDU-Florham,17
+2022-09-02T23:00:00.000Z,Springfield,42,Western New England,14
+2022-09-02T23:00:00.000Z,Old Dominion,20,Virginia Tech,17
+2022-09-02T23:00:00.000Z,Carnegie Mellon,35,Whitworth,17
+2022-09-02T23:00:00.000Z,Fitchburg State,33,Dean College,28
+2022-09-02T23:30:00.000Z,Duke,30,Temple,0
+2022-09-03T00:00:00.000Z,Kansas,56,Tennessee Tech,10
+2022-09-03T00:00:00.000Z,Indiana,23,Illinois,20
+2022-09-03T02:00:00.000Z,Colorado,13,TCU,38
+2022-09-03T16:00:00.000Z,Albion,52,Carthage,0
+2022-09-03T16:00:00.000Z,Greensboro,48,Guilford,37
+2022-09-03T16:00:00.000Z,Charleston Southern,38,Western Carolina,52
+2022-09-03T16:00:00.000Z,Texas A&M,31,Sam Houston State,0
+2022-09-03T16:00:00.000Z,Connecticut,28,Central Connecticut,3
+2022-09-03T16:00:00.000Z,Iowa,7,South Dakota State,3
+2022-09-03T16:00:00.000Z,Michigan,51,Colorado State,7
+2022-09-03T16:00:00.000Z,Appalachian State,61,North Carolina,63
+2022-09-03T16:00:00.000Z,Assumption,3,Kutztown,0
+2022-09-03T16:00:00.000Z,East Carolina,20,NC State,21
+2022-09-03T16:00:00.000Z,Navy,7,Delaware,14
+2022-09-03T16:00:00.000Z,Marietta,14,Dubuque,13
+2022-09-03T16:00:00.000Z,Case Western Reserve,14,Johns Hopkins,54
+2022-09-03T16:00:00.000Z,Wayland Baptist,14,Hardin-Simmons,79
+2022-09-03T16:00:00.000Z,Morrisville State,10,Kean,0
+2022-09-03T16:00:00.000Z,Plymouth State,20,Castleton State College,7
+2022-09-03T16:00:00.000Z,SUNY Cortland,48,Wittenberg,28
+2022-09-03T16:00:00.000Z,Salve Regina,7,Norwich,0
+2022-09-03T16:00:00.000Z,Ohio Dominican,28,Findlay,14
+2022-09-03T16:00:00.000Z,Robert Morris,20,Dayton,22
+2022-09-03T16:00:00.000Z,Ohio Wesleyan,13,Otterbein,21
+2022-09-03T16:00:00.000Z,Southwestern University,7,Cal Lutheran,37
+2022-09-03T16:00:00.000Z,Maryland,31,Buffalo,10
+2022-09-03T16:00:00.000Z,Bridgewater State,14,Ithaca,51
+2022-09-03T16:00:00.000Z,Allegheny,27,Union,42
+2022-09-03T16:00:00.000Z,College of New Jersey,31,Moravian,13
+2022-09-03T16:00:00.000Z,Brockport State (NY),27,Framingham State,7
+2022-09-03T16:00:00.000Z,Boston College,21,Rutgers,22
+2022-09-03T16:00:00.000Z,Marist,12,Georgetown,43
+2022-09-03T16:00:00.000Z,UMass Dartmouth,35,Husson,14
+2022-09-03T16:00:00.000Z,Delaware Valley,22,Westminster PA,8
+2022-09-03T16:30:00.000Z,Virginia,34,Richmond,17
+2022-09-03T16:30:00.000Z,Lafayette,6,Sacred Heart,0
+2022-09-03T17:00:00.000Z,WV State,29,Shippensburg,6
+2022-09-03T17:00:00.000Z,Brevard College,6,Shorter,45
+2022-09-03T17:00:00.000Z,St. Vincent,21,Stevenson,25
+2022-09-03T17:00:00.000Z,Sewanee Univ. of the South,50,St. Scholastica,0
+2022-09-03T17:00:00.000Z,DePauw,17,Rose-Hulman,14
+2022-09-03T17:00:00.000Z,Luther,6,Presentation College,29
+2022-09-03T17:00:00.000Z,Rensselaer,14,Dickinson,7
+2022-09-03T17:00:00.000Z,Bethany (WV),26,Hiram,16
+2022-09-03T17:00:00.000Z,Butler,31,St. Thomas University (Fl),26
+2022-09-03T17:00:00.000Z,Keystone,21,Wilkes,48
+2022-09-03T17:00:00.000Z,Air Force,48,Northern Iowa,17
+2022-09-03T17:00:00.000Z,Hartwick,31,SUNY Maritime,10
+2022-09-03T17:00:00.000Z,Kentucky State,10,Delta State,33
+2022-09-03T17:00:00.000Z,Widener,20,Rowan,42
+2022-09-03T17:00:00.000Z,Lycoming,16,Susquehanna,45
+2022-09-03T17:00:00.000Z,Kalamazoo,21,Oberlin,14
+2022-09-03T17:00:00.000Z,Rockford,41,Beloit College,14
+2022-09-03T17:00:00.000Z,Ripon,13,St. Norbert,10
+2022-09-03T17:00:00.000Z,Ohio Northern,13,Alma College,16
+2022-09-03T17:00:00.000Z,Wabash College,52,Hampden-Sydney,48
+2022-09-03T17:00:00.000Z,Grove City College,63,Juniata,6
+2022-09-03T17:00:00.000Z,Gallaudet,14,Waynesburg,52
+2022-09-03T17:00:00.000Z,Methodist,10,Shenandoah,27
+2022-09-03T17:00:00.000Z,Kenyon,33,Bluffton,26
+2022-09-03T17:00:00.000Z,St. John Fisher,62,Buffalo State,21
+2022-09-03T17:00:00.000Z,Gettysburg,14,Bridgewater (VA),29
+2022-09-03T17:00:00.000Z,Augustana (IL),34,Rhodes,28
+2022-09-03T17:00:00.000Z,McDaniel College,27,Catholic University,37
+2022-09-03T17:00:00.000Z,Alfred State College,17,Misericordia,14
+2022-09-03T17:00:00.000Z,Washington & Jefferson,35,John Carroll,26
+2022-09-03T17:00:00.000Z,Montclair State,27,Thiel College,6
+2022-09-03T17:00:00.000Z,Coe,56,Cornell College (IA),7
+2022-09-03T17:00:00.000Z,Hope,38,Aurora,34
+2022-09-03T17:00:00.000Z,Truman State,19,Davenport,20
+2022-09-03T17:00:00.000Z,Erskine,49,UFTL,2
+2022-09-03T17:00:00.000Z,Post University,34,Lock Haven,35
+2022-09-03T17:00:00.000Z,Bowie State,27,New Haven,20
+2022-09-03T17:00:00.000Z,Emory & Henry,20,Concord,27
+2022-09-03T17:00:00.000Z,Northwood (MI),55,Kentucky Wesleyan,13
+2022-09-03T17:00:00.000Z,Franklin Pierce,7,Edinboro,10
+2022-09-03T17:00:00.000Z,St Lawrence,0,Endicott College,27
+2022-09-03T17:00:00.000Z,William Paterson,28,Western Connecticut State,7
+2022-09-03T17:30:00.000Z,Coast Guard,10,University of New England,17
+2022-09-03T17:30:00.000Z,Mount St. Joseph,31,Baldwin-Wallace,28
+2022-09-03T17:30:00.000Z,Mount Union,65,Defiance,0
+2022-09-03T18:00:00.000Z,Millikin,28,Greenville,14
+2022-09-03T18:00:00.000Z,Maryville TN,24,Berry College,31
+2022-09-03T18:00:00.000Z,Iowa State,42,Southeast Missouri State,10
+2022-09-03T18:00:00.000Z,Walsh,0,Tiffin,42
+2022-09-03T18:00:00.000Z,Concordia (IL),14,Chicago,34
+2022-09-03T18:00:00.000Z,Delaware State,34,Lincoln (PA),0
+2022-09-03T18:00:00.000Z,McMurry,9,Birmingham-Southern,26
+2022-09-03T18:00:00.000Z,Texas Lutheran,45,Howard Payne,59
+2022-09-03T18:00:00.000Z,Lake Forest,42,Wisconsin Lutheran,7
+2022-09-03T18:00:00.000Z,Eureka College,6,Nebraska Wesleyan University,31
+2022-09-03T18:00:00.000Z,Jacksonville State,35,Davidson,17
+2022-09-03T18:00:00.000Z,Olivet College,35,Franklin,31
+2022-09-03T18:00:00.000Z,Elmhurst,0,UW-River Falls,63
+2022-09-03T18:00:00.000Z,Bloomsburg,30,Stonehill,33
+2022-09-03T18:00:00.000Z,Youngstown State,31,Duquesne,14
+2022-09-03T18:00:00.000Z,Central,44,St. Olaf College,13
+2022-09-03T18:00:00.000Z,Wisconsin-Eau Claire,30,Loras College,27
+2022-09-03T18:00:00.000Z,Minot State,10,Winona State,24
+2022-09-03T18:00:00.000Z,Hendrix College,20,Austin College,0
+2022-09-03T18:00:00.000Z,St. Johns (MN),24,UW-Whitewater,10
+2022-09-03T18:00:00.000Z,Martin Luther College,14,Concordia (WI),35
+2022-09-03T18:00:00.000Z,Bethel (MN),41,Pacific Lutheran,9
+2022-09-03T18:00:00.000Z,Knox College,26,Westminster,0
+2022-09-03T18:00:00.000Z,UW-Oshkosh,52,East Texas Baptist,13
+2022-09-03T18:30:00.000Z,UCLA,45,Bowling Green,17
+2022-09-03T19:00:00.000Z,Lake Erie College,31,Hillsdale,35
+2022-09-03T19:00:00.000Z,Willamette,21,Pomona-Pitzer,44
+2022-09-03T19:00:00.000Z,Montana,47,Northwestern State,0
+2022-09-03T19:30:00.000Z,Arkansas,31,Cincinnati,24
+2022-09-03T19:30:00.000Z,Georgia,49,Oregon,3
+2022-09-03T19:30:00.000Z,Oklahoma,45,UTEP,13
+2022-09-03T19:30:00.000Z,Wyoming,40,Tulsa,37
+2022-09-03T19:30:00.000Z,Marshall,55,Norfolk State,3
+2022-09-03T19:30:00.000Z,Miami,70,Bethune-Cookman,13
+2022-09-03T19:30:00.000Z,San Diego State,20,Arizona,38
+2022-09-03T19:30:00.000Z,Nebraska,38,North Dakota,17
+2022-09-03T19:30:00.000Z,UT San Antonio,35,Houston,37
+2022-09-03T19:30:00.000Z,North Dakota State,56,Drake,14
+2022-09-03T20:00:00.000Z,South Florida,21,BYU,50
+2022-09-03T20:00:00.000Z,California,34,UC Davis,13
+2022-09-03T20:00:00.000Z,Edward Waters,34,Clark Atlanta,39
+2022-09-03T20:00:00.000Z,Shaw,7,Wingate,21
+2022-09-03T20:00:00.000Z,Eastern Washington,36,Tennessee State,29
+2022-09-03T20:00:00.000Z,Lewis & Clark,41,Puget Sound,15
+2022-09-03T20:00:00.000Z,Northern Colorado,34,Houston Baptist,46
+2022-09-03T20:00:00.000Z,Ole Miss,28,Troy,10
+2022-09-03T21:00:00.000Z,Wisconsin-La Crosse,42,Dakota State,7
+2022-09-03T21:00:00.000Z,South Alabama,48,Nicholls,7
+2022-09-03T21:30:00.000Z,Nevada,38,Texas State,14
+2022-09-03T22:00:00.000Z,Chattanooga,31,Wofford,0
+2022-09-03T22:00:00.000Z,Stetson,24,Concordia College (MI),14
+2022-09-03T22:00:00.000Z,Hampton,31,Howard,28
+2022-09-03T22:00:00.000Z,Morehouse,16,West Alabama,24
+2022-09-03T22:00:00.000Z,Slippery Rock,42,Wayne State (MI),10
+2022-09-03T22:00:00.000Z,West Georgia,38,Carson-Newman,7
+2022-09-03T22:00:00.000Z,Alderson-Broaddus,28,Mercyhurst,45
+2022-09-03T22:00:00.000Z,Newberry,40,Allen,6
+2022-09-03T22:00:00.000Z,Indianapolis,57,St. Xavier (IL),0
+2022-09-03T22:00:00.000Z,Washington & Lee,3,Christopher Newport,9
+2022-09-03T22:00:00.000Z,Randolph-Macon,49,NC Wesleyan,7
+2022-09-03T22:00:00.000Z,Buena Vista,20,Gustavus Adolphus,62
+2022-09-03T22:00:00.000Z,USC,66,Rice,14
+2022-09-03T22:00:00.000Z,James Madison,44,Middle Tennessee,7
+2022-09-03T22:00:00.000Z,Ohio,41,Florida Atlantic,38
+2022-09-03T22:00:00.000Z,Georgia Southern,59,Morgan State,7
+2022-09-03T22:00:00.000Z,Lenoir-Rhyne,38,Virginia State,19
+2022-09-03T22:00:00.000Z,Livingstone,19,Catawba,44
+2022-09-03T22:00:00.000Z,Benedict College,52,Elizabeth City State,14
+2022-09-03T22:00:00.000Z,Alabama State,21,Miles,13
+2022-09-03T22:00:00.000Z,Finlandia University,7,Benedictine (IL),52
+2022-09-03T22:00:00.000Z,Bucknell,13,Towson,14
+2022-09-03T22:30:00.000Z,University of Mary,28,Wayne State (NE),33
+2022-09-03T23:00:00.000Z,Arkansas-Pine Bluff,48,Lane,42
+2022-09-03T23:00:00.000Z,Austin Peay,63,Presbyterian College,0
+2022-09-03T23:00:00.000Z,Wisconsin,38,Illinois State,0
+2022-09-03T23:00:00.000Z,Trinity (TX),55,Sul Ross State,7
+2022-09-03T23:00:00.000Z,Kansas State,34,South Dakota,0
+2022-09-03T23:00:00.000Z,Vanderbilt,42,Elon,31
+2022-09-03T23:00:00.000Z,Auburn,42,Mercer,16
+2022-09-03T23:00:00.000Z,Southern Virginia,27,Wilmington (OH),52
+2022-09-03T23:00:00.000Z,Incarnate Word,64,Southern Illinois,29
+2022-09-03T23:00:00.000Z,Arkansas State,58,Grambling,3
+2022-09-03T23:00:00.000Z,Baylor,69,Albany,10
+2022-09-03T23:00:00.000Z,Tulane,42,UMass,10
+2022-09-03T23:00:00.000Z,Coastal Carolina,38,Army,28
+2022-09-03T23:00:00.000Z,Kentucky,37,Miami (OH),13
+2022-09-03T23:00:00.000Z,Florida,29,Utah,26
+2022-09-03T23:00:00.000Z,North Park,14,Manchester,23
+2022-09-03T23:00:00.000Z,Alcorn State,27,Stephen F. Austin,31
+2022-09-03T23:00:00.000Z,Prairie View,40,Texas Southern,23
+2022-09-03T23:00:00.000Z,Southern Mississippi,27,Liberty,29
+2022-09-03T23:00:00.000Z,University of Texas of the Permian Basin,17,Southwest Baptist,41
+2022-09-03T23:00:00.000Z,Denison,48,Capital,31
+2022-09-03T23:00:00.000Z,Huntingdon,34,Linfield,41
+2022-09-03T23:00:00.000Z,Utica,43,Rochester,28
+2022-09-03T23:00:00.000Z,Valparaiso,20,Indiana Wesleyan,17
+2022-09-03T23:00:00.000Z,Louisiana,24,Southeastern Louisiana,7
+2022-09-03T23:00:00.000Z,West Florida,52,Warner,3
+2022-09-03T23:00:00.000Z,Wisconsin-Stevens Point,24,Mayville State,31
+2022-09-03T23:00:00.000Z,Fayetteville State,15,UNC Pembroke,13
+2022-09-03T23:00:00.000Z,Albany State (GA),28,Mississippi College,14
+2022-09-03T23:00:00.000Z,Mary Hardin-Baylor,62,Muhlenberg,13
+2022-09-03T23:00:00.000Z,Minnesota-Morris,24,Macalester,45
+2022-09-03T23:00:00.000Z,Heidelberg,31,Adrian,0
+2022-09-03T23:00:00.000Z,Southern,86,Florida Memorial University,0
+2022-09-03T23:00:00.000Z,Midwestern State,27,Colorado State-Pueblo,59
+2022-09-03T23:30:00.000Z,North Carolina Central,28,North Carolina A&T,13
+2022-09-03T23:30:00.000Z,North Texas,10,SMU,48
+2022-09-03T23:30:00.000Z,Ohio State,21,Notre Dame,10
+2022-09-03T23:30:00.000Z,Geneva College,25,Wooster,33
+2022-09-03T23:30:00.000Z,South Carolina,35,Georgia State,14
+2022-09-03T23:30:00.000Z,Mississippi State,49,Memphis,23
+2022-09-03T23:30:00.000Z,Alabama,55,Utah State,0
+2022-09-04T00:00:00.000Z,Texas Tech,63,Murray State,10
+2022-09-04T00:00:00.000Z,Texas A&M-Kingsville,60,North American University,0
+2022-09-04T00:00:00.000Z,Texas,52,Louisiana Monroe,10
+2022-09-04T00:00:00.000Z,Northwestern (MN),15,Augsburg,23
+2022-09-04T00:00:00.000Z,New Mexico,41,Maine,0
+2022-09-04T00:00:00.000Z,Western State,6,West Texas A&M,44
+2022-09-04T00:00:00.000Z,Stanford,41,Colgate,10
+2022-09-04T00:00:00.000Z,Syracuse,31,Louisville,7
+2022-09-04T00:00:00.000Z,Crown College,14,Hamline,39
+2022-09-04T00:00:00.000Z,Western New Mexico,34,Adams State,20
+2022-09-04T00:00:00.000Z,Montana State,40,McNeese,17
+2022-09-04T00:00:00.000Z,Monmouth (IL),7,Wartburg,34
+2022-09-04T01:00:00.000Z,San Diego,58,La Verne,0
+2022-09-04T01:30:00.000Z,Washington State,24,Idaho,17
+2022-09-04T02:00:00.000Z,Chapman,42,Pacific (OR),21
+2022-09-04T02:00:00.000Z,George Fox University,38,Redlands,31
+2022-09-04T02:30:00.000Z,Washington,45,Kent State,20
+2022-09-04T02:30:00.000Z,Oregon State,34,Boise State,17
+2022-09-04T02:30:00.000Z,Sacramento State,56,Utah Tech,33
+2022-09-04T03:59:00.000Z,Hawai'i,17,Western Kentucky,49
+2022-09-04T17:00:00.000Z,Hanover,29,Centre,31
+2022-09-04T19:00:00.000Z,Jackson State,59,Florida A&M,3
+2022-09-04T20:00:00.000Z,Central State,41,Winston-Salem,21
+2022-09-04T23:00:00.000Z,Tuskegee,6,Fort Valley State,21
+2022-09-04T23:30:00.000Z,Florida State,24,LSU,23
+2022-09-06T00:00:00.000Z,Georgia Tech,10,Clemson,41
+2022-09-08T22:00:00.000Z,West Liberty,30,Alderson-Broaddus,17
+2022-09-08T23:00:00.000Z,Fairmont State,38,Charleston (WV),40
+2022-09-08T23:00:00.000Z,Quincy,53,Trinity International (IL),14
+2022-09-09T00:00:00.000Z,Fort Hays State,19,Missouri Western,35
+2022-09-09T00:00:00.000Z,Central Oklahoma,21,Emporia State,13
+2022-09-09T00:00:00.000Z,Nebraska-Kearney,28,Pittsburg State,35
+2022-09-09T00:00:00.000Z,Missouri State,35,UT Martin,30
+2022-09-09T00:00:00.000Z,Central Missouri State,32,Washburn,40
+2022-09-09T23:00:00.000Z,Worcester Polytechnic,0,Endicott College,24
+2022-09-09T23:00:00.000Z,SUNY Maritime,17,Mass Maritime,14
+2022-09-09T23:00:00.000Z,Nichols,71,Dean College,55
+2022-09-09T23:00:00.000Z,FDU-Florham,28,William Paterson,21
+2022-09-09T23:00:00.000Z,Merrimack,45,Assumption,17
+2022-09-09T23:30:00.000Z,UCF,14,Louisville,20
+2022-09-10T01:00:00.000Z,New Mexico,14,Boise State,31
+2022-09-10T16:00:00.000Z,Army,38,UT San Antonio,41
+2022-09-10T16:00:00.000Z,Shorter,34,Catawba,21
+2022-09-10T16:00:00.000Z,Anna Maria College,63,UMass Dartmouth,48
+2022-09-10T16:00:00.000Z,Albion,51,Bluffton,2
+2022-09-10T16:00:00.000Z,Millersville,10,Gannon,16
+2022-09-10T16:00:00.000Z,Alfred,37,Mount St. Joseph,43
+2022-09-10T16:00:00.000Z,Duquesne,34,Thomas More,14
+2022-09-10T16:00:00.000Z,Husson,0,Plymouth State,17
+2022-09-10T16:00:00.000Z,UNC Pembroke,50,WV Wesleyan,26
+2022-09-10T16:00:00.000Z,Kutztown,24,California (PA),19
+2022-09-10T16:00:00.000Z,Arkansas,44,South Carolina,30
+2022-09-10T16:00:00.000Z,Montclair State,6,Delaware Valley,14
+2022-09-10T16:00:00.000Z,Framingham State,31,St. John Fisher,20
+2022-09-10T16:00:00.000Z,Springfield,35,Rowan,38
+2022-09-10T16:00:00.000Z,Utica,21,Kean,15
+2022-09-10T16:00:00.000Z,Texas,19,Alabama,20
+2022-09-10T16:00:00.000Z,Northwestern,23,Duke,31
+2022-09-10T16:00:00.000Z,Minnesota,62,Western Illinois,10
+2022-09-10T16:00:00.000Z,Kansas State,40,Missouri,12
+2022-09-10T16:00:00.000Z,Georgia State,28,North Carolina,35
+2022-09-10T16:00:00.000Z,Hilbert College,0,Denison,63
+2022-09-10T16:00:00.000Z,Shepherd,41,Edinboro,7
+2022-09-10T16:00:00.000Z,West Chester,14,Slippery Rock,35
+2022-09-10T16:00:00.000Z,Penn State,46,Ohio,10
+2022-09-10T16:00:00.000Z,Ohio State,45,Arkansas State,12
+2022-09-10T16:00:00.000Z,Notre Dame College,27,Wheeling Jesuit,14
+2022-09-10T16:00:00.000Z,Miami,30,Southern Mississippi,7
+2022-09-10T16:00:00.000Z,Vanderbilt,25,Wake Forest,45
+2022-09-10T16:00:00.000Z,Oberlin,35,Alvernia University,38
+2022-09-10T16:00:00.000Z,Otterbein,7,Heidelberg,34
+2022-09-10T16:00:00.000Z,Norwich,19,St Lawrence,30
+2022-09-10T16:00:00.000Z,Hiram,21,Wooster,49
+2022-09-10T16:00:00.000Z,SUNY Cortland,63,College of New Jersey,7
+2022-09-10T16:30:00.000Z,NC State,55,Charleston Southern,3
+2022-09-10T17:00:00.000Z,Tiffin,28,Ohio Dominican,13
+2022-09-10T17:00:00.000Z,Wabash College,12,North Central,56
+2022-09-10T17:00:00.000Z,Rensselaer,7,Carnegie Mellon,10
+2022-09-10T17:00:00.000Z,St. Augustine's,14,Limestone,73
+2022-09-10T17:00:00.000Z,Shippensburg,36,Seton Hill College,17
+2022-09-10T17:00:00.000Z,Mississippi College,26,Keiser University,8
+2022-09-10T17:00:00.000Z,Chowan,21,Tusculum,23
+2022-09-10T17:00:00.000Z,New Haven,31,Southern Connecticut State,26
+2022-09-10T17:00:00.000Z,Northern Michigan,13,UW-Oshkosh,10
+2022-09-10T17:00:00.000Z,Lenoir-Rhyne,5,Ferris State,27
+2022-09-10T17:00:00.000Z,Fort Valley State,9,Kentucky State,7
+2022-09-10T17:00:00.000Z,Grove City College,55,Geneva College,17
+2022-09-10T17:00:00.000Z,Frostburg State,18,WV State,7
+2022-09-10T17:00:00.000Z,Saginaw Valley,40,Bowie State,12
+2022-09-10T17:00:00.000Z,Maine,18,Colgate,21
+2022-09-10T17:00:00.000Z,Central State,21,Lincoln (PA),26
+2022-09-10T17:00:00.000Z,Carson-Newman,27,Franklin Pierce,6
+2022-09-10T17:00:00.000Z,Northwood (MI),38,Madonna University,0
+2022-09-10T17:00:00.000Z,Westminster PA,42,Bethany (WV),3
+2022-09-10T17:00:00.000Z,Central Michigan,24,South Alabama,38
+2022-09-10T17:00:00.000Z,Gallaudet,31,Greensboro,14
+2022-09-10T17:00:00.000Z,Hope,33,Coe,24
+2022-09-10T17:00:00.000Z,Moravian,43,Gettysburg,28
+2022-09-10T17:00:00.000Z,UW-Whitewater,28,Mary Hardin-Baylor,24
+2022-09-10T17:00:00.000Z,Ithaca,24,Brockport State (NY),0
+2022-09-10T17:00:00.000Z,Adrian,33,Hanover,0
+2022-09-10T17:00:00.000Z,Kalamazoo,24,Kenyon,21
+2022-09-10T17:00:00.000Z,Lebanon Valley,20,Lycoming,21
+2022-09-10T17:00:00.000Z,Western New England,38,Westfield State,14
+2022-09-10T17:00:00.000Z,Presbyterian College,21,Virginia Lynchburg,13
+2022-09-10T17:00:00.000Z,Thiel College,6,Allegheny,34
+2022-09-10T17:00:00.000Z,Waynesburg,31,Case Western Reserve,45
+2022-09-10T17:00:00.000Z,Ferrum,3,Muskingum,31
+2022-09-10T17:00:00.000Z,Sewanee Univ. of the South,0,Washington & Lee,44
+2022-09-10T17:00:00.000Z,Catholic University,7,Randolph-Macon,41
+2022-09-10T17:00:00.000Z,Union,76,Worcester State College,7
+2022-09-10T17:00:00.000Z,Stonehill,76,Post University,0
+2022-09-10T17:00:00.000Z,University of New England,38,Bridgewater State,23
+2022-09-10T17:00:00.000Z,Concord,21,Glenville State,7
+2022-09-10T17:00:00.000Z,MIT,10,Salve Regina,13
+2022-09-10T17:00:00.000Z,Ursinus,29,Johns Hopkins,36
+2022-09-10T17:00:00.000Z,Olivet College,54,Eureka College,14
+2022-09-10T17:00:00.000Z,Concordia (IL),45,Finlandia University,7
+2022-09-10T17:00:00.000Z,Muhlenberg,34,Dickinson,21
+2022-09-10T17:00:00.000Z,Stevenson,35,Salisbury,21
+2022-09-10T17:00:00.000Z,Misericordia,38,Keystone,20
+2022-09-10T17:00:00.000Z,Morrisville State,24,Hobart,13
+2022-09-10T17:00:00.000Z,Susquehanna,39,Franklin & Marshall,36
+2022-09-10T17:00:00.000Z,Hampden-Sydney,27,Widener,31
+2022-09-10T17:00:00.000Z,St. Vincent,21,Washington & Jefferson,52
+2022-09-10T17:00:00.000Z,Juniata,19,McDaniel College,35
+2022-09-10T17:00:00.000Z,Black Hills State,38,William Jewell College,19
+2022-09-10T17:00:00.000Z,Hartwick,10,King's College (PA),17
+2022-09-10T17:00:00.000Z,Long Island University,21,Villanova,38
+2022-09-10T17:00:00.000Z,Monmouth,49,Fordham,52
+2022-09-10T17:30:00.000Z,Utah,73,Southern Utah,7
+2022-09-10T17:30:00.000Z,Wilmington (OH),12,Baldwin-Wallace,13
+2022-09-10T17:30:00.000Z,VMI,24,Bucknell,14
+2022-09-10T17:30:00.000Z,Coast Guard,22,Curry,16
+2022-09-10T18:00:00.000Z,McMurry,13,Millsaps,27
+2022-09-10T18:00:00.000Z,Greenville,40,Rockford,30
+2022-09-10T18:00:00.000Z,Illinois College,14,Chicago,40
+2022-09-10T18:00:00.000Z,Austin College,7,Rhodes,23
+2022-09-10T18:00:00.000Z,Lakeland University,34,Buena Vista,41
+2022-09-10T18:00:00.000Z,St. Olaf College,55,Luther,27
+2022-09-10T18:00:00.000Z,Aurora,49,Franklin,16
+2022-09-10T18:00:00.000Z,Concordia (WI),28,Northwestern (MN),14
+2022-09-10T18:00:00.000Z,Central,31,Wisconsin-Eau Claire,13
+2022-09-10T18:00:00.000Z,Grinnell,0,Monmouth (IL),48
+2022-09-10T18:00:00.000Z,Hamline,34,Minnesota-Morris,21
+2022-09-10T18:00:00.000Z,Colorado Mines,27,Angelo State,30
+2022-09-10T18:00:00.000Z,St. Norbert,21,Wisconsin-Stevens Point,14
+2022-09-10T18:00:00.000Z,McKendree,34,Delta State,58
+2022-09-10T18:00:00.000Z,Augustana (SD),30,Bemidji State,29
+2022-09-10T18:00:00.000Z,St. Thomas (MN),32,Michigan Tech,6
+2022-09-10T18:00:00.000Z,South Dakota Mines,20,Truman State,27
+2022-09-10T18:00:00.000Z,Westminster,6,Iowa Wesleyan,41
+2022-09-10T18:00:00.000Z,Castleton State College,48,Fitchburg State,0
+2022-09-10T18:00:00.000Z,Winona State,25,University of Mary,17
+2022-09-10T18:00:00.000Z,Sioux Falls,34,Minot State,0
+2022-09-10T18:00:00.000Z,St. Johns (MN),37,UW-River Falls,34
+2022-09-10T18:00:00.000Z,Washington (MO),52,Hendrix College,7
+2022-09-10T18:00:00.000Z,Bridgewater (VA),58,Southern Virginia,10
+2022-09-10T18:00:00.000Z,Bloomsburg,42,Clarion,3
+2022-09-10T18:00:00.000Z,Fort Lewis,12,Arizona Christian,52
+2022-09-10T18:00:00.000Z,Ball State,30,Western Michigan,37
+2022-09-10T18:00:00.000Z,Temple,30,Lafayette,14
+2022-09-10T18:00:00.000Z,Mayville State,55,Nebraska Wesleyan University,48
+2022-09-10T18:00:00.000Z,Drake,14,Missouri S&T,17
+2022-09-10T18:00:00.000Z,Youngstown State,49,Dayton,16
+2022-09-10T18:00:00.000Z,Wisconsin-Platteville,10,Bethel (MN),7
+2022-09-10T18:00:00.000Z,Illinois Wesleyan,45,Ohio Wesleyan,21
+2022-09-10T18:00:00.000Z,Carleton,84,Crown College,20
+2022-09-10T18:00:00.000Z,Beloit College,14,Cornell College (IA),35
+2022-09-10T18:30:00.000Z,Notre Dame,21,Marshall,26
+2022-09-10T19:00:00.000Z,Lane,0,Benedict College,14
+2022-09-10T19:00:00.000Z,Willamette,26,La Verne,14
+2022-09-10T19:00:00.000Z,Albright,14,Western Connecticut State,28
+2022-09-10T19:00:00.000Z,St. Anselm,56,American International,7
+2022-09-10T19:00:00.000Z,Lincoln (MO),20,Northwest Missouri State,58
+2022-09-10T19:30:00.000Z,Wisconsin,14,Washington State,17
+2022-09-10T19:30:00.000Z,Pittsburgh,27,Tennessee,34
+2022-09-10T19:30:00.000Z,Charlotte,21,Maryland,56
+2022-09-10T19:30:00.000Z,Clemson,35,Furman,12
+2022-09-10T19:30:00.000Z,North Dakota State,43,North Carolina A&T,3
+2022-09-10T19:30:00.000Z,Air Force,41,Colorado,10
+2022-09-10T19:30:00.000Z,Cincinnati,63,Kennesaw State,10
+2022-09-10T19:30:00.000Z,Navy,13,Memphis,37
+2022-09-10T19:30:00.000Z,Montana State,63,Morehead State,13
+2022-09-10T19:30:00.000Z,Texas A&M,14,Appalachian State,17
+2022-09-10T19:30:00.000Z,Montana,24,South Dakota,7
+2022-09-10T20:00:00.000Z,James Madison,63,Norfolk State,7
+2022-09-10T20:00:00.000Z,Upper Iowa,21,Minnesota St-Moorhead,24
+2022-09-10T20:00:00.000Z,North Dakota,29,Northern Iowa,27
+2022-09-10T20:00:00.000Z,Bentley,41,Pace,20
+2022-09-10T20:00:00.000Z,The Citadel,20,East Tennessee State,17
+2022-09-10T20:00:00.000Z,Rutgers,66,Wagner,7
+2022-09-10T20:00:00.000Z,Purdue,56,Indiana State,0
+2022-09-10T20:00:00.000Z,Clark Atlanta,19,Erskine,23
+2022-09-10T20:00:00.000Z,Georgia,33,Samford,0
+2022-09-10T20:00:00.000Z,Bowling Green,57,Eastern Kentucky,59
+2022-09-10T20:00:00.000Z,Colorado State,19,Middle Tennessee,34
+2022-09-10T20:00:00.000Z,Claremont,42,Whittier,0
+2022-09-10T20:00:00.000Z,California,20,UNLV,14
+2022-09-10T20:00:00.000Z,Michigan State,52,Akron,0
+2022-09-10T20:00:00.000Z,Elizabeth City State,0,Livingstone,19
+2022-09-10T20:00:00.000Z,Washington,52,Portland State,6
+2022-09-10T20:00:00.000Z,Wyoming,33,Northern Colorado,10
+2022-09-10T20:00:00.000Z,Bethune-Cookman,9,South Carolina State,33
+2022-09-10T20:00:00.000Z,Austin Peay,41,Mississippi Valley State,0
+2022-09-10T20:00:00.000Z,Illinois,24,Virginia,3
+2022-09-10T20:00:00.000Z,Iowa,7,Iowa State,10
+2022-09-10T20:00:00.000Z,Texas Tech,33,Houston,30
+2022-09-10T20:00:00.000Z,Whitworth,33,Eastern Oregon,7
+2022-09-10T20:05:00.000Z,Western Oregon,42,Lincoln University (CA),10
+2022-09-10T21:00:00.000Z,Cal Poly,28,San Diego,27
+2022-09-10T21:00:00.000Z,Georgetown,19,Lehigh,21
+2022-09-10T21:00:00.000Z,Valdosta State,40,Virginia Union,45
+2022-09-10T21:00:00.000Z,UCLA,45,Alabama State,7
+2022-09-10T21:30:00.000Z,Nevada,41,Incarnate Word,55
+2022-09-10T21:30:00.000Z,Richmond,31,St Francis (PA),21
+2022-09-10T22:00:00.000Z,Berry College,56,LaGrange College,10
+2022-09-10T22:00:00.000Z,Delaware,35,Delaware State,9
+2022-09-10T22:00:00.000Z,Liberty,21,UAB,14
+2022-09-10T22:00:00.000Z,North Carolina Central,41,Winston-Salem,0
+2022-09-10T22:00:00.000Z,Butler,45,Taylor,10
+2022-09-10T22:00:00.000Z,Allen,0,Johnson C Smith,0
+2022-09-10T22:00:00.000Z,Wayne State (MI),30,Shaw,22
+2022-09-10T22:00:00.000Z,Wofford,0,Elon,26
+2022-09-10T22:00:00.000Z,Florida Atlantic,42,Southeastern Louisiana,9
+2022-09-10T22:00:00.000Z,Virginia State,28,Bluefield,7
+2022-09-10T22:00:00.000Z,Florida A&M,23,Albany State (GA),13
+2022-09-10T22:00:00.000Z,William & Mary,37,Campbell,21
+2022-09-10T22:00:00.000Z,Miami (OH),31,Robert Morris,14
+2022-09-10T22:00:00.000Z,Hampton,42,Tuskegee,10
+2022-09-10T22:00:00.000Z,Edward Waters,28,Savannah State,31
+2022-09-10T22:00:00.000Z,Stetson,45,Louisiana College,14
+2022-09-10T22:00:00.000Z,Bryant,21,Rhode Island,35
+2022-09-10T22:00:00.000Z,Coastal Carolina,31,Gardner-Webb,27
+2022-09-10T22:00:00.000Z,Buffalo,31,Holy Cross,37
+2022-09-10T22:00:00.000Z,East Carolina,39,Old Dominion,21
+2022-09-10T22:00:00.000Z,West Virginia,42,Kansas,55
+2022-09-10T22:00:00.000Z,Findlay,3,Ashland,28
+2022-09-10T22:00:00.000Z,Alfred State College,17,Rochester,30
+2022-09-10T22:00:00.000Z,Anderson (IN),0,DePauw,55
+2022-09-10T22:00:00.000Z,Bluefield College,33,Emory & Henry,41
+2022-09-10T22:00:00.000Z,Alma College,49,Manchester,7
+2022-09-10T22:00:00.000Z,Lock Haven,7,Mercyhurst,49
+2022-09-10T22:00:00.000Z,Southwest Minnesota State,14,Concordia-St. Paul,6
+2022-09-10T22:00:00.000Z,Morehouse,0,West Georgia,42
+2022-09-10T22:00:00.000Z,Central Connecticut,10,Sacred Heart,14
+2022-09-10T22:05:00.000Z,East Stroudsburg,35,Indiana (PA),38
+2022-09-10T23:00:00.000Z,Towson,29,Morgan State,21
+2022-09-10T23:00:00.000Z,North Greenville,22,Newberry,29
+2022-09-10T23:00:00.000Z,University of Texas of the Permian Basin,34,Western State,31
+2022-09-10T23:00:00.000Z,Tennessee State,3,Jackson State,16
+2022-09-10T23:00:00.000Z,Arkansas-Pine Bluff,76,North American University,3
+2022-09-10T23:00:00.000Z,Capital,13,Ohio Northern,28
+2022-09-10T23:00:00.000Z,Tulsa,38,Northern Illinois,35
+2022-09-10T23:00:00.000Z,Guilford,16,Methodist,49
+2022-09-10T23:00:00.000Z,Hillsdale,35,Walsh,17
+2022-09-10T23:00:00.000Z,Murray State,3,Jacksonville State,34
+2022-09-10T23:00:00.000Z,Miles,0,West Alabama,31
+2022-09-10T23:00:00.000Z,Birmingham-Southern,35,Huntingdon,38
+2022-09-10T23:00:00.000Z,Minnesota State,17,Minnesota-Duluth,10
+2022-09-10T23:00:00.000Z,Florida,16,Kentucky,26
+2022-09-10T23:00:00.000Z,Connecticut,14,Syracuse,48
+2022-09-10T23:00:00.000Z,Georgia Tech,35,Western Carolina,17
+2022-09-10T23:00:00.000Z,Toledo,55,UMass,10
+2022-09-10T23:00:00.000Z,Utah State,7,Weber State,35
+2022-09-10T23:00:00.000Z,Tulane,52,Alcorn State,0
+2022-09-10T23:00:00.000Z,SMU,45,Lamar,16
+2022-09-10T23:00:00.000Z,South Florida,42,Howard,20
+2022-09-10T23:00:00.000Z,Christopher Newport,20,Averett,24
+2022-09-10T23:00:00.000Z,Wisconsin Lutheran,7,Carroll (WI),54
+2022-09-10T23:00:00.000Z,Benedictine (IL),48,Loras College,26
+2022-09-10T23:00:00.000Z,Davidson,37,Barton College,17
+2022-09-10T23:00:00.000Z,Houston Baptist,20,Lindenwood,21
+2022-09-10T23:00:00.000Z,Eastern Illinois,20,Chattanooga,38
+2022-09-10T23:00:00.000Z,Sam Houston State,3,Northern Arizona,10
+2022-09-10T23:00:00.000Z,South Dakota State,24,UC Davis,22
+2022-09-10T23:00:00.000Z,North Alabama,49,UVA-Wise,17
+2022-09-10T23:00:00.000Z,Southern Illinois,31,Southeast Missouri State,34
+2022-09-10T23:00:00.000Z,Albany,23,New Hampshire,28
+2022-09-10T23:00:00.000Z,Texas State,41,Florida International,12
+2022-09-10T23:00:00.000Z,Northwestern State,21,Grambling,47
+2022-09-10T23:00:00.000Z,Southwest Baptist,10,West Florida,49
+2022-09-10T23:00:00.000Z,Northeastern State,13,Missouri Southern State,30
+2022-09-10T23:00:00.000Z,Rose-Hulman,23,Trine,24
+2022-09-10T23:00:00.000Z,Dubuque,3,Wisconsin-La Crosse,30
+2022-09-10T23:00:00.000Z,Wayne State (NE),13,Northern State,6
+2022-09-10T23:00:00.000Z,Arkansas-Monticello,40,Oklahoma Baptist,17
+2022-09-10T23:00:00.000Z,Ouachita Baptist,45,Southern Nazarene,0
+2022-09-10T23:00:00.000Z,Louisiana,49,Eastern Michigan,21
+2022-09-10T23:00:00.000Z,Louisiana Tech,52,Stephen F. Austin,17
+2022-09-10T23:00:00.000Z,Troy,38,Alabama A&M,17
+2022-09-10T23:00:00.000Z,Lawrence,0,Lake Forest,55
+2022-09-10T23:00:00.000Z,Ripon,33,Knox College,6
+2022-09-10T23:00:00.000Z,Trinity (TX),17,Wheaton College (Ill),16
+2022-09-10T23:00:00.000Z,Tennessee Tech,26,Texas A&M-Commerce,25
+2022-09-10T23:00:00.000Z,Wartburg,27,UW-Stout,0
+2022-09-10T23:00:00.000Z,Centre,20,Maryville TN,10
+2022-09-10T23:00:00.000Z,Macalester,43,Martin Luther College,7
+2022-09-10T23:00:00.000Z,Fayetteville State,3,Wingate,21
+2022-09-10T23:00:00.000Z,Southwestern Oklahoma,24,Southern Arkansas,20
+2022-09-10T23:00:00.000Z,Northwestern Oklahoma State,27,Henderson State,51
+2022-09-10T23:00:00.000Z,Oklahoma,33,Kent State,3
+2022-09-10T23:00:00.000Z,Shenandoah,45,NC Wesleyan,0
+2022-09-10T23:00:00.000Z,Arkansas Tech,35,East Central,13
+2022-09-10T23:00:00.000Z,Ole Miss,59,Central Arkansas,3
+2022-09-10T23:30:00.000Z,Rice,52,McNeese,10
+2022-09-10T23:30:00.000Z,Illinois State,28,Valparaiso,21
+2022-09-10T23:30:00.000Z,North Texas,59,Texas Southern,27
+2022-09-10T23:30:00.000Z,Nebraska,42,Georgia Southern,45
+2022-09-10T23:30:00.000Z,Stanford,28,USC,41
+2022-09-10T23:30:00.000Z,Auburn,24,San José State,16
+2022-09-10T23:30:00.000Z,LSU,65,Southern,17
+2022-09-10T23:30:00.000Z,Oklahoma State,34,Arizona State,17
+2022-09-11T00:00:00.000Z,Eastern New Mexico,14,Midwestern State,28
+2022-09-11T00:00:00.000Z,Michigan,56,Hawai'i,10
+2022-09-11T00:00:00.000Z,Indiana,35,Idaho,22
+2022-09-11T00:00:00.000Z,Harding,38,Southeastern Oklahoma,13
+2022-09-11T00:00:00.000Z,TCU,59,Tarleton State,17
+2022-09-11T00:00:00.000Z,Abilene Christian,21,Prairie View,13
+2022-09-11T00:00:00.000Z,San Diego State,38,Idaho State,7
+2022-09-11T00:00:00.000Z,Kentucky Wesleyan,21,Lake Erie College,26
+2022-09-11T00:00:00.000Z,Belhaven College,42,Southwestern University,15
+2022-09-11T00:00:00.000Z,Colorado State-Pueblo,10,Grand Valley State,35
+2022-09-11T00:00:00.000Z,Presentation College,13,Concordia (MN),42
+2022-09-11T00:00:00.000Z,Texas A&M-Kingsville,35,Sul Ross State,14
+2022-09-11T00:00:00.000Z,Howard Payne,39,George Fox University,42
+2022-09-11T00:00:00.000Z,West Texas A&M,34,Adams State,19
+2022-09-11T00:00:00.000Z,Louisiana Monroe,35,Nicholls,7
+2022-09-11T00:00:00.000Z,Virginia Tech,27,Boston College,10
+2022-09-11T00:30:00.000Z,Oregon,70,Eastern Washington,14
+2022-09-11T01:00:00.000Z,Central Washington,24,Western New Mexico,13
+2022-09-11T01:00:00.000Z,Utah Tech,56,Chadron State,10
+2022-09-11T01:00:00.000Z,UTEP,20,New Mexico State,13
+2022-09-11T02:00:00.000Z,Cal Lutheran,41,Chapman,42
+2022-09-11T02:00:00.000Z,Pomona-Pitzer,21,Redlands,20
+2022-09-11T02:15:00.000Z,BYU,26,Baylor,20
+2022-09-11T02:30:00.000Z,Fresno State,32,Oregon State,35
+2022-09-11T03:00:00.000Z,Arizona,17,Mississippi State,39
+2022-09-15T23:30:00.000Z,Benedict College,24,Savannah State,6
+2022-09-16T22:00:00.000Z,Bentley,49,Post University,6
+2022-09-16T23:00:00.000Z,Southern Connecticut State,7,Pace,27
+2022-09-16T23:00:00.000Z,St Lawrence,15,Morrisville State,17
+2022-09-16T23:00:00.000Z,Westfield State,20,Western Connecticut State,34
+2022-09-16T23:00:00.000Z,Harvard,28,Merrimack,21
+2022-09-16T23:30:00.000Z,Louisville,31,Florida State,35
+2022-09-17T00:00:00.000Z,Wyoming,17,Air Force,14
+2022-09-17T15:00:00.000Z,Virginia Tech,27,Wofford,7
+2022-09-17T16:00:00.000Z,Kentucky,31,Youngstown State,0
+2022-09-17T16:00:00.000Z,Buffalo State,7,SUNY Cortland,66
+2022-09-17T16:00:00.000Z,Army,49,Villanova,10
+2022-09-17T16:00:00.000Z,Albright,21,Misericordia,27
+2022-09-17T16:00:00.000Z,Salve Regina,14,Montclair State,31
+2022-09-17T16:00:00.000Z,Hilbert College,20,Willamette,31
+2022-09-17T16:00:00.000Z,Fitchburg State,10,Worcester State College,56
+2022-09-17T16:00:00.000Z,FDU-Florham,14,Lebanon Valley,17
+2022-09-17T16:00:00.000Z,Rochester,3,Brockport State (NY),23
+2022-09-17T16:00:00.000Z,NC Wesleyan,7,Bridgewater (VA),48
+2022-09-17T16:00:00.000Z,Rose-Hulman,17,Albion,49
+2022-09-17T16:00:00.000Z,Nichols,37,Coast Guard,33
+2022-09-17T16:00:00.000Z,Hiram,0,DePauw,44
+2022-09-17T16:00:00.000Z,Gannon,23,West Chester,29
+2022-09-17T16:00:00.000Z,Mercyhurst,31,Kutztown,50
+2022-09-17T16:00:00.000Z,Seton Hill College,7,East Stroudsburg,22
+2022-09-17T16:00:00.000Z,Ursinus,35,Muhlenberg,28
+2022-09-17T16:00:00.000Z,Missouri,34,Abilene Christian,17
+2022-09-17T16:00:00.000Z,South Carolina,7,Georgia,48
+2022-09-17T16:00:00.000Z,Nebraska,14,Oklahoma,49
+2022-09-17T16:00:00.000Z,Baylor,42,Texas State,7
+2022-09-17T16:00:00.000Z,Michigan,59,Connecticut,0
+2022-09-17T16:00:00.000Z,Northwestern,24,Southern Illinois,31
+2022-09-17T16:00:00.000Z,Syracuse,32,Purdue,29
+2022-09-17T16:00:00.000Z,Kent State,63,Long Island University,10
+2022-09-17T16:00:00.000Z,Miami (OH),17,Cincinnati,38
+2022-09-17T16:00:00.000Z,Indiana,33,Western Kentucky,30
+2022-09-17T16:00:00.000Z,Walsh,13,Quincy,28
+2022-09-17T16:00:00.000Z,Springfield,6,Union,21
+2022-09-17T16:00:00.000Z,Findlay,52,Southwest Baptist,35
+2022-09-17T16:00:00.000Z,Endicott College,28,College of New Jersey,7
+2022-09-17T16:00:00.000Z,Millersville,14,Slippery Rock,45
+2022-09-17T16:00:00.000Z,Lehigh,6,Richmond,30
+2022-09-17T16:00:00.000Z,Morgan State,24,Sacred Heart,9
+2022-09-17T16:00:00.000Z,Wilkes,44,Widener,20
+2022-09-17T16:00:00.000Z,Salisbury,42,Ave Maria,14
+2022-09-17T16:00:00.000Z,Plymouth State,41,Bridgewater State,34
+2022-09-17T16:00:00.000Z,Bowdoin,41,Hamilton,13
+2022-09-17T16:00:00.000Z,University of New England,31,Gallaudet,34
+2022-09-17T16:00:00.000Z,Husson,23,Alfred State College,17
+2022-09-17T16:00:00.000Z,Dean College,25,Curry,33
+2022-09-17T16:00:00.000Z,Elizabeth City State,20,Winston-Salem,17
+2022-09-17T16:00:00.000Z,Shorter,20,Albany State (GA),42
+2022-09-17T16:00:00.000Z,Notre Dame College,34,West Liberty,17
+2022-09-17T16:00:00.000Z,Bluefield,27,Central State,23
+2022-09-17T16:00:00.000Z,Edinboro,23,Bloomsburg,20
+2022-09-17T16:00:00.000Z,Davenport,31,Northern Michigan,21
+2022-09-17T16:00:00.000Z,Shepherd,26,California (PA),23
+2022-09-17T16:00:00.000Z,Charleston (WV),28,Frostburg State,34
+2022-09-17T16:30:00.000Z,Brown,44,Bryant,38
+2022-09-17T17:00:00.000Z,Pennsylvania,25,Colgate,14
+2022-09-17T17:00:00.000Z,LaGrange College,44,Ferrum,38
+2022-09-17T17:00:00.000Z,Iowa Wesleyan,55,Finlandia University,0
+2022-09-17T17:00:00.000Z,Hampden-Sydney,70,Greensboro,28
+2022-09-17T17:00:00.000Z,West Virginia,65,Towson,7
+2022-09-17T17:00:00.000Z,Gettysburg,9,Dickinson,35
+2022-09-17T17:00:00.000Z,Central Michigan,41,Bucknell,0
+2022-09-17T17:00:00.000Z,Mars Hill,38,Catawba,7
+2022-09-17T17:00:00.000Z,Denison,51,Oberlin,10
+2022-09-17T17:00:00.000Z,Shaw,17,Bowie State,14
+2022-09-17T17:00:00.000Z,Fordham,48,Albany,45
+2022-09-17T17:00:00.000Z,Catholic University,14,Kean,33
+2022-09-17T17:00:00.000Z,Dayton,46,Kentucky State,3
+2022-09-17T17:00:00.000Z,Stetson,14,Princeton,39
+2022-09-17T17:00:00.000Z,Rhode Island,21,Delaware,42
+2022-09-17T17:00:00.000Z,Maryville TN,29,Shenandoah,34
+2022-09-17T17:00:00.000Z,Ohio Dominican,31,William Jewell College,21
+2022-09-17T17:00:00.000Z,Glenville State,45,UNC Pembroke,17
+2022-09-17T17:00:00.000Z,Carson-Newman,37,Limestone,40
+2022-09-17T17:00:00.000Z,WV State,34,Fairmont State,29
+2022-09-17T17:00:00.000Z,New Haven,54,American International,26
+2022-09-17T17:00:00.000Z,Monmouth,45,Georgetown,6
+2022-09-17T17:00:00.000Z,Indiana State,14,Montana,49
+2022-09-17T17:00:00.000Z,Waynesburg,37,Geneva College,30
+2022-09-17T17:00:00.000Z,King's College (PA),6,Delaware Valley,26
+2022-09-17T17:00:00.000Z,Carnegie Mellon,40,Grove City College,33
+2022-09-17T17:00:00.000Z,Coastal Carolina,38,Buffalo,26
+2022-09-17T17:00:00.000Z,Randolph-Macon,47,Southern Virginia,20
+2022-09-17T17:00:00.000Z,William Paterson,27,Keystone,20
+2022-09-17T17:00:00.000Z,Alderson-Broaddus,41,Wheeling Jesuit,56
+2022-09-17T17:00:00.000Z,Guilford,7,Huntingdon,47
+2022-09-17T17:00:00.000Z,Minnesota St-Moorhead,7,Augustana (SD),31
+2022-09-17T17:00:00.000Z,St. Vincent,24,Thiel College,16
+2022-09-17T17:00:00.000Z,McDaniel College,3,Franklin & Marshall,35
+2022-09-17T17:00:00.000Z,Western New England,21,Utica,23
+2022-09-17T17:00:00.000Z,Chowan,32,Johnson C Smith,29
+2022-09-17T17:00:00.000Z,Northwood (MI),14,Saginaw Valley,35
+2022-09-17T17:00:00.000Z,Hillsdale,13,Truman State,21
+2022-09-17T17:00:00.000Z,Emory & Henry,23,Newberry,26
+2022-09-17T17:00:00.000Z,Stevenson,40,Alvernia University,18
+2022-09-17T17:00:00.000Z,UVA-Wise,20,Barton College,40
+2022-09-17T17:00:00.000Z,Shippensburg,21,Indiana (PA),44
+2022-09-17T17:00:00.000Z,Hobart,17,St. John Fisher,0
+2022-09-17T17:00:00.000Z,Berry College,3,UW-Whitewater,17
+2022-09-17T17:00:00.000Z,Merchant Marine,48,SUNY Maritime,13
+2022-09-17T17:00:00.000Z,Ithaca,52,Alfred,3
+2022-09-17T17:00:00.000Z,Colby,24,Williams,14
+2022-09-17T17:00:00.000Z,Wesleyan,41,Bates College,10
+2022-09-17T17:00:00.000Z,Kenyon,28,Wittenberg,51
+2022-09-17T17:00:00.000Z,Methodist,14,Washington & Lee,37
+2022-09-17T17:00:00.000Z,Susquehanna,37,Moravian,3
+2022-09-17T17:00:00.000Z,Mass Maritime,14,Anna Maria College,23
+2022-09-17T17:00:00.000Z,Hanover,28,Olivet College,31
+2022-09-17T17:00:00.000Z,Johns Hopkins,70,Juniata,0
+2022-09-17T17:30:00.000Z,Tufts,23,Trinity (CT),26
+2022-09-17T17:30:00.000Z,John Carroll,21,Baldwin-Wallace,7
+2022-09-17T17:30:00.000Z,Mount Union,55,Marietta,7
+2022-09-17T17:30:00.000Z,VMI,22,Cornell,28
+2022-09-17T17:30:00.000Z,UMass Dartmouth,46,Framingham State,21
+2022-09-17T17:30:00.000Z,Dartmouth,35,Valparaiso,13
+2022-09-17T17:30:00.000Z,Defiance,23,Kalamazoo,42
+2022-09-17T17:30:00.000Z,Franklin,21,Trine,55
+2022-09-17T17:30:00.000Z,Mount St. Joseph,33,Hope,28
+2022-09-17T18:00:00.000Z,Amherst College,6,Middlebury,17
+2022-09-17T18:00:00.000Z,Holy Cross,38,Yale,14
+2022-09-17T18:00:00.000Z,Norfolk State,7,Hampton,17
+2022-09-17T18:00:00.000Z,South Dakota,38,Cal Poly,21
+2022-09-17T18:00:00.000Z,Jackson State,66,Grambling,24
+2022-09-17T18:00:00.000Z,Delaware State,35,Virginia Lynchburg,19
+2022-09-17T18:00:00.000Z,Monmouth (IL),51,Illinois College,20
+2022-09-17T18:00:00.000Z,Norwich,26,Castleton State College,21
+2022-09-17T18:00:00.000Z,Gustavus Adolphus,25,UW-Stout,28
+2022-09-17T18:00:00.000Z,Benedictine (IL),48,Concordia (WI),10
+2022-09-17T18:00:00.000Z,Elmhurst,16,Augustana (IL),34
+2022-09-17T18:00:00.000Z,Central,35,Loras College,38
+2022-09-17T18:00:00.000Z,Concordia (IL),7,Aurora,56
+2022-09-17T18:00:00.000Z,Martin Luther College,7,Augsburg,45
+2022-09-17T18:00:00.000Z,Lawrence,7,Grinnell,28
+2022-09-17T18:00:00.000Z,Cornell College (IA),14,Ripon,49
+2022-09-17T18:00:00.000Z,Nebraska Wesleyan University,34,Dubuque,48
+2022-09-17T18:00:00.000Z,Wartburg,62,Luther,0
+2022-09-17T18:00:00.000Z,Sul Ross State,55,Austin College,14
+2022-09-17T18:00:00.000Z,Crown College,14,St. Scholastica,63
+2022-09-17T18:00:00.000Z,Sewanee Univ. of the South,41,Westminster,6
+2022-09-17T18:00:00.000Z,UCLA,32,South Alabama,31
+2022-09-17T18:00:00.000Z,Iowa State,43,Ohio,10
+2022-09-17T18:00:00.000Z,Fort Valley State,29,Allen,27
+2022-09-17T18:00:00.000Z,Lock Haven,7,Clarion,44
+2022-09-17T18:00:00.000Z,New Mexico Highlands,27,Fort Lewis,3
+2022-09-17T18:00:00.000Z,Temple,14,Rutgers,16
+2022-09-17T18:00:00.000Z,WV Wesleyan,32,Concord,34
+2022-09-17T18:00:00.000Z,Emporia State,36,Missouri Western,12
+2022-09-17T18:00:00.000Z,Virginia,16,Old Dominion,14
+2022-09-17T18:00:00.000Z,Millsaps,17,UW-Oshkosh,41
+2022-09-17T18:00:00.000Z,Minot State,10,Wayne State (NE),49
+2022-09-17T18:00:00.000Z,Ball State,31,Murray State,0
+2022-09-17T18:00:00.000Z,Washburn,13,Nebraska-Kearney,21
+2022-09-17T18:00:00.000Z,Chicago,43,Beloit College,10
+2022-09-17T18:00:00.000Z,Cal Lutheran,35,Puget Sound,27
+2022-09-17T18:00:00.000Z,Washington (MO),54,Millikin,7
+2022-09-17T18:00:00.000Z,Carthage,7,North Central,59
+2022-09-17T18:00:00.000Z,Wilmington (OH),32,Otterbein,26
+2022-09-17T18:00:00.000Z,Wooster,14,Wabash College,48
+2022-09-17T18:00:00.000Z,McMurry,7,East Texas Baptist,28
+2022-09-17T18:00:00.000Z,Greenville,49,Manchester,22
+2022-09-17T18:00:00.000Z,Whittier,13,Lewis & Clark,44
+2022-09-17T18:00:00.000Z,Eureka College,31,Rockford,14
+2022-09-17T18:00:00.000Z,Wisconsin-Platteville,0,Hardin-Simmons,41
+2022-09-17T18:30:00.000Z,Northwest Missouri State,24,Central Missouri State,7
+2022-09-17T18:30:00.000Z,Notre Dame,24,California,17
+2022-09-17T19:00:00.000Z,Idaho,42,Drake,14
+2022-09-17T19:00:00.000Z,Bemidji State,34,Winona State,24
+2022-09-17T19:00:00.000Z,Southern Nazarene,21,East Central,44
+2022-09-17T19:00:00.000Z,Mississippi College,19,North Greenville,41
+2022-09-17T19:00:00.000Z,West Alabama,10,Tuskegee,13
+2022-09-17T19:00:00.000Z,Southeast Missouri State,42,Nicholls,16
+2022-09-17T19:00:00.000Z,Idaho State,16,Central Arkansas,31
+2022-09-17T19:00:00.000Z,Howard,31,Morehouse,0
+2022-09-17T19:00:00.000Z,Lane,38,Clark Atlanta,6
+2022-09-17T19:00:00.000Z,Alabama A&M,3,Austin Peay,28
+2022-09-17T19:00:00.000Z,Carleton,41,Minnesota-Morris,7
+2022-09-17T19:00:00.000Z,Adams State,10,Colorado Mines,84
+2022-09-17T19:00:00.000Z,Kansas State,10,Tulane,17
+2022-09-17T19:00:00.000Z,Lake Forest,48,Knox College,14
+2022-09-17T19:00:00.000Z,UNLV,58,North Texas,27
+2022-09-17T19:00:00.000Z,Colorado Mesa,17,South Dakota Mines,31
+2022-09-17T19:00:00.000Z,University of Mary,28,Southwest Minnesota State,31
+2022-09-17T19:30:00.000Z,Appalachian State,32,Troy,28
+2022-09-17T19:30:00.000Z,UAB,35,Georgia Southern,21
+2022-09-17T19:30:00.000Z,Minnesota,49,Colorado,7
+2022-09-17T19:30:00.000Z,Auburn,12,Penn State,41
+2022-09-17T19:30:00.000Z,Wisconsin,66,New Mexico State,7
+2022-09-17T19:30:00.000Z,UMass,20,Stony Brook,3
+2022-09-17T19:30:00.000Z,Western Carolina,77,Presbyterian College,21
+2022-09-17T19:30:00.000Z,Northern Illinois,28,Vanderbilt,38
+2022-09-17T19:30:00.000Z,Oregon,41,BYU,20
+2022-09-17T19:30:00.000Z,Georgia Tech,0,Ole Miss,42
+2022-09-17T19:30:00.000Z,Lafayette,7,William & Mary,34
+2022-09-17T20:00:00.000Z,Western Illinois,10,Southern Utah,17
+2022-09-17T20:00:00.000Z,Boise State,30,UT Martin,7
+2022-09-17T20:00:00.000Z,Wagner,7,St Francis (PA),27
+2022-09-17T20:00:00.000Z,Alabama,63,Louisiana Monroe,7
+2022-09-17T20:00:00.000Z,Simon Fraser,7,Central Washington,40
+2022-09-17T20:00:00.000Z,Hendrix College,10,Howard Payne,67
+2022-09-17T20:00:00.000Z,Houston,30,Kansas,48
+2022-09-17T20:00:00.000Z,Linfield,21,Redlands,3
+2022-09-17T20:00:00.000Z,Colorado State-Pueblo,10,Western State,17
+2022-09-17T20:00:00.000Z,Northern Arizona,24,North Dakota,27
+2022-09-17T20:00:00.000Z,Erskine,20,Lenoir-Rhyne,42
+2022-09-17T20:00:00.000Z,Whitworth,12,Claremont,7
+2022-09-17T21:00:00.000Z,Washington State,38,Colorado State,7
+2022-09-17T21:00:00.000Z,Bowling Green,34,Marshall,31
+2022-09-17T21:00:00.000Z,Rensselaer,37,Worcester Polytechnic,0
+2022-09-17T21:00:00.000Z,Wake Forest,37,Liberty,36
+2022-09-17T21:00:00.000Z,Northern Iowa,21,Sacramento State,37
+2022-09-17T21:00:00.000Z,Southern,0,Texas Southern,24
+2022-09-17T22:00:00.000Z,Duke,49,North Carolina A&T,20
+2022-09-17T22:00:00.000Z,New Hampshire,27,North Carolina Central,45
+2022-09-17T22:00:00.000Z,Mercer,17,The Citadel,0
+2022-09-17T22:00:00.000Z,Franklin Pierce,0,St. Anselm,27
+2022-09-17T22:00:00.000Z,Virginia Union,42,Livingstone,6
+2022-09-17T22:00:00.000Z,Chattanooga,41,North Alabama,14
+2022-09-17T22:00:00.000Z,Eastern Kentucky,40,Charleston Southern,17
+2022-09-17T22:00:00.000Z,Wayne State (MI),21,Wisconsin-La Crosse,28
+2022-09-17T22:00:00.000Z,Averett,23,Brevard College,6
+2022-09-17T22:00:00.000Z,Missouri Southern State,40,Central Oklahoma,21
+2022-09-17T22:00:00.000Z,Tusculum,10,Wingate,27
+2022-09-17T22:00:00.000Z,Morehead State,49,Kentucky Christian,14
+2022-09-17T22:00:00.000Z,East Carolina,49,Campbell,10
+2022-09-17T22:00:00.000Z,Marist,3,Columbia,38
+2022-09-17T22:00:00.000Z,Lake Erie College,37,McKendree,38
+2022-09-17T22:00:00.000Z,LSU,31,Mississippi State,16
+2022-09-17T22:00:00.000Z,Elon,30,Gardner-Webb,24
+2022-09-17T22:00:00.000Z,Anderson (IN),7,Alma College,45
+2022-09-17T22:00:00.000Z,Virginia State,42,St. Augustine's,7
+2022-09-17T22:00:00.000Z,Bluffton,23,Adrian,58
+2022-09-17T23:00:00.000Z,NC State,27,Texas Tech,14
+2022-09-17T23:00:00.000Z,Carroll (WI),42,North Park,0
+2022-09-17T23:00:00.000Z,Mary Hardin-Baylor,68,Southwestern University,14
+2022-09-17T23:00:00.000Z,Georgia State,41,Charlotte,42
+2022-09-17T23:00:00.000Z,University of Texas of the Permian Basin,21,Angelo State,34
+2022-09-17T23:00:00.000Z,Muskingum,37,Capital,7
+2022-09-17T23:00:00.000Z,Tulsa,54,Jacksonville State,17
+2022-09-17T23:00:00.000Z,Northern State,23,Minnesota State,22
+2022-09-17T23:00:00.000Z,Oklahoma State,63,Arkansas-Pine Bluff,7
+2022-09-17T23:00:00.000Z,Arkansas,38,Missouri State,27
+2022-09-17T23:00:00.000Z,Middle Tennessee,49,Tennessee State,6
+2022-09-17T23:00:00.000Z,Minnesota-Duluth,28,Upper Iowa,6
+2022-09-17T23:00:00.000Z,Heidelberg,37,Ohio Northern,3
+2022-09-17T23:00:00.000Z,Westminster PA,42,Allegheny,14
+2022-09-17T23:00:00.000Z,Lincoln (PA),7,Fayetteville State,19
+2022-09-17T23:00:00.000Z,Lincoln (MO),14,Fort Hays State,51
+2022-09-17T23:00:00.000Z,Tarleton State,41,Eastern New Mexico,6
+2022-09-17T23:00:00.000Z,UW-River Falls,63,Northwestern (MN),27
+2022-09-17T23:00:00.000Z,Wisconsin-Stevens Point,35,Simpson College,14
+2022-09-17T23:00:00.000Z,Southwestern Oklahoma,48,Southeastern Oklahoma,58
+2022-09-17T23:00:00.000Z,Wheaton College (Ill),42,Illinois Wesleyan,7
+2022-09-17T23:00:00.000Z,Trinity (TX),52,Texas Lutheran,14
+2022-09-17T23:00:00.000Z,Sam Houston State,27,Texas A&M-Commerce,17
+2022-09-17T23:00:00.000Z,Tiffin,20,Indianapolis,27
+2022-09-17T23:00:00.000Z,South Dakota State,45,Butler,17
+2022-09-17T23:00:00.000Z,Prairie View,14,Incarnate Word,31
+2022-09-17T23:00:00.000Z,Davidson,56,St. Andrews,6
+2022-09-17T23:00:00.000Z,Mississippi Valley State,17,Delta State,28
+2022-09-17T23:00:00.000Z,Wisconsin Lutheran,25,Lakeland University,21
+2022-09-17T23:00:00.000Z,Henderson State,37,Arkansas-Monticello,27
+2022-09-17T23:00:00.000Z,Memphis,44,Arkansas State,32
+2022-09-17T23:00:00.000Z,Case Western Reserve,14,Washington & Jefferson,10
+2022-09-17T23:00:00.000Z,Grand Valley State,66,Lincoln University (CA),7
+2022-09-17T23:00:00.000Z,Arkansas Tech,14,Ouachita Baptist,63
+2022-09-17T23:00:00.000Z,Southeastern Louisiana,70,Central Connecticut,6
+2022-09-17T23:00:00.000Z,Ohio State,77,Toledo,21
+2022-09-17T23:00:00.000Z,Buena Vista,3,Coe,14
+2022-09-17T23:00:00.000Z,Lamar,14,Northern Colorado,21
+2022-09-17T23:00:00.000Z,Southern Mississippi,64,Northwestern State,10
+2022-09-17T23:00:00.000Z,Harding,37,Southern Arkansas,17
+2022-09-17T23:00:00.000Z,Northwestern Oklahoma State,23,Oklahoma Baptist,31
+2022-09-17T23:00:00.000Z,Miles,7,Valdosta State,55
+2022-09-17T23:00:00.000Z,Tennessee Tech,28,Samford,33
+2022-09-17T23:00:00.000Z,Lindenwood,37,Keiser University,3
+2022-09-17T23:00:00.000Z,Tennessee,63,Akron,6
+2022-09-17T23:30:00.000Z,East Tennessee State,14,Furman,27
+2022-09-17T23:30:00.000Z,Iowa,27,Nevada,0
+2022-09-17T23:30:00.000Z,Boston College,38,Maine,17
+2022-09-17T23:30:00.000Z,Florida,31,South Florida,28
+2022-09-17T23:30:00.000Z,Illinois State,35,Eastern Illinois,7
+2022-09-17T23:30:00.000Z,Rice,33,Louisiana,21
+2022-09-17T23:30:00.000Z,Washington,39,Michigan State,28
+2022-09-17T23:30:00.000Z,Concordia-St. Paul,23,Sioux Falls,44
+2022-09-17T23:30:00.000Z,Maryland,34,SMU,27
+2022-09-17T23:30:00.000Z,Florida Atlantic,14,UCF,40
+2022-09-17T23:30:00.000Z,Western Michigan,13,Pittsburgh,34
+2022-09-18T00:00:00.000Z,Oregon State,68,Montana State,28
+2022-09-18T00:00:00.000Z,Pittsburg State,49,Northeastern State,14
+2022-09-18T00:00:00.000Z,Midwestern State,28,Michigan Tech,21
+2022-09-18T00:00:00.000Z,Kentucky Wesleyan,11,Missouri S&T,6
+2022-09-18T00:00:00.000Z,Western New Mexico,35,Western Oregon,30
+2022-09-18T00:00:00.000Z,West Texas A&M,24,Texas A&M-Kingsville,31
+2022-09-18T00:00:00.000Z,Clemson,48,Louisiana Tech,20
+2022-09-18T00:00:00.000Z,Texas,41,UT San Antonio,20
+2022-09-18T00:00:00.000Z,Weber State,44,Utah Tech,14
+2022-09-18T00:00:00.000Z,Chadron State,23,Black Hills State,32
+2022-09-18T00:00:00.000Z,McNeese,19,Alcorn State,30
+2022-09-18T00:00:00.000Z,New Mexico,27,UTEP,10
+2022-09-18T01:00:00.000Z,Texas A&M,17,Miami,9
+2022-09-18T02:00:00.000Z,Utah,35,San Diego State,7
+2022-09-18T02:00:00.000Z,La Verne,0,Pacific Lutheran,41
+2022-09-18T02:00:00.000Z,Pacific (OR),23,Pomona-Pitzer,20
+2022-09-18T02:00:00.000Z,UC Davis,43,San Diego,13
+2022-09-18T02:00:00.000Z,George Fox University,38,Chapman,28
+2022-09-18T02:30:00.000Z,USC,45,Fresno State,17
+2022-09-18T03:00:00.000Z,Arizona,31,North Dakota State,28
+2022-09-18T03:00:00.000Z,Arizona State,21,Eastern Michigan,30
+2022-09-18T03:59:00.000Z,Hawai'i,24,Duquesne,14
+2022-09-22T23:30:00.000Z,Virginia Tech,,West Virginia,
+2022-09-22T23:30:00.000Z,Georgia State,,Coastal Carolina,
+2022-09-23T00:30:00.000Z,Illinois,,Chattanooga,
+2022-09-23T22:00:00.000Z,Bentley,,New Haven,
+2022-09-23T23:00:00.000Z,Syracuse,,Virginia,
+2022-09-23T23:00:00.000Z,Johns Hopkins,,Moravian,
+2022-09-24T00:00:00.000Z,Air Force,,Nevada,
+2022-09-24T01:00:00.000Z,UTEP,,Boise State,
+2022-09-24T04:00:00.000Z,UCF,,Georgia Tech,
+2022-09-24T04:00:00.000Z,Northeastern State,,Lincoln (MO),
+2022-09-24T04:00:00.000Z,Texas A&M-Kingsville,,Eastern New Mexico,
+2022-09-24T04:00:00.000Z,Cincinnati,,Indiana,
+2022-09-24T04:00:00.000Z,Northern Michigan,,Post University,
+2022-09-24T04:00:00.000Z,Bluefield,,Fort Valley State,
+2022-09-24T04:00:00.000Z,Frostburg State,,Concord,
+2022-09-24T04:00:00.000Z,Hiram,,Wittenberg,
+2022-09-24T04:00:00.000Z,Northwestern,,Miami (OH),
+2022-09-24T04:00:00.000Z,Otterbein,,Marietta,
+2022-09-24T04:00:00.000Z,California,,Arizona,
+2022-09-24T04:00:00.000Z,Colorado,,UCLA,
+2022-09-24T04:00:00.000Z,Greensboro,,Maryville TN,
+2022-09-24T04:00:00.000Z,Coe,,Simpson College,
+2022-09-24T04:00:00.000Z,Northwestern State,,Southeastern Louisiana,
+2022-09-24T04:00:00.000Z,John Carroll,,Heidelberg,
+2022-09-24T04:00:00.000Z,Muskingum,,Mount Union,
+2022-09-24T16:00:00.000Z,Iowa State,,Baylor,
+2022-09-24T16:00:00.000Z,Kansas,,Duke,
+2022-09-24T16:00:00.000Z,West Chester,,Millersville,
+2022-09-24T16:00:00.000Z,Robert Morris,,East Tennessee State,
+2022-09-24T16:00:00.000Z,Charleston Southern,,Furman,
+2022-09-24T16:00:00.000Z,Kutztown,,Shepherd,
+2022-09-24T16:00:00.000Z,California (PA),,Edinboro,
+2022-09-24T16:00:00.000Z,Johnson C Smith,,Lincoln (PA),
+2022-09-24T16:00:00.000Z,Pace,,Assumption,
+2022-09-24T16:00:00.000Z,Davenport,,Northwood (MI),
+2022-09-24T16:00:00.000Z,Shorter,,Valdosta State,
+2022-09-24T16:00:00.000Z,Mississippi State,,Bowling Green,
+2022-09-24T16:00:00.000Z,SMU,,TCU,
+2022-09-24T16:00:00.000Z,Eastern Michigan,,Buffalo,
+2022-09-24T16:00:00.000Z,MIT,,Dean College,
+2022-09-24T16:00:00.000Z,Buffalo State,,Morrisville State,
+2022-09-24T16:00:00.000Z,Castleton State College,,St Lawrence,
+2022-09-24T16:00:00.000Z,Endicott College,,Norwich,
+2022-09-24T16:00:00.000Z,FDU-Florham,,King's College (PA),
+2022-09-24T16:00:00.000Z,Anna Maria College,,Coast Guard,
+2022-09-24T16:00:00.000Z,Alfred State College,,Defiance,
+2022-09-24T16:00:00.000Z,Albright,,Lycoming,
+2022-09-24T16:00:00.000Z,Wheeling Jesuit,,Glenville State,
+2022-09-24T16:00:00.000Z,Springfield,,Husson,
+2022-09-24T16:00:00.000Z,Fitchburg State,,Mass Maritime,
+2022-09-24T16:00:00.000Z,Auburn,,Missouri,
+2022-09-24T16:00:00.000Z,Pittsburgh,,Rhode Island,
+2022-09-24T16:00:00.000Z,Penn State,,Central Michigan,
+2022-09-24T16:00:00.000Z,Georgia,,Kent State,
+2022-09-24T16:00:00.000Z,Wake Forest,,Clemson,
+2022-09-24T16:00:00.000Z,Louisville,,South Florida,
+2022-09-24T16:00:00.000Z,American International,,Franklin Pierce,
+2022-09-24T16:00:00.000Z,Michigan,,Maryland,
+2022-09-24T16:00:00.000Z,Western New England,,Salisbury,
+2022-09-24T16:30:00.000Z,Georgetown,,Columbia,
+2022-09-24T16:30:00.000Z,Brown,,Harvard,
+2022-09-24T17:00:00.000Z,Middlebury,,Wesleyan,
+2022-09-24T17:00:00.000Z,Pennsylvania,,Lafayette,
+2022-09-24T17:00:00.000Z,Colgate,,Holy Cross,
+2022-09-24T17:00:00.000Z,Long Island University,,Bryant,
+2022-09-24T17:00:00.000Z,Stetson,,Morehead State,
+2022-09-24T17:00:00.000Z,Valparaiso,,San Diego,
+2022-09-24T17:00:00.000Z,Bates College,,Tufts,
+2022-09-24T17:00:00.000Z,Williams,,Bowdoin,
+2022-09-24T17:00:00.000Z,Hamilton,,Amherst College,
+2022-09-24T17:00:00.000Z,Delaware Valley,,Misericordia,
+2022-09-24T17:00:00.000Z,Muhlenberg,,McDaniel College,
+2022-09-24T17:00:00.000Z,Dickinson,,Susquehanna,
+2022-09-24T17:00:00.000Z,Franklin & Marshall,,Ursinus,
+2022-09-24T17:00:00.000Z,Kean,,Merchant Marine,
+2022-09-24T17:00:00.000Z,Trinity (CT),,Colby,
+2022-09-24T17:00:00.000Z,DePauw,,Wooster,
+2022-09-24T17:00:00.000Z,Southern Virginia,,NC Wesleyan,
+2022-09-24T17:00:00.000Z,Northwestern (MN),,Hope,
+2022-09-24T17:00:00.000Z,Kenyon,,Ohio Wesleyan,
+2022-09-24T17:00:00.000Z,Minnesota-Morris,,Lawrence,
+2022-09-24T17:00:00.000Z,Alfred,,Kalamazoo,
+2022-09-24T17:00:00.000Z,Union,,Utica,
+2022-09-24T17:00:00.000Z,Clarion,,Gannon,
+2022-09-24T17:00:00.000Z,St. Anselm,,Southern Connecticut State,
+2022-09-24T17:00:00.000Z,West Liberty,,WV Wesleyan,
+2022-09-24T17:00:00.000Z,Charleston (WV),,Alderson-Broaddus,
+2022-09-24T17:00:00.000Z,North Greenville,,Findlay,
+2022-09-24T17:00:00.000Z,Michigan Tech,,Saginaw Valley,
+2022-09-24T17:00:00.000Z,Ohio Dominican,,Indianapolis,
+2022-09-24T17:00:00.000Z,Shaw,,Elizabeth City State,
+2022-09-24T17:00:00.000Z,St. Augustine's,,Bowie State,
+2022-09-24T17:00:00.000Z,Juniata,,Gettysburg,
+2022-09-24T17:00:00.000Z,Widener,,Stevenson,
+2022-09-24T17:00:00.000Z,Curry,,Hilbert College,
+2022-09-24T17:00:00.000Z,Dubuque,,Wartburg,
+2022-09-24T17:00:00.000Z,SUNY Maritime,,William Paterson,
+2022-09-24T17:00:00.000Z,Lebanon Valley,,Wilkes,
+2022-09-24T17:00:00.000Z,Rowan,,Salve Regina,
+2022-09-24T17:00:00.000Z,LaGrange College,,Methodist,
+2022-09-24T17:00:00.000Z,Keystone,,Hobart,
+2022-09-24T17:00:00.000Z,Carthage,,Washington (MO),
+2022-09-24T17:00:00.000Z,WV State,,Notre Dame College,
+2022-09-24T17:00:00.000Z,Loras College,,Nebraska Wesleyan University,
+2022-09-24T17:00:00.000Z,Worcester Polytechnic,,Montclair State,
+2022-09-24T17:05:00.000Z,East Stroudsburg,,Lock Haven,
+2022-09-24T17:30:00.000Z,Capital,,Wilmington (OH),
+2022-09-24T18:00:00.000Z,Westfield State,,Framingham State,
+2022-09-24T18:00:00.000Z,McKendree,,Walsh,
+2022-09-24T18:00:00.000Z,Morehouse,,Savannah State,
+2022-09-24T18:00:00.000Z,Temple,,UMass,
+2022-09-24T18:00:00.000Z,Allegheny,,Waynesburg,
+2022-09-24T18:00:00.000Z,Christopher Newport,,Catholic University,
+2022-09-24T18:00:00.000Z,Hamline,,Carleton,
+2022-09-24T18:00:00.000Z,Rhodes,,Westminster,
+2022-09-24T18:00:00.000Z,Barton College,,Mars Hill,
+2022-09-24T18:00:00.000Z,Macalester,,St. Olaf College,
+2022-09-24T18:00:00.000Z,Tuskegee,,Allen,
+2022-09-24T18:00:00.000Z,Huntingdon,,Belhaven College,
+2022-09-24T18:00:00.000Z,Luther,,Buena Vista,
+2022-09-24T18:00:00.000Z,Howard Payne,,East Texas Baptist,
+2022-09-24T18:00:00.000Z,North Central,,Elmhurst,
+2022-09-24T18:00:00.000Z,Alma College,,Martin Luther College,
+2022-09-24T18:00:00.000Z,Greenville,,Olivet College,
+2022-09-24T18:00:00.000Z,St. Norbert,,Lakeland University,
+2022-09-24T18:00:00.000Z,Rockford,,Aurora,
+2022-09-24T18:00:00.000Z,Concordia (WI),,Concordia (IL),
+2022-09-24T18:00:00.000Z,Illinois Wesleyan,,Carroll (WI),
+2022-09-24T18:00:00.000Z,Wabash College,,Denison,
+2022-09-24T18:00:00.000Z,Bethel (MN),,St. Johns (MN),
+2022-09-24T18:00:00.000Z,Concordia (MN),,Gustavus Adolphus,
+2022-09-24T18:00:00.000Z,Augsburg,,St. Scholastica,
+2022-09-24T18:00:00.000Z,Millikin,,North Park,
+2022-09-24T18:00:00.000Z,Augustana (SD),,Northern State,
+2022-09-24T18:00:00.000Z,Winona State,,Minnesota St-Moorhead,
+2022-09-24T18:00:00.000Z,Sioux Falls,,Minnesota-Duluth,
+2022-09-24T18:00:00.000Z,Fairmont State,,UNC Pembroke,
+2022-09-24T18:00:00.000Z,Emporia State,,Pittsburg State,
+2022-09-24T18:00:00.000Z,Nebraska-Kearney,,Central Missouri State,
+2022-09-24T18:00:00.000Z,Southwest Baptist,,Lake Erie College,
+2022-09-24T18:00:00.000Z,William Jewell College,,Kentucky Wesleyan,
+2022-09-24T18:00:00.000Z,Quincy,,Ashland,
+2022-09-24T18:00:00.000Z,Central State,,Miles,
+2022-09-24T18:00:00.000Z,Jackson State,,Mississippi Valley State,
+2022-09-24T18:00:00.000Z,Ohio,,Fordham,
+2022-09-24T18:00:00.000Z,UW-Stout,,Crown College,
+2022-09-24T18:00:00.000Z,Baldwin-Wallace,,Ohio Northern,
+2022-09-24T18:00:00.000Z,Wisconsin-Eau Claire,,Albion,
+2022-09-24T18:00:00.000Z,Cornell,,Yale,
+2022-09-24T18:00:00.000Z,Sacred Heart,,Dartmouth,
+2022-09-24T18:00:00.000Z,Norfolk State,,St Francis (PA),
+2022-09-24T18:00:00.000Z,South Dakota,,North Dakota State,
+2022-09-24T18:00:00.000Z,Drake,,Marist,
+2022-09-24T18:00:00.000Z,Bethune-Cookman,,Grambling,
+2022-09-24T18:00:00.000Z,Richmond,,Stony Brook,
+2022-09-24T18:00:00.000Z,St. Thomas (MN),,Lincoln University (CA),
+2022-09-24T18:00:00.000Z,Delaware State,,Merrimack,
+2022-09-24T18:00:00.000Z,Colorado Mines,,Colorado State-Pueblo,
+2022-09-24T18:00:00.000Z,Fort Lewis,,Adams State,
+2022-09-24T18:00:00.000Z,Bloomsburg,,Shippensburg,
+2022-09-24T18:30:00.000Z,Hartwick,,Nichols,
+2022-09-24T18:30:00.000Z,Worcester State College,,UMass Dartmouth,
+2022-09-24T18:30:00.000Z,Trine,,Centre,
+2022-09-24T19:00:00.000Z,Thiel College,,Carnegie Mellon,
+2022-09-24T19:00:00.000Z,Adrian,,Finlandia University,
+2022-09-24T19:00:00.000Z,Northern Colorado,,Idaho State,
+2022-09-24T19:00:00.000Z,Lane,,Edward Waters,
+2022-09-24T19:00:00.000Z,Black Hills State,,Colorado Mesa,
+2022-09-24T19:00:00.000Z,West Alabama,,West Georgia,
+2022-09-24T19:00:00.000Z,Western State,,Chadron State,
+2022-09-24T19:00:00.000Z,Ferris State,,Waldorf,
+2022-09-24T19:00:00.000Z,Central Oklahoma,,Northwest Missouri State,
+2022-09-24T19:00:00.000Z,Southeast Missouri State,,Central Arkansas,
+2022-09-24T19:00:00.000Z,Truman State,,Tiffin,
+2022-09-24T19:00:00.000Z,Minnesota State,,University of Mary,
+2022-09-24T19:00:00.000Z,Samford,,Western Carolina,
+2022-09-24T19:00:00.000Z,Missouri State,,South Dakota State,
+2022-09-24T19:00:00.000Z,Southern Illinois,,North Dakota,
+2022-09-24T19:00:00.000Z,Princeton,,Lehigh,
+2022-09-24T19:30:00.000Z,North Carolina,,Notre Dame,
+2022-09-24T19:30:00.000Z,Tennessee,,Florida,
+2022-09-24T19:30:00.000Z,Texas Tech,,Texas,
+2022-09-24T19:30:00.000Z,Michigan State,,Minnesota,
+2022-09-24T19:30:00.000Z,Albany,,Central Connecticut,
+2022-09-24T19:30:00.000Z,Villanova,,Monmouth,
+2022-09-24T19:30:00.000Z,William & Mary,,Elon,
+2022-09-24T19:30:00.000Z,San Diego State,,Toledo,
+2022-09-24T19:30:00.000Z,UT San Antonio,,Texas Southern,
+2022-09-24T19:30:00.000Z,Appalachian State,,James Madison,
+2022-09-24T19:30:00.000Z,Memphis,,North Texas,
+2022-09-24T19:30:00.000Z,Western Kentucky,,Florida International,
+2022-09-24T19:30:00.000Z,Miami,,Middle Tennessee,
+2022-09-24T20:00:00.000Z,Pacific Lutheran,,Cal Lutheran,
+2022-09-24T20:00:00.000Z,Indiana (PA),,Mercyhurst,
+2022-09-24T20:00:00.000Z,St. John Fisher,,Rensselaer,
+2022-09-24T20:00:00.000Z,Nicholls,,Jacksonville State,
+2022-09-24T20:00:00.000Z,Eastern Washington,,Montana State,
+2022-09-24T20:00:00.000Z,Northern Arizona,,Idaho,
+2022-09-24T20:00:00.000Z,Montana,,Portland State,
+2022-09-24T20:00:00.000Z,Catawba,,Tusculum,
+2022-09-24T20:00:00.000Z,South Dakota Mines,,New Mexico Highlands,
+2022-09-24T20:00:00.000Z,Upper Iowa,,Bemidji State,
+2022-09-24T20:00:00.000Z,Fayetteville State,,Virginia Union,
+2022-09-24T20:00:00.000Z,Livingstone,,Virginia State,
+2022-09-24T20:00:00.000Z,Colorado State,,Sacramento State,
+2022-09-24T20:00:00.000Z,Washington State,,Oregon,
+2022-09-24T20:00:00.000Z,Ole Miss,,Tulsa,
+2022-09-24T20:00:00.000Z,Austin Peay,,Eastern Kentucky,
+2022-09-24T20:00:00.000Z,Western Illinois,,Northern Iowa,
+2022-09-24T20:00:00.000Z,Towson,,New Hampshire,
+2022-09-24T20:00:00.000Z,North Carolina Central,,Virginia Lynchburg,
+2022-09-24T20:05:00.000Z,Western Oregon,,University of Texas of the Permian Basin,
+2022-09-24T20:30:00.000Z,Northwestern State,,Lamar,
+2022-09-24T21:00:00.000Z,Western Connecticut State,,Bridgewater State,
+2022-09-24T21:00:00.000Z,Eureka College,,Benedictine (IL),
+2022-09-24T21:00:00.000Z,Murray State,,Eastern Illinois,
+2022-09-24T22:00:00.000Z,Delaware,,Hampton,
+2022-09-24T22:00:00.000Z,Clark Atlanta,,Albany State (GA),
+2022-09-24T22:00:00.000Z,Washington & Jefferson,,Bethany (WV),
+2022-09-24T22:00:00.000Z,Houston,,Rice,
+2022-09-24T22:00:00.000Z,Chowan,,Winston-Salem,
+2022-09-24T22:00:00.000Z,Newberry,,Erskine,
+2022-09-24T22:00:00.000Z,Lenoir-Rhyne,,Carson-Newman,
+2022-09-24T22:00:00.000Z,Wayne State (MI),,Grand Valley State,
+2022-09-24T22:00:00.000Z,Slippery Rock,,Seton Hill College,
+2022-09-24T22:00:00.000Z,Southwest Minnesota State,,Minot State,
+2022-09-24T22:00:00.000Z,Kennesaw State,,Wofford,
+2022-09-24T22:00:00.000Z,Wingate,,Emory & Henry,
+2022-09-24T22:00:00.000Z,Gardner-Webb,,Mercer,
+2022-09-24T22:00:00.000Z,Florida A&M,,Alabama A&M,
+2022-09-24T22:00:00.000Z,Benedict College,,Kentucky State,
+2022-09-24T22:00:00.000Z,Georgia Southern,,Ball State,
+2022-09-24T22:00:00.000Z,Alabama State,,Prairie View,
+2022-09-24T22:00:00.000Z,Liberty,,Akron,
+2022-09-24T22:00:00.000Z,Old Dominion,,Arkansas State,
+2022-09-24T22:00:00.000Z,East Carolina,,Navy,
+2022-09-24T23:00:00.000Z,Incarnate Word,,Sam Houston State,
+2022-09-24T23:00:00.000Z,Kentucky,,Northern Illinois,
+2022-09-24T23:00:00.000Z,Grove City College,,St. Vincent,
+2022-09-24T23:00:00.000Z,Troy,,Marshall,
+2022-09-24T23:00:00.000Z,Birmingham-Southern,,Point University,
+2022-09-24T23:00:00.000Z,Augustana (IL),,Wheaton College (Ill),
+2022-09-24T23:00:00.000Z,Utah State,,UNLV,
+2022-09-24T23:00:00.000Z,Geneva College,,Case Western Reserve,
+2022-09-24T23:00:00.000Z,Rutgers,,Iowa,
+2022-09-24T23:00:00.000Z,Hardin-Simmons,,Mary Hardin-Baylor,
+2022-09-24T23:00:00.000Z,Missouri Western,,Washburn,
+2022-09-24T23:00:00.000Z,Missouri S&T,,Hillsdale,
+2022-09-24T23:00:00.000Z,Southeastern Oklahoma,,Southern Nazarene,
+2022-09-24T23:00:00.000Z,Oklahoma Baptist,,Southwestern Oklahoma,
+2022-09-24T23:00:00.000Z,Southern Arkansas,,Henderson State,
+2022-09-24T23:00:00.000Z,Ouachita Baptist,,Harding,
+2022-09-24T23:00:00.000Z,Arkansas-Monticello,,Arkansas Tech,
+2022-09-24T23:00:00.000Z,Wayne State (NE),,Concordia-St. Paul,
+2022-09-24T23:00:00.000Z,West Florida,,Delta State,
+2022-09-24T23:00:00.000Z,Limestone,,UVA-Wise,
+2022-09-24T23:00:00.000Z,East Central,,Northwestern Oklahoma State,
+2022-09-24T23:00:00.000Z,Angelo State,,West Texas A&M,
+2022-09-24T23:00:00.000Z,South Alabama,,Louisiana Tech,
+2022-09-24T23:00:00.000Z,Stephen F. Austin,,Lamar,
+2022-09-24T23:00:00.000Z,Texas State,,Houston Baptist,
+2022-09-24T23:00:00.000Z,Southwestern University,,McMurry,
+2022-09-24T23:00:00.000Z,Texas Lutheran,,Sul Ross State,
+2022-09-24T23:00:00.000Z,Tulane,,Southern Mississippi,
+2022-09-24T23:00:00.000Z,Texas A&M-Commerce,,North American University,
+2022-09-24T23:00:00.000Z,North Carolina A&T,,South Carolina State,
+2022-09-24T23:00:00.000Z,Alcorn State,,Arkansas-Pine Bluff,
+2022-09-24T23:00:00.000Z,Presbyterian College,,Davidson,
+2022-09-24T23:00:00.000Z,UT Martin,,Lindenwood,
+2022-09-24T23:00:00.000Z,North Alabama,,Tarleton State,
+2022-09-24T23:00:00.000Z,Texas A&M,,Arkansas,
+2022-09-24T23:30:00.000Z,Alabama,,Vanderbilt,
+2022-09-24T23:30:00.000Z,Purdue,,Florida Atlantic,
+2022-09-24T23:30:00.000Z,South Carolina,,Charlotte,
+2022-09-24T23:30:00.000Z,LSU,,New Mexico,
+2022-09-24T23:30:00.000Z,Ohio State,,Wisconsin,
+2022-09-24T23:30:00.000Z,NC State,,Connecticut,
+2022-09-25T00:00:00.000Z,New Mexico State,,Hawai'i,
+2022-09-25T00:00:00.000Z,Oklahoma,,Kansas State,
+2022-09-25T00:00:00.000Z,Louisiana Monroe,,Louisiana,
+2022-09-25T00:00:00.000Z,Midwestern State,,Simon Fraser,
+2022-09-25T00:00:00.000Z,Fort Hays State,,Missouri Southern State,
+2022-09-25T00:00:00.000Z,McNeese,,Mississippi College,
+2022-09-25T00:00:00.000Z,Southern Utah,,Utah Tech,
+2022-09-25T00:00:00.000Z,Abilene Christian,,Western New Mexico,
+2022-09-25T00:00:00.000Z,Florida State,,Boston College,
+2022-09-25T01:30:00.000Z,Oregon State,,USC,
+2022-09-25T02:00:00.000Z,Redlands,,Claremont,
+2022-09-25T02:00:00.000Z,Whittier,,Pomona-Pitzer,
+2022-09-25T02:00:00.000Z,Chapman,,La Verne,
+2022-09-25T02:00:00.000Z,UC Davis,,Weber State,
+2022-09-25T02:15:00.000Z,BYU,,Wyoming,
+2022-09-25T02:30:00.000Z,San José State,,Western Michigan,
+2022-09-25T02:30:00.000Z,Arizona State,,Utah,
+2022-09-25T02:30:00.000Z,Washington,,Stanford,
+2022-09-30T00:00:00.000Z,BYU,,Utah State,
+2022-09-30T23:00:00.000Z,Dartmouth,,Pennsylvania,
+2022-09-30T23:00:00.000Z,Houston,,Tulane,
+2022-09-30T23:00:00.000Z,UMass Dartmouth,,Western Connecticut State,
+2022-09-30T23:30:00.000Z,Middle Tennessee,,UT San Antonio,
+2022-10-01T00:00:00.000Z,Boise State,,San Diego State,
+2022-10-01T02:30:00.000Z,UCLA,,Washington,
+2022-10-01T03:00:00.000Z,UNLV,,New Mexico,
+2022-10-01T04:00:00.000Z,Syracuse,,Wagner,
+2022-10-01T04:00:00.000Z,North Carolina,,Virginia Tech,
+2022-10-01T04:00:00.000Z,James Madison,,Texas State,
+2022-10-01T04:00:00.000Z,Auburn,,LSU,
+2022-10-01T04:00:00.000Z,Arkansas,,Alabama,
+2022-10-01T04:00:00.000Z,Lamar,,Tarleton State,
+2022-10-01T04:00:00.000Z,Ole Miss,,Kentucky,
+2022-10-01T04:00:00.000Z,Marshall,,Gardner-Webb,
+2022-10-01T04:00:00.000Z,Northwestern State,,Nicholls,
+2022-10-01T04:00:00.000Z,Penn State,,Northwestern,
+2022-10-01T04:00:00.000Z,Wilmington (OH),,John Carroll,
+2022-10-01T04:00:00.000Z,Pace,,Post University,
+2022-10-01T04:00:00.000Z,Fort Valley State,,Benedict College,
+2022-10-01T04:00:00.000Z,Ohio Northern,,Mount Union,
+2022-10-01T04:00:00.000Z,Clemson,,NC State,
+2022-10-01T04:00:00.000Z,Florida State,,Wake Forest,
+2022-10-01T04:00:00.000Z,Pittsburgh,,Georgia Tech,
+2022-10-01T04:00:00.000Z,Duke,,Virginia,
+2022-10-01T04:00:00.000Z,Worcester Polytechnic,,Merchant Marine,
+2022-10-01T04:00:00.000Z,Memphis,,Temple,
+2022-10-01T04:00:00.000Z,South Florida,,East Carolina,
+2022-10-01T04:00:00.000Z,Boston College,,Louisville,
+2022-10-01T04:00:00.000Z,Denison,,DePauw,
+2022-10-01T04:00:00.000Z,Ball State,,Northern Illinois,
+2022-10-01T04:00:00.000Z,Coastal Carolina,,Georgia Southern,
+2022-10-01T04:00:00.000Z,Tulsa,,Cincinnati,
+2022-10-01T04:00:00.000Z,Appalachian State,,The Citadel,
+2022-10-01T04:00:00.000Z,UCF,,SMU,
+2022-10-01T04:00:00.000Z,Baylor,,Oklahoma State,
+2022-10-01T04:00:00.000Z,Washington State,,California,
+2022-10-01T04:00:00.000Z,Wisconsin,,Illinois,
+2022-10-01T04:00:00.000Z,Mississippi State,,Texas A&M,
+2022-10-01T04:00:00.000Z,TCU,,Oklahoma,
+2022-10-01T04:00:00.000Z,Texas,,West Virginia,
+2022-10-01T04:00:00.000Z,Wittenberg,,Wabash College,
+2022-10-01T04:00:00.000Z,Rockford,,Concordia (WI),
+2022-10-01T04:00:00.000Z,North American University,,Texas Lutheran,
+2022-10-01T04:00:00.000Z,Louisiana,,South Alabama,
+2022-10-01T04:00:00.000Z,Utah,,Oregon State,
+2022-10-01T04:00:00.000Z,USC,,Arizona State,
+2022-10-01T04:00:00.000Z,Missouri,,Georgia,
+2022-10-01T04:00:00.000Z,Oregon,,Stanford,
+2022-10-01T04:00:00.000Z,South Carolina,,South Carolina State,
+2022-10-01T04:00:00.000Z,Old Dominion,,Liberty,
+2022-10-01T04:00:00.000Z,Arizona,,Colorado,
+2022-10-01T04:00:00.000Z,Iowa,,Michigan,
+2022-10-01T04:00:00.000Z,Maryland,,Michigan State,
+2022-10-01T04:00:00.000Z,Kansas State,,Texas Tech,
+2022-10-01T04:00:00.000Z,Kansas,,Iowa State,
+2022-10-01T04:00:00.000Z,Nebraska,,Indiana,
+2022-10-01T16:00:00.000Z,Moravian,,Juniata,
+2022-10-01T16:00:00.000Z,Minnesota,,Purdue,
+2022-10-01T16:00:00.000Z,Keystone,,Gallaudet,
+2022-10-01T16:00:00.000Z,Army,,Georgia State,
+2022-10-01T16:00:00.000Z,Southern Connecticut State,,Assumption,
+2022-10-01T16:00:00.000Z,NC Wesleyan,,LaGrange College,
+2022-10-01T16:00:00.000Z,Mass Maritime,,Westfield State,
+2022-10-01T16:00:00.000Z,Stevenson,,Delaware Valley,
+2022-10-01T16:00:00.000Z,Nichols,,Western New England,
+2022-10-01T16:00:00.000Z,Framingham State,,Plymouth State,
+2022-10-01T16:00:00.000Z,Endicott College,,Husson,
+2022-10-01T16:00:00.000Z,MIT,,Catholic University,
+2022-10-01T16:00:00.000Z,Florida,,Eastern Washington,
+2022-10-01T16:00:00.000Z,Marist,,St. Thomas (MN),
+2022-10-01T16:00:00.000Z,Findlay,,Ferris State,
+2022-10-01T16:00:00.000Z,Davenport,,Michigan Tech,
+2022-10-01T16:00:00.000Z,Notre Dame College,,Charleston (WV),
+2022-10-01T16:00:00.000Z,Yale,,Howard,
+2022-10-01T16:00:00.000Z,Stonehill,,Duquesne,
+2022-10-01T16:00:00.000Z,St Francis (PA),,Central Connecticut,
+2022-10-01T16:00:00.000Z,Air Force,,Navy,
+2022-10-01T16:00:00.000Z,Lehigh,,Monmouth,
+2022-10-01T16:00:00.000Z,Morgan State,,Virginia Lynchburg,
+2022-10-01T16:00:00.000Z,Gannon,,Seton Hill College,
+2022-10-01T16:00:00.000Z,Wilkes,,Albright,
+2022-10-01T16:00:00.000Z,WV Wesleyan,,Wheeling Jesuit,
+2022-10-01T17:00:00.000Z,Morehead State,,Presbyterian College,
+2022-10-01T17:00:00.000Z,Colgate,,Cornell,
+2022-10-01T17:00:00.000Z,Sacred Heart,,Norfolk State,
+2022-10-01T17:00:00.000Z,Columbia,,Princeton,
+2022-10-01T17:00:00.000Z,Harvard,,Holy Cross,
+2022-10-01T17:00:00.000Z,North Dakota,,Missouri State,
+2022-10-01T17:00:00.000Z,Davidson,,Butler,
+2022-10-01T17:00:00.000Z,Dayton,,Drake,
+2022-10-01T17:00:00.000Z,Maine,,Villanova,
+2022-10-01T17:00:00.000Z,Fordham,,Georgetown,
+2022-10-01T17:00:00.000Z,Merrimack,,Long Island University,
+2022-10-01T17:00:00.000Z,St. Anselm,,New Haven,
+2022-10-01T17:00:00.000Z,Johnson C Smith,,Elizabeth City State,
+2022-10-01T17:00:00.000Z,Virginia Union,,St. Augustine's,
+2022-10-01T17:00:00.000Z,Concord,,Fairmont State,
+2022-10-01T17:00:00.000Z,UNC Pembroke,,Frostburg State,
+2022-10-01T17:00:00.000Z,Glenville State,,West Liberty,
+2022-10-01T17:00:00.000Z,Franklin Pierce,,Bentley,
+2022-10-01T17:00:00.000Z,Minnesota-Duluth,,Minnesota St-Moorhead,
+2022-10-01T17:00:00.000Z,Concordia-St. Paul,,Minnesota State,
+2022-10-01T17:00:00.000Z,Emory & Henry,,Catawba,
+2022-10-01T17:00:00.000Z,Lock Haven,,Millersville,
+2022-10-01T17:00:00.000Z,Shippensburg,,Shepherd,
+2022-10-01T17:00:00.000Z,Kalamazoo,,Albion,
+2022-10-01T17:00:00.000Z,Trine,,Alma College,
+2022-10-01T17:00:00.000Z,Union,,Buffalo State,
+2022-10-01T17:00:00.000Z,Buena Vista,,Dubuque,
+2022-10-01T17:00:00.000Z,Simpson College,,Luther,
+2022-10-01T17:00:00.000Z,Nebraska Wesleyan University,,Central,
+2022-10-01T17:00:00.000Z,Wartburg,,Loras College,
+2022-10-01T17:00:00.000Z,Franklin & Marshall,,Johns Hopkins,
+2022-10-01T17:00:00.000Z,Oberlin,,Hiram,
+2022-10-01T17:00:00.000Z,Wooster,,Ohio Wesleyan,
+2022-10-01T17:00:00.000Z,Christopher Newport,,Rowan,
+2022-10-01T17:00:00.000Z,Rochester,,Rensselaer,
+2022-10-01T17:00:00.000Z,Utica,,Hartwick,
+2022-10-01T17:00:00.000Z,Amherst College,,Trinity (CT),
+2022-10-01T17:00:00.000Z,Maryville TN,,Huntingdon,
+2022-10-01T17:00:00.000Z,Hamilton,,Wesleyan,
+2022-10-01T17:00:00.000Z,Salisbury,,Montclair State,
+2022-10-01T17:00:00.000Z,SUNY Cortland,,Morrisville State,
+2022-10-01T17:00:00.000Z,Muhlenberg,,Gettysburg,
+2022-10-01T17:00:00.000Z,McDaniel College,,Dickinson,
+2022-10-01T17:00:00.000Z,Misericordia,,FDU-Florham,
+2022-10-01T17:00:00.000Z,Mars Hill,,Limestone,
+2022-10-01T17:00:00.000Z,Lycoming,,King's College (PA),
+2022-10-01T17:00:00.000Z,University of New England,,Curry,
+2022-10-01T17:00:00.000Z,Methodist,,Belhaven College,
+2022-10-01T17:00:00.000Z,Hendrix College,,Trinity (TX),
+2022-10-01T17:00:00.000Z,Shenandoah,,Ferrum,
+2022-10-01T17:00:00.000Z,Hobart,,Ithaca,
+2022-10-01T17:00:00.000Z,Greenville,,Martin Luther College,
+2022-10-01T17:00:00.000Z,Finlandia University,,Northwestern (MN),
+2022-10-01T17:00:00.000Z,Westminster,,Minnesota-Morris,
+2022-10-01T17:00:00.000Z,Norwich,,Coast Guard,
+2022-10-01T17:00:00.000Z,Randolph-Macon,,Guilford,
+2022-10-01T17:00:00.000Z,Bowdoin,,Middlebury,
+2022-10-01T17:00:00.000Z,Illinois College,,Ripon,
+2022-10-01T17:00:00.000Z,Kean,,William Paterson,
+2022-10-01T17:00:00.000Z,Grinnell,,Beloit College,
+2022-10-01T17:00:00.000Z,Ohio Dominican,,Walsh,
+2022-10-01T17:00:00.000Z,Carson-Newman,,Newberry,
+2022-10-01T17:00:00.000Z,Bluefield,,Apprentice School,
+2022-10-01T17:00:00.000Z,Alvernia University,,Lebanon Valley,
+2022-10-01T17:05:00.000Z,East Stroudsburg,,Kutztown,
+2022-10-01T17:30:00.000Z,George Fox University,,Pacific Lutheran,
+2022-10-01T17:30:00.000Z,Heidelberg,,Muskingum,
+2022-10-01T17:30:00.000Z,Susquehanna,,Ursinus,
+2022-10-01T17:30:00.000Z,Winston-Salem,,Lincoln (PA),
+2022-10-01T17:30:00.000Z,Bluffton,,Franklin,
+2022-10-01T17:30:00.000Z,Defiance,,Hanover,
+2022-10-01T17:30:00.000Z,Manchester,,Mount St. Joseph,
+2022-10-01T17:30:00.000Z,Anderson (IN),,Rose-Hulman,
+2022-10-01T17:30:00.000Z,Anna Maria College,,Alfred State College,
+2022-10-01T17:30:00.000Z,Williams,,Tufts,
+2022-10-01T17:30:00.000Z,Wofford,,Mercer,
+2022-10-01T18:00:00.000Z,Furman,,Samford,
+2022-10-01T18:00:00.000Z,Lindenwood,,Southeast Missouri State,
+2022-10-01T18:00:00.000Z,St. Olaf College,,Augsburg,
+2022-10-01T18:00:00.000Z,St. Johns (MN),,Concordia (MN),
+2022-10-01T18:00:00.000Z,Gustavus Adolphus,,Bethel (MN),
+2022-10-01T18:00:00.000Z,Cornell College (IA),,Lake Forest,
+2022-10-01T18:00:00.000Z,Knox College,,Chicago,
+2022-10-01T18:00:00.000Z,North Dakota State,,Youngstown State,
+2022-10-01T18:00:00.000Z,Sul Ross State,,Howard Payne,
+2022-10-01T18:00:00.000Z,Indiana (PA),,Slippery Rock,
+2022-10-01T18:00:00.000Z,Tennessee State,,Lane,
+2022-10-01T18:00:00.000Z,Edward Waters,,Morehouse,
+2022-10-01T18:00:00.000Z,Sewanee Univ. of the South,,Millsaps,
+2022-10-01T18:00:00.000Z,Grove City College,,Case Western Reserve,
+2022-10-01T18:00:00.000Z,St. Scholastica,,Hamline,
+2022-10-01T18:00:00.000Z,Jacksonville State,,Kennesaw State,
+2022-10-01T18:00:00.000Z,Aurora,,Wisconsin Lutheran,
+2022-10-01T18:00:00.000Z,Elon,,Richmond,
+2022-10-01T18:00:00.000Z,Concordia (IL),,Eureka College,
+2022-10-01T18:00:00.000Z,Otterbein,,Capital,
+2022-10-01T18:00:00.000Z,Albany State (GA),,Miles,
+2022-10-01T18:00:00.000Z,William Jewell College,,McKendree,
+2022-10-01T18:00:00.000Z,Washington & Jefferson,,Allegheny,
+2022-10-01T18:00:00.000Z,Carleton,,Macalester,
+2022-10-01T18:00:00.000Z,Eastern Michigan,,UMass,
+2022-10-01T18:00:00.000Z,UW-Oshkosh,,Wisconsin-Platteville,
+2022-10-01T18:00:00.000Z,North Park,,Washington (MO),
+2022-10-01T18:00:00.000Z,Elmhurst,,Carthage,
+2022-10-01T18:00:00.000Z,Bridgewater (VA),,Hampden-Sydney,
+2022-10-01T18:00:00.000Z,Mercyhurst,,Edinboro,
+2022-10-01T18:00:00.000Z,Clarion,,California (PA),
+2022-10-01T18:00:00.000Z,Winona State,,Wayne State (NE),
+2022-10-01T18:00:00.000Z,Augustana (SD),,Sioux Falls,
+2022-10-01T18:00:00.000Z,Minot State,,Bemidji State,
+2022-10-01T18:00:00.000Z,Washburn,,Emporia State,
+2022-10-01T18:00:00.000Z,Central Missouri State,,Northeastern State,
+2022-10-01T18:00:00.000Z,Bowie State,,Livingstone,
+2022-10-01T18:00:00.000Z,Rhodes,,Centre,
+2022-10-01T18:00:00.000Z,Brevard College,,Greensboro,
+2022-10-01T18:00:00.000Z,Wisconsin-La Crosse,,UW-Whitewater,
+2022-10-01T18:00:00.000Z,Illinois Wesleyan,,Millikin,
+2022-10-01T18:00:00.000Z,UW-River Falls,,Wisconsin-Stevens Point,
+2022-10-01T18:30:00.000Z,Northwest Missouri State,,Missouri Western,
+2022-10-01T19:00:00.000Z,Carroll (WI),,Augustana (IL),
+2022-10-01T19:00:00.000Z,West Alabama,,Shorter,
+2022-10-01T19:00:00.000Z,Monmouth (IL),,Lawrence,
+2022-10-01T19:00:00.000Z,Hope,,Adrian,
+2022-10-01T19:00:00.000Z,Washington & Lee,,Averett,
+2022-10-01T19:00:00.000Z,Benedictine (IL),,St. Norbert,
+2022-10-01T19:00:00.000Z,Lincoln (MO),,Central Oklahoma,
+2022-10-01T19:00:00.000Z,Pittsburg State,,Missouri Southern State,
+2022-10-01T19:00:00.000Z,Chadron State,,Colorado Mines,
+2022-10-01T19:00:00.000Z,UVA-Wise,,Lenoir-Rhyne,
+2022-10-01T19:00:00.000Z,Northwestern Oklahoma State,,Ouachita Baptist,
+2022-10-01T19:00:00.000Z,Mary Hardin-Baylor,,Austin College,
+2022-10-01T19:00:00.000Z,Arkansas Tech,,Southern Nazarene,
+2022-10-01T19:00:00.000Z,Harding,,Oklahoma Baptist,
+2022-10-01T19:00:00.000Z,Henderson State,,Southeastern Oklahoma,
+2022-10-01T19:00:00.000Z,Southwestern Oklahoma,,Arkansas-Monticello,
+2022-10-01T19:00:00.000Z,South Dakota State,,Western Illinois,
+2022-10-01T19:00:00.000Z,University of Mary,,Northern State,
+2022-10-01T19:00:00.000Z,Idaho State,,Montana,
+2022-10-01T19:00:00.000Z,UT Martin,,Tennessee Tech,
+2022-10-01T19:00:00.000Z,Delaware,,Towson,
+2022-10-01T19:00:00.000Z,Alabama A&M,,Bethune-Cookman,
+2022-10-01T19:30:00.000Z,Toledo,,Central Michigan,
+2022-10-01T19:30:00.000Z,Bucknell,,Lafayette,
+2022-10-01T19:30:00.000Z,Akron,,Bowling Green,
+2022-10-01T19:30:00.000Z,Stony Brook,,William & Mary,
+2022-10-01T19:30:00.000Z,Kent State,,Ohio,
+2022-10-01T19:30:00.000Z,Sam Houston State,,Stephen F. Austin,
+2022-10-01T19:30:00.000Z,Western Carolina,,VMI,
+2022-10-01T19:30:00.000Z,Buffalo,,Miami (OH),
+2022-10-01T19:30:00.000Z,Southern Arkansas,,East Central,
+2022-10-01T19:30:00.000Z,Ohio State,,Rutgers,
+2022-10-01T19:30:00.000Z,Connecticut,,Fresno State,
+2022-10-01T20:00:00.000Z,Tiffin,,Lake Erie College,
+2022-10-01T20:00:00.000Z,Erskine,,Wingate,
+2022-10-01T20:00:00.000Z,Colorado State-Pueblo,,Fort Lewis,
+2022-10-01T20:00:00.000Z,Lewis & Clark,,Whitworth,
+2022-10-01T20:00:00.000Z,La Verne,,Claremont,
+2022-10-01T20:00:00.000Z,Pacific (OR),,Willamette,
+2022-10-01T20:00:00.000Z,North Texas,,Florida Atlantic,
+2022-10-01T20:00:00.000Z,Clark Atlanta,,Tuskegee,
+2022-10-01T20:00:00.000Z,Lamar,,Houston Baptist,
+2022-10-01T20:00:00.000Z,San Diego,,Stetson,
+2022-10-01T20:00:00.000Z,Bridgewater State,,Fitchburg State,
+2022-10-01T20:05:00.000Z,Western Oregon,,Angelo State,
+2022-10-01T20:30:00.000Z,Linfield,,Puget Sound,
+2022-10-01T20:30:00.000Z,Northwestern State,,Nicholls,
+2022-10-01T20:30:00.000Z,Bethany (WV),,Thiel College,
+2022-10-01T21:00:00.000Z,Portland State,,Northern Arizona,
+2022-10-01T21:00:00.000Z,Northern Iowa,,Indiana State,
+2022-10-01T21:00:00.000Z,Castleton State College,,Dean College,
+2022-10-01T21:00:00.000Z,Marietta,,Baldwin-Wallace,
+2022-10-01T21:00:00.000Z,Central Arkansas,,Austin Peay,
+2022-10-01T21:00:00.000Z,McMurry,,Hardin-Simmons,
+2022-10-01T21:00:00.000Z,West Florida,,North Greenville,
+2022-10-01T22:00:00.000Z,Charlotte,,UTEP,
+2022-10-01T22:00:00.000Z,Wayne State (MI),,Northern Michigan,
+2022-10-01T22:00:00.000Z,West Georgia,,Mississippi College,
+2022-10-01T22:00:00.000Z,Savannah State,,Kentucky State,
+2022-10-01T22:00:00.000Z,Florida A&M,,Mississippi Valley State,
+2022-10-01T22:00:00.000Z,Virginia State,,Shaw,
+2022-10-01T22:00:00.000Z,Indianapolis,,Southwest Baptist,
+2022-10-01T22:00:00.000Z,Rhode Island,,Brown,
+2022-10-01T22:00:00.000Z,Delaware State,,Robert Morris,
+2022-10-01T22:00:00.000Z,Bloomsburg,,West Chester,
+2022-10-01T22:00:00.000Z,Barton College,,Tusculum,
+2022-10-01T22:00:00.000Z,Southwest Minnesota State,,Upper Iowa,
+2022-10-01T22:00:00.000Z,Alderson-Broaddus,,WV State,
+2022-10-01T22:00:00.000Z,Allen,,Central State,
+2022-10-01T22:00:00.000Z,Campbell,,North Carolina Central,
+2022-10-01T22:00:00.000Z,Eastern Kentucky,,Southern Utah,
+2022-10-01T22:00:00.000Z,Western Michigan,,New Hampshire,
+2022-10-01T22:00:00.000Z,Brockport State (NY),,St. John Fisher,
+2022-10-01T23:00:00.000Z,Ashland,,Northwood (MI),
+2022-10-01T23:00:00.000Z,North Central,,Wheaton College (Ill),
+2022-10-01T23:00:00.000Z,Arkansas State,,Louisiana Monroe,
+2022-10-01T23:00:00.000Z,Delta State,,Valdosta State,
+2022-10-01T23:00:00.000Z,Texas Southern,,Alabama State,
+2022-10-01T23:00:00.000Z,Kentucky Wesleyan,,Hillsdale,
+2022-10-01T23:00:00.000Z,Grand Valley State,,Saginaw Valley,
+2022-10-01T23:00:00.000Z,Incarnate Word,,McNeese,
+2022-10-01T23:00:00.000Z,Carnegie Mellon,,Westminster PA,
+2022-10-01T23:00:00.000Z,East Texas Baptist,,Southwestern University,
+2022-10-01T23:00:00.000Z,Colby,,Bates College,
+2022-10-01T23:00:00.000Z,UW-Stout,,Wisconsin-Eau Claire,
+2022-10-01T23:00:00.000Z,Birmingham-Southern,,Berry College,
+2022-10-01T23:00:00.000Z,Grambling,,Prairie View,
+2022-10-01T23:00:00.000Z,North Carolina A&T,,Bryant,
+2022-10-01T23:00:00.000Z,Southern,,Arkansas-Pine Bluff,
+2022-10-01T23:00:00.000Z,Southeastern Louisiana,,Murray State,
+2022-10-01T23:00:00.000Z,Fayetteville State,,Chowan,
+2022-10-01T23:00:00.000Z,Western Kentucky,,Troy,
+2022-10-01T23:30:00.000Z,Illinois State,,Southern Illinois,
+2022-10-01T23:30:00.000Z,Rice,,UAB,
+2022-10-01T23:30:00.000Z,East Tennessee State,,Chattanooga,
+2022-10-01T23:30:00.000Z,Wyoming,,San José State,
+2022-10-02T00:00:00.000Z,Cal Poly,,Sacramento State,
+2022-10-02T00:00:00.000Z,Western New Mexico,,Midwestern State,
+2022-10-02T00:00:00.000Z,Eastern New Mexico,,Central Washington,
+2022-10-02T00:00:00.000Z,Missouri S&T,,Quincy,
+2022-10-02T00:00:00.000Z,South Dakota Mines,,Black Hills State,
+2022-10-02T00:00:00.000Z,Colorado Mesa,,Western State,
+2022-10-02T00:00:00.000Z,McNeese,,Houston Baptist,
+2022-10-02T00:00:00.000Z,New Mexico State,,Florida International,
+2022-10-02T00:00:00.000Z,Nebraska-Kearney,,Fort Hays State,
+2022-10-02T01:00:00.000Z,Simon Fraser,,Texas A&M-Kingsville,
+2022-10-02T01:00:00.000Z,Adams State,,New Mexico Highlands,
+2022-10-02T01:00:00.000Z,Utah Tech,,Abilene Christian,
+2022-10-02T01:00:00.000Z,West Texas A&M,,University of Texas of the Permian Basin,
+2022-10-02T01:00:00.000Z,Idaho,,Northern Colorado,
+2022-10-02T02:00:00.000Z,Chapman,,Pomona-Pitzer,
+2022-10-02T02:00:00.000Z,Whittier,,Cal Lutheran,
+2022-10-02T02:15:00.000Z,Montana State,,UC Davis,
+2022-10-05T23:00:00.000Z,Hendrix College,,Rhodes,
+2022-10-06T23:00:00.000Z,Mass Maritime,,UMass Dartmouth,
+2022-10-06T23:00:00.000Z,Alderson-Broaddus,,Fairmont State,
+2022-10-07T00:00:00.000Z,Central Oklahoma,,Northeastern State,
+2022-10-07T23:00:00.000Z,Cornell,,Harvard,
+2022-10-07T23:00:00.000Z,Rutgers,,Nebraska,
+2022-10-07T23:30:00.000Z,Memphis,,Houston,
+2022-10-08T02:30:00.000Z,Nevada,,Colorado State,
+2022-10-08T02:30:00.000Z,San José State,,UNLV,
+2022-10-08T04:00:00.000Z,Boston College,,Clemson,
+2022-10-08T04:00:00.000Z,Michigan State,,Ohio State,
+2022-10-08T04:00:00.000Z,Northwestern,,Wisconsin,
+2022-10-08T04:00:00.000Z,Pittsburgh,,Virginia Tech,
+2022-10-08T04:00:00.000Z,Virginia,,Louisville,
+2022-10-08T04:00:00.000Z,NC State,,Florida State,
+2022-10-08T04:00:00.000Z,Wake Forest,,Army,
+2022-10-08T04:00:00.000Z,Georgia Tech,,Duke,
+2022-10-08T04:00:00.000Z,Tulane,,East Carolina,
+2022-10-08T04:00:00.000Z,Cincinnati,,South Florida,
+2022-10-08T04:00:00.000Z,Utah State,,Air Force,
+2022-10-08T04:00:00.000Z,Maryland,,Purdue,
+2022-10-08T04:00:00.000Z,Miami,,North Carolina,
+2022-10-08T04:00:00.000Z,Illinois,,Iowa,
+2022-10-08T04:00:00.000Z,Coast Guard,,Springfield,
+2022-10-08T04:00:00.000Z,Catholic University,,Worcester Polytechnic,
+2022-10-08T04:00:00.000Z,Muskingum,,Otterbein,
+2022-10-08T04:00:00.000Z,John Carroll,,Marietta,
+2022-10-08T04:00:00.000Z,Dubuque,,Simpson College,
+2022-10-08T04:00:00.000Z,Luther,,Coe,
+2022-10-08T04:00:00.000Z,Boise State,,Fresno State,
+2022-10-08T04:00:00.000Z,Alabama,,Texas A&M,
+2022-10-08T04:00:00.000Z,LSU,,Tennessee,
+2022-10-08T04:00:00.000Z,Oklahoma,,Texas,
+2022-10-08T04:00:00.000Z,Stanford,,Oregon State,
+2022-10-08T04:00:00.000Z,Arizona State,,Washington,
+2022-10-08T04:00:00.000Z,Arizona,,Oregon,
+2022-10-08T04:00:00.000Z,Iowa State,,Kansas State,
+2022-10-08T04:00:00.000Z,Vanderbilt,,Ole Miss,
+2022-10-08T04:00:00.000Z,Kentucky,,South Carolina,
+2022-10-08T04:00:00.000Z,Georgia,,Auburn,
+2022-10-08T04:00:00.000Z,UCLA,,Utah,
+2022-10-08T04:00:00.000Z,USC,,Washington State,
+2022-10-08T04:00:00.000Z,Florida,,Missouri,
+2022-10-08T04:00:00.000Z,Kansas,,TCU,
+2022-10-08T04:00:00.000Z,Mississippi State,,Arkansas,
+2022-10-08T04:00:00.000Z,Bowling Green,,Buffalo,
+2022-10-08T04:00:00.000Z,Georgia State,,Georgia Southern,
+2022-10-08T04:00:00.000Z,Western Michigan,,Eastern Michigan,
+2022-10-08T04:00:00.000Z,Tufts,,Bowdoin,
+2022-10-08T04:00:00.000Z,Montclair State,,Kean,
+2022-10-08T04:00:00.000Z,Greensboro,,Southern Virginia,
+2022-10-08T04:00:00.000Z,University of Texas of the Permian Basin,,Simon Fraser,
+2022-10-08T04:00:00.000Z,Texas A&M-Kingsville,,Western New Mexico,
+2022-10-08T04:00:00.000Z,Frostburg State,,Notre Dame College,
+2022-10-08T04:00:00.000Z,Stephen F. Austin,,Incarnate Word,
+2022-10-08T04:00:00.000Z,Oklahoma State,,Texas Tech,
+2022-10-08T16:00:00.000Z,Buffalo State,,Rensselaer,
+2022-10-08T16:00:00.000Z,Bridgewater State,,Worcester State College,
+2022-10-08T16:00:00.000Z,Walsh,,Ashland,
+2022-10-08T16:00:00.000Z,Charleston (WV),,Glenville State,
+2022-10-08T16:00:00.000Z,Lehigh,,Fordham,
+2022-10-08T16:00:00.000Z,Robert Morris,,Gardner-Webb,
+2022-10-08T16:00:00.000Z,Alvernia University,,Wilkes,
+2022-10-08T16:00:00.000Z,Delaware Valley,,Lycoming,
+2022-10-08T16:00:00.000Z,Albion,,Hope,
+2022-10-08T16:00:00.000Z,Gallaudet,,Castleton State College,
+2022-10-08T16:00:00.000Z,Alfred State College,,Keystone,
+2022-10-08T16:00:00.000Z,Indiana,,Michigan,
+2022-10-08T16:00:00.000Z,Yale,,Dartmouth,
+2022-10-08T16:00:00.000Z,King's College (PA),,Stevenson,
+2022-10-08T16:00:00.000Z,FDU-Florham,,Widener,
+2022-10-08T16:00:00.000Z,American International,,Grand Valley State,
+2022-10-08T16:00:00.000Z,West Liberty,,Concord,
+2022-10-08T16:00:00.000Z,Wheeling Jesuit,,UNC Pembroke,
+2022-10-08T16:00:00.000Z,Bentley,,St. Anselm,
+2022-10-08T16:00:00.000Z,Kutztown,,Bloomsburg,
+2022-10-08T16:00:00.000Z,California (PA),,Indiana (PA),
+2022-10-08T16:00:00.000Z,Shepherd,,Lock Haven,
+2022-10-08T16:00:00.000Z,Millersville,,East Stroudsburg,
+2022-10-08T16:00:00.000Z,Endicott College,,Nichols,
+2022-10-08T16:00:00.000Z,Lake Erie College,,Ohio Dominican,
+2022-10-08T16:00:00.000Z,Framingham State,,Fitchburg State,
+2022-10-08T16:00:00.000Z,Merchant Marine,,Norwich,
+2022-10-08T16:30:00.000Z,Lafayette,,Princeton,
+2022-10-08T17:00:00.000Z,SUNY Maritime,,Anna Maria College,
+2022-10-08T17:00:00.000Z,Misericordia,,Lebanon Valley,
+2022-10-08T17:00:00.000Z,Hartwick,,Alfred,
+2022-10-08T17:00:00.000Z,Husson,,University of New England,
+2022-10-08T17:00:00.000Z,Curry,,Salve Regina,
+2022-10-08T17:00:00.000Z,Virginia Union,,Elizabeth City State,
+2022-10-08T17:00:00.000Z,Johnson C Smith,,Shaw,
+2022-10-08T17:00:00.000Z,Lincoln (PA),,Chowan,
+2022-10-08T17:00:00.000Z,Michigan Tech,,Wayne State (MI),
+2022-10-08T17:00:00.000Z,Northern Michigan,,Davenport,
+2022-10-08T17:00:00.000Z,Central State,,Fort Valley State,
+2022-10-08T17:00:00.000Z,Monmouth,,Albany,
+2022-10-08T17:00:00.000Z,Stetson,,Marist,
+2022-10-08T17:00:00.000Z,Ouachita Baptist,,Southwestern Oklahoma,
+2022-10-08T17:00:00.000Z,Minnesota-Duluth,,University of Mary,
+2022-10-08T17:00:00.000Z,Minnesota St-Moorhead,,Minot State,
+2022-10-08T17:00:00.000Z,Emory & Henry,,UVA-Wise,
+2022-10-08T17:00:00.000Z,Lenoir-Rhyne,,Limestone,
+2022-10-08T17:00:00.000Z,New Haven,,Pace,
+2022-10-08T17:00:00.000Z,Austin College,,Texas Lutheran,
+2022-10-08T17:00:00.000Z,Whitworth,,Linfield,
+2022-10-08T17:00:00.000Z,Minnesota-Morris,,Finlandia University,
+2022-10-08T17:00:00.000Z,Brockport State (NY),,SUNY Cortland,
+2022-10-08T17:00:00.000Z,Rowan,,College of New Jersey,
+2022-10-08T17:00:00.000Z,St. John Fisher,,Morrisville State,
+2022-10-08T17:00:00.000Z,Belhaven College,,NC Wesleyan,
+2022-10-08T17:00:00.000Z,WV State,,WV Wesleyan,
+2022-10-08T17:00:00.000Z,Columbia,,Wagner,
+2022-10-08T17:00:00.000Z,Central Connecticut,,Brown,
+2022-10-08T17:00:00.000Z,William Paterson,,Salisbury,
+2022-10-08T17:00:00.000Z,Samford,,Wofford,
+2022-10-08T17:00:00.000Z,Loras College,,Buena Vista,
+2022-10-08T17:00:00.000Z,Central,,Wartburg,
+2022-10-08T17:00:00.000Z,Beloit College,,Knox College,
+2022-10-08T17:00:00.000Z,Lawrence,,Cornell College (IA),
+2022-10-08T17:00:00.000Z,Ripon,,Grinnell,
+2022-10-08T17:00:00.000Z,Ithaca,,Rochester,
+2022-10-08T17:00:00.000Z,Oberlin,,Kenyon,
+2022-10-08T17:00:00.000Z,Bethany (WV),,Grove City College,
+2022-10-08T17:00:00.000Z,Centre,,Sewanee Univ. of the South,
+2022-10-08T17:00:00.000Z,Waynesburg,,Carnegie Mellon,
+2022-10-08T17:00:00.000Z,Case Western Reserve,,St. Vincent,
+2022-10-08T17:00:00.000Z,Westminster PA,,Washington & Jefferson,
+2022-10-08T17:00:00.000Z,St Lawrence,,Union,
+2022-10-08T17:00:00.000Z,North Greenville,,Delta State,
+2022-10-08T17:00:00.000Z,Amherst College,,Bates College,
+2022-10-08T17:00:00.000Z,Presbyterian College,,Valparaiso,
+2022-10-08T17:00:00.000Z,Plymouth State,,Western Connecticut State,
+2022-10-08T17:00:00.000Z,Morgan State,,Norfolk State,
+2022-10-08T17:00:00.000Z,Butler,,Dayton,
+2022-10-08T17:00:00.000Z,Bryant,,Southern Connecticut State,
+2022-10-08T17:00:00.000Z,Northwestern (MN),,Greenville,
+2022-10-08T17:00:00.000Z,DePauw,,Wittenberg,
+2022-10-08T17:00:00.000Z,Trinity (CT),,Hamilton,
+2022-10-08T17:00:00.000Z,LaGrange College,,Maryville TN,
+2022-10-08T17:00:00.000Z,Wesleyan,,Colby,
+2022-10-08T17:00:00.000Z,Duquesne,,Merrimack,
+2022-10-08T17:00:00.000Z,Indiana State,,North Dakota State,
+2022-10-08T17:30:00.000Z,Hanover,,Bluffton,
+2022-10-08T17:30:00.000Z,VMI,,East Tennessee State,
+2022-10-08T17:30:00.000Z,Tusculum,,Carson-Newman,
+2022-10-08T17:30:00.000Z,Livingstone,,Winston-Salem,
+2022-10-08T17:30:00.000Z,Mount St. Joseph,,Defiance,
+2022-10-08T17:30:00.000Z,Willamette,,George Fox University,
+2022-10-08T17:30:00.000Z,Mount Union,,Heidelberg,
+2022-10-08T17:30:00.000Z,Franklin,,Anderson (IN),
+2022-10-08T18:00:00.000Z,Emporia State,,Central Missouri State,
+2022-10-08T18:00:00.000Z,Fayetteville State,,St. Augustine's,
+2022-10-08T18:00:00.000Z,McKendree,,Indianapolis,
+2022-10-08T18:00:00.000Z,Quincy,,Kentucky Wesleyan,
+2022-10-08T18:00:00.000Z,Findlay,,Northwood (MI),
+2022-10-08T18:00:00.000Z,Saginaw Valley,,Ferris State,
+2022-10-08T18:00:00.000Z,Southwest Baptist,,William Jewell College,
+2022-10-08T18:00:00.000Z,Millikin,,Augustana (IL),
+2022-10-08T18:00:00.000Z,Benedict College,,Miles,
+2022-10-08T18:00:00.000Z,Hampton,,Maine,
+2022-10-08T18:00:00.000Z,Elon,,Towson,
+2022-10-08T18:00:00.000Z,Georgetown,,Pennsylvania,
+2022-10-08T18:00:00.000Z,Alabama A&M,,Grambling,
+2022-10-08T18:00:00.000Z,St. Thomas (MN),,Davidson,
+2022-10-08T18:00:00.000Z,The Citadel,,Furman,
+2022-10-08T18:00:00.000Z,South Carolina State,,Florida A&M,
+2022-10-08T18:00:00.000Z,Washington (MO),,Illinois Wesleyan,
+2022-10-08T18:00:00.000Z,Wisconsin-Eau Claire,,UW-Whitewater,
+2022-10-08T18:00:00.000Z,UW-River Falls,,UW-Oshkosh,
+2022-10-08T18:00:00.000Z,Trinity (TX),,Birmingham-Southern,
+2022-10-08T18:00:00.000Z,Brevard College,,Methodist,
+2022-10-08T18:00:00.000Z,Millsaps,,Hendrix College,
+2022-10-08T18:00:00.000Z,Ohio Wesleyan,,Denison,
+2022-10-08T18:00:00.000Z,Concordia (WI),,Eureka College,
+2022-10-08T18:00:00.000Z,Carroll (WI),,North Central,
+2022-10-08T18:00:00.000Z,Bethel (MN),,Hamline,
+2022-10-08T18:00:00.000Z,Concordia (MN),,Macalester,
+2022-10-08T18:00:00.000Z,Augsburg,,St. Johns (MN),
+2022-10-08T18:00:00.000Z,Wheaton College (Ill),,Elmhurst,
+2022-10-08T18:00:00.000Z,North Park,,Carthage,
+2022-10-08T18:00:00.000Z,Hardin-Simmons,,Sul Ross State,
+2022-10-08T18:00:00.000Z,Howard Payne,,McMurry,
+2022-10-08T18:00:00.000Z,Bridgewater (VA),,Shenandoah,
+2022-10-08T18:00:00.000Z,Guilford,,Washington & Lee,
+2022-10-08T18:00:00.000Z,Lakeland University,,Benedictine (IL),
+2022-10-08T18:00:00.000Z,Ohio,,Akron,
+2022-10-08T18:00:00.000Z,Drake,,San Diego,
+2022-10-08T18:00:00.000Z,Southeast Missouri State,,Tennessee Tech,
+2022-10-08T18:00:00.000Z,Wayne State (NE),,Minnesota State,
+2022-10-08T18:00:00.000Z,Sioux Falls,,Southwest Minnesota State,
+2022-10-08T18:00:00.000Z,West Chester,,Shippensburg,
+2022-10-08T18:00:00.000Z,New Mexico Highlands,,Black Hills State,
+2022-10-08T18:00:00.000Z,Fort Lewis,,Chadron State,
+2022-10-08T18:00:00.000Z,Colorado Mines,,Colorado Mesa,
+2022-10-08T18:00:00.000Z,Edinboro,,Gannon,
+2022-10-08T18:00:00.000Z,Rose-Hulman,,Manchester,
+2022-10-08T18:00:00.000Z,Olivet College,,Kalamazoo,
+2022-10-08T18:00:00.000Z,Wisconsin Lutheran,,St. Norbert,
+2022-10-08T18:00:00.000Z,Concordia (IL),,Rockford,
+2022-10-08T18:00:00.000Z,East Texas Baptist,,Mary Hardin-Baylor,
+2022-10-08T18:00:00.000Z,Martin Luther College,,Crown College,
+2022-10-08T18:00:00.000Z,Gustavus Adolphus,,St. Scholastica,
+2022-10-08T18:00:00.000Z,UW-Stout,,Wisconsin-La Crosse,
+2022-10-08T18:00:00.000Z,Carleton,,St. Olaf College,
+2022-10-08T18:00:00.000Z,Chicago,,Monmouth (IL),
+2022-10-08T18:00:00.000Z,Middlebury,,Williams,
+2022-10-08T19:00:00.000Z,Savannah State,,Virginia Lynchburg,
+2022-10-08T19:00:00.000Z,Mississippi College,,Shorter,
+2022-10-08T19:00:00.000Z,Missouri Southern State,,Lincoln (MO),
+2022-10-08T19:00:00.000Z,Bemidji State,,Concordia-St. Paul,
+2022-10-08T19:00:00.000Z,Adams State,,Colorado State-Pueblo,
+2022-10-08T19:00:00.000Z,Western State,,South Dakota Mines,
+2022-10-08T19:00:00.000Z,Geneva College,,Allegheny,
+2022-10-08T19:00:00.000Z,Alabama State,,Jackson State,
+2022-10-08T19:00:00.000Z,Murray State,,UT Martin,
+2022-10-08T19:00:00.000Z,Pittsburg State,,Northwest Missouri State,
+2022-10-08T19:00:00.000Z,Arkansas-Pine Bluff,,Texas Southern,
+2022-10-08T19:00:00.000Z,Arkansas-Monticello,,Northwestern Oklahoma State,
+2022-10-08T19:00:00.000Z,Southern Nazarene,,Harding,
+2022-10-08T19:00:00.000Z,East Central,,Henderson State,
+2022-10-08T19:00:00.000Z,Southeastern Oklahoma,,Southern Arkansas,
+2022-10-08T19:00:00.000Z,Truman State,,Missouri S&T,
+2022-10-08T19:00:00.000Z,Wisconsin-Stevens Point,,Wisconsin-Platteville,
+2022-10-08T19:00:00.000Z,Lake Forest,,Illinois College,
+2022-10-08T19:00:00.000Z,Eastern Illinois,,Northwestern State,
+2022-10-08T19:00:00.000Z,Missouri State,,Southern Illinois,
+2022-10-08T19:00:00.000Z,Sam Houston State,,Abilene Christian,
+2022-10-08T19:00:00.000Z,South Dakota State,,South Dakota,
+2022-10-08T19:00:00.000Z,Lane,,Kentucky State,
+2022-10-08T19:30:00.000Z,Central Michigan,,Ball State,
+2022-10-08T19:30:00.000Z,New Hampshire,,Stony Brook,
+2022-10-08T19:30:00.000Z,Navy,,Tulsa,
+2022-10-08T19:30:00.000Z,UMass,,Liberty,
+2022-10-08T19:30:00.000Z,Ferrum,,Hampden-Sydney,
+2022-10-08T19:30:00.000Z,UAB,,Middle Tennessee,
+2022-10-08T19:30:00.000Z,Northern Illinois,,Toledo,
+2022-10-08T19:30:00.000Z,Miami (OH),,Kent State,
+2022-10-08T19:30:00.000Z,Northern State,,Winona State,
+2022-10-08T19:30:00.000Z,William & Mary,,Delaware,
+2022-10-08T20:00:00.000Z,Pacific Lutheran,,Lewis & Clark,
+2022-10-08T20:00:00.000Z,Virginia State,,Bowie State,
+2022-10-08T20:00:00.000Z,Hillsdale,,Tiffin,
+2022-10-08T20:00:00.000Z,Erskine,,Mars Hill,
+2022-10-08T20:00:00.000Z,Upper Iowa,,Augustana (SD),
+2022-10-08T20:00:00.000Z,Seton Hill College,,Clarion,
+2022-10-08T20:00:00.000Z,Newberry,,Barton College,
+2022-10-08T20:00:00.000Z,Campbell,,Charleston Southern,
+2022-10-08T20:00:00.000Z,Montana State,,Idaho State,
+2022-10-08T20:00:00.000Z,Northern Arizona,,Cal Poly,
+2022-10-08T20:00:00.000Z,Averett,,Randolph-Macon,
+2022-10-08T20:00:00.000Z,Claremont,,Chapman,
+2022-10-08T20:00:00.000Z,Puget Sound,,Pacific (OR),
+2022-10-08T20:00:00.000Z,Holy Cross,,Bucknell,
+2022-10-08T20:00:00.000Z,Mercer,,Western Carolina,
+2022-10-08T21:00:00.000Z,Southeastern Louisiana,,Texas A&M-Commerce,
+2022-10-08T21:00:00.000Z,Utah Tech,,Lamar,
+2022-10-08T21:00:00.000Z,Prairie View,,Southern,
+2022-10-08T21:00:00.000Z,Central Arkansas,,Lindenwood,
+2022-10-08T21:00:00.000Z,Southeastern Louisiana,,Texas A&M-Commerce,
+2022-10-08T21:00:00.000Z,Adrian,,Trine,
+2022-10-08T21:00:00.000Z,Northern Iowa,,Illinois State,
+2022-10-08T21:00:00.000Z,Missouri Western,,Nebraska-Kearney,
+2022-10-08T21:00:00.000Z,Portland State,,Lincoln University (CA),
+2022-10-08T22:00:00.000Z,Tennessee State,,Bethune-Cookman,
+2022-10-08T22:00:00.000Z,Allen,,Clark Atlanta,
+2022-10-08T22:00:00.000Z,UT San Antonio,,Western Kentucky,
+2022-10-08T22:00:00.000Z,Edward Waters,,Albany State (GA),
+2022-10-08T22:00:00.000Z,West Georgia,,West Florida,
+2022-10-08T22:00:00.000Z,UFTL,,Bluefield,
+2022-10-08T22:00:00.000Z,Slippery Rock,,Mercyhurst,
+2022-10-08T22:00:00.000Z,Wingate,,Catawba,
+2022-10-08T22:00:00.000Z,Kennesaw State,,North Alabama,
+2022-10-08T22:00:00.000Z,Youngstown State,,North Dakota,
+2022-10-08T23:00:00.000Z,Valdosta State,,West Alabama,
+2022-10-08T23:00:00.000Z,Oklahoma Baptist,,Arkansas Tech,
+2022-10-08T23:00:00.000Z,Houston Baptist,,Nicholls,
+2022-10-08T23:00:00.000Z,Stephen F. Austin,,Abilene Christian,
+2022-10-08T23:00:00.000Z,Houston Baptist,,Nicholls,
+2022-10-08T23:00:00.000Z,New Mexico,,Wyoming,
+2022-10-08T23:00:00.000Z,Troy,,Southern Mississippi,
+2022-10-08T23:00:00.000Z,Angelo State,,Eastern New Mexico,
+2022-10-08T23:00:00.000Z,Arkansas State,,James Madison,
+2022-10-08T23:00:00.000Z,Florida International,,Connecticut,
+2022-10-08T23:00:00.000Z,Texas State,,Appalachian State,
+2022-10-08T23:00:00.000Z,Mississippi Valley State,,Alcorn State,
+2022-10-08T23:00:00.000Z,Berry College,,Rhodes,
+2022-10-08T23:00:00.000Z,Louisiana Tech,,UTEP,
+2022-10-08T23:30:00.000Z,BYU,,Notre Dame,
+2022-10-09T00:00:00.000Z,Louisiana Monroe,,Coastal Carolina,
+2022-10-09T00:00:00.000Z,Morehouse,,Tuskegee,
+2022-10-09T00:00:00.000Z,Weber State,,Eastern Washington,
+2022-10-09T00:00:00.000Z,Southern Utah,,Tarleton State,
+2022-10-09T00:00:00.000Z,Fort Hays State,,Washburn,
+2022-10-09T00:00:00.000Z,Midwestern State,,West Texas A&M,
+2022-10-09T01:00:00.000Z,Central Washington,,Western Oregon,
+2022-10-09T01:00:00.000Z,Sacramento State,,Northern Colorado,
+2022-10-09T02:00:00.000Z,Cal Lutheran,,Redlands,
+2022-10-09T02:00:00.000Z,Pomona-Pitzer,,La Verne,
+2022-10-09T02:30:00.000Z,San Diego State,,Hawai'i,
+2022-10-09T16:00:00.000Z,Assumption,,Franklin Pierce,
+2022-10-12T23:30:00.000Z,Marshall,,Louisiana,
+2022-10-13T22:00:00.000Z,UNC Pembroke,,WV State,
+2022-10-13T23:00:00.000Z,Fairmont State,,West Liberty,
+2022-10-13T23:00:00.000Z,West Virginia,,Baylor,
+2022-10-13T23:00:00.000Z,UCF,,Temple,
+2022-10-13T23:30:00.000Z,North Carolina Central,,Morgan State,
+2022-10-14T22:00:00.000Z,Dickinson,,Moravian,
+2022-10-14T23:00:00.000Z,Hilbert College,,Lincoln University (CA),
+2022-10-14T23:00:00.000Z,Ursinus,,McDaniel College,
+2022-10-14T23:00:00.000Z,Johns Hopkins,,Muhlenberg,
+2022-10-14T23:00:00.000Z,Princeton,,Brown,
+2022-10-14T23:30:00.000Z,SMU,,Navy,
+2022-10-15T00:00:00.000Z,UW-Whitewater,,UW-Oshkosh,
+2022-10-15T00:00:00.000Z,Florida International,,UT San Antonio,
+2022-10-15T04:00:00.000Z,Kentucky,,Mississippi State,
+2022-10-15T04:00:00.000Z,Ole Miss,,Auburn,
+2022-10-15T04:00:00.000Z,Greensboro,,Belhaven College,
+2022-10-15T04:00:00.000Z,Southern Virginia,,Maryville TN,
+2022-10-15T04:00:00.000Z,MIT,,Merchant Marine,
+2022-10-15T04:00:00.000Z,Coast Guard,,Catholic University,
+2022-10-15T04:00:00.000Z,Hamline,,Gustavus Adolphus,
+2022-10-15T04:00:00.000Z,Coe,,Dubuque,
+2022-10-15T04:00:00.000Z,Colorado,,California,
+2022-10-15T04:00:00.000Z,Washington,,Arizona,
+2022-10-15T04:00:00.000Z,Georgia,,Vanderbilt,
+2022-10-15T04:00:00.000Z,BYU,,Arkansas,
+2022-10-15T04:00:00.000Z,Oregon State,,Washington State,
+2022-10-15T04:00:00.000Z,Florida,,LSU,
+2022-10-15T04:00:00.000Z,Coastal Carolina,,Old Dominion,
+2022-10-15T04:00:00.000Z,Bowling Green,,Miami (OH),
+2022-10-15T04:00:00.000Z,Southern Mississippi,,Arkansas State,
+2022-10-15T04:00:00.000Z,East Carolina,,Memphis,
+2022-10-15T04:00:00.000Z,Tennessee,,Alabama,
+2022-10-15T04:00:00.000Z,Ball State,,Connecticut,
+2022-10-15T04:00:00.000Z,Oklahoma,,Kansas,
+2022-10-15T04:00:00.000Z,Fresno State,,San José State,
+2022-10-15T04:00:00.000Z,Bethune-Cookman,,Jackson State,
+2022-10-15T04:00:00.000Z,South Florida,,Tulane,
+2022-10-15T04:00:00.000Z,Ohio Northern,,John Carroll,
+2022-10-15T04:00:00.000Z,Capital,,Mount Union,
+2022-10-15T04:00:00.000Z,Syracuse,,NC State,
+2022-10-15T04:00:00.000Z,Akron,,Central Michigan,
+2022-10-15T04:00:00.000Z,Toledo,,Kent State,
+2022-10-15T04:00:00.000Z,Indiana,,Maryland,
+2022-10-15T04:00:00.000Z,Virginia Tech,,Miami,
+2022-10-15T04:00:00.000Z,Utah,,USC,
+2022-10-15T04:00:00.000Z,Texas A&M-Kingsville,,University of Texas of the Permian Basin,
+2022-10-15T04:00:00.000Z,Northeastern State,,Missouri Western,
+2022-10-15T04:00:00.000Z,Texas,,Iowa State,
+2022-10-15T04:00:00.000Z,Liberty,,Gardner-Webb,
+2022-10-15T04:00:00.000Z,Michigan State,,Wisconsin,
+2022-10-15T04:00:00.000Z,Michigan,,Penn State,
+2022-10-15T04:00:00.000Z,Duke,,North Carolina,
+2022-10-15T04:00:00.000Z,Florida State,,Clemson,
+2022-10-15T04:00:00.000Z,TCU,,Oklahoma State,
+2022-10-15T04:00:00.000Z,Minot State,,Northern State,
+2022-10-15T04:00:00.000Z,Clark Atlanta,,Savannah State,
+2022-10-15T04:00:00.000Z,Wittenberg,,Oberlin,
+2022-10-15T04:00:00.000Z,Pace,,American International,
+2022-10-15T04:00:00.000Z,Eastern Michigan,,Northern Illinois,
+2022-10-15T04:00:00.000Z,Purdue,,Nebraska,
+2022-10-15T16:00:00.000Z,Army,,Colgate,
+2022-10-15T16:00:00.000Z,Lycoming,,Stevenson,
+2022-10-15T16:00:00.000Z,Kenyon,,Wooster,
+2022-10-15T16:00:00.000Z,Kean,,Christopher Newport,
+2022-10-15T16:00:00.000Z,Rochester,,Buffalo State,
+2022-10-15T16:00:00.000Z,Springfield,,Norwich,
+2022-10-15T16:00:00.000Z,College of New Jersey,,Montclair State,
+2022-10-15T16:00:00.000Z,Gettysburg,,Susquehanna,
+2022-10-15T16:00:00.000Z,Albright,,King's College (PA),
+2022-10-15T16:00:00.000Z,Wilkes,,Misericordia,
+2022-10-15T16:00:00.000Z,Walsh,,Lake Erie College,
+2022-10-15T16:00:00.000Z,Shorter,,West Florida,
+2022-10-15T16:00:00.000Z,Castleton State College,,SUNY Maritime,
+2022-10-15T16:00:00.000Z,Illinois,,Minnesota,
+2022-10-15T16:00:00.000Z,NC Wesleyan,,Methodist,
+2022-10-15T16:00:00.000Z,Shepherd,,Millersville,
+2022-10-15T16:00:00.000Z,Edinboro,,Indiana (PA),
+2022-10-15T16:00:00.000Z,Davenport,,Wayne State (MI),
+2022-10-15T16:00:00.000Z,Worcester State College,,Mass Maritime,
+2022-10-15T16:00:00.000Z,Dean College,,Gallaudet,
+2022-10-15T16:00:00.000Z,Anna Maria College,,Keystone,
+2022-10-15T16:00:00.000Z,Yale,,Bucknell,
+2022-10-15T16:00:00.000Z,UVA-Wise,,Tusculum,
+2022-10-15T16:00:00.000Z,Limestone,,Wingate,
+2022-10-15T16:00:00.000Z,Bowie State,,Virginia Union,
+2022-10-15T16:00:00.000Z,Fitchburg State,,Plymouth State,
+2022-10-15T16:00:00.000Z,Marist,,Dayton,
+2022-10-15T16:30:00.000Z,Wisconsin-Eau Claire,,Wisconsin-La Crosse,
+2022-10-15T17:00:00.000Z,Juniata,,Franklin & Marshall,
+2022-10-15T17:00:00.000Z,Westminster PA,,Thiel College,
+2022-10-15T17:00:00.000Z,UMass,,Buffalo,
+2022-10-15T17:00:00.000Z,Rhodes,,Trinity (TX),
+2022-10-15T17:00:00.000Z,Lebanon Valley,,Delaware Valley,
+2022-10-15T17:00:00.000Z,Randolph-Macon,,Bridgewater (VA),
+2022-10-15T17:00:00.000Z,William Paterson,,Rowan,
+2022-10-15T17:00:00.000Z,Middlebury,,Trinity (CT),
+2022-10-15T17:00:00.000Z,Widener,,Alvernia University,
+2022-10-15T17:00:00.000Z,Assumption,,Bentley,
+2022-10-15T17:00:00.000Z,Wheeling Jesuit,,Frostburg State,
+2022-10-15T17:00:00.000Z,Cornell,,Lehigh,
+2022-10-15T17:00:00.000Z,Concord,,Charleston (WV),
+2022-10-15T17:00:00.000Z,North Greenville,,West Georgia,
+2022-10-15T17:00:00.000Z,Wartburg,,Nebraska Wesleyan University,
+2022-10-15T17:00:00.000Z,Buena Vista,,Central,
+2022-10-15T17:00:00.000Z,Pennsylvania,,Columbia,
+2022-10-15T17:00:00.000Z,Crown College,,Minnesota-Morris,
+2022-10-15T17:00:00.000Z,Salve Regina,,Western New England,
+2022-10-15T17:00:00.000Z,Long Island University,,St Francis (PA),
+2022-10-15T17:00:00.000Z,Centre,,Berry College,
+2022-10-15T17:00:00.000Z,New Haven,,Post University,
+2022-10-15T17:00:00.000Z,Pacific (OR),,Linfield,
+2022-10-15T17:00:00.000Z,Pacific Lutheran,,Whitworth,
+2022-10-15T17:00:00.000Z,Shenandoah,,Guilford,
+2022-10-15T17:00:00.000Z,Bethany (WV),,Waynesburg,
+2022-10-15T17:00:00.000Z,Martin Luther College,,Finlandia University,
+2022-10-15T17:00:00.000Z,Rensselaer,,Hobart,
+2022-10-15T17:00:00.000Z,Alma College,,Hope,
+2022-10-15T17:00:00.000Z,Washington & Jefferson,,Carnegie Mellon,
+2022-10-15T17:00:00.000Z,Slippery Rock,,Gannon,
+2022-10-15T17:00:00.000Z,St. Vincent,,Geneva College,
+2022-10-15T17:00:00.000Z,North Carolina A&T,,Edward Waters,
+2022-10-15T17:00:00.000Z,Shippensburg,,Kutztown,
+2022-10-15T17:00:00.000Z,Lock Haven,,Bloomsburg,
+2022-10-15T17:00:00.000Z,Minnesota St-Moorhead,,Bemidji State,
+2022-10-15T17:00:00.000Z,WV Wesleyan,,Notre Dame College,
+2022-10-15T17:00:00.000Z,Northwood (MI),,Hillsdale,
+2022-10-15T17:00:00.000Z,Michigan Tech,,Northern Michigan,
+2022-10-15T17:00:00.000Z,Maine,,Monmouth,
+2022-10-15T17:00:00.000Z,Rhode Island,,Elon,
+2022-10-15T17:00:00.000Z,SUNY Cortland,,Hartwick,
+2022-10-15T17:00:00.000Z,Merrimack,,Wagner,
+2022-10-15T17:00:00.000Z,Colby,,Amherst College,
+2022-10-15T17:00:00.000Z,Davidson,,Morehead State,
+2022-10-15T17:00:00.000Z,Olivet College,,Trine,
+2022-10-15T17:00:00.000Z,Alfred,,St. John Fisher,
+2022-10-15T17:00:00.000Z,Kennesaw State,,Central Arkansas,
+2022-10-15T17:00:00.000Z,Ithaca,,St Lawrence,
+2022-10-15T17:00:00.000Z,Chowan,,Virginia State,
+2022-10-15T17:00:00.000Z,St. Augustine's,,Johnson C Smith,
+2022-10-15T17:00:00.000Z,Minnesota-Duluth,,Concordia-St. Paul,
+2022-10-15T17:00:00.000Z,Ferris State,,Grand Valley State,
+2022-10-15T17:00:00.000Z,Monmouth (IL),,Beloit College,
+2022-10-15T17:00:00.000Z,Illinois College,,Lawrence,
+2022-10-15T17:00:00.000Z,Lake Forest,,Ripon,
+2022-10-15T17:00:00.000Z,Curry,,Husson,
+2022-10-15T17:00:00.000Z,Nichols,,University of New England,
+2022-10-15T17:00:00.000Z,Elizabeth City State,,Lincoln (PA),
+2022-10-15T17:00:00.000Z,Wabash College,,Ohio Wesleyan,
+2022-10-15T17:00:00.000Z,Sacred Heart,,Stonehill,
+2022-10-15T17:00:00.000Z,Campbell,,Robert Morris,
+2022-10-15T17:30:00.000Z,Livingstone,,Fayetteville State,
+2022-10-15T17:30:00.000Z,Mars Hill,,Emory & Henry,
+2022-10-15T17:30:00.000Z,Glenville State,,Alderson-Broaddus,
+2022-10-15T17:30:00.000Z,Wofford,,The Citadel,
+2022-10-15T17:30:00.000Z,Chattanooga,,VMI,
+2022-10-15T17:30:00.000Z,South Carolina State,,Virginia Lynchburg,
+2022-10-15T17:30:00.000Z,Manchester,,Hanover,
+2022-10-15T17:30:00.000Z,Winston-Salem,,Shaw,
+2022-10-15T17:30:00.000Z,Marietta,,Wilmington (OH),
+2022-10-15T17:30:00.000Z,Baldwin-Wallace,,Muskingum,
+2022-10-15T17:30:00.000Z,Franklin,,Defiance,
+2022-10-15T17:30:00.000Z,Anderson (IN),,Mount St. Joseph,
+2022-10-15T17:30:00.000Z,Bluffton,,Rose-Hulman,
+2022-10-15T17:30:00.000Z,Dartmouth,,New Hampshire,
+2022-10-15T17:30:00.000Z,Williams,,Hamilton,
+2022-10-15T18:00:00.000Z,Albany State (GA),,Benedict College,
+2022-10-15T18:00:00.000Z,Hardin-Simmons,,East Texas Baptist,
+2022-10-15T18:00:00.000Z,Hendrix College,,Sewanee Univ. of the South,
+2022-10-15T18:00:00.000Z,Kentucky State,,Allen,
+2022-10-15T18:00:00.000Z,Huntingdon,,Brevard College,
+2022-10-15T18:00:00.000Z,Wisconsin-Platteville,,UW-River Falls,
+2022-10-15T18:00:00.000Z,South Dakota Mines,,Colorado Mines,
+2022-10-15T18:00:00.000Z,Chadron State,,Adams State,
+2022-10-15T18:00:00.000Z,Southwest Minnesota State,,Winona State,
+2022-10-15T18:00:00.000Z,Minnesota State,,Upper Iowa,
+2022-10-15T18:00:00.000Z,Augustana (SD),,Wayne State (NE),
+2022-10-15T18:00:00.000Z,Nebraska-Kearney,,Emporia State,
+2022-10-15T18:00:00.000Z,Western New Mexico,,Angelo State,
+2022-10-15T18:00:00.000Z,William Jewell College,,Missouri S&T,
+2022-10-15T18:00:00.000Z,Saginaw Valley,,Indianapolis,
+2022-10-15T18:00:00.000Z,Ouachita Baptist,,Arkansas-Monticello,
+2022-10-15T18:00:00.000Z,North Central,,Millikin,
+2022-10-15T18:00:00.000Z,Carthage,,Wheaton College (Ill),
+2022-10-15T18:00:00.000Z,Texas Lutheran,,Mary Hardin-Baylor,
+2022-10-15T18:00:00.000Z,Black Hills State,,Western State,
+2022-10-15T18:00:00.000Z,Tuskegee,,Central State,
+2022-10-15T18:00:00.000Z,Bethel (MN),,Concordia (MN),
+2022-10-15T18:00:00.000Z,Norfolk State,,Delaware State,
+2022-10-15T18:00:00.000Z,Youngstown State,,Indiana State,
+2022-10-15T18:00:00.000Z,Macalester,,Augsburg,
+2022-10-15T18:00:00.000Z,Austin College,,McMurry,
+2022-10-15T18:00:00.000Z,Illinois Wesleyan,,North Park,
+2022-10-15T18:00:00.000Z,Knox College,,Grinnell,
+2022-10-15T18:00:00.000Z,St. Norbert,,Concordia (WI),
+2022-10-15T18:00:00.000Z,Simpson College,,Loras College,
+2022-10-15T18:00:00.000Z,Carleton,,St. Scholastica,
+2022-10-15T18:00:00.000Z,Greenville,,Westminster,
+2022-10-15T18:00:00.000Z,Wisconsin-Stevens Point,,UW-Stout,
+2022-10-15T18:00:00.000Z,St. Olaf College,,St. Johns (MN),
+2022-10-15T18:00:00.000Z,Valparaiso,,Butler,
+2022-10-15T18:00:00.000Z,Furman,,Western Carolina,
+2022-10-15T18:00:00.000Z,St. Thomas (MN),,Drake,
+2022-10-15T18:00:00.000Z,Ferrum,,Washington & Lee,
+2022-10-15T18:05:00.000Z,East Stroudsburg,,West Chester,
+2022-10-15T18:30:00.000Z,Fort Valley State,,Morehouse,
+2022-10-15T18:30:00.000Z,Central Missouri State,,Missouri Southern State,
+2022-10-15T18:30:00.000Z,Northwest Missouri State,,Washburn,
+2022-10-15T18:30:00.000Z,Southern Connecticut State,,Franklin Pierce,
+2022-10-15T19:00:00.000Z,Montana,,Idaho,
+2022-10-15T19:00:00.000Z,Western Connecticut State,,Framingham State,
+2022-10-15T19:00:00.000Z,Northwestern Oklahoma State,,Southeastern Oklahoma,
+2022-10-15T19:00:00.000Z,Eastern Illinois,,Lindenwood,
+2022-10-15T19:00:00.000Z,Southern Illinois,,Western Illinois,
+2022-10-15T19:00:00.000Z,Alabama State,,Mississippi Valley State,
+2022-10-15T19:00:00.000Z,Illinois State,,South Dakota,
+2022-10-15T19:00:00.000Z,Texas A&M-Commerce,,McNeese,
+2022-10-15T19:00:00.000Z,Central Oklahoma,,Fort Hays State,
+2022-10-15T19:00:00.000Z,Lincoln (MO),,Pittsburg State,
+2022-10-15T19:00:00.000Z,Howard Payne,,Southwestern University,
+2022-10-15T19:00:00.000Z,Idaho State,,Cal Poly,
+2022-10-15T19:00:00.000Z,University of Mary,,Sioux Falls,
+2022-10-15T19:00:00.000Z,Northern Colorado,,Montana State,
+2022-10-15T19:00:00.000Z,Grambling,,Florida A&M,
+2022-10-15T19:00:00.000Z,Denison,,Hiram,
+2022-10-15T19:00:00.000Z,Arkansas Tech,,Southern Arkansas,
+2022-10-15T19:00:00.000Z,Harding,,Henderson State,
+2022-10-15T19:00:00.000Z,Valdosta State,,Mississippi College,
+2022-10-15T19:00:00.000Z,Chicago,,Cornell College (IA),
+2022-10-15T19:30:00.000Z,Richmond,,Villanova,
+2022-10-15T19:30:00.000Z,Middle Tennessee,,Western Kentucky,
+2022-10-15T19:30:00.000Z,UAB,,Charlotte,
+2022-10-15T19:30:00.000Z,Troy,,Texas State,
+2022-10-15T19:30:00.000Z,Hampden-Sydney,,Averett,
+2022-10-15T19:30:00.000Z,Albany,,Hampton,
+2022-10-15T19:30:00.000Z,North Dakota State,,South Dakota State,
+2022-10-15T19:30:00.000Z,Lakeland University,,Concordia (IL),
+2022-10-15T19:30:00.000Z,Western Michigan,,Ohio,
+2022-10-15T20:00:00.000Z,McKendree,,Quincy,
+2022-10-15T20:00:00.000Z,Augustana (IL),,Washington (MO),
+2022-10-15T20:00:00.000Z,Lewis & Clark,,Willamette,
+2022-10-15T20:00:00.000Z,Mercer,,East Tennessee State,
+2022-10-15T20:00:00.000Z,Bryant,,Charleston Southern,
+2022-10-15T20:00:00.000Z,Georgia Southern,,James Madison,
+2022-10-15T20:00:00.000Z,Austin Peay,,Murray State,
+2022-10-15T20:00:00.000Z,Colorado State-Pueblo,,New Mexico Highlands,
+2022-10-15T20:00:00.000Z,Barton College,,Lenoir-Rhyne,
+2022-10-15T20:00:00.000Z,Nicholls,,Incarnate Word,
+2022-10-15T20:00:00.000Z,Claremont,,Cal Lutheran,
+2022-10-15T20:00:00.000Z,Howard,,Harvard,
+2022-10-15T20:00:00.000Z,UMass Dartmouth,,Westfield State,
+2022-10-15T20:00:00.000Z,George Fox University,,Puget Sound,
+2022-10-15T20:00:00.000Z,North Texas,,Louisiana Tech,
+2022-10-15T20:05:00.000Z,Western Oregon,,West Texas A&M,
+2022-10-15T20:30:00.000Z,Abilene Christian,,Southern Utah,
+2022-10-15T21:00:00.000Z,San Diego,,Presbyterian College,
+2022-10-15T21:00:00.000Z,Miles,,Lane,
+2022-10-15T21:00:00.000Z,Northern Iowa,,Utah Tech,
+2022-10-15T21:00:00.000Z,Adrian,,Kalamazoo,
+2022-10-15T21:00:00.000Z,Portland State,,Weber State,
+2022-10-15T21:00:00.000Z,Utica,,Brockport State (NY),
+2022-10-15T21:00:00.000Z,South Alabama,,Louisiana Monroe,
+2022-10-15T21:00:00.000Z,Birmingham-Southern,,Millsaps,
+2022-10-15T21:00:00.000Z,Kentucky Wesleyan,,Findlay,
+2022-10-15T21:30:00.000Z,Bates College,,Bowdoin,
+2022-10-15T22:00:00.000Z,Wesleyan,,Tufts,
+2022-10-15T22:00:00.000Z,Eastern Kentucky,,Sam Houston State,
+2022-10-15T22:00:00.000Z,Seton Hill College,,California (PA),
+2022-10-15T22:00:00.000Z,Fordham,,Stony Brook,
+2022-10-15T22:00:00.000Z,Mercyhurst,,Clarion,
+2022-10-15T22:00:00.000Z,Florida Atlantic,,Rice,
+2022-10-15T22:00:00.000Z,Carson-Newman,,Erskine,
+2022-10-15T22:00:00.000Z,Catawba,,Newberry,
+2022-10-15T22:30:00.000Z,Southwestern Oklahoma,,Southern Nazarene,
+2022-10-15T23:00:00.000Z,Ashland,,Ohio Dominican,
+2022-10-15T23:00:00.000Z,Oklahoma Baptist,,East Central,
+2022-10-15T23:00:00.000Z,Delta State,,West Alabama,
+2022-10-15T23:00:00.000Z,Stephen F. Austin,,Tarleton State,
+2022-10-15T23:00:00.000Z,Colorado State,,Utah State,
+2022-10-15T23:00:00.000Z,Southern,,Alcorn State,
+2022-10-15T23:00:00.000Z,UC Davis,,Northern Arizona,
+2022-10-15T23:00:00.000Z,Houston Baptist,,Northwestern State,
+2022-10-15T23:00:00.000Z,Elmhurst,,Carroll (WI),
+2022-10-15T23:00:00.000Z,Wisconsin Lutheran,,Rockford,
+2022-10-15T23:00:00.000Z,Truman State,,Southwest Baptist,
+2022-10-15T23:00:00.000Z,North Alabama,,Jacksonville State,
+2022-10-15T23:00:00.000Z,Houston Baptist,,Northwestern State,
+2022-10-15T23:00:00.000Z,Eureka College,,Aurora,
+2022-10-15T23:00:00.000Z,Eastern Washington,,Sacramento State,
+2022-10-15T23:00:00.000Z,Allegheny,,Grove City College,
+2022-10-15T23:00:00.000Z,Tennessee Tech,,Tennessee State,
+2022-10-15T23:30:00.000Z,Notre Dame,,Stanford,
+2022-10-16T00:00:00.000Z,La Verne,,Whittier,
+2022-10-16T00:00:00.000Z,Eastern New Mexico,,Simon Fraser,
+2022-10-16T00:00:00.000Z,Colorado Mesa,,Fort Lewis,
+2022-10-16T00:00:00.000Z,New Mexico State,,New Mexico,
+2022-10-16T00:00:00.000Z,McNeese,,Texas A&M-Commerce,
+2022-10-16T01:00:00.000Z,Central Washington,,Midwestern State,
+2022-10-16T02:00:00.000Z,Chapman,,Redlands,
+2022-10-16T02:30:00.000Z,UNLV,,Air Force,
+2022-10-16T03:59:00.000Z,Hawai'i,,Nevada,
+2022-10-16T20:00:00.000Z,Arkansas-Pine Bluff,,Alabama A&M,
+2022-10-19T23:30:00.000Z,Appalachian State,,Georgia State,
+2022-10-20T04:00:00.000Z,Shorter,,Delta State,
+2022-10-20T23:00:00.000Z,Frostburg State,,Fairmont State,
+2022-10-20T23:30:00.000Z,Georgia Tech,,Virginia,
+2022-10-20T23:30:00.000Z,South Alabama,,Troy,
+2022-10-21T23:00:00.000Z,Harvard,,Princeton,
+2022-10-21T23:00:00.000Z,Wagner,,Long Island University,
+2022-10-21T23:30:00.000Z,Temple,,Tulsa,
+2022-10-22T00:00:00.000Z,Western Kentucky,,UAB,
+2022-10-22T04:00:00.000Z,Texas Tech,,West Virginia,
+2022-10-22T04:00:00.000Z,Miami (OH),,Western Michigan,
+2022-10-22T04:00:00.000Z,Aurora,,St. Norbert,
+2022-10-22T04:00:00.000Z,Incarnate Word,,Abilene Christian,
+2022-10-22T04:00:00.000Z,Buffalo,,Toledo,
+2022-10-22T04:00:00.000Z,Tulane,,Memphis,
+2022-10-22T04:00:00.000Z,Clemson,,Syracuse,
+2022-10-22T04:00:00.000Z,New Mexico,,Fresno State,
+2022-10-22T04:00:00.000Z,Ohio State,,Iowa,
+2022-10-22T04:00:00.000Z,Wyoming,,Utah State,
+2022-10-22T04:00:00.000Z,Louisville,,Pittsburgh,
+2022-10-22T04:00:00.000Z,East Carolina,,UCF,
+2022-10-22T04:00:00.000Z,SMU,,Cincinnati,
+2022-10-22T04:00:00.000Z,Wake Forest,,Boston College,
+2022-10-22T04:00:00.000Z,James Madison,,Marshall,
+2022-10-22T04:00:00.000Z,Ohio,,Northern Illinois,
+2022-10-22T04:00:00.000Z,Liberty,,BYU,
+2022-10-22T04:00:00.000Z,Nicholls,,McNeese,
+2022-10-22T04:00:00.000Z,Oberlin,,Wabash College,
+2022-10-22T04:00:00.000Z,John Carroll,,Capital,
+2022-10-22T04:00:00.000Z,Catholic University,,Merchant Marine,
+2022-10-22T04:00:00.000Z,Central Michigan,,Bowling Green,
+2022-10-22T04:00:00.000Z,Louisiana,,Arkansas State,
+2022-10-22T04:00:00.000Z,Old Dominion,,Georgia Southern,
+2022-10-22T04:00:00.000Z,Kent State,,Akron,
+2022-10-22T04:00:00.000Z,Miami,,Duke,
+2022-10-22T04:00:00.000Z,Alabama,,Mississippi State,
+2022-10-22T04:00:00.000Z,Baylor,,Kansas,
+2022-10-22T04:00:00.000Z,Oregon State,,Colorado,
+2022-10-22T04:00:00.000Z,Oklahoma State,,Texas,
+2022-10-22T04:00:00.000Z,University of Texas of the Permian Basin,,Midwestern State,
+2022-10-22T04:00:00.000Z,TCU,,Kansas State,
+2022-10-22T04:00:00.000Z,Stanford,,Arizona State,
+2022-10-22T04:00:00.000Z,South Carolina,,Texas A&M,
+2022-10-22T04:00:00.000Z,LSU,,Ole Miss,
+2022-10-22T04:00:00.000Z,Oregon,,UCLA,
+2022-10-22T04:00:00.000Z,Missouri,,Vanderbilt,
+2022-10-22T04:00:00.000Z,California,,Washington,
+2022-10-22T04:00:00.000Z,Tennessee,,UT Martin,
+2022-10-22T16:00:00.000Z,Salve Regina,,Nichols,
+2022-10-22T16:00:00.000Z,Worcester State College,,Plymouth State,
+2022-10-22T16:00:00.000Z,Clarion,,Edinboro,
+2022-10-22T16:00:00.000Z,Lincoln (PA),,Virginia Union,
+2022-10-22T16:00:00.000Z,Notre Dame College,,Glenville State,
+2022-10-22T16:00:00.000Z,Norwich,,MIT,
+2022-10-22T16:00:00.000Z,King's College (PA),,Lebanon Valley,
+2022-10-22T16:00:00.000Z,Alfred State College,,Dean College,
+2022-10-22T16:00:00.000Z,Rutgers,,Indiana,
+2022-10-22T16:00:00.000Z,Wittenberg,,Denison,
+2022-10-22T16:00:00.000Z,Fitchburg State,,UMass Dartmouth,
+2022-10-22T16:00:00.000Z,Mass Maritime,,Western Connecticut State,
+2022-10-22T16:00:00.000Z,Morrisville State,,Alfred,
+2022-10-22T16:00:00.000Z,Davenport,,Lincoln University (CA),
+2022-10-22T16:00:00.000Z,Lehigh,,Bucknell,
+2022-10-22T16:00:00.000Z,Colgate,,Georgetown,
+2022-10-22T16:00:00.000Z,Central Connecticut,,Duquesne,
+2022-10-22T16:00:00.000Z,Hamilton,,Colby,
+2022-10-22T16:00:00.000Z,Keystone,,Castleton State College,
+2022-10-22T16:00:00.000Z,Union,,Rochester,
+2022-10-22T16:00:00.000Z,American International,,Assumption,
+2022-10-22T16:00:00.000Z,Stevenson,,FDU-Florham,
+2022-10-22T16:00:00.000Z,Robert Morris,,North Carolina A&T,
+2022-10-22T16:00:00.000Z,West Chester,,Shepherd,
+2022-10-22T16:00:00.000Z,Gannon,,Mercyhurst,
+2022-10-22T16:00:00.000Z,Army,,Louisiana Monroe,
+2022-10-22T16:00:00.000Z,Navy,,Houston,
+2022-10-22T16:30:00.000Z,Brown,,Cornell,
+2022-10-22T17:00:00.000Z,Guilford,,Ferrum,
+2022-10-22T17:00:00.000Z,Finlandia University,,Crown College,
+2022-10-22T17:00:00.000Z,Westminster,,Northwestern (MN),
+2022-10-22T17:00:00.000Z,Maryville TN,,NC Wesleyan,
+2022-10-22T17:00:00.000Z,Pennsylvania,,Yale,
+2022-10-22T17:00:00.000Z,Upper Iowa,,Minot State,
+2022-10-22T17:00:00.000Z,Wooster,,Hilbert College,
+2022-10-22T17:00:00.000Z,Mars Hill,,Carson-Newman,
+2022-10-22T17:00:00.000Z,Butler,,Marist,
+2022-10-22T17:00:00.000Z,Utica,,SUNY Cortland,
+2022-10-22T17:00:00.000Z,Indiana State,,Illinois State,
+2022-10-22T17:00:00.000Z,WV State,,Concord,
+2022-10-22T17:00:00.000Z,Howard,,Delaware State,
+2022-10-22T17:00:00.000Z,Franklin & Marshall,,Dickinson,
+2022-10-22T17:00:00.000Z,Clark Atlanta,,Fort Valley State,
+2022-10-22T17:00:00.000Z,Bowie State,,Chowan,
+2022-10-22T17:00:00.000Z,St Lawrence,,Hobart,
+2022-10-22T17:00:00.000Z,Elizabeth City State,,Virginia State,
+2022-10-22T17:00:00.000Z,Bowdoin,,Wesleyan,
+2022-10-22T17:00:00.000Z,Wayne State (NE),,Southwest Minnesota State,
+2022-10-22T17:00:00.000Z,McDaniel College,,Susquehanna,
+2022-10-22T17:00:00.000Z,Juniata,,Muhlenberg,
+2022-10-22T17:00:00.000Z,Delaware Valley,,Wilkes,
+2022-10-22T17:00:00.000Z,Methodist,,Huntingdon,
+2022-10-22T17:00:00.000Z,Christopher Newport,,William Paterson,
+2022-10-22T17:00:00.000Z,Gallaudet,,SUNY Maritime,
+2022-10-22T17:00:00.000Z,Ursinus,,Moravian,
+2022-10-22T17:00:00.000Z,Ripon,,Chicago,
+2022-10-22T17:00:00.000Z,Beloit College,,Lawrence,
+2022-10-22T17:00:00.000Z,Lycoming,,Alvernia University,
+2022-10-22T17:00:00.000Z,St Francis (PA),,Stonehill,
+2022-10-22T17:00:00.000Z,Willamette,,Whitworth,
+2022-10-22T17:00:00.000Z,Shaw,,Livingstone,
+2022-10-22T17:00:00.000Z,Johnson C Smith,,Fayetteville State,
+2022-10-22T17:00:00.000Z,Widener,,Albright,
+2022-10-22T17:00:00.000Z,St. Augustine's,,Winston-Salem,
+2022-10-22T17:00:00.000Z,Ferris State,,Michigan Tech,
+2022-10-22T17:00:00.000Z,Ashland,,Tiffin,
+2022-10-22T17:00:00.000Z,Ohio Dominican,,Kentucky Wesleyan,
+2022-10-22T17:00:00.000Z,Alderson-Broaddus,,WV Wesleyan,
+2022-10-22T17:00:00.000Z,West Liberty,,Wheeling Jesuit,
+2022-10-22T17:00:00.000Z,Allen,,Bluefield,
+2022-10-22T17:00:00.000Z,Central State,,Edward Waters,
+2022-10-22T17:00:00.000Z,Franklin Pierce,,Pace,
+2022-10-22T17:00:00.000Z,Presbyterian College,,St. Thomas (MN),
+2022-10-22T17:00:00.000Z,Monmouth,,Rhode Island,
+2022-10-22T17:00:00.000Z,New Hampshire,,Elon,
+2022-10-22T17:00:00.000Z,Merrimack,,Sacred Heart,
+2022-10-22T17:00:00.000Z,Dayton,,Stetson,
+2022-10-22T17:00:00.000Z,University of New England,,Endicott College,
+2022-10-22T17:00:00.000Z,Trine,,Albion,
+2022-10-22T17:00:00.000Z,Dubuque,,Luther,
+2022-10-22T17:00:00.000Z,Belhaven College,,Southern Virginia,
+2022-10-22T17:00:00.000Z,Johns Hopkins,,Gettysburg,
+2022-10-22T17:00:00.000Z,Western New England,,Curry,
+2022-10-22T17:00:00.000Z,Buffalo State,,Ithaca,
+2022-10-22T17:00:00.000Z,Hiram,,Kenyon,
+2022-10-22T17:00:00.000Z,Ohio Wesleyan,,DePauw,
+2022-10-22T17:00:00.000Z,Washington & Lee,,Hampden-Sydney,
+2022-10-22T17:00:00.000Z,Shenandoah,,Randolph-Macon,
+2022-10-22T17:00:00.000Z,Allegheny,,St. Vincent,
+2022-10-22T17:00:00.000Z,Grove City College,,Westminster PA,
+2022-10-22T17:00:00.000Z,Tufts,,Amherst College,
+2022-10-22T17:00:00.000Z,Bates College,,Middlebury,
+2022-10-22T17:00:00.000Z,College of New Jersey,,Salisbury,
+2022-10-22T17:30:00.000Z,VMI,,Furman,
+2022-10-22T17:30:00.000Z,Pacific (OR),,George Fox University,
+2022-10-22T17:30:00.000Z,Linfield,,Pacific Lutheran,
+2022-10-22T17:30:00.000Z,Rose-Hulman,,Franklin,
+2022-10-22T17:30:00.000Z,Hartwick,,Brockport State (NY),
+2022-10-22T17:30:00.000Z,Hanover,,Mount St. Joseph,
+2022-10-22T17:30:00.000Z,Chattanooga,,Mercer,
+2022-10-22T17:30:00.000Z,Tusculum,,Emory & Henry,
+2022-10-22T17:30:00.000Z,Columbia,,Dartmouth,
+2022-10-22T17:30:00.000Z,Mount Union,,Wilmington (OH),
+2022-10-22T17:30:00.000Z,Ohio Northern,,Muskingum,
+2022-10-22T17:30:00.000Z,Manchester,,Bluffton,
+2022-10-22T17:30:00.000Z,Trinity (CT),,Williams,
+2022-10-22T17:30:00.000Z,South Carolina State,,North Carolina Central,
+2022-10-22T17:30:00.000Z,Defiance,,Anderson (IN),
+2022-10-22T18:00:00.000Z,Ball State,,Eastern Michigan,
+2022-10-22T18:00:00.000Z,Morehead State,,Valparaiso,
+2022-10-22T18:00:00.000Z,Northwestern State,,Southeast Missouri State,
+2022-10-22T18:00:00.000Z,Western Carolina,,The Citadel,
+2022-10-22T18:00:00.000Z,Drake,,Davidson,
+2022-10-22T18:00:00.000Z,Hampton,,Richmond,
+2022-10-22T18:00:00.000Z,Lindenwood,,Murray State,
+2022-10-22T18:00:00.000Z,New Mexico Highlands,,Western State,
+2022-10-22T18:00:00.000Z,Fort Lewis,,South Dakota Mines,
+2022-10-22T18:00:00.000Z,Colorado Mines,,Black Hills State,
+2022-10-22T18:00:00.000Z,Millersville,,Shippensburg,
+2022-10-22T18:00:00.000Z,Indiana (PA),,Seton Hill College,
+2022-10-22T18:00:00.000Z,Bloomsburg,,East Stroudsburg,
+2022-10-22T18:00:00.000Z,Augustana (SD),,Minnesota State,
+2022-10-22T18:00:00.000Z,Hillsdale,,Findlay,
+2022-10-22T18:00:00.000Z,Lake Erie College,,Northwood (MI),
+2022-10-22T18:00:00.000Z,William Jewell College,,Truman State,
+2022-10-22T18:00:00.000Z,Missouri S&T,,McKendree,
+2022-10-22T18:00:00.000Z,Hope,,Olivet College,
+2022-10-22T18:00:00.000Z,Baldwin-Wallace,,Otterbein,
+2022-10-22T18:00:00.000Z,Case Western Reserve,,Bethany (WV),
+2022-10-22T18:00:00.000Z,Trinity (TX),,Berry College,
+2022-10-22T18:00:00.000Z,Bridgewater (VA),,Averett,
+2022-10-22T18:00:00.000Z,Hamline,,Augsburg,
+2022-10-22T18:00:00.000Z,Macalester,,Bethel (MN),
+2022-10-22T18:00:00.000Z,Washington (MO),,North Central,
+2022-10-22T18:00:00.000Z,Wheaton College (Ill),,Carroll (WI),
+2022-10-22T18:00:00.000Z,Heidelberg,,Marietta,
+2022-10-22T18:00:00.000Z,East Texas Baptist,,Austin College,
+2022-10-22T18:00:00.000Z,Wisconsin-Platteville,,UW-Whitewater,
+2022-10-22T18:00:00.000Z,UW-River Falls,,Wisconsin-Eau Claire,
+2022-10-22T18:00:00.000Z,St. Johns (MN),,Gustavus Adolphus,
+2022-10-22T18:00:00.000Z,Rowan,,Kean,
+2022-10-22T18:00:00.000Z,Westfield State,,Bridgewater State,
+2022-10-22T18:00:00.000Z,Jacksonville State,,Southeastern Louisiana,
+2022-10-22T18:00:00.000Z,Concordia (WI),,Lakeland University,
+2022-10-22T18:00:00.000Z,St. Scholastica,,St. Olaf College,
+2022-10-22T18:00:00.000Z,Wisconsin-La Crosse,,Wisconsin-Stevens Point,
+2022-10-22T18:00:00.000Z,Rockford,,Benedictine (IL),
+2022-10-22T18:00:00.000Z,Southern Connecticut State,,Bentley,
+2022-10-22T18:00:00.000Z,Lenoir-Rhyne,,Newberry,
+2022-10-22T18:00:00.000Z,Bemidji State,,Minnesota-Duluth,
+2022-10-22T18:00:00.000Z,Morehouse,,Benedict College,
+2022-10-22T18:00:00.000Z,Charleston (WV),,UNC Pembroke,
+2022-10-22T18:00:00.000Z,Washburn,,Central Oklahoma,
+2022-10-22T18:00:00.000Z,Fort Hays State,,Central Missouri State,
+2022-10-22T18:00:00.000Z,Minnesota-Morris,,Martin Luther College,
+2022-10-22T18:00:00.000Z,Hendrix College,,Centre,
+2022-10-22T18:00:00.000Z,Lake Forest,,Grinnell,
+2022-10-22T18:00:00.000Z,Central,,Simpson College,
+2022-10-22T18:00:00.000Z,Knox College,,Illinois College,
+2022-10-22T18:00:00.000Z,McMurry,,Texas Lutheran,
+2022-10-22T18:00:00.000Z,North Park,,Augustana (IL),
+2022-10-22T18:00:00.000Z,Kalamazoo,,Alma College,
+2022-10-22T18:00:00.000Z,Millikin,,Elmhurst,
+2022-10-22T18:00:00.000Z,Mary Hardin-Baylor,,Sul Ross State,
+2022-10-22T18:00:00.000Z,Loras College,,Coe,
+2022-10-22T18:00:00.000Z,Southwestern University,,Hardin-Simmons,
+2022-10-22T18:00:00.000Z,Illinois Wesleyan,,Carthage,
+2022-10-22T18:00:00.000Z,Concordia (MN),,Carleton,
+2022-10-22T18:30:00.000Z,Notre Dame,,UNLV,
+2022-10-22T18:30:00.000Z,UW-Oshkosh,,UW-Stout,
+2022-10-22T19:00:00.000Z,Lincoln (MO),,Nebraska-Kearney,
+2022-10-22T19:00:00.000Z,Incarnate Word,,Faulkner,
+2022-10-22T19:00:00.000Z,Louisiana Tech,,Rice,
+2022-10-22T19:00:00.000Z,Southern Utah,,Stephen F. Austin,
+2022-10-22T19:00:00.000Z,Jackson State,,Campbell,
+2022-10-22T19:00:00.000Z,Tennessee State,,Eastern Illinois,
+2022-10-22T19:00:00.000Z,Cornell College (IA),,Monmouth (IL),
+2022-10-22T19:00:00.000Z,Brevard College,,LaGrange College,
+2022-10-22T19:00:00.000Z,Eastern Kentucky,,North Alabama,
+2022-10-22T19:00:00.000Z,Northern Colorado,,UC Davis,
+2022-10-22T19:00:00.000Z,Montana State,,Weber State,
+2022-10-22T19:00:00.000Z,Idaho State,,Northern Arizona,
+2022-10-22T19:00:00.000Z,Idaho,,Portland State,
+2022-10-22T19:00:00.000Z,University of Mary,,Minnesota St-Moorhead,
+2022-10-22T19:00:00.000Z,Kennesaw State,,Tennessee Tech,
+2022-10-22T19:00:00.000Z,Texas A&M-Commerce,,Houston Baptist,
+2022-10-22T19:00:00.000Z,Delaware,,Morgan State,
+2022-10-22T19:00:00.000Z,South Dakota,,Southern Illinois,
+2022-10-22T19:00:00.000Z,Alcorn State,,Texas Southern,
+2022-10-22T19:00:00.000Z,Texas A&M-Commerce,,Houston Baptist,
+2022-10-22T19:00:00.000Z,Lane,,Tuskegee,
+2022-10-22T19:00:00.000Z,Miles,,Kentucky State,
+2022-10-22T19:00:00.000Z,Northwest Missouri State,,Northeastern State,
+2022-10-22T19:00:00.000Z,Pittsburg State,,Missouri Western,
+2022-10-22T19:00:00.000Z,East Central,,Southwestern Oklahoma,
+2022-10-22T19:00:00.000Z,Winona State,,Sioux Falls,
+2022-10-22T19:00:00.000Z,Kutztown,,Lock Haven,
+2022-10-22T19:00:00.000Z,Grand Valley State,,Northern Michigan,
+2022-10-22T19:00:00.000Z,Missouri Southern State,,Emporia State,
+2022-10-22T19:00:00.000Z,Henderson State,,Arkansas Tech,
+2022-10-22T19:00:00.000Z,Arkansas-Monticello,,Harding,
+2022-10-22T19:00:00.000Z,Southeastern Oklahoma,,Oklahoma Baptist,
+2022-10-22T19:00:00.000Z,Southern Arkansas,,Ouachita Baptist,
+2022-10-22T19:30:00.000Z,Lafayette,,Holy Cross,
+2022-10-22T19:30:00.000Z,Villanova,,Albany,
+2022-10-22T19:30:00.000Z,Charlotte,,Florida International,
+2022-10-22T19:30:00.000Z,East Tennessee State,,Samford,
+2022-10-22T19:30:00.000Z,UT San Antonio,,North Texas,
+2022-10-22T19:30:00.000Z,California (PA),,Slippery Rock,
+2022-10-22T19:30:00.000Z,Springfield,,Worcester Polytechnic,
+2022-10-22T19:30:00.000Z,Wisconsin,,Purdue,
+2022-10-22T19:30:00.000Z,Maryland,,Northwestern,
+2022-10-22T19:30:00.000Z,Stony Brook,,Maine,
+2022-10-22T20:00:00.000Z,Puget Sound,,Lewis & Clark,
+2022-10-22T20:00:00.000Z,Nicholls,,McNeese,
+2022-10-22T20:00:00.000Z,UTEP,,Florida Atlantic,
+2022-10-22T20:00:00.000Z,Erskine,,UVA-Wise,
+2022-10-22T20:00:00.000Z,Southern Nazarene,,Northwestern Oklahoma State,
+2022-10-22T20:00:00.000Z,Colorado State,,Hawai'i,
+2022-10-22T20:00:00.000Z,North Dakota,,South Dakota State,
+2022-10-22T20:00:00.000Z,Millsaps,,Rhodes,
+2022-10-22T20:00:00.000Z,Western Illinois,,Youngstown State,
+2022-10-22T20:00:00.000Z,Towson,,William & Mary,
+2022-10-22T20:00:00.000Z,Mississippi Valley State,,Bethune-Cookman,
+2022-10-22T20:00:00.000Z,Colorado State-Pueblo,,Chadron State,
+2022-10-22T20:05:00.000Z,Western Oregon,,Eastern New Mexico,
+2022-10-22T20:30:00.000Z,Nebraska Wesleyan University,,Buena Vista,
+2022-10-22T21:00:00.000Z,West Alabama,,North Greenville,
+2022-10-22T21:00:00.000Z,Savannah State,,Albany State (GA),
+2022-10-22T21:00:00.000Z,Southern,,Virginia Lynchburg,
+2022-10-22T21:00:00.000Z,Lamar,,Prairie View,
+2022-10-22T21:00:00.000Z,Northern Iowa,,Missouri State,
+2022-10-22T21:00:00.000Z,Texas State,,Southern Mississippi,
+2022-10-22T21:00:00.000Z,West Florida,,Mississippi College,
+2022-10-22T22:00:00.000Z,Wingate,,Barton College,
+2022-10-22T22:00:00.000Z,West Georgia,,Valdosta State,
+2022-10-22T22:00:00.000Z,Wayne State (MI),,Saginaw Valley,
+2022-10-22T22:00:00.000Z,Catawba,,Limestone,
+2022-10-22T22:00:00.000Z,Whittier,,Chapman,
+2022-10-22T22:00:00.000Z,Charleston Southern,,Gardner-Webb,
+2022-10-22T22:00:00.000Z,New Mexico State,,San José State,
+2022-10-22T22:00:00.000Z,Post University,,St. Anselm,
+2022-10-22T22:00:00.000Z,Indianapolis,,Quincy,
+2022-10-22T23:00:00.000Z,Thiel College,,Waynesburg,
+2022-10-22T23:00:00.000Z,Sewanee Univ. of the South,,Birmingham-Southern,
+2022-10-22T23:00:00.000Z,Carnegie Mellon,,Geneva College,
+2022-10-22T23:00:00.000Z,Eureka College,,Wisconsin Lutheran,
+2022-10-22T23:00:00.000Z,Angelo State,,Texas A&M-Kingsville,
+2022-10-22T23:00:00.000Z,Air Force,,Boise State,
+2022-10-22T23:00:00.000Z,Northern State,,Concordia-St. Paul,
+2022-10-22T23:30:00.000Z,Penn State,,Minnesota,
+2022-10-23T00:00:00.000Z,Tarleton State,,Southwest Baptist,
+2022-10-23T00:00:00.000Z,Cal Poly,,Eastern Washington,
+2022-10-23T00:00:00.000Z,West Texas A&M,,Central Washington,
+2022-10-23T01:00:00.000Z,Tarleton State,,Sam Houston State,
+2022-10-23T01:00:00.000Z,Simon Fraser,,Western New Mexico,
+2022-10-23T01:00:00.000Z,Adams State,,Colorado Mesa,
+2022-10-23T02:00:00.000Z,Cal Lutheran,,Pomona-Pitzer,
+2022-10-23T02:00:00.000Z,Redlands,,La Verne,
+2022-10-23T02:30:00.000Z,Nevada,,San Diego State,
+2022-10-23T03:00:00.000Z,Sacramento State,,Montana,
+2022-10-27T23:00:00.000Z,Miles,,Edward Waters,
+2022-10-27T23:00:00.000Z,Ouachita Baptist,,East Central,
+2022-10-27T23:30:00.000Z,NC State,,Virginia Tech,
+2022-10-27T23:30:00.000Z,Southern Mississippi,,Louisiana,
+2022-10-28T02:00:00.000Z,Washington State,,Utah,
+2022-10-28T22:30:00.000Z,Columbia,,Yale,
+2022-10-29T00:00:00.000Z,Florida International,,Louisiana Tech,
+2022-10-29T00:00:00.000Z,Illinois College,,Cornell College (IA),
+2022-10-29T00:00:00.000Z,BYU,,East Carolina,
+2022-10-29T04:00:00.000Z,Michigan,,Michigan State,
+2022-10-29T04:00:00.000Z,Boise State,,Colorado State,
+2022-10-29T04:00:00.000Z,Florida State,,Georgia Tech,
+2022-10-29T04:00:00.000Z,Marshall,,Coastal Carolina,
+2022-10-29T04:00:00.000Z,Akron,,Miami (OH),
+2022-10-29T04:00:00.000Z,Savannah State,,Fort Valley State,
+2022-10-29T04:00:00.000Z,Virginia,,Miami,
+2022-10-29T04:00:00.000Z,North Carolina,,Pittsburgh,
+2022-10-29T04:00:00.000Z,Houston,,South Florida,
+2022-10-29T04:00:00.000Z,Penn State,,Ohio State,
+2022-10-29T04:00:00.000Z,Coe,,Central,
+2022-10-29T04:00:00.000Z,Muskingum,,John Carroll,
+2022-10-29T04:00:00.000Z,Otterbein,,Mount Union,
+2022-10-29T04:00:00.000Z,Fresno State,,San Diego State,
+2022-10-29T04:00:00.000Z,Georgia State,,Old Dominion,
+2022-10-29T04:00:00.000Z,Tulsa,,SMU,
+2022-10-29T04:00:00.000Z,Appalachian State,,Robert Morris,
+2022-10-29T04:00:00.000Z,Marietta,,Ohio Northern,
+2022-10-29T04:00:00.000Z,Minnesota,,Rutgers,
+2022-10-29T04:00:00.000Z,Syracuse,,Notre Dame,
+2022-10-29T04:00:00.000Z,UCF,,Cincinnati,
+2022-10-29T04:00:00.000Z,Eastern Michigan,,Toledo,
+2022-10-29T04:00:00.000Z,Nicholls,,Texas A&M-Commerce,
+2022-10-29T04:00:00.000Z,Louisville,,Wake Forest,
+2022-10-29T04:00:00.000Z,Hamline,,Macalester,
+2022-10-29T04:00:00.000Z,Lane,,Central State,
+2022-10-29T04:00:00.000Z,Trinity (CT),,Bowdoin,
+2022-10-29T04:00:00.000Z,Texas Tech,,Baylor,
+2022-10-29T04:00:00.000Z,MIT,,Coast Guard,
+2022-10-29T04:00:00.000Z,Nebraska,,Illinois,
+2022-10-29T04:00:00.000Z,Tennessee,,Kentucky,
+2022-10-29T04:00:00.000Z,West Virginia,,TCU,
+2022-10-29T04:00:00.000Z,California,,Oregon,
+2022-10-29T04:00:00.000Z,UCLA,,Stanford,
+2022-10-29T04:00:00.000Z,Iowa State,,Oklahoma,
+2022-10-29T04:00:00.000Z,South Carolina,,Missouri,
+2022-10-29T04:00:00.000Z,Colorado Mesa,,Colorado State-Pueblo,
+2022-10-29T04:00:00.000Z,Auburn,,Arkansas,
+2022-10-29T04:00:00.000Z,Pace,,St. Anselm,
+2022-10-29T04:00:00.000Z,Texas A&M,,Ole Miss,
+2022-10-29T04:00:00.000Z,Arizona,,USC,
+2022-10-29T04:00:00.000Z,Rockford,,St. Norbert,
+2022-10-29T04:00:00.000Z,Kansas State,,Oklahoma State,
+2022-10-29T04:00:00.000Z,Colorado,,Arizona State,
+2022-10-29T16:00:00.000Z,Millersville,,Kutztown,
+2022-10-29T16:00:00.000Z,UVA-Wise,,Mars Hill,
+2022-10-29T16:00:00.000Z,Castleton State College,,Alfred State College,
+2022-10-29T16:00:00.000Z,Duquesne,,Long Island University,
+2022-10-29T16:00:00.000Z,Gannon,,Indiana (PA),
+2022-10-29T16:00:00.000Z,Framingham State,,Mass Maritime,
+2022-10-29T16:00:00.000Z,Misericordia,,Stevenson,
+2022-10-29T16:00:00.000Z,Concord,,Wheeling Jesuit,
+2022-10-29T16:00:00.000Z,Worcester Polytechnic,,Norwich,
+2022-10-29T16:00:00.000Z,Plymouth State,,Westfield State,
+2022-10-29T16:00:00.000Z,Morgan State,,South Carolina State,
+2022-10-29T16:00:00.000Z,Walsh,,Kentucky Wesleyan,
+2022-10-29T16:00:00.000Z,Sacred Heart,,St Francis (PA),
+2022-10-29T16:00:00.000Z,Centre,,Trinity (TX),
+2022-10-29T16:00:00.000Z,Central Connecticut,,Wagner,
+2022-10-29T16:00:00.000Z,Northern Michigan,,Ferris State,
+2022-10-29T16:00:00.000Z,Alvernia University,,King's College (PA),
+2022-10-29T16:00:00.000Z,Connecticut,,Boston College,
+2022-10-29T16:00:00.000Z,Findlay,,Lake Erie College,
+2022-10-29T16:00:00.000Z,Fairmont State,,Notre Dame College,
+2022-10-29T16:00:00.000Z,Shepherd,,Bloomsburg,
+2022-10-29T16:00:00.000Z,Mercyhurst,,California (PA),
+2022-10-29T16:00:00.000Z,Marist,,Presbyterian College,
+2022-10-29T16:00:00.000Z,Butler,,Morehead State,
+2022-10-29T16:00:00.000Z,Clarion,,Slippery Rock,
+2022-10-29T16:00:00.000Z,West Chester,,Lock Haven,
+2022-10-29T16:00:00.000Z,Edinboro,,Seton Hill College,
+2022-10-29T16:00:00.000Z,American International,,Southern Connecticut State,
+2022-10-29T16:00:00.000Z,Brockport State (NY),,Buffalo State,
+2022-10-29T16:00:00.000Z,Husson,,Western New England,
+2022-10-29T16:00:00.000Z,Wilkes,,Lycoming,
+2022-10-29T16:00:00.000Z,UMass Dartmouth,,Bridgewater State,
+2022-10-29T16:00:00.000Z,Gallaudet,,Anna Maria College,
+2022-10-29T16:00:00.000Z,Morrisville State,,Utica,
+2022-10-29T16:00:00.000Z,Rochester,,St Lawrence,
+2022-10-29T16:00:00.000Z,FDU-Florham,,Albright,
+2022-10-29T16:30:00.000Z,Brown,,Pennsylvania,
+2022-10-29T16:30:00.000Z,Lafayette,,Georgetown,
+2022-10-29T17:00:00.000Z,Dayton,,Valparaiso,
+2022-10-29T17:00:00.000Z,Wayne State (NE),,Upper Iowa,
+2022-10-29T17:00:00.000Z,Emory & Henry,,Carson-Newman,
+2022-10-29T17:00:00.000Z,Concordia-St. Paul,,University of Mary,
+2022-10-29T17:00:00.000Z,St. Augustine's,,Livingstone,
+2022-10-29T17:00:00.000Z,Winston-Salem,,Johnson C Smith,
+2022-10-29T17:00:00.000Z,Virginia Union,,Chowan,
+2022-10-29T17:00:00.000Z,Lincoln (PA),,Virginia State,
+2022-10-29T17:00:00.000Z,Elizabeth City State,,Bowie State,
+2022-10-29T17:00:00.000Z,Post University,,Franklin Pierce,
+2022-10-29T17:00:00.000Z,Glenville State,,WV State,
+2022-10-29T17:00:00.000Z,University of New England,,Salve Regina,
+2022-10-29T17:00:00.000Z,Hope,,Kalamazoo,
+2022-10-29T17:00:00.000Z,Lawrence,,Knox College,
+2022-10-29T17:00:00.000Z,Stetson,,Drake,
+2022-10-29T17:00:00.000Z,William & Mary,,Rhode Island,
+2022-10-29T17:00:00.000Z,Monmouth,,Towson,
+2022-10-29T17:00:00.000Z,Albany,,Stony Brook,
+2022-10-29T17:00:00.000Z,Villanova,,Hampton,
+2022-10-29T17:00:00.000Z,Maine,,Richmond,
+2022-10-29T17:00:00.000Z,North Carolina A&T,,Campbell,
+2022-10-29T17:00:00.000Z,Williams,,Bates College,
+2022-10-29T17:00:00.000Z,Amherst College,,Wesleyan,
+2022-10-29T17:00:00.000Z,Southern Virginia,,Methodist,
+2022-10-29T17:00:00.000Z,Salisbury,,Rowan,
+2022-10-29T17:00:00.000Z,Lebanon Valley,,Widener,
+2022-10-29T17:00:00.000Z,Hobart,,Union,
+2022-10-29T17:00:00.000Z,Muhlenberg,,Franklin & Marshall,
+2022-10-29T17:00:00.000Z,Merchant Marine,,Springfield,
+2022-10-29T17:00:00.000Z,Finlandia University,,Westminster,
+2022-10-29T17:00:00.000Z,Waynesburg,,Westminster PA,
+2022-10-29T17:00:00.000Z,Carnegie Mellon,,St. Vincent,
+2022-10-29T17:00:00.000Z,Montclair State,,Christopher Newport,
+2022-10-29T17:00:00.000Z,Kenyon,,DePauw,
+2022-10-29T17:00:00.000Z,Wabash College,,Hiram,
+2022-10-29T17:00:00.000Z,Ithaca,,Rensselaer,
+2022-10-29T17:00:00.000Z,Moravian,,McDaniel College,
+2022-10-29T17:00:00.000Z,Ripon,,Beloit College,
+2022-10-29T17:00:00.000Z,Thiel College,,Washington & Jefferson,
+2022-10-29T17:00:00.000Z,Kennesaw State,,Charleston Southern,
+2022-10-29T17:00:00.000Z,Princeton,,Cornell,
+2022-10-29T17:00:00.000Z,Olivet College,,Alma College,
+2022-10-29T17:00:00.000Z,Albion,,Adrian,
+2022-10-29T17:00:00.000Z,St. John Fisher,,Hartwick,
+2022-10-29T17:00:00.000Z,Susquehanna,,Johns Hopkins,
+2022-10-29T17:00:00.000Z,Alfred,,SUNY Cortland,
+2022-10-29T17:00:00.000Z,Assumption,,New Haven,
+2022-10-29T17:00:00.000Z,Bucknell,,Colgate,
+2022-10-29T17:00:00.000Z,Holy Cross,,Fordham,
+2022-10-29T17:00:00.000Z,Stonehill,,Merrimack,
+2022-10-29T17:00:00.000Z,Tufts,,Hamilton,
+2022-10-29T17:00:00.000Z,Gettysburg,,Ursinus,
+2022-10-29T17:00:00.000Z,Dickinson,,Juniata,
+2022-10-29T17:00:00.000Z,Middlebury,,Colby,
+2022-10-29T17:00:00.000Z,Crown College,,Greenville,
+2022-10-29T17:00:00.000Z,Allegheny,,Case Western Reserve,
+2022-10-29T17:00:00.000Z,Averett,,Shenandoah,
+2022-10-29T17:00:00.000Z,Hampden-Sydney,,Guilford,
+2022-10-29T17:00:00.000Z,Texas Lutheran,,East Texas Baptist,
+2022-10-29T17:00:00.000Z,Belhaven College,,LaGrange College,
+2022-10-29T17:00:00.000Z,Simpson College,,Nebraska Wesleyan University,
+2022-10-29T17:00:00.000Z,Luther,,Loras College,
+2022-10-29T17:00:00.000Z,Buena Vista,,Wartburg,
+2022-10-29T17:00:00.000Z,William Paterson,,College of New Jersey,
+2022-10-29T17:00:00.000Z,Curry,,Endicott College,
+2022-10-29T17:00:00.000Z,Kentucky State,,Tuskegee,
+2022-10-29T17:00:00.000Z,Lenoir-Rhyne,,Wingate,
+2022-10-29T17:00:00.000Z,Shippensburg,,East Stroudsburg,
+2022-10-29T17:00:00.000Z,Minnesota-Duluth,,Minot State,
+2022-10-29T17:00:00.000Z,Frostburg State,,Alderson-Broaddus,
+2022-10-29T17:00:00.000Z,Hillsdale,,Ashland,
+2022-10-29T17:00:00.000Z,Saginaw Valley,,Davenport,
+2022-10-29T17:00:00.000Z,Michigan Tech,,Grand Valley State,
+2022-10-29T17:30:00.000Z,Rose-Hulman,,Defiance,
+2022-10-29T17:30:00.000Z,George Fox University,,Linfield,
+2022-10-29T17:30:00.000Z,Capital,,Baldwin-Wallace,
+2022-10-29T17:30:00.000Z,Mount St. Joseph,,Bluffton,
+2022-10-29T17:30:00.000Z,Anderson (IN),,Hanover,
+2022-10-29T17:30:00.000Z,Manchester,,Franklin,
+2022-10-29T17:30:00.000Z,Tusculum,,Erskine,
+2022-10-29T17:30:00.000Z,Wilmington (OH),,Heidelberg,
+2022-10-29T17:30:00.000Z,Wooster,,Wittenberg,
+2022-10-29T17:30:00.000Z,Gardner-Webb,,Bryant,
+2022-10-29T17:30:00.000Z,VMI,,Mercer,
+2022-10-29T17:30:00.000Z,Dartmouth,,Harvard,
+2022-10-29T17:30:00.000Z,Wofford,,East Tennessee State,
+2022-10-29T18:00:00.000Z,Wisconsin-Eau Claire,,Wisconsin-Stevens Point,
+2022-10-29T18:00:00.000Z,SUNY Maritime,,Dean College,
+2022-10-29T18:00:00.000Z,Sioux Falls,,Minnesota State,
+2022-10-29T18:00:00.000Z,Benedictine (IL),,Aurora,
+2022-10-29T18:00:00.000Z,Lake Forest,,Monmouth (IL),
+2022-10-29T18:00:00.000Z,Chicago,,Grinnell,
+2022-10-29T18:00:00.000Z,Illinois College,,Cornell College (IA),
+2022-10-29T18:00:00.000Z,WV Wesleyan,,Charleston (WV),
+2022-10-29T18:00:00.000Z,Missouri Western,,Missouri Southern State,
+2022-10-29T18:00:00.000Z,Central Missouri State,,Lincoln (MO),
+2022-10-29T18:00:00.000Z,Western New Mexico,,West Texas A&M,
+2022-10-29T18:00:00.000Z,Quincy,,Truman State,
+2022-10-29T18:00:00.000Z,McKendree,,Southwest Baptist,
+2022-10-29T18:00:00.000Z,Black Hills State,,Fort Lewis,
+2022-10-29T18:00:00.000Z,Albany State (GA),,Morehouse,
+2022-10-29T18:00:00.000Z,Delaware State,,North Carolina Central,
+2022-10-29T18:00:00.000Z,Wheaton College (Ill),,Millikin,
+2022-10-29T18:00:00.000Z,North Central,,North Park,
+2022-10-29T18:00:00.000Z,Elmhurst,,Washington (MO),
+2022-10-29T18:00:00.000Z,Augsburg,,Concordia (MN),
+2022-10-29T18:00:00.000Z,Barton College,,Catawba,
+2022-10-29T18:00:00.000Z,Jackson State,,Southern,
+2022-10-29T18:00:00.000Z,UW-Stout,,Wisconsin-Platteville,
+2022-10-29T18:00:00.000Z,Chadron State,,New Mexico Highlands,
+2022-10-29T18:00:00.000Z,Southeast Missouri State,,Eastern Kentucky,
+2022-10-29T18:00:00.000Z,Lakeland University,,Eureka College,
+2022-10-29T18:00:00.000Z,Augustana (IL),,Illinois Wesleyan,
+2022-10-29T18:00:00.000Z,Western Connecticut State,,Worcester State College,
+2022-10-29T18:00:00.000Z,South Dakota Mines,,Adams State,
+2022-10-29T18:00:00.000Z,Washington & Lee,,Randolph-Macon,
+2022-10-29T18:00:00.000Z,Birmingham-Southern,,Hendrix College,
+2022-10-29T18:00:00.000Z,St. Scholastica,,St. Johns (MN),
+2022-10-29T18:00:00.000Z,Maryville TN,,Brevard College,
+2022-10-29T18:00:00.000Z,UW-Oshkosh,,Wisconsin-La Crosse,
+2022-10-29T18:00:00.000Z,Gustavus Adolphus,,Carleton,
+2022-10-29T18:00:00.000Z,Ferrum,,Bridgewater (VA),
+2022-10-29T18:00:00.000Z,Austin College,,Southwestern University,
+2022-10-29T18:00:00.000Z,Carroll (WI),,Carthage,
+2022-10-29T18:00:00.000Z,Bethel (MN),,St. Olaf College,
+2022-10-29T18:00:00.000Z,Wisconsin Lutheran,,Concordia (IL),
+2022-10-29T18:00:00.000Z,Berry College,,Millsaps,
+2022-10-29T18:00:00.000Z,Youngstown State,,South Dakota,
+2022-10-29T18:00:00.000Z,Winona State,,Augustana (SD),
+2022-10-29T18:00:00.000Z,Northern State,,Minnesota St-Moorhead,
+2022-10-29T18:00:00.000Z,Southwest Minnesota State,,Bemidji State,
+2022-10-29T18:00:00.000Z,Rice,,Charlotte,
+2022-10-29T18:00:00.000Z,Benedict College,,Clark Atlanta,
+2022-10-29T18:00:00.000Z,Huntingdon,,Greensboro,
+2022-10-29T18:00:00.000Z,UNC Pembroke,,West Liberty,
+2022-10-29T18:00:00.000Z,Norfolk State,,Howard,
+2022-10-29T18:00:00.000Z,Hardin-Simmons,,Howard Payne,
+2022-10-29T18:00:00.000Z,Furman,,Chattanooga,
+2022-10-29T18:00:00.000Z,UW-Whitewater,,UW-River Falls,
+2022-10-29T18:00:00.000Z,St. Thomas (MN),,San Diego,
+2022-10-29T18:00:00.000Z,Sul Ross State,,McMurry,
+2022-10-29T18:00:00.000Z,The Citadel,,Samford,
+2022-10-29T18:00:00.000Z,Lindenwood,,William Jewell College,
+2022-10-29T19:00:00.000Z,Central Oklahoma,,Pittsburg State,
+2022-10-29T19:00:00.000Z,Nebraska-Kearney,,Northwest Missouri State,
+2022-10-29T19:00:00.000Z,Emporia State,,Fort Hays State,
+2022-10-29T19:00:00.000Z,Oklahoma Baptist,,Southern Arkansas,
+2022-10-29T19:00:00.000Z,Southern Nazarene,,Henderson State,
+2022-10-29T19:00:00.000Z,Arkansas-Monticello,,Southeastern Oklahoma,
+2022-10-29T19:00:00.000Z,Arkansas Tech,,Southwestern Oklahoma,
+2022-10-29T19:00:00.000Z,Texas Southern,,Lincoln University (CA),
+2022-10-29T19:00:00.000Z,Missouri State,,Western Illinois,
+2022-10-29T19:00:00.000Z,Houston Baptist,,UT Martin,
+2022-10-29T19:00:00.000Z,Weber State,,Montana,
+2022-10-29T19:00:00.000Z,Murray State,,Tennessee State,
+2022-10-29T19:00:00.000Z,South Dakota State,,Indiana State,
+2022-10-29T19:00:00.000Z,Prairie View,,Bethune-Cookman,
+2022-10-29T19:00:00.000Z,Iowa,,Northwestern,
+2022-10-29T19:00:00.000Z,Southern Illinois,,Northern Iowa,
+2022-10-29T19:00:00.000Z,Eastern Illinois,,Tennessee Tech,
+2022-10-29T19:00:00.000Z,Western State,,Colorado Mines,
+2022-10-29T19:00:00.000Z,Tarleton State,,Incarnate Word,
+2022-10-29T19:00:00.000Z,Northeastern State,,Washburn,
+2022-10-29T19:00:00.000Z,Rhodes,,Sewanee Univ. of the South,
+2022-10-29T19:00:00.000Z,Grambling,,Alcorn State,
+2022-10-29T19:00:00.000Z,Stephen F. Austin,,Utah Tech,
+2022-10-29T19:00:00.000Z,North Greenville,,Valdosta State,
+2022-10-29T19:30:00.000Z,Western Kentucky,,North Texas,
+2022-10-29T19:30:00.000Z,Georgia,,Florida,
+2022-10-29T19:30:00.000Z,Alabama A&M,,Alabama State,
+2022-10-29T19:30:00.000Z,North Dakota State,,Illinois State,
+2022-10-29T19:30:00.000Z,Elon,,Delaware,
+2022-10-29T19:30:00.000Z,Navy,,Temple,
+2022-10-29T19:30:00.000Z,UMass,,New Mexico State,
+2022-10-29T20:00:00.000Z,Austin Peay,,Jacksonville State,
+2022-10-29T20:00:00.000Z,Florida A&M,,Arkansas-Pine Bluff,
+2022-10-29T20:00:00.000Z,Harding,,Northwestern Oklahoma State,
+2022-10-29T20:00:00.000Z,North Dakota,,Abilene Christian,
+2022-10-29T20:00:00.000Z,Pacific Lutheran,,Willamette,
+2022-10-29T20:00:00.000Z,Eastern Washington,,Portland State,
+2022-10-29T20:00:00.000Z,Fayetteville State,,Shaw,
+2022-10-29T20:00:00.000Z,Lewis & Clark,,Pacific (OR),
+2022-10-29T20:00:00.000Z,Tiffin,,Northwood (MI),
+2022-10-29T20:00:00.000Z,Eastern New Mexico,,University of Texas of the Permian Basin,
+2022-10-29T20:00:00.000Z,Redlands,,Pomona-Pitzer,
+2022-10-29T20:00:00.000Z,Newberry,,Limestone,
+2022-10-29T20:00:00.000Z,Whittier,,Claremont,
+2022-10-29T20:00:00.000Z,Lamar,,Southern Utah,
+2022-10-29T20:00:00.000Z,Whitworth,,Puget Sound,
+2022-10-29T21:00:00.000Z,West Florida,,West Alabama,
+2022-10-29T21:00:00.000Z,Central Arkansas,,North Alabama,
+2022-10-29T22:00:00.000Z,Northwestern (MN),,Minnesota-Morris,
+2022-10-29T22:00:00.000Z,West Georgia,,Shorter,
+2022-10-29T22:00:00.000Z,Indianapolis,,Missouri S&T,
+2022-10-29T23:00:00.000Z,UC Davis,,Cal Poly,
+2022-10-29T23:00:00.000Z,Arkansas State,,South Alabama,
+2022-10-29T23:00:00.000Z,Ohio Wesleyan,,Oberlin,
+2022-10-29T23:00:00.000Z,Mississippi College,,Delta State,
+2022-10-29T23:00:00.000Z,Florida Atlantic,,UAB,
+2022-10-29T23:00:00.000Z,Geneva College,,Bethany (WV),
+2022-10-30T00:00:00.000Z,Tarleton State,,Sam Houston State,
+2022-10-30T00:00:00.000Z,McNeese,,Southeastern Louisiana,
+2022-10-30T00:00:00.000Z,McNeese,,Southeastern Louisiana,
+2022-10-30T00:00:00.000Z,Midwestern State,,Western Oregon,
+2022-10-30T01:00:00.000Z,Sacramento State,,Idaho,
+2022-10-30T01:00:00.000Z,UTEP,,Middle Tennessee,
+2022-10-30T01:00:00.000Z,Simon Fraser,,Angelo State,
+2022-10-30T01:00:00.000Z,Central Washington,,Texas A&M-Kingsville,
+2022-10-30T02:00:00.000Z,Cal Lutheran,,La Verne,
+2022-10-30T02:30:00.000Z,San José State,,Nevada,
+2022-10-30T03:59:00.000Z,Hawai'i,,Wyoming,
+2022-11-01T04:00:00.000Z,Ohio,,Buffalo,
+2022-11-01T04:00:00.000Z,Kent State,,Ball State,
+2022-11-02T23:00:00.000Z,Bowling Green,,Western Michigan,
+2022-11-02T23:00:00.000Z,Northern Illinois,,Central Michigan,
+2022-11-03T23:00:00.000Z,Rice,,UTEP,
+2022-11-03T23:30:00.000Z,Mississippi Valley State,,Alabama A&M,
+2022-11-03T23:30:00.000Z,Coastal Carolina,,Appalachian State,
+2022-11-04T23:00:00.000Z,Boston College,,Duke,
+2022-11-04T23:00:00.000Z,Connecticut,,UMass,
+2022-11-04T23:30:00.000Z,Prairie View,,Alcorn State,
+2022-11-05T02:30:00.000Z,Washington,,Oregon State,
+2022-11-05T04:00:00.000Z,Kansas State,,Texas,
+2022-11-05T04:00:00.000Z,Texas A&M,,Florida,
+2022-11-05T04:00:00.000Z,Illinois,,Michigan State,
+2022-11-05T04:00:00.000Z,Arkansas,,Liberty,
+2022-11-05T04:00:00.000Z,University of Texas of the Permian Basin,,Western New Mexico,
+2022-11-05T04:00:00.000Z,Iowa State,,West Virginia,
+2022-11-05T04:00:00.000Z,USC,,California,
+2022-11-05T04:00:00.000Z,Husson,,Nichols,
+2022-11-05T04:00:00.000Z,Pittsburgh,,Syracuse,
+2022-11-05T04:00:00.000Z,Stanford,,Washington State,
+2022-11-05T04:00:00.000Z,TCU,,Texas Tech,
+2022-11-05T04:00:00.000Z,Colorado,,Oregon,
+2022-11-05T04:00:00.000Z,Mississippi State,,Auburn,
+2022-11-05T04:00:00.000Z,Georgia,,Tennessee,
+2022-11-05T04:00:00.000Z,LSU,,Alabama,
+2022-11-05T04:00:00.000Z,Vanderbilt,,South Carolina,
+2022-11-05T04:00:00.000Z,Missouri,,Kentucky,
+2022-11-05T04:00:00.000Z,Nebraska Wesleyan University,,Coe,
+2022-11-05T04:00:00.000Z,Arizona State,,UCLA,
+2022-11-05T04:00:00.000Z,Texas A&M-Kingsville,,Midwestern State,
+2022-11-05T04:00:00.000Z,Utah,,Arizona,
+2022-11-05T04:00:00.000Z,Oklahoma,,Baylor,
+2022-11-05T04:00:00.000Z,Pomona-Pitzer,,Whittier,
+2022-11-05T04:00:00.000Z,Coast Guard,,Worcester Polytechnic,
+2022-11-05T04:00:00.000Z,Utah Tech,,Sam Houston State,
+2022-11-05T04:00:00.000Z,Incarnate Word,,Lamar,
+2022-11-05T04:00:00.000Z,Otterbein,,Ohio Northern,
+2022-11-05T04:00:00.000Z,Kansas,,Oklahoma State,
+2022-11-05T04:00:00.000Z,Mount Union,,John Carroll,
+2022-11-05T04:00:00.000Z,NC State,,Wake Forest,
+2022-11-05T04:00:00.000Z,St. Anselm,,Assumption,
+2022-11-05T04:00:00.000Z,Wingate,,Newberry,
+2022-11-05T04:00:00.000Z,Bluefield,,Lincoln University (CA),
+2022-11-05T04:00:00.000Z,Fresno State,,Hawai'i,
+2022-11-05T04:00:00.000Z,Cincinnati,,Navy,
+2022-11-05T04:00:00.000Z,Nebraska,,Minnesota,
+2022-11-05T04:00:00.000Z,Louisiana,,Troy,
+2022-11-05T04:00:00.000Z,Virginia Tech,,Georgia Tech,
+2022-11-05T04:00:00.000Z,Northwestern,,Ohio State,
+2022-11-05T04:00:00.000Z,San José State,,Colorado State,
+2022-11-05T04:00:00.000Z,Temple,,South Florida,
+2022-11-05T04:00:00.000Z,Virginia,,North Carolina,
+2022-11-05T04:00:00.000Z,Boise State,,BYU,
+2022-11-05T04:00:00.000Z,Southern Mississippi,,Georgia State,
+2022-11-05T04:00:00.000Z,Memphis,,UCF,
+2022-11-05T04:00:00.000Z,Old Dominion,,Marshall,
+2022-11-05T04:00:00.000Z,Purdue,,Iowa,
+2022-11-05T04:00:00.000Z,SMU,,Houston,
+2022-11-05T04:00:00.000Z,Rutgers,,Michigan,
+2022-11-05T04:00:00.000Z,Tulsa,,Tulane,
+2022-11-05T04:00:00.000Z,Marietta,,Capital,
+2022-11-05T04:00:00.000Z,Miami,,Florida State,
+2022-11-05T04:00:00.000Z,Wisconsin,,Maryland,
+2022-11-05T04:00:00.000Z,Louisville,,James Madison,
+2022-11-05T04:00:00.000Z,Indiana,,Penn State,
+2022-11-05T15:30:00.000Z,Army,,Air Force,
+2022-11-05T16:00:00.000Z,Juniata,,Ursinus,
+2022-11-05T16:00:00.000Z,Albright,,Alvernia University,
+2022-11-05T16:00:00.000Z,Union,,Ithaca,
+2022-11-05T16:00:00.000Z,Delaware Valley,,FDU-Florham,
+2022-11-05T16:00:00.000Z,Duquesne,,Sacred Heart,
+2022-11-05T16:00:00.000Z,Notre Dame College,,UNC Pembroke,
+2022-11-05T16:00:00.000Z,Western Connecticut State,,Fitchburg State,
+2022-11-05T16:00:00.000Z,Worcester State College,,Westfield State,
+2022-11-05T16:00:00.000Z,Bridgewater State,,Framingham State,
+2022-11-05T16:00:00.000Z,Springfield,,MIT,
+2022-11-05T16:00:00.000Z,Findlay,,Walsh,
+2022-11-05T16:00:00.000Z,Endicott College,,Salve Regina,
+2022-11-05T16:00:00.000Z,Holy Cross,,Lehigh,
+2022-11-05T16:00:00.000Z,Charlotte,,Western Kentucky,
+2022-11-05T16:00:00.000Z,Yale,,Brown,
+2022-11-05T16:00:00.000Z,North Carolina A&T,,Norfolk State,
+2022-11-05T16:00:00.000Z,NC Wesleyan,,Huntingdon,
+2022-11-05T16:00:00.000Z,Seton Hill College,,Mercyhurst,
+2022-11-05T16:00:00.000Z,King's College (PA),,Misericordia,
+2022-11-05T16:00:00.000Z,Kutztown,,West Chester,
+2022-11-05T16:00:00.000Z,California (PA),,Gannon,
+2022-11-05T16:00:00.000Z,Dean College,,Anna Maria College,
+2022-11-05T16:00:00.000Z,Norwich,,Catholic University,
+2022-11-05T16:00:00.000Z,Alfred State College,,Gallaudet,
+2022-11-05T16:00:00.000Z,Mass Maritime,,Plymouth State,
+2022-11-05T16:00:00.000Z,Lycoming,,Widener,
+2022-11-05T16:00:00.000Z,Shorter,,North Greenville,
+2022-11-05T16:00:00.000Z,Virginia State,,Virginia Union,
+2022-11-05T16:00:00.000Z,Limestone,,Barton College,
+2022-11-05T16:00:00.000Z,Bentley,,American International,
+2022-11-05T16:00:00.000Z,Charleston Southern,,Robert Morris,
+2022-11-05T16:00:00.000Z,Fairmont State,,Glenville State,
+2022-11-05T16:00:00.000Z,Rensselaer,,St Lawrence,
+2022-11-05T16:30:00.000Z,Georgetown,,St Francis (PA),
+2022-11-05T16:30:00.000Z,Middlebury,,Hamilton,
+2022-11-05T17:00:00.000Z,Lock Haven,,Shippensburg,
+2022-11-05T17:00:00.000Z,Davidson,,Stetson,
+2022-11-05T17:00:00.000Z,Stony Brook,,Morgan State,
+2022-11-05T17:00:00.000Z,Indiana State,,North Dakota,
+2022-11-05T17:00:00.000Z,Stonehill,,Wagner,
+2022-11-05T17:00:00.000Z,Presbyterian College,,Dayton,
+2022-11-05T17:00:00.000Z,Long Island University,,Central Connecticut,
+2022-11-05T17:00:00.000Z,Morehead State,,Marist,
+2022-11-05T17:00:00.000Z,Colgate,,Lafayette,
+2022-11-05T17:00:00.000Z,Bucknell,,Fordham,
+2022-11-05T17:00:00.000Z,Wheeling Jesuit,,Charleston (WV),
+2022-11-05T17:00:00.000Z,Shaw,,St. Augustine's,
+2022-11-05T17:00:00.000Z,Truman State,,McKendree,
+2022-11-05T17:00:00.000Z,Hillsdale,,Michigan Tech,
+2022-11-05T17:00:00.000Z,Northwood (MI),,Ohio Dominican,
+2022-11-05T17:00:00.000Z,Northern Michigan,,Saginaw Valley,
+2022-11-05T17:00:00.000Z,Nebraska-Kearney,,Central Oklahoma,
+2022-11-05T17:00:00.000Z,WV Wesleyan,,Frostburg State,
+2022-11-05T17:00:00.000Z,Minnesota State,,Southwest Minnesota State,
+2022-11-05T17:00:00.000Z,Upper Iowa,,Winona State,
+2022-11-05T17:00:00.000Z,Slippery Rock,,Edinboro,
+2022-11-05T17:00:00.000Z,Mars Hill,,Tusculum,
+2022-11-05T17:00:00.000Z,Ferris State,,Davenport,
+2022-11-05T17:00:00.000Z,Westminster PA,,Case Western Reserve,
+2022-11-05T17:00:00.000Z,Brevard College,,Belhaven College,
+2022-11-05T17:00:00.000Z,Stevenson,,Wilkes,
+2022-11-05T17:00:00.000Z,Loras College,,Dubuque,
+2022-11-05T17:00:00.000Z,Dickinson,,Johns Hopkins,
+2022-11-05T17:00:00.000Z,Western New England,,University of New England,
+2022-11-05T17:00:00.000Z,St. Norbert,,Eureka College,
+2022-11-05T17:00:00.000Z,Franklin & Marshall,,Moravian,
+2022-11-05T17:00:00.000Z,Hiram,,Hilbert College,
+2022-11-05T17:00:00.000Z,Wabash College,,Kenyon,
+2022-11-05T17:00:00.000Z,DePauw,,Oberlin,
+2022-11-05T17:00:00.000Z,Randolph-Macon,,Ferrum,
+2022-11-05T17:00:00.000Z,Shenandoah,,Hampden-Sydney,
+2022-11-05T17:00:00.000Z,Bethany (WV),,Allegheny,
+2022-11-05T17:00:00.000Z,Bates College,,Trinity (CT),
+2022-11-05T17:00:00.000Z,Millsaps,,Trinity (TX),
+2022-11-05T17:00:00.000Z,Greenville,,Finlandia University,
+2022-11-05T17:00:00.000Z,Buffalo State,,Hobart,
+2022-11-05T17:00:00.000Z,LaGrange College,,Southern Virginia,
+2022-11-05T17:00:00.000Z,Rowan,,Montclair State,
+2022-11-05T17:00:00.000Z,Amherst College,,Bowdoin,
+2022-11-05T17:00:00.000Z,Lawrence,,Chicago,
+2022-11-05T17:00:00.000Z,Chowan,,Elizabeth City State,
+2022-11-05T17:00:00.000Z,Allen,,Benedict College,
+2022-11-05T17:00:00.000Z,Central State,,Kentucky State,
+2022-11-05T17:00:00.000Z,New Haven,,Franklin Pierce,
+2022-11-05T17:00:00.000Z,Minnesota St-Moorhead,,Concordia-St. Paul,
+2022-11-05T17:00:00.000Z,Southern Connecticut State,,Post University,
+2022-11-05T17:00:00.000Z,Bowie State,,Lincoln (PA),
+2022-11-05T17:00:00.000Z,Rhode Island,,Maine,
+2022-11-05T17:00:00.000Z,Delaware,,Monmouth,
+2022-11-05T17:00:00.000Z,Hampton,,William & Mary,
+2022-11-05T17:00:00.000Z,UT Martin,,Kennesaw State,
+2022-11-05T17:00:00.000Z,Princeton,,Dartmouth,
+2022-11-05T17:00:00.000Z,Harvard,,Columbia,
+2022-11-05T17:00:00.000Z,Cornell,,Pennsylvania,
+2022-11-05T17:00:00.000Z,Utica,,Alfred,
+2022-11-05T17:00:00.000Z,Trine,,Hope,
+2022-11-05T17:00:00.000Z,Averett,,Guilford,
+2022-11-05T17:00:00.000Z,Albion,,Olivet College,
+2022-11-05T17:00:00.000Z,Rochester,,Hartwick,
+2022-11-05T17:00:00.000Z,Central,,Luther,
+2022-11-05T17:00:00.000Z,Wartburg,,Simpson College,
+2022-11-05T17:00:00.000Z,Alma College,,Adrian,
+2022-11-05T17:00:00.000Z,Beloit College,,Lake Forest,
+2022-11-05T17:00:00.000Z,Wittenberg,,Ohio Wesleyan,
+2022-11-05T17:00:00.000Z,Christopher Newport,,College of New Jersey,
+2022-11-05T17:00:00.000Z,Linfield,,Willamette,
+2022-11-05T17:00:00.000Z,Pacific (OR),,Whitworth,
+2022-11-05T17:00:00.000Z,Thiel College,,Geneva College,
+2022-11-05T17:00:00.000Z,Washington & Jefferson,,Grove City College,
+2022-11-05T17:00:00.000Z,St. Vincent,,Waynesburg,
+2022-11-05T17:00:00.000Z,Martin Luther College,,Westminster,
+2022-11-05T17:00:00.000Z,Wooster,,Denison,
+2022-11-05T17:00:00.000Z,SUNY Cortland,,St. John Fisher,
+2022-11-05T17:00:00.000Z,Muhlenberg,,Susquehanna,
+2022-11-05T17:00:00.000Z,Keystone,,SUNY Maritime,
+2022-11-05T17:00:00.000Z,McDaniel College,,Gettysburg,
+2022-11-05T17:00:00.000Z,Colby,,Tufts,
+2022-11-05T17:00:00.000Z,Kean,,Salisbury,
+2022-11-05T17:05:00.000Z,East Stroudsburg,,Shepherd,
+2022-11-05T17:30:00.000Z,Livingstone,,Johnson C Smith,
+2022-11-05T17:30:00.000Z,South Carolina State,,Delaware State,
+2022-11-05T17:30:00.000Z,Wesleyan,,Williams,
+2022-11-05T17:30:00.000Z,Heidelberg,,Baldwin-Wallace,
+2022-11-05T17:30:00.000Z,Defiance,,Manchester,
+2022-11-05T17:30:00.000Z,Franklin,,Mount St. Joseph,
+2022-11-05T17:30:00.000Z,Bluffton,,Anderson (IN),
+2022-11-05T17:30:00.000Z,Wilmington (OH),,Muskingum,
+2022-11-05T18:00:00.000Z,Fort Lewis,,Western State,
+2022-11-05T18:00:00.000Z,Catawba,,Lenoir-Rhyne,
+2022-11-05T18:00:00.000Z,Brockport State (NY),,Morrisville State,
+2022-11-05T18:00:00.000Z,The Citadel,,Chattanooga,
+2022-11-05T18:00:00.000Z,Bryant,,Campbell,
+2022-11-05T18:00:00.000Z,Bridgewater (VA),,Washington & Lee,
+2022-11-05T18:00:00.000Z,Towson,,Villanova,
+2022-11-05T18:00:00.000Z,Valparaiso,,St. Thomas (MN),
+2022-11-05T18:00:00.000Z,Elon,,Albany,
+2022-11-05T18:00:00.000Z,Albany State (GA),,Fort Valley State,
+2022-11-05T18:00:00.000Z,Tuskegee,,Miles,
+2022-11-05T18:00:00.000Z,Central Missouri State,,Missouri Western,
+2022-11-05T18:00:00.000Z,Howard Payne,,Mary Hardin-Baylor,
+2022-11-05T18:00:00.000Z,East Texas Baptist,,Sul Ross State,
+2022-11-05T18:00:00.000Z,Fort Hays State,,Northeastern State,
+2022-11-05T18:00:00.000Z,Washburn,,Pittsburg State,
+2022-11-05T18:00:00.000Z,Concord,,Alderson-Broaddus,
+2022-11-05T18:00:00.000Z,Morehouse,,Clark Atlanta,
+2022-11-05T18:00:00.000Z,Bloomsburg,,Millersville,
+2022-11-05T18:00:00.000Z,Washington (MO),,Wheaton College (Ill),
+2022-11-05T18:00:00.000Z,Wisconsin-La Crosse,,UW-River Falls,
+2022-11-05T18:00:00.000Z,UW-Stout,,UW-Whitewater,
+2022-11-05T18:00:00.000Z,St. Johns (MN),,Carleton,
+2022-11-05T18:00:00.000Z,Wisconsin-Platteville,,Wisconsin-Eau Claire,
+2022-11-05T18:00:00.000Z,New Mexico Highlands,,Colorado Mines,
+2022-11-05T18:00:00.000Z,Augustana (IL),,Carthage,
+2022-11-05T18:00:00.000Z,Illinois Wesleyan,,North Central,
+2022-11-05T18:00:00.000Z,Southwestern University,,Texas Lutheran,
+2022-11-05T18:00:00.000Z,Crown College,,Northwestern (MN),
+2022-11-05T18:00:00.000Z,Macalester,,St. Scholastica,
+2022-11-05T18:00:00.000Z,Wisconsin-Stevens Point,,UW-Oshkosh,
+2022-11-05T18:00:00.000Z,St. Olaf College,,Gustavus Adolphus,
+2022-11-05T18:00:00.000Z,Millikin,,Carroll (WI),
+2022-11-05T18:00:00.000Z,Concordia (WI),,Wisconsin Lutheran,
+2022-11-05T18:00:00.000Z,South Dakota,,Missouri State,
+2022-11-05T18:00:00.000Z,Aurora,,Lakeland University,
+2022-11-05T18:00:00.000Z,Grinnell,,Illinois College,
+2022-11-05T18:00:00.000Z,Cornell College (IA),,Knox College,
+2022-11-05T18:00:00.000Z,Hanover,,Rose-Hulman,
+2022-11-05T18:00:00.000Z,Indiana (PA),,Clarion,
+2022-11-05T18:00:00.000Z,Chadron State,,Colorado Mesa,
+2022-11-05T18:00:00.000Z,Edward Waters,,UFTL,
+2022-11-05T18:00:00.000Z,William Jewell College,,Indianapolis,
+2022-11-05T18:00:00.000Z,Southwest Baptist,,Quincy,
+2022-11-05T18:00:00.000Z,Bemidji State,,Northern State,
+2022-11-05T18:00:00.000Z,Augustana (SD),,Minnesota-Duluth,
+2022-11-05T18:00:00.000Z,Sioux Falls,,Wayne State (NE),
+2022-11-05T18:00:00.000Z,Concordia (IL),,Benedictine (IL),
+2022-11-05T18:00:00.000Z,Birmingham-Southern,,Centre,
+2022-11-05T18:00:00.000Z,North Carolina Central,,Howard,
+2022-11-05T18:00:00.000Z,Monmouth (IL),,Ripon,
+2022-11-05T18:00:00.000Z,Augsburg,,Bethel (MN),
+2022-11-05T18:00:00.000Z,Hardin-Simmons,,Austin College,
+2022-11-05T18:00:00.000Z,Concordia (MN),,Hamline,
+2022-11-05T18:00:00.000Z,North Park,,Elmhurst,
+2022-11-05T18:00:00.000Z,Western Carolina,,Wofford,
+2022-11-05T18:00:00.000Z,Western Illinois,,North Dakota State,
+2022-11-05T18:30:00.000Z,Sewanee Univ. of the South,,Berry College,
+2022-11-05T18:30:00.000Z,Tennessee Tech,,Lindenwood,
+2022-11-05T18:30:00.000Z,Northwest Missouri State,,Missouri Southern State,
+2022-11-05T19:00:00.000Z,Texas A&M-Commerce,,Northwestern State,
+2022-11-05T19:00:00.000Z,Incarnate Word,,Houston Baptist,
+2022-11-05T19:00:00.000Z,Carson-Newman,,UVA-Wise,
+2022-11-05T19:00:00.000Z,Adams State,,Black Hills State,
+2022-11-05T19:00:00.000Z,Minot State,,University of Mary,
+2022-11-05T19:00:00.000Z,Lincoln (MO),,Emporia State,
+2022-11-05T19:00:00.000Z,West Alabama,,Mississippi College,
+2022-11-05T19:00:00.000Z,Southwestern Oklahoma,,Harding,
+2022-11-05T19:00:00.000Z,Louisiana Tech,,Middle Tennessee,
+2022-11-05T19:00:00.000Z,East Central,,Arkansas-Monticello,
+2022-11-05T19:00:00.000Z,Grambling,,Arkansas-Pine Bluff,
+2022-11-05T19:00:00.000Z,Illinois State,,Youngstown State,
+2022-11-05T19:00:00.000Z,Texas A&M-Commerce,,Northwestern State,
+2022-11-05T19:00:00.000Z,Samford,,VMI,
+2022-11-05T19:00:00.000Z,Weber State,,Sacramento State,
+2022-11-05T19:00:00.000Z,Henderson State,,Oklahoma Baptist,
+2022-11-05T19:00:00.000Z,Southeastern Oklahoma,,Ouachita Baptist,
+2022-11-05T19:00:00.000Z,Southern Arkansas,,Southern Nazarene,
+2022-11-05T19:00:00.000Z,Grand Valley State,,Wayne State (MI),
+2022-11-05T19:00:00.000Z,Delta State,,West Georgia,
+2022-11-05T19:00:00.000Z,Idaho,,Eastern Washington,
+2022-11-05T19:30:00.000Z,Richmond,,New Hampshire,
+2022-11-05T19:30:00.000Z,Utah State,,New Mexico,
+2022-11-05T19:30:00.000Z,UAB,,UT San Antonio,
+2022-11-05T20:00:00.000Z,Winston-Salem,,Fayetteville State,
+2022-11-05T20:00:00.000Z,Lake Erie College,,Ashland,
+2022-11-05T20:00:00.000Z,Lamar,,Southeastern Louisiana,
+2022-11-05T20:00:00.000Z,San Diego,,Butler,
+2022-11-05T20:00:00.000Z,North Texas,,Florida International,
+2022-11-05T20:00:00.000Z,Georgia Southern,,South Alabama,
+2022-11-05T20:00:00.000Z,Claremont,,Redlands,
+2022-11-05T20:00:00.000Z,Puget Sound,,Pacific Lutheran,
+2022-11-05T20:00:00.000Z,Northern Arizona,,Montana State,
+2022-11-05T20:00:00.000Z,Colorado State-Pueblo,,South Dakota Mines,
+2022-11-05T20:00:00.000Z,Erskine,,Emory & Henry,
+2022-11-05T20:05:00.000Z,Western Oregon,,Simon Fraser,
+2022-11-05T20:30:00.000Z,George Fox University,,Lewis & Clark,
+2022-11-05T21:00:00.000Z,Kentucky Wesleyan,,Tiffin,
+2022-11-05T21:00:00.000Z,Northern Iowa,,South Dakota State,
+2022-11-05T21:00:00.000Z,Savannah State,,Lane,
+2022-11-05T21:00:00.000Z,Eastern Kentucky,,Central Arkansas,
+2022-11-05T21:00:00.000Z,Northwestern Oklahoma State,,Arkansas Tech,
+2022-11-05T21:00:00.000Z,Louisiana Monroe,,Texas State,
+2022-11-05T21:00:00.000Z,Portland State,,Northern Colorado,
+2022-11-05T21:00:00.000Z,North Alabama,,Austin Peay,
+2022-11-05T21:00:00.000Z,Methodist,,Greensboro,
+2022-11-05T21:00:00.000Z,Bethune-Cookman,,Alabama State,
+2022-11-05T22:00:00.000Z,Florida A&M,,Southern,
+2022-11-05T22:00:00.000Z,Tennessee State,,Southeast Missouri State,
+2022-11-05T22:00:00.000Z,West Liberty,,WV State,
+2022-11-05T23:00:00.000Z,Angelo State,,Central Washington,
+2022-11-05T23:00:00.000Z,San Diego State,,UNLV,
+2022-11-05T23:00:00.000Z,UC Davis,,Idaho State,
+2022-11-05T23:00:00.000Z,Southeastern Louisiana,,Houston Baptist,
+2022-11-05T23:00:00.000Z,Hendrix College,,Rhodes,
+2022-11-05T23:00:00.000Z,Texas Southern,,Jackson State,
+2022-11-05T23:00:00.000Z,Valdosta State,,West Florida,
+2022-11-05T23:30:00.000Z,Notre Dame,,Clemson,
+2022-11-06T00:00:00.000Z,West Texas A&M,,Eastern New Mexico,
+2022-11-06T00:00:00.000Z,McNeese,,Eastern Illinois,
+2022-11-06T00:00:00.000Z,Tarleton State,,Abilene Christian,
+2022-11-06T00:00:00.000Z,Utah Tech,,Southern Utah,
+2022-11-06T00:00:00.000Z,Montana,,Cal Poly,
+2022-11-06T02:00:00.000Z,Chapman,,Cal Lutheran,
+2022-11-08T05:00:00.000Z,Toledo,,Ball State,
+2022-11-08T05:00:00.000Z,Akron,,Eastern Michigan,
+2022-11-08T05:00:00.000Z,Miami (OH),,Ohio,
+2022-11-10T00:00:00.000Z,Western Michigan,,Northern Illinois,
+2022-11-10T00:00:00.000Z,Central Michigan,,Buffalo,
+2022-11-10T00:00:00.000Z,Bowling Green,,Kent State,
+2022-11-11T00:30:00.000Z,Louisiana,,Georgia Southern,
+2022-11-11T00:30:00.000Z,Memphis,,Tulsa,
+2022-11-12T00:00:00.000Z,Rowan,,University of New England,
+2022-11-12T00:00:00.000Z,College of New Jersey,,Kean,
+2022-11-12T01:00:00.000Z,Cincinnati,,East Carolina,
+2022-11-12T02:30:00.000Z,USC,,Colorado,
+2022-11-12T03:00:00.000Z,Portland State,,Sacramento State,
+2022-11-12T03:30:00.000Z,UNLV,,Fresno State,
+2022-11-12T05:00:00.000Z,Washington State,,Arizona State,
+2022-11-12T05:00:00.000Z,Jackson State,,Alabama A&M,
+2022-11-12T05:00:00.000Z,Ohio Wesleyan,,Hiram,
+2022-11-12T05:00:00.000Z,DePauw,,Wabash College,
+2022-11-12T05:00:00.000Z,Arkansas State,,UMass,
+2022-11-12T05:00:00.000Z,Old Dominion,,James Madison,
+2022-11-12T05:00:00.000Z,Marshall,,Appalachian State,
+2022-11-12T05:00:00.000Z,Tennessee,,Missouri,
+2022-11-12T05:00:00.000Z,Virginia,,Pittsburgh,
+2022-11-12T05:00:00.000Z,Georgia Tech,,Miami,
+2022-11-12T05:00:00.000Z,South Florida,,SMU,
+2022-11-12T05:00:00.000Z,Houston,,Temple,
+2022-11-12T05:00:00.000Z,San Diego State,,San José State,
+2022-11-12T05:00:00.000Z,Georgia State,,Louisiana Monroe,
+2022-11-12T05:00:00.000Z,Wake Forest,,North Carolina,
+2022-11-12T05:00:00.000Z,Tulane,,UCF,
+2022-11-12T05:00:00.000Z,Clemson,,Louisville,
+2022-11-12T05:00:00.000Z,Duke,,Virginia Tech,
+2022-11-12T05:00:00.000Z,NC State,,Boston College,
+2022-11-12T05:00:00.000Z,Syracuse,,Florida State,
+2022-11-12T05:00:00.000Z,Coastal Carolina,,Southern Mississippi,
+2022-11-12T05:00:00.000Z,Mississippi State,,Georgia,
+2022-11-12T05:00:00.000Z,Kentucky,,Vanderbilt,
+2022-11-12T05:00:00.000Z,Oregon State,,California,
+2022-11-12T05:00:00.000Z,Florida,,South Carolina,
+2022-11-12T05:00:00.000Z,UCLA,,Arizona,
+2022-11-12T05:00:00.000Z,Arkansas,,LSU,
+2022-11-12T05:00:00.000Z,Auburn,,Texas A&M,
+2022-11-12T05:00:00.000Z,Texas A&M-Kingsville,,Western Oregon,
+2022-11-12T05:00:00.000Z,Pace,,Bentley,
+2022-11-12T05:00:00.000Z,West Virginia,,Oklahoma,
+2022-11-12T05:00:00.000Z,Minnesota,,Northwestern,
+2022-11-12T05:00:00.000Z,Oregon,,Washington,
+2022-11-12T05:00:00.000Z,Ohio State,,Indiana,
+2022-11-12T05:00:00.000Z,Michigan State,,Rutgers,
+2022-11-12T05:00:00.000Z,Merchant Marine,,Coast Guard,
+2022-11-12T05:00:00.000Z,Catholic University,,Springfield,
+2022-11-12T05:00:00.000Z,Illinois,,Purdue,
+2022-11-12T05:00:00.000Z,Michigan,,Nebraska,
+2022-11-12T05:00:00.000Z,Ohio Northern,,Wilmington (OH),
+2022-11-12T05:00:00.000Z,John Carroll,,Otterbein,
+2022-11-12T05:00:00.000Z,Salve Regina,,Husson,
+2022-11-12T05:00:00.000Z,Utah,,Stanford,
+2022-11-12T05:00:00.000Z,Coe,,Wartburg,
+2022-11-12T05:00:00.000Z,Iowa,,Wisconsin,
+2022-11-12T05:00:00.000Z,Worcester Polytechnic,,MIT,
+2022-11-12T05:00:00.000Z,Texas Tech,,Kansas,
+2022-11-12T05:00:00.000Z,Texas,,TCU,
+2022-11-12T05:00:00.000Z,Baylor,,Kansas State,
+2022-11-12T05:00:00.000Z,Incarnate Word,,Utah Tech,
+2022-11-12T05:00:00.000Z,Ole Miss,,Alabama,
+2022-11-12T05:00:00.000Z,Oklahoma State,,Iowa State,
+2022-11-12T05:00:00.000Z,Penn State,,Maryland,
+2022-11-12T17:00:00.000Z,Moravian,,Muhlenberg,
+2022-11-12T17:00:00.000Z,Trinity (CT),,Wesleyan,
+2022-11-12T17:00:00.000Z,Lebanon Valley,,Albright,
+2022-11-12T17:00:00.000Z,Westfield State,,Fitchburg State,
+2022-11-12T17:00:00.000Z,Dean College,,Keystone,
+2022-11-12T17:00:00.000Z,Wilkes,,King's College (PA),
+2022-11-12T17:00:00.000Z,North Carolina A&T,,Charleston Southern,
+2022-11-12T17:00:00.000Z,Albany,,Maine,
+2022-11-12T17:00:00.000Z,Holy Cross,,Bryant,
+2022-11-12T17:00:00.000Z,Connecticut,,Liberty,
+2022-11-12T17:00:00.000Z,American International,,St. Anselm,
+2022-11-12T17:00:00.000Z,Limestone,,Emory & Henry,
+2022-11-12T17:00:00.000Z,Edinboro,,Lock Haven,
+2022-11-12T17:00:00.000Z,Seton Hill College,,Millersville,
+2022-11-12T17:00:00.000Z,Mercyhurst,,Shepherd,
+2022-11-12T17:00:00.000Z,Marist,,Valparaiso,
+2022-11-12T17:00:00.000Z,Southern Connecticut State,,New Haven,
+2022-11-12T17:00:00.000Z,Navy,,Notre Dame,
+2022-11-12T17:00:00.000Z,Nichols,,Curry,
+2022-11-12T17:00:00.000Z,Yale,,Princeton,
+2022-11-12T17:00:00.000Z,SUNY Maritime,,Alfred State College,
+2022-11-12T17:00:00.000Z,Rensselaer,,Union,
+2022-11-12T17:00:00.000Z,Luther,,Nebraska Wesleyan University,
+2022-11-12T17:00:00.000Z,Johns Hopkins,,McDaniel College,
+2022-11-12T17:00:00.000Z,Bridgewater State,,Mass Maritime,
+2022-11-12T17:00:00.000Z,Plymouth State,,UMass Dartmouth,
+2022-11-12T17:00:00.000Z,Illinois College,,Beloit College,
+2022-11-12T17:00:00.000Z,Tiffin,,Findlay,
+2022-11-12T17:00:00.000Z,Clarion,,West Chester,
+2022-11-12T17:00:00.000Z,Lehigh,,Colgate,
+2022-11-12T17:00:00.000Z,Lake Erie College,,Northern Michigan,
+2022-11-12T17:00:00.000Z,California (PA),,East Stroudsburg,
+2022-11-12T17:00:00.000Z,Wagner,,Sacred Heart,
+2022-11-12T17:00:00.000Z,Framingham State,,Worcester State College,
+2022-11-12T17:00:00.000Z,St Francis (PA),,Duquesne,
+2022-11-12T17:00:00.000Z,Hamilton,,Bates College,
+2022-11-12T17:00:00.000Z,Central Connecticut,,Merrimack,
+2022-11-12T17:00:00.000Z,Williams,,Amherst College,
+2022-11-12T17:00:00.000Z,Davenport,,Grand Valley State,
+2022-11-12T17:00:00.000Z,Gannon,,Shippensburg,
+2022-11-12T17:00:00.000Z,Brown,,Columbia,
+2022-11-12T17:30:00.000Z,Tufts,,Middlebury,
+2022-11-12T17:30:00.000Z,Georgetown,,Bucknell,
+2022-11-12T18:00:00.000Z,Charleston (WV),,WV State,
+2022-11-12T18:00:00.000Z,Ohio Dominican,,Hillsdale,
+2022-11-12T18:00:00.000Z,Alderson-Broaddus,,Notre Dame College,
+2022-11-12T18:00:00.000Z,Lenoir-Rhyne,,Tusculum,
+2022-11-12T18:00:00.000Z,Newberry,,Mars Hill,
+2022-11-12T18:00:00.000Z,Catawba,,Carson-Newman,
+2022-11-12T18:00:00.000Z,Ferrum,,Averett,
+2022-11-12T18:00:00.000Z,Kalamazoo,,Trine,
+2022-11-12T18:00:00.000Z,Ripon,,Lawrence,
+2022-11-12T18:00:00.000Z,Cornell College (IA),,Grinnell,
+2022-11-12T18:00:00.000Z,Waynesburg,,Washington & Jefferson,
+2022-11-12T18:00:00.000Z,Centre,,Millsaps,
+2022-11-12T18:00:00.000Z,Westminster,,Crown College,
+2022-11-12T18:00:00.000Z,Southern Virginia,,Brevard College,
+2022-11-12T18:00:00.000Z,Greensboro,,NC Wesleyan,
+2022-11-12T18:00:00.000Z,Hobart,,Rochester,
+2022-11-12T18:00:00.000Z,Wittenberg,,Hilbert College,
+2022-11-12T18:00:00.000Z,Guilford,,Bridgewater (VA),
+2022-11-12T18:00:00.000Z,Montclair State,,William Paterson,
+2022-11-12T18:00:00.000Z,Susquehanna,,Juniata,
+2022-11-12T18:00:00.000Z,WV Wesleyan,,Glenville State,
+2022-11-12T18:00:00.000Z,Long Island University,,Stonehill,
+2022-11-12T18:00:00.000Z,Kennesaw State,,Austin Peay,
+2022-11-12T18:00:00.000Z,North Dakota,,South Dakota,
+2022-11-12T18:00:00.000Z,Fordham,,Lafayette,
+2022-11-12T18:00:00.000Z,Dayton,,Morehead State,
+2022-11-12T18:00:00.000Z,William & Mary,,Villanova,
+2022-11-12T18:00:00.000Z,Hampton,,Elon,
+2022-11-12T18:00:00.000Z,Delaware,,Richmond,
+2022-11-12T18:00:00.000Z,New Hampshire,,Rhode Island,
+2022-11-12T18:00:00.000Z,Stony Brook,,Towson,
+2022-11-12T18:00:00.000Z,Dubuque,,Central,
+2022-11-12T18:00:00.000Z,Saginaw Valley,,Michigan Tech,
+2022-11-12T18:00:00.000Z,Northwood (MI),,Walsh,
+2022-11-12T18:00:00.000Z,Wayne State (MI),,Ferris State,
+2022-11-12T18:00:00.000Z,Simpson College,,Buena Vista,
+2022-11-12T18:00:00.000Z,St. John Fisher,,Utica,
+2022-11-12T18:00:00.000Z,Alma College,,Albion,
+2022-11-12T18:00:00.000Z,Cornell,,Dartmouth,
+2022-11-12T18:00:00.000Z,Pennsylvania,,Harvard,
+2022-11-12T18:00:00.000Z,East Tennessee State,,Western Carolina,
+2022-11-12T18:00:00.000Z,Ursinus,,Dickinson,
+2022-11-12T18:00:00.000Z,Western New England,,Endicott College,
+2022-11-12T18:00:00.000Z,Morrisville State,,Hartwick,
+2022-11-12T18:00:00.000Z,Widener,,Delaware Valley,
+2022-11-12T18:00:00.000Z,St Lawrence,,Buffalo State,
+2022-11-12T18:00:00.000Z,St. Vincent,,Bethany Co,
+2022-11-12T18:00:00.000Z,Alvernia University,,FDU-Florham,
+2022-11-12T18:00:00.000Z,Gettysburg,,Franklin & Marshall,
+2022-11-12T18:00:00.000Z,Minnesota-Morris,,Greenville,
+2022-11-12T18:00:00.000Z,Grove City College,,Thiel College,
+2022-11-12T18:00:00.000Z,Geneva College,,Westminster PA,
+2022-11-12T18:00:00.000Z,Washington & Lee,,Shenandoah,
+2022-11-12T18:00:00.000Z,Hampden-Sydney,,Randolph-Macon,
+2022-11-12T18:00:00.000Z,Whitworth,,George Fox University,
+2022-11-12T18:00:00.000Z,Salisbury,,Christopher Newport,
+2022-11-12T18:00:00.000Z,Oberlin,,Wooster,
+2022-11-12T18:00:00.000Z,Denison,,Kenyon,
+2022-11-12T18:00:00.000Z,Ithaca,,SUNY Cortland,
+2022-11-12T18:00:00.000Z,Howard,,South Carolina State,
+2022-11-12T18:00:00.000Z,Tarleton State,,Abilene Christian,
+2022-11-12T18:00:00.000Z,Carroll (WI),,Washington (MO),
+2022-11-12T18:00:00.000Z,Campbell,,Gardner-Webb,
+2022-11-12T18:00:00.000Z,St. Norbert,,Concordia (IL),
+2022-11-12T18:00:00.000Z,Knox College,,Monmouth (IL),
+2022-11-12T18:00:00.000Z,Post University,,Assumption,
+2022-11-12T18:00:00.000Z,Adrian,,Olivet College,
+2022-11-12T18:00:00.000Z,St. Vincent,,Bethany (WV),
+2022-11-12T18:00:00.000Z,Misericordia,,Lycoming,
+2022-11-12T18:00:00.000Z,Slippery Rock,,Kutztown,
+2022-11-12T18:00:00.000Z,Upper Iowa,,Sioux Falls,
+2022-11-12T18:00:00.000Z,Alfred,,Brockport State (NY),
+2022-11-12T18:00:00.000Z,Minnesota State,,Winona State,
+2022-11-12T18:00:00.000Z,Ashland,,Kentucky Wesleyan,
+2022-11-12T18:00:00.000Z,West Liberty,,Frostburg State,
+2022-11-12T18:00:00.000Z,Concordia-St. Paul,,Minot State,
+2022-11-12T18:00:00.000Z,Belhaven College,,Maryville TN,
+2022-11-12T18:00:00.000Z,Wayne State (NE),,Minnesota St-Moorhead,
+2022-11-12T18:30:00.000Z,Mount St. Joseph,,Rose-Hulman,
+2022-11-12T18:30:00.000Z,Baldwin-Wallace,,Mount Union,
+2022-11-12T18:30:00.000Z,Franklin,,Hanover,
+2022-11-12T18:30:00.000Z,Bluffton,,Defiance,
+2022-11-12T18:30:00.000Z,Capital,,Heidelberg,
+2022-11-12T18:30:00.000Z,Chattanooga,,Samford,
+2022-11-12T18:30:00.000Z,Wofford,,VMI,
+2022-11-12T18:30:00.000Z,Wingate,,UVA-Wise,
+2022-11-12T18:30:00.000Z,Anderson (IN),,Manchester,
+2022-11-12T18:30:00.000Z,Muskingum,,Marietta,
+2022-11-12T19:00:00.000Z,Anna Maria College,,Castleton State College,
+2022-11-12T19:00:00.000Z,Black Hills State,,Colorado State-Pueblo,
+2022-11-12T19:00:00.000Z,Edward Waters,,Allen,
+2022-11-12T19:00:00.000Z,Norfolk State,,North Carolina Central,
+2022-11-12T19:00:00.000Z,Northern State,,Minnesota-Duluth,
+2022-11-12T19:00:00.000Z,Western Kentucky,,Rice,
+2022-11-12T19:00:00.000Z,Sul Ross State,,Southwestern University,
+2022-11-12T19:00:00.000Z,Texas Lutheran,,Hardin-Simmons,
+2022-11-12T19:00:00.000Z,University of Mary,,Bemidji State,
+2022-11-12T19:00:00.000Z,Wheeling Jesuit,,Fairmont State,
+2022-11-12T19:00:00.000Z,Missouri Western,,Lincoln (MO),
+2022-11-12T19:00:00.000Z,Midwestern State,,Angelo State,
+2022-11-12T19:00:00.000Z,Emporia State,,Northwest Missouri State,
+2022-11-12T19:00:00.000Z,Jacksonville State,,Eastern Kentucky,
+2022-11-12T19:00:00.000Z,Barton College,,Erskine,
+2022-11-12T19:00:00.000Z,Quincy,,William Jewell College,
+2022-11-12T19:00:00.000Z,Delaware State,,Morgan State,
+2022-11-12T19:00:00.000Z,Southern Illinois,,North Dakota State,
+2022-11-12T19:00:00.000Z,Elmhurst,,Illinois Wesleyan,
+2022-11-12T19:00:00.000Z,Chicago,,Lake Forest,
+2022-11-12T19:00:00.000Z,Wisconsin-La Crosse,,Wisconsin-Platteville,
+2022-11-12T19:00:00.000Z,UW-River Falls,,UW-Stout,
+2022-11-12T19:00:00.000Z,Lakeland University,,Rockford,
+2022-11-12T19:00:00.000Z,Huntingdon,,LaGrange College,
+2022-11-12T19:00:00.000Z,Austin College,,Howard Payne,
+2022-11-12T19:00:00.000Z,Northern Colorado,,Northern Arizona,
+2022-11-12T19:00:00.000Z,Western Illinois,,Indiana State,
+2022-11-12T19:00:00.000Z,Mary Hardin-Baylor,,McMurry,
+2022-11-12T19:00:00.000Z,Indiana (PA),,Bloomsburg,
+2022-11-12T19:00:00.000Z,Drake,,Butler,
+2022-11-12T19:00:00.000Z,Carthage,,Millikin,
+2022-11-12T19:00:00.000Z,UW-Whitewater,,Wisconsin-Stevens Point,
+2022-11-12T19:00:00.000Z,Wisconsin-Eau Claire,,UW-Oshkosh,
+2022-11-12T19:00:00.000Z,Colorado Mines,,Fort Lewis,
+2022-11-12T19:00:00.000Z,South Dakota Mines,,Chadron State,
+2022-11-12T19:00:00.000Z,Southwest Minnesota State,,Augustana (SD),
+2022-11-12T19:00:00.000Z,Missouri S&T,,Southwest Baptist,
+2022-11-12T19:00:00.000Z,Indianapolis,,Truman State,
+2022-11-12T19:00:00.000Z,Rhodes,,Birmingham-Southern,
+2022-11-12T19:00:00.000Z,East Texas Baptist,,North American University,
+2022-11-12T19:00:00.000Z,The Citadel,,Virginia Lynchburg,
+2022-11-12T19:00:00.000Z,Case Western Reserve,,Carnegie Mellon,
+2022-11-12T19:00:00.000Z,Trinity (TX),,Sewanee Univ. of the South,
+2022-11-12T19:00:00.000Z,Lindenwood,,McKendree,
+2022-11-12T19:00:00.000Z,Murray State,,Robert Morris,
+2022-11-12T19:00:00.000Z,Benedictine (IL),,Wisconsin Lutheran,
+2022-11-12T19:00:00.000Z,Wheaton College (Ill),,North Park,
+2022-11-12T19:00:00.000Z,Northwestern (MN),,Martin Luther College,
+2022-11-12T19:00:00.000Z,Berry College,,Hendrix College,
+2022-11-12T19:00:00.000Z,St. Thomas (MN),,Stetson,
+2022-11-12T19:00:00.000Z,Aurora,,Concordia (WI),
+2022-11-12T19:00:00.000Z,North Central,,Augustana (IL),
+2022-11-12T20:00:00.000Z,South Dakota State,,Illinois State,
+2022-11-12T20:00:00.000Z,Montana,,Eastern Washington,
+2022-11-12T20:00:00.000Z,Pittsburg State,,Fort Hays State,
+2022-11-12T20:00:00.000Z,Alabama State,,Florida A&M,
+2022-11-12T20:00:00.000Z,Utah Tech,,Tarleton State,
+2022-11-12T20:00:00.000Z,Houston Baptist,,McNeese,
+2022-11-12T20:00:00.000Z,Southern Utah,,Lincoln University (CA),
+2022-11-12T20:00:00.000Z,Southern,,Mississippi Valley State,
+2022-11-12T20:00:00.000Z,Arkansas-Pine Bluff,,Prairie View,
+2022-11-12T20:00:00.000Z,Colorado Mesa,,New Mexico Highlands,
+2022-11-12T20:00:00.000Z,East Central,,Southeastern Oklahoma,
+2022-11-12T20:00:00.000Z,Henderson State,,Ouachita Baptist,
+2022-11-12T20:00:00.000Z,Arkansas-Monticello,,Southern Arkansas,
+2022-11-12T20:00:00.000Z,Harding,,Arkansas Tech,
+2022-11-12T20:00:00.000Z,Alcorn State,,Bethune-Cookman,
+2022-11-12T20:00:00.000Z,Mercer,,Furman,
+2022-11-12T20:00:00.000Z,Missouri State,,Youngstown State,
+2022-11-12T20:00:00.000Z,Houston Baptist,,Texas A&M-Commerce,
+2022-11-12T20:00:00.000Z,Western State,,Adams State,
+2022-11-12T20:00:00.000Z,Missouri Southern State,,Washburn,
+2022-11-12T20:00:00.000Z,Central Oklahoma,,Central Missouri State,
+2022-11-12T20:00:00.000Z,Weber State,,Idaho State,
+2022-11-12T20:00:00.000Z,Northeastern State,,Nebraska-Kearney,
+2022-11-12T20:00:00.000Z,Eastern Illinois,,Southeast Missouri State,
+2022-11-12T20:30:00.000Z,UAB,,North Texas,
+2022-11-12T20:30:00.000Z,Troy,,Army,
+2022-11-12T20:30:00.000Z,UT San Antonio,,Louisiana Tech,
+2022-11-12T20:30:00.000Z,Air Force,,New Mexico,
+2022-11-12T20:30:00.000Z,Middle Tennessee,,Charlotte,
+2022-11-12T21:00:00.000Z,UNC Pembroke,,Concord,
+2022-11-12T21:00:00.000Z,Nicholls,,Texas A&M-Commerce,
+2022-11-12T21:00:00.000Z,San Diego,,Davidson,
+2022-11-12T21:00:00.000Z,Eastern New Mexico,,Western New Mexico,
+2022-11-12T21:00:00.000Z,Southwestern Oklahoma,,Northwestern Oklahoma State,
+2022-11-12T21:00:00.000Z,Central Washington,,University of Texas of the Permian Basin,
+2022-11-12T21:00:00.000Z,La Verne,,Chapman,
+2022-11-12T21:00:00.000Z,Willamette,,Puget Sound,
+2022-11-12T21:00:00.000Z,Pacific Lutheran,,Pacific (OR),
+2022-11-12T21:00:00.000Z,Redlands,,Whittier,
+2022-11-12T21:00:00.000Z,Pomona-Pitzer,,Claremont,
+2022-11-12T21:00:00.000Z,Lewis & Clark,,Linfield,
+2022-11-12T21:00:00.000Z,New Mexico State,,Lamar,
+2022-11-12T22:00:00.000Z,South Alabama,,Texas State,
+2022-11-12T22:00:00.000Z,Stephen F. Austin,,Central Arkansas,
+2022-11-12T22:00:00.000Z,North Alabama,,Tennessee Tech,
+2022-11-12T22:00:00.000Z,Bowdoin,,Colby,
+2022-11-12T22:00:00.000Z,Tennessee State,,UT Martin,
+2022-11-13T00:00:00.000Z,Texas Southern,,Grambling,
+2022-11-13T00:00:00.000Z,Southeastern Louisiana,,Northwestern State,
+2022-11-13T00:00:00.000Z,Oklahoma Baptist,,Southern Nazarene,
+2022-11-13T00:00:00.000Z,Colorado State,,Wyoming,
+2022-11-13T00:00:00.000Z,Idaho,,UC Davis,
+2022-11-13T00:00:00.000Z,Southeastern Louisiana,,Northwestern State,
+2022-11-13T00:00:00.000Z,Florida International,,Florida Atlantic,
+2022-11-13T01:00:00.000Z,McNeese,,Nicholls,
+2022-11-13T01:00:00.000Z,Cal Poly,,Montana State,
+2022-11-13T02:00:00.000Z,Simon Fraser,,West Texas A&M,
+2022-11-13T03:30:00.000Z,Nevada,,Boise State,
+2022-11-13T04:00:00.000Z,Hawai'i,,Utah State,
+2022-11-16T00:00:00.000Z,Ball State,,Ohio,
+2022-11-16T00:00:00.000Z,Toledo,,Bowling Green,
+2022-11-16T05:00:00.000Z,Central Michigan,,Western Michigan,
+2022-11-16T05:00:00.000Z,Kent State,,Eastern Michigan,
+2022-11-16T05:00:00.000Z,Northern Illinois,,Miami (OH),
+2022-11-17T05:00:00.000Z,Nicholls,,Southeastern Louisiana,
+2022-11-18T00:00:00.000Z,Nicholls,,Southeastern Louisiana,
+2022-11-18T00:30:00.000Z,Tulane,,SMU,
+2022-11-18T05:00:00.000Z,New Mexico,,San Diego State,
+2022-11-19T02:00:00.000Z,Tulsa,,South Florida,
+2022-11-19T05:00:00.000Z,Mississippi State,,East Tennessee State,
+2022-11-19T05:00:00.000Z,Appalachian State,,Old Dominion,
+2022-11-19T05:00:00.000Z,James Madison,,Georgia State,
+2022-11-19T05:00:00.000Z,Auburn,,Western Kentucky,
+2022-11-19T05:00:00.000Z,Temple,,Cincinnati,
+2022-11-19T05:00:00.000Z,UCF,,Navy,
+2022-11-19T05:00:00.000Z,LSU,,UAB,
+2022-11-19T05:00:00.000Z,East Carolina,,Houston,
+2022-11-19T05:00:00.000Z,Southern Mississippi,,South Alabama,
+2022-11-19T05:00:00.000Z,Air Force,,Colorado State,
+2022-11-19T05:00:00.000Z,Memphis,,North Alabama,
+2022-11-19T05:00:00.000Z,Kentucky,,Georgia,
+2022-11-19T05:00:00.000Z,Harvard,,Yale,
+2022-11-19T05:00:00.000Z,Texas A&M,,UMass,
+2022-11-19T05:00:00.000Z,Arkansas,,Ole Miss,
+2022-11-19T05:00:00.000Z,Arizona State,,Oregon State,
+2022-11-19T05:00:00.000Z,Oregon,,Utah,
+2022-11-19T05:00:00.000Z,Washington,,Colorado,
+2022-11-19T05:00:00.000Z,California,,Stanford,
+2022-11-19T05:00:00.000Z,Arizona,,Washington State,
+2022-11-19T05:00:00.000Z,South Carolina,,Tennessee,
+2022-11-19T05:00:00.000Z,Vanderbilt,,Florida,
+2022-11-19T05:00:00.000Z,Missouri,,New Mexico State,
+2022-11-19T05:00:00.000Z,Virginia,,Coastal Carolina,
+2022-11-19T05:00:00.000Z,Bethune-Cookman,,Florida A&M,
+2022-11-19T05:00:00.000Z,Clemson,,Miami,
+2022-11-19T05:00:00.000Z,Wake Forest,,Syracuse,
+2022-11-19T05:00:00.000Z,Kansas,,Texas,
+2022-11-19T05:00:00.000Z,Utah State,,San José State,
+2022-11-19T05:00:00.000Z,North Carolina,,Georgia Tech,
+2022-11-19T05:00:00.000Z,Northwestern State,,McNeese,
+2022-11-19T05:00:00.000Z,Purdue,,Northwestern,
+2022-11-19T05:00:00.000Z,Iowa State,,Texas Tech,
+2022-11-19T05:00:00.000Z,Florida State,,Louisiana,
+2022-11-19T05:00:00.000Z,Minnesota,,Iowa,
+2022-11-19T05:00:00.000Z,Liberty,,Virginia Tech,
+2022-11-19T05:00:00.000Z,West Virginia,,Kansas State,
+2022-11-19T05:00:00.000Z,Oklahoma,,Oklahoma State,
+2022-11-19T05:00:00.000Z,Maryland,,Ohio State,
+2022-11-19T05:00:00.000Z,UCLA,,USC,
+2022-11-19T05:00:00.000Z,Nebraska,,Wisconsin,
+2022-11-19T05:00:00.000Z,Michigan State,,Indiana,
+2022-11-19T05:00:00.000Z,Louisville,,NC State,
+2022-11-19T05:00:00.000Z,Baylor,,TCU,
+2022-11-19T05:00:00.000Z,Pittsburgh,,Duke,
+2022-11-19T05:00:00.000Z,Rutgers,,Penn State,
+2022-11-19T05:00:00.000Z,Michigan,,Illinois,
+2022-11-19T17:00:00.000Z,Richmond,,William & Mary,
+2022-11-19T17:00:00.000Z,Army,,Connecticut,
+2022-11-19T17:00:00.000Z,Morgan State,,Howard,
+2022-11-19T17:00:00.000Z,Sacred Heart,,Long Island University,
+2022-11-19T17:00:00.000Z,Duquesne,,Wagner,
+2022-11-19T17:00:00.000Z,Robert Morris,,Bryant,
+2022-11-19T17:00:00.000Z,Youngstown State,,Southern Illinois,
+2022-11-19T17:00:00.000Z,Butler,,St. Thomas (MN),
+2022-11-19T17:00:00.000Z,Merrimack,,St Francis (PA),
+2022-11-19T17:00:00.000Z,Maine,,New Hampshire,
+2022-11-19T17:00:00.000Z,Monmouth,,Stony Brook,
+2022-11-19T17:00:00.000Z,Alabama,,Austin Peay,
+2022-11-19T17:30:00.000Z,Lafayette,,Lehigh,
+2022-11-19T17:30:00.000Z,VMI,,The Citadel,
+2022-11-19T17:30:00.000Z,Georgetown,,Holy Cross,
+2022-11-19T18:00:00.000Z,Illinois State,,Western Illinois,
+2022-11-19T18:00:00.000Z,Columbia,,Cornell,
+2022-11-19T18:00:00.000Z,Bucknell,,Marist,
+2022-11-19T18:00:00.000Z,Furman,,Wofford,
+2022-11-19T18:00:00.000Z,Sam Houston State,,Southern Utah,
+2022-11-19T18:00:00.000Z,Abilene Christian,,Stephen F. Austin,
+2022-11-19T18:00:00.000Z,Morehead State,,San Diego,
+2022-11-19T18:00:00.000Z,Stonehill,,Central Connecticut,
+2022-11-19T18:00:00.000Z,Samford,,Mercer,
+2022-11-19T18:00:00.000Z,Rice,,UT San Antonio,
+2022-11-19T18:00:00.000Z,Princeton,,Pennsylvania,
+2022-11-19T18:00:00.000Z,Villanova,,Delaware,
+2022-11-19T18:00:00.000Z,Rhode Island,,Albany,
+2022-11-19T18:00:00.000Z,Stetson,,Presbyterian College,
+2022-11-19T18:00:00.000Z,Davidson,,Dayton,
+2022-11-19T18:00:00.000Z,Western Carolina,,Chattanooga,
+2022-11-19T18:00:00.000Z,Valparaiso,,Drake,
+2022-11-19T18:00:00.000Z,Indiana State,,Missouri State,
+2022-11-19T18:00:00.000Z,Fordham,,Colgate,
+2022-11-19T18:00:00.000Z,Towson,,Hampton,
+2022-11-19T18:30:00.000Z,South Carolina State,,Norfolk State,
+2022-11-19T18:30:00.000Z,Gardner-Webb,,North Carolina A&T,
+2022-11-19T18:30:00.000Z,Dartmouth,,Brown,
+2022-11-19T19:00:00.000Z,Southeast Missouri State,,Murray State,
+2022-11-19T19:00:00.000Z,Delaware State,,Campbell,
+2022-11-19T19:00:00.000Z,Montana State,,Montana,
+2022-11-19T19:00:00.000Z,Alabama A&M,,Texas Southern,
+2022-11-19T19:00:00.000Z,Mississippi Valley State,,Prairie View,
+2022-11-19T19:00:00.000Z,South Dakota,,Northern Iowa,
+2022-11-19T19:00:00.000Z,Southern Utah,,Incarnate Word,
+2022-11-19T19:30:00.000Z,Tennessee Tech,,North Carolina Central,
+2022-11-19T19:30:00.000Z,Notre Dame,,Boston College,
+2022-11-19T20:00:00.000Z,Alcorn State,,Jackson State,
+2022-11-19T20:00:00.000Z,Texas A&M-Commerce,,Tennessee State,
+2022-11-19T20:00:00.000Z,Tarleton State,,Houston Baptist,
+2022-11-19T20:00:00.000Z,Idaho State,,Idaho,
+2022-11-19T20:00:00.000Z,Northern Arizona,,Weber State,
+2022-11-19T20:00:00.000Z,Eastern Kentucky,,Kennesaw State,
+2022-11-19T20:00:00.000Z,UT Martin,,Eastern Illinois,
+2022-11-19T20:30:00.000Z,BYU,,Utah Tech,
+2022-11-19T20:30:00.000Z,Buffalo,,Akron,
+2022-11-19T20:30:00.000Z,Troy,,Louisiana Monroe,
+2022-11-19T20:30:00.000Z,Middle Tennessee,,Florida Atlantic,
+2022-11-19T20:30:00.000Z,North Dakota State,,North Dakota,
+2022-11-19T20:30:00.000Z,Charlotte,,Louisiana Tech,
+2022-11-19T21:00:00.000Z,Eastern Washington,,Northern Colorado,
+2022-11-19T21:00:00.000Z,UTEP,,Florida International,
+2022-11-19T22:00:00.000Z,Texas State,,Arkansas State,
+2022-11-19T22:00:00.000Z,Sacramento State,,UC Davis,
+2022-11-19T22:00:00.000Z,Central Arkansas,,Jacksonville State,
+2022-11-19T23:00:00.000Z,Georgia Southern,,Marshall,
+2022-11-20T00:00:00.000Z,Wyoming,,Boise State,
+2022-11-20T01:00:00.000Z,Cal Poly,,Portland State,
+2022-11-20T01:00:00.000Z,Lamar,,Sam Houston State,
+2022-11-20T03:30:00.000Z,Nevada,,Fresno State,
+2022-11-20T04:00:00.000Z,Hawai'i,,UNLV,
+2022-11-23T00:00:00.000Z,Ohio,,Bowling Green,
+2022-11-23T00:00:00.000Z,Miami (OH),,Ball State,
+2022-11-24T20:00:00.000Z,Alabama State,,Arkansas-Pine Bluff,
+2022-11-25T00:00:00.000Z,Ole Miss,,Mississippi State,
+2022-11-25T05:00:00.000Z,South Florida,,UCF,
+2022-11-25T05:00:00.000Z,North Carolina,,NC State,
+2022-11-25T05:00:00.000Z,Texas,,Baylor,
+2022-11-25T17:00:00.000Z,Eastern Michigan,,Central Michigan,
+2022-11-25T17:00:00.000Z,Western Michigan,,Toledo,
+2022-11-25T17:00:00.000Z,Boise State,,Utah State,
+2022-11-25T20:00:00.000Z,Arizona,,Arizona State,
+2022-11-25T20:30:00.000Z,Colorado State,,New Mexico,
+2022-11-25T20:30:00.000Z,Missouri,,Arkansas,
+2022-11-25T21:00:00.000Z,Iowa,,Nebraska,
+2022-11-25T21:30:00.000Z,California,,UCLA,
+2022-11-26T00:30:00.000Z,Florida State,,Florida,
+2022-11-26T03:00:00.000Z,Fresno State,,Wyoming,
+2022-11-26T05:00:00.000Z,Houston,,Tulsa,
+2022-11-26T05:00:00.000Z,Duke,,Wake Forest,
+2022-11-26T05:00:00.000Z,Miami,,Pittsburgh,
+2022-11-26T05:00:00.000Z,USC,,Notre Dame,
+2022-11-26T05:00:00.000Z,Liberty,,New Mexico State,
+2022-11-26T05:00:00.000Z,SMU,,Memphis,
+2022-11-26T05:00:00.000Z,Northwestern,,Illinois,
+2022-11-26T05:00:00.000Z,Kentucky,,Louisville,
+2022-11-26T05:00:00.000Z,Washington State,,Washington,
+2022-11-26T05:00:00.000Z,Colorado,,Utah,
+2022-11-26T05:00:00.000Z,Vanderbilt,,Tennessee,
+2022-11-26T05:00:00.000Z,Texas Tech,,Oklahoma,
+2022-11-26T05:00:00.000Z,Temple,,East Carolina,
+2022-11-26T05:00:00.000Z,Alabama,,Auburn,
+2022-11-26T05:00:00.000Z,Georgia,,Georgia Tech,
+2022-11-26T05:00:00.000Z,Maryland,,Rutgers,
+2022-11-26T05:00:00.000Z,Clemson,,South Carolina,
+2022-11-26T05:00:00.000Z,Oregon State,,Oregon,
+2022-11-26T05:00:00.000Z,Kansas State,,Kansas,
+2022-11-26T05:00:00.000Z,TCU,,Iowa State,
+2022-11-26T05:00:00.000Z,Penn State,,Michigan State,
+2022-11-26T05:00:00.000Z,Oklahoma State,,West Virginia,
+2022-11-26T05:00:00.000Z,Indiana,,Purdue,
+2022-11-26T05:00:00.000Z,Wisconsin,,Minnesota,
+2022-11-26T05:00:00.000Z,Stanford,,BYU,
+2022-11-26T05:00:00.000Z,Cincinnati,,Tulane,
+2022-11-26T05:00:00.000Z,Virginia Tech,,Virginia,
+2022-11-26T05:00:00.000Z,Northern Illinois,,Akron,
+2022-11-26T05:00:00.000Z,Marshall,,Georgia State,
+2022-11-26T05:00:00.000Z,Arkansas State,,Troy,
+2022-11-26T05:00:00.000Z,James Madison,,Coastal Carolina,
+2022-11-26T05:00:00.000Z,Boston College,,Syracuse,
+2022-11-26T05:00:00.000Z,Texas A&M,,LSU,
+2022-11-26T05:00:00.000Z,Buffalo,,Kent State,
+2022-11-26T17:00:00.000Z,South Alabama,,Old Dominion,
+2022-11-26T17:00:00.000Z,Florida Atlantic,,Western Kentucky,
+2022-11-26T17:00:00.000Z,Ohio State,,Michigan,
+2022-11-26T17:00:00.000Z,UMass,,Army,
+2022-11-26T19:00:00.000Z,Southern,,Grambling,
+2022-11-26T19:00:00.000Z,North Texas,,Rice,
+2022-11-26T20:30:00.000Z,UT San Antonio,,UTEP,
+2022-11-26T20:30:00.000Z,Louisiana Tech,,UAB,
+2022-11-26T20:30:00.000Z,San José State,,Hawai'i,
+2022-11-26T22:00:00.000Z,Louisiana Monroe,,Southern Mississippi,
+2022-11-26T22:00:00.000Z,Texas State,,Louisiana,
+2022-11-26T23:00:00.000Z,Florida International,,Middle Tennessee,
+2022-11-26T23:00:00.000Z,Georgia Southern,,Appalachian State,
+2022-11-26T23:00:00.000Z,UNLV,,Nevada,
+2022-11-27T02:00:00.000Z,San Diego State,,Air Force,
+2022-12-10T20:00:00.000Z,Navy,,Army,
