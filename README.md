@@ -40,14 +40,20 @@ We **regularize** the entries of **X, b, Y, c** such that
 
 I rely on my own [SparseMatFac.jl](https://github.com/dpmerrell/SparseMatFac.jl) Julia package for model implementation.
 
+You can think of this as a fancier version of the classic [Elo rating](https://en.wikipedia.org/wiki/Elo_rating_system) used in chess and sports. It differs in that the model represents each team with a multi-dimensional parameter, rather than by a single parameter (the Elo rating). It also allows a team's parameter to vary over time. Lastly, the gradient-based procedure for estimating parameters shares information forward and backward in time, in order to make best use of available data. 
+
+
 ## Data
 
-The only data we need are final scores of NCAA games from recent years.
+The only data we need are final scores of games from recent years.
 
-The data in `scripts/games_19-22.tsv` were scraped from [Bart Torvik's website](https://barttorvik.com/gamestat.php).
+Future versions of the model may account for (team,game)-specific covariates: home/away status, team-level quantities, etc.
 
-It contains NCAA games from 2019 through January 2022.
+Data sources:
 
+* NCAA Basketball data were scraped from [Bart Torvik's website](https://barttorvik.com/gamestat.php).
+* NCAA Football data were downloaded from [collegefootballdata.com](https://collegefootballdata.com/exporter/games) (this is one of the better sports data websites I've seen&mdash;others should follow their example).
+* NFL Football data were scraped from [The Football Database](https://www.footballdb.com/games/index.html).
 
 ## Results
 

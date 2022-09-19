@@ -1,7 +1,7 @@
 
 import sys
 import regex
-
+import datetime
 
 def main(in_tsv, out_tsv):
 
@@ -12,6 +12,12 @@ def main(in_tsv, out_tsv):
         lines = []
         for line in in_file.readlines():
             if re.match(line) is not None:
+
+                line = line.split("\t")
+                line[0] = datetime.datetime.strptime(line[0],"%m/%d/%Y").strftime("%Y-%m-%d")
+                line = "\t".join(line)
+
+                # Change the date format
                 lines.append(line) 
 
         # Write the lines to out_tsv
