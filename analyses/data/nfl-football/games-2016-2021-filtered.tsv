@@ -8,14 +8,14 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2021-09-12	Jacksonville Jaguars	21	Houston Texans	37		Boxscore
 2021-09-12	Seattle Seahawks	28	Indianapolis Colts	16		Boxscore
 2021-09-12	Arizona Cardinals	38	Tennessee Titans	13		Boxscore
-2021-09-12	Los Angeles Chargers	20	Washington Football Team	16		Boxscore
+2021-09-12	Los Angeles Chargers	20	Washington Commanders	16		Boxscore
 2021-09-12	Cleveland Browns	29	Kansas City Chiefs	33		Boxscore
 2021-09-12	Miami Dolphins	17	New England Patriots	16		Boxscore
 2021-09-12	Green Bay Packers	3	New Orleans Saints	38		Boxscore
 2021-09-12	Denver Broncos	27	New York Giants	13		Boxscore
 2021-09-12	Chicago Bears	14	Los Angeles Rams	34		Boxscore
 2021-09-13	Baltimore Ravens	27	Las Vegas Raiders	33	OT	Boxscore
-2021-09-16	New York Giants	29	Washington Football Team	30		Boxscore
+2021-09-16	New York Giants	29	Washington Commanders	30		Boxscore
 2021-09-19	New Orleans Saints	7	Carolina Panthers	26		Boxscore
 2021-09-19	Cincinnati Bengals	17	Chicago Bears	20		Boxscore
 2021-09-19	Houston Texans	21	Cleveland Browns	31		Boxscore
@@ -32,7 +32,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2021-09-19	Kansas City Chiefs	35	Baltimore Ravens	36		Boxscore
 2021-09-20	Detroit Lions	17	Green Bay Packers	35		Boxscore
 2021-09-23	Carolina Panthers	24	Houston Texans	9		Boxscore
-2021-09-26	Washington Football Team	21	Buffalo Bills	43		Boxscore
+2021-09-26	Washington Commanders	21	Buffalo Bills	43		Boxscore
 2021-09-26	Chicago Bears	6	Cleveland Browns	26		Boxscore
 2021-09-26	Baltimore Ravens	19	Detroit Lions	17		Boxscore
 2021-09-26	Arizona Cardinals	31	Jacksonville Jaguars	19		Boxscore
@@ -48,7 +48,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2021-09-26	Green Bay Packers	30	San Francisco 49ers	28		Boxscore
 2021-09-27	Philadelphia Eagles	21	Dallas Cowboys	41		Boxscore
 2021-09-30	Jacksonville Jaguars	21	Cincinnati Bengals	24		Boxscore
-2021-10-03	Washington Football Team	34	Atlanta Falcons	30		Boxscore
+2021-10-03	Washington Commanders	34	Atlanta Falcons	30		Boxscore
 2021-10-03	Houston Texans	0	Buffalo Bills	40		Boxscore
 2021-10-03	Detroit Lions	14	Chicago Bears	24		Boxscore
 2021-10-03	Carolina Panthers	28	Dallas Cowboys	36		Boxscore
@@ -72,7 +72,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2021-10-10	Detroit Lions	17	Minnesota Vikings	19		Boxscore
 2021-10-10	Denver Broncos	19	Pittsburgh Steelers	27		Boxscore
 2021-10-10	Miami Dolphins	17	Tampa Bay Buccaneers	45		Boxscore
-2021-10-10	New Orleans Saints	33	Washington Football Team	22		Boxscore
+2021-10-10	New Orleans Saints	33	Washington Commanders	22		Boxscore
 2021-10-10	Chicago Bears	20	Las Vegas Raiders	9		Boxscore
 2021-10-10	Cleveland Browns	42	Los Angeles Chargers	47		Boxscore
 2021-10-10	San Francisco 49ers	10	Arizona Cardinals	17		Boxscore
@@ -87,7 +87,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2021-10-17	Cincinnati Bengals	34	Detroit Lions	11		Boxscore
 2021-10-17	Houston Texans	3	Indianapolis Colts	31		Boxscore
 2021-10-17	Los Angeles Rams	38	New York Giants	11		Boxscore
-2021-10-17	Kansas City Chiefs	31	Washington Football Team	13		Boxscore
+2021-10-17	Kansas City Chiefs	31	Washington Commanders	13		Boxscore
 2021-10-17	Arizona Cardinals	37	Cleveland Browns	14		Boxscore
 2021-10-17	Las Vegas Raiders	34	Denver Broncos	24		Boxscore
 2021-10-17	Dallas Cowboys	35	New England Patriots	29	OT	Boxscore
@@ -95,7 +95,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2021-10-18	Buffalo Bills	31	Tennessee Titans	34		Boxscore
 2021-10-21	Denver Broncos	14	Cleveland Browns	17		Boxscore
 2021-10-24	Cincinnati Bengals	41	Baltimore Ravens	17		Boxscore
-2021-10-24	Washington Football Team	10	Green Bay Packers	24		Boxscore
+2021-10-24	Washington Commanders	10	Green Bay Packers	24		Boxscore
 2021-10-24	Atlanta Falcons	30	Miami Dolphins	28		Boxscore
 2021-10-24	New York Jets	13	New England Patriots	54		Boxscore
 2021-10-24	Carolina Panthers	3	New York Giants	25		Boxscore
@@ -117,7 +117,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2021-10-31	Cincinnati Bengals	31	New York Jets	34		Boxscore
 2021-10-31	New England Patriots	27	Los Angeles Chargers	24		Boxscore
 2021-10-31	Jacksonville Jaguars	7	Seattle Seahawks	31		Boxscore
-2021-10-31	Washington Football Team	10	Denver Broncos	17		Boxscore
+2021-10-31	Washington Commanders	10	Denver Broncos	17		Boxscore
 2021-10-31	Tampa Bay Buccaneers	27	New Orleans Saints	36		Boxscore
 2021-10-31	Dallas Cowboys	20	Minnesota Vikings	16		Boxscore
 2021-11-01	New York Giants	17	Kansas City Chiefs	20		Boxscore
@@ -142,7 +142,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2021-11-14	Buffalo Bills	45	New York Jets	17		Boxscore
 2021-11-14	Detroit Lions	16	Pittsburgh Steelers	16	OT	Boxscore
 2021-11-14	New Orleans Saints	21	Tennessee Titans	23		Boxscore
-2021-11-14	Tampa Bay Buccaneers	19	Washington Football Team	29		Boxscore
+2021-11-14	Tampa Bay Buccaneers	19	Washington Commanders	29		Boxscore
 2021-11-14	Carolina Panthers	34	Arizona Cardinals	10		Boxscore
 2021-11-14	Minnesota Vikings	27	Los Angeles Chargers	20		Boxscore
 2021-11-14	Philadelphia Eagles	30	Denver Broncos	13		Boxscore
@@ -151,7 +151,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2021-11-15	Los Angeles Rams	10	San Francisco 49ers	31		Boxscore
 2021-11-18	New England Patriots	25	Atlanta Falcons	0		Boxscore
 2021-11-21	Indianapolis Colts	41	Buffalo Bills	15		Boxscore
-2021-11-21	Washington Football Team	27	Carolina Panthers	21		Boxscore
+2021-11-21	Washington Commanders	27	Carolina Panthers	21		Boxscore
 2021-11-21	Baltimore Ravens	16	Chicago Bears	13		Boxscore
 2021-11-21	Detroit Lions	10	Cleveland Browns	13		Boxscore
 2021-11-21	San Francisco 49ers	30	Jacksonville Jaguars	10		Boxscore
@@ -178,7 +178,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2021-11-28	Los Angeles Rams	28	Green Bay Packers	36		Boxscore
 2021-11-28	Minnesota Vikings	26	San Francisco 49ers	34		Boxscore
 2021-11-28	Cleveland Browns	10	Baltimore Ravens	16		Boxscore
-2021-11-29	Seattle Seahawks	15	Washington Football Team	17		Boxscore
+2021-11-29	Seattle Seahawks	15	Washington Commanders	17		Boxscore
 2021-12-02	Dallas Cowboys	27	New Orleans Saints	17		Boxscore
 2021-12-05	Tampa Bay Buccaneers	30	Atlanta Falcons	17		Boxscore
 2021-12-05	Arizona Cardinals	33	Chicago Bears	22		Boxscore
@@ -187,7 +187,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2021-12-05	Indianapolis Colts	31	Houston Texans	0		Boxscore
 2021-12-05	New York Giants	9	Miami Dolphins	20		Boxscore
 2021-12-05	Philadelphia Eagles	33	New York Jets	18		Boxscore
-2021-12-05	Washington Football Team	17	Las Vegas Raiders	15		Boxscore
+2021-12-05	Washington Commanders	17	Las Vegas Raiders	15		Boxscore
 2021-12-05	Jacksonville Jaguars	7	Los Angeles Rams	37		Boxscore
 2021-12-05	Baltimore Ravens	19	Pittsburgh Steelers	20		Boxscore
 2021-12-05	San Francisco 49ers	23	Seattle Seahawks	30		Boxscore
@@ -200,7 +200,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2021-12-12	Las Vegas Raiders	9	Kansas City Chiefs	48		Boxscore
 2021-12-12	New Orleans Saints	30	New York Jets	9		Boxscore
 2021-12-12	Jacksonville Jaguars	0	Tennessee Titans	20		Boxscore
-2021-12-12	Dallas Cowboys	27	Washington Football Team	20		Boxscore
+2021-12-12	Dallas Cowboys	27	Washington Commanders	20		Boxscore
 2021-12-12	Detroit Lions	10	Denver Broncos	38		Boxscore
 2021-12-12	New York Giants	21	Los Angeles Chargers	37		Boxscore
 2021-12-12	San Francisco 49ers	26	Cincinnati Bengals	23	OT	Boxscore
@@ -221,7 +221,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2021-12-19	New Orleans Saints	9	Tampa Bay Buccaneers	0		Boxscore
 2021-12-20	Las Vegas Raiders	16	Cleveland Browns	14		Boxscore
 2021-12-20	Minnesota Vikings	17	Chicago Bears	9		Boxscore
-2021-12-21	Washington Football Team	17	Philadelphia Eagles	27		Boxscore
+2021-12-21	Washington Commanders	17	Philadelphia Eagles	27		Boxscore
 2021-12-21	Seattle Seahawks	10	Los Angeles Rams	20		Boxscore
 2021-12-23	San Francisco 49ers	17	Tennessee Titans	20		Boxscore
 2021-12-25	Cleveland Browns	22	Green Bay Packers	24		Boxscore
@@ -237,7 +237,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2021-12-26	Chicago Bears	25	Seattle Seahawks	24		Boxscore
 2021-12-26	Pittsburgh Steelers	10	Kansas City Chiefs	36		Boxscore
 2021-12-26	Denver Broncos	13	Las Vegas Raiders	17		Boxscore
-2021-12-26	Washington Football Team	14	Dallas Cowboys	56		Boxscore
+2021-12-26	Washington Commanders	14	Dallas Cowboys	56		Boxscore
 2021-12-27	Miami Dolphins	20	New Orleans Saints	3		Boxscore
 2022-01-02	Atlanta Falcons	15	Buffalo Bills	29		Boxscore
 2022-01-02	New York Giants	3	Chicago Bears	29		Boxscore
@@ -246,7 +246,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2022-01-02	Jacksonville Jaguars	10	New England Patriots	50		Boxscore
 2022-01-02	Tampa Bay Buccaneers	28	New York Jets	24		Boxscore
 2022-01-02	Miami Dolphins	3	Tennessee Titans	34		Boxscore
-2022-01-02	Philadelphia Eagles	20	Washington Football Team	16		Boxscore
+2022-01-02	Philadelphia Eagles	20	Washington Commanders	16		Boxscore
 2022-01-02	Los Angeles Rams	20	Baltimore Ravens	19		Boxscore
 2022-01-02	Denver Broncos	13	Los Angeles Chargers	34		Boxscore
 2022-01-02	Houston Texans	7	San Francisco 49ers	23		Boxscore
@@ -263,7 +263,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2022-01-09	Tennessee Titans	28	Houston Texans	25		Boxscore
 2022-01-09	Indianapolis Colts	11	Jacksonville Jaguars	26		Boxscore
 2022-01-09	Chicago Bears	17	Minnesota Vikings	31		Boxscore
-2022-01-09	Washington Football Team	22	New York Giants	7		Boxscore
+2022-01-09	Washington Commanders	22	New York Giants	7		Boxscore
 2022-01-09	New Orleans Saints	30	Atlanta Falcons	20		Boxscore
 2022-01-09	New York Jets	10	Buffalo Bills	27		Boxscore
 2022-01-09	New England Patriots	24	Miami Dolphins	33		Boxscore
@@ -293,7 +293,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2020-09-13	Indianapolis Colts	20	Jacksonville Jaguars	27		Boxscore
 2020-09-13	Green Bay Packers	43	Minnesota Vikings	34		Boxscore
 2020-09-13	Miami Dolphins	11	New England Patriots	21		Boxscore
-2020-09-13	Philadelphia Eagles	17	Washington Football Team	27		Boxscore
+2020-09-13	Philadelphia Eagles	17	Washington Commanders	27		Boxscore
 2020-09-13	Los Angeles Chargers	16	Cincinnati Bengals	13		Boxscore
 2020-09-13	Tampa Bay Buccaneers	23	New Orleans Saints	34		Boxscore
 2020-09-13	Arizona Cardinals	24	San Francisco 49ers	20		Boxscore
@@ -311,7 +311,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2020-09-20	Denver Broncos	21	Pittsburgh Steelers	26		Boxscore
 2020-09-20	Carolina Panthers	17	Tampa Bay Buccaneers	31		Boxscore
 2020-09-20	Jacksonville Jaguars	30	Tennessee Titans	33		Boxscore
-2020-09-20	Washington Football Team	15	Arizona Cardinals	30		Boxscore
+2020-09-20	Washington Commanders	15	Arizona Cardinals	30		Boxscore
 2020-09-20	Baltimore Ravens	33	Houston Texans	16		Boxscore
 2020-09-20	Kansas City Chiefs	23	Los Angeles Chargers	20	OT	Boxscore
 2020-09-20	New England Patriots	30	Seattle Seahawks	35		Boxscore
@@ -319,7 +319,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2020-09-24	Miami Dolphins	31	Jacksonville Jaguars	13		Boxscore
 2020-09-27	Chicago Bears	30	Atlanta Falcons	26		Boxscore
 2020-09-27	Los Angeles Rams	32	Buffalo Bills	35		Boxscore
-2020-09-27	Washington Football Team	20	Cleveland Browns	34		Boxscore
+2020-09-27	Washington Commanders	20	Cleveland Browns	34		Boxscore
 2020-09-27	Tennessee Titans	31	Minnesota Vikings	30		Boxscore
 2020-09-27	Las Vegas Raiders	20	New England Patriots	36		Boxscore
 2020-09-27	San Francisco 49ers	36	New York Giants	9		Boxscore
@@ -340,7 +340,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2020-10-04	Minnesota Vikings	31	Houston Texans	23		Boxscore
 2020-10-04	Seattle Seahawks	31	Miami Dolphins	23		Boxscore
 2020-10-04	Los Angeles Chargers	31	Tampa Bay Buccaneers	38		Boxscore
-2020-10-04	Baltimore Ravens	31	Washington Football Team	17		Boxscore
+2020-10-04	Baltimore Ravens	31	Washington Commanders	17		Boxscore
 2020-10-04	New York Giants	9	Los Angeles Rams	17		Boxscore
 2020-10-04	Indianapolis Colts	19	Chicago Bears	11		Boxscore
 2020-10-04	Buffalo Bills	30	Las Vegas Raiders	23		Boxscore
@@ -354,7 +354,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2020-10-11	Las Vegas Raiders	40	Kansas City Chiefs	32		Boxscore
 2020-10-11	Arizona Cardinals	30	New York Jets	10		Boxscore
 2020-10-11	Philadelphia Eagles	29	Pittsburgh Steelers	38		Boxscore
-2020-10-11	Los Angeles Rams	30	Washington Football Team	10		Boxscore
+2020-10-11	Los Angeles Rams	30	Washington Commanders	10		Boxscore
 2020-10-11	Miami Dolphins	43	San Francisco 49ers	17		Boxscore
 2020-10-11	Indianapolis Colts	23	Cleveland Browns	32		Boxscore
 2020-10-11	New York Giants	34	Dallas Cowboys	37		Boxscore
@@ -366,7 +366,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2020-10-18	Cincinnati Bengals	27	Indianapolis Colts	31		Boxscore
 2020-10-18	Detroit Lions	34	Jacksonville Jaguars	16		Boxscore
 2020-10-18	Atlanta Falcons	40	Minnesota Vikings	23		Boxscore
-2020-10-18	Washington Football Team	19	New York Giants	20		Boxscore
+2020-10-18	Washington Commanders	19	New York Giants	20		Boxscore
 2020-10-18	Baltimore Ravens	30	Philadelphia Eagles	28		Boxscore
 2020-10-18	Cleveland Browns	7	Pittsburgh Steelers	38		Boxscore
 2020-10-18	Houston Texans	36	Tennessee Titans	42	OT	Boxscore
@@ -382,7 +382,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2020-10-25	Green Bay Packers	35	Houston Texans	20		Boxscore
 2020-10-25	Carolina Panthers	24	New Orleans Saints	27		Boxscore
 2020-10-25	Buffalo Bills	18	New York Jets	10		Boxscore
-2020-10-25	Dallas Cowboys	3	Washington Football Team	25		Boxscore
+2020-10-25	Dallas Cowboys	3	Washington Commanders	25		Boxscore
 2020-10-25	Tampa Bay Buccaneers	45	Las Vegas Raiders	20		Boxscore
 2020-10-25	Kansas City Chiefs	43	Denver Broncos	16		Boxscore
 2020-10-25	San Francisco 49ers	33	New England Patriots	6		Boxscore
@@ -411,7 +411,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2020-11-08	Carolina Panthers	31	Kansas City Chiefs	33		Boxscore
 2020-11-08	Detroit Lions	20	Minnesota Vikings	34		Boxscore
 2020-11-08	Chicago Bears	17	Tennessee Titans	24		Boxscore
-2020-11-08	New York Giants	23	Washington Football Team	20		Boxscore
+2020-11-08	New York Giants	23	Washington Commanders	20		Boxscore
 2020-11-08	Las Vegas Raiders	31	Los Angeles Chargers	26		Boxscore
 2020-11-08	Miami Dolphins	34	Arizona Cardinals	31		Boxscore
 2020-11-08	Pittsburgh Steelers	24	Dallas Cowboys	19		Boxscore
@@ -420,7 +420,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2020-11-12	Indianapolis Colts	34	Tennessee Titans	17		Boxscore
 2020-11-15	Tampa Bay Buccaneers	46	Carolina Panthers	23		Boxscore
 2020-11-15	Houston Texans	7	Cleveland Browns	10		Boxscore
-2020-11-15	Washington Football Team	27	Detroit Lions	30		Boxscore
+2020-11-15	Washington Commanders	27	Detroit Lions	30		Boxscore
 2020-11-15	Jacksonville Jaguars	20	Green Bay Packers	24		Boxscore
 2020-11-15	Philadelphia Eagles	17	New York Giants	27		Boxscore
 2020-11-15	Los Angeles Chargers	21	Miami Dolphins	29		Boxscore
@@ -438,7 +438,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2020-11-22	New England Patriots	20	Houston Texans	27		Boxscore
 2020-11-22	Pittsburgh Steelers	27	Jacksonville Jaguars	3		Boxscore
 2020-11-22	Atlanta Falcons	9	New Orleans Saints	24		Boxscore
-2020-11-22	Cincinnati Bengals	9	Washington Football Team	20		Boxscore
+2020-11-22	Cincinnati Bengals	9	Washington Commanders	20		Boxscore
 2020-11-22	Miami Dolphins	13	Denver Broncos	20		Boxscore
 2020-11-22	New York Jets	28	Los Angeles Chargers	34		Boxscore
 2020-11-22	Green Bay Packers	31	Indianapolis Colts	34	OT	Boxscore
@@ -446,7 +446,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2020-11-22	Kansas City Chiefs	35	Las Vegas Raiders	31		Boxscore
 2020-11-23	Los Angeles Rams	27	Tampa Bay Buccaneers	24		Boxscore
 2020-11-26	Houston Texans	41	Detroit Lions	25		Boxscore
-2020-11-26	Washington Football Team	41	Dallas Cowboys	16		Boxscore
+2020-11-26	Washington Commanders	41	Dallas Cowboys	16		Boxscore
 2020-11-29	Las Vegas Raiders	6	Atlanta Falcons	43		Boxscore
 2020-11-29	Los Angeles Chargers	17	Buffalo Bills	27		Boxscore
 2020-11-29	New York Giants	19	Cincinnati Bengals	17		Boxscore
@@ -473,7 +473,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2020-12-06	Philadelphia Eagles	16	Green Bay Packers	30		Boxscore
 2020-12-06	New England Patriots	45	Los Angeles Chargers	0		Boxscore
 2020-12-06	Denver Broncos	16	Kansas City Chiefs	22		Boxscore
-2020-12-07	Washington Football Team	23	Pittsburgh Steelers	17		Boxscore
+2020-12-07	Washington Commanders	23	Pittsburgh Steelers	17		Boxscore
 2020-12-07	Buffalo Bills	34	San Francisco 49ers	24		Boxscore
 2020-12-08	Dallas Cowboys	17	Baltimore Ravens	34		Boxscore
 2020-12-10	New England Patriots	3	Los Angeles Rams	24		Boxscore
@@ -489,7 +489,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2020-12-13	Green Bay Packers	31	Detroit Lions	24		Boxscore
 2020-12-13	Atlanta Falcons	17	Los Angeles Chargers	20		Boxscore
 2020-12-13	New Orleans Saints	21	Philadelphia Eagles	24		Boxscore
-2020-12-13	Washington Football Team	23	San Francisco 49ers	15		Boxscore
+2020-12-13	Washington Commanders	23	San Francisco 49ers	15		Boxscore
 2020-12-13	Pittsburgh Steelers	15	Buffalo Bills	26		Boxscore
 2020-12-14	Baltimore Ravens	47	Cleveland Browns	42		Boxscore
 2020-12-17	Los Angeles Chargers	30	Las Vegas Raiders	27	OT	Boxscore
@@ -501,7 +501,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2020-12-20	New England Patriots	12	Miami Dolphins	22		Boxscore
 2020-12-20	Chicago Bears	33	Minnesota Vikings	27		Boxscore
 2020-12-20	Detroit Lions	25	Tennessee Titans	46		Boxscore
-2020-12-20	Seattle Seahawks	20	Washington Football Team	15		Boxscore
+2020-12-20	Seattle Seahawks	20	Washington Commanders	15		Boxscore
 2020-12-20	San Francisco 49ers	33	Dallas Cowboys	41		Boxscore
 2020-12-20	Philadelphia Eagles	26	Arizona Cardinals	33		Boxscore
 2020-12-20	New York Jets	23	Los Angeles Rams	20		Boxscore
@@ -518,7 +518,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2020-12-27	Atlanta Falcons	14	Kansas City Chiefs	17		Boxscore
 2020-12-27	Cleveland Browns	16	New York Jets	23		Boxscore
 2020-12-27	Indianapolis Colts	24	Pittsburgh Steelers	28		Boxscore
-2020-12-27	Carolina Panthers	20	Washington Football Team	13		Boxscore
+2020-12-27	Carolina Panthers	20	Washington Commanders	13		Boxscore
 2020-12-27	Denver Broncos	16	Los Angeles Chargers	19		Boxscore
 2020-12-27	Los Angeles Rams	9	Seattle Seahawks	20		Boxscore
 2020-12-27	Philadelphia Eagles	17	Dallas Cowboys	37		Boxscore
@@ -539,10 +539,10 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2021-01-03	Las Vegas Raiders	32	Denver Broncos	31		Boxscore
 2021-01-03	Arizona Cardinals	7	Los Angeles Rams	18		Boxscore
 2021-01-03	Seattle Seahawks	26	San Francisco 49ers	23		Boxscore
-2021-01-03	Washington Football Team	20	Philadelphia Eagles	14		Boxscore
+2021-01-03	Washington Commanders	20	Philadelphia Eagles	14		Boxscore
 2021-01-09	Indianapolis Colts	24	Buffalo Bills	27		Boxscore
 2021-01-09	Los Angeles Rams	30	Seattle Seahawks	20		Boxscore
-2021-01-09	Tampa Bay Buccaneers	31	Washington Football Team	23		Boxscore
+2021-01-09	Tampa Bay Buccaneers	31	Washington Commanders	23		Boxscore
 2021-01-10	Baltimore Ravens	20	Tennessee Titans	13		Boxscore
 2021-01-10	Chicago Bears	9	New Orleans Saints	21		Boxscore
 2021-01-10	Cleveland Browns	48	Pittsburgh Steelers	37		Boxscore
@@ -560,7 +560,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-09-08	Baltimore Ravens	59	Miami Dolphins	10		Boxscore
 2019-09-08	Atlanta Falcons	12	Minnesota Vikings	28		Boxscore
 2019-09-08	Buffalo Bills	17	New York Jets	16		Boxscore
-2019-09-08	Washington Redskins	27	Philadelphia Eagles	32		Boxscore
+2019-09-08	Washington Commanders	27	Philadelphia Eagles	32		Boxscore
 2019-09-08	Indianapolis Colts	24	Los Angeles Chargers	30	OT	Boxscore
 2019-09-08	Cincinnati Bengals	20	Seattle Seahawks	21		Boxscore
 2019-09-08	Detroit Lions	27	Arizona Cardinals	27	OT	Boxscore
@@ -568,7 +568,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-09-08	San Francisco 49ers	31	Tampa Bay Buccaneers	17		Boxscore
 2019-09-08	Pittsburgh Steelers	3	New England Patriots	33		Boxscore
 2019-09-09	Houston Texans	28	New Orleans Saints	30		Boxscore
-2019-09-09	Denver Broncos	16	Oakland Raiders	24		Boxscore
+2019-09-09	Denver Broncos	16	Las Vegas Raiders	24		Boxscore
 2019-09-12	Tampa Bay Buccaneers	20	Carolina Panthers	14		Boxscore
 2019-09-15	Arizona Cardinals	17	Baltimore Ravens	23		Boxscore
 2019-09-15	San Francisco 49ers	41	Cincinnati Bengals	17		Boxscore
@@ -579,8 +579,8 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-09-15	Buffalo Bills	28	New York Giants	14		Boxscore
 2019-09-15	Seattle Seahawks	28	Pittsburgh Steelers	26		Boxscore
 2019-09-15	Indianapolis Colts	19	Tennessee Titans	17		Boxscore
-2019-09-15	Dallas Cowboys	31	Washington Redskins	21		Boxscore
-2019-09-15	Kansas City Chiefs	28	Oakland Raiders	10		Boxscore
+2019-09-15	Dallas Cowboys	31	Washington Commanders	21		Boxscore
+2019-09-15	Kansas City Chiefs	28	Las Vegas Raiders	10		Boxscore
 2019-09-15	Chicago Bears	16	Denver Broncos	14		Boxscore
 2019-09-15	New Orleans Saints	9	Los Angeles Rams	27		Boxscore
 2019-09-15	Philadelphia Eagles	20	Atlanta Falcons	24		Boxscore
@@ -591,7 +591,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-09-22	Denver Broncos	16	Green Bay Packers	27		Boxscore
 2019-09-22	Atlanta Falcons	24	Indianapolis Colts	27		Boxscore
 2019-09-22	Baltimore Ravens	28	Kansas City Chiefs	33		Boxscore
-2019-09-22	Oakland Raiders	14	Minnesota Vikings	34		Boxscore
+2019-09-22	Las Vegas Raiders	14	Minnesota Vikings	34		Boxscore
 2019-09-22	New York Jets	14	New England Patriots	30		Boxscore
 2019-09-22	Detroit Lions	27	Philadelphia Eagles	24		Boxscore
 2019-09-22	Carolina Panthers	38	Arizona Cardinals	20		Boxscore
@@ -600,16 +600,16 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-09-22	Pittsburgh Steelers	20	San Francisco 49ers	24		Boxscore
 2019-09-22	New Orleans Saints	33	Seattle Seahawks	27		Boxscore
 2019-09-22	Los Angeles Rams	20	Cleveland Browns	13		Boxscore
-2019-09-23	Chicago Bears	31	Washington Redskins	15		Boxscore
+2019-09-23	Chicago Bears	31	Washington Commanders	15		Boxscore
 2019-09-26	Philadelphia Eagles	34	Green Bay Packers	27		Boxscore
 2019-09-29	Tennessee Titans	24	Atlanta Falcons	10		Boxscore
 2019-09-29	Cleveland Browns	40	Baltimore Ravens	25		Boxscore
 2019-09-29	New England Patriots	16	Buffalo Bills	10		Boxscore
 2019-09-29	Kansas City Chiefs	34	Detroit Lions	30		Boxscore
 2019-09-29	Carolina Panthers	16	Houston Texans	10		Boxscore
-2019-09-29	Oakland Raiders	31	Indianapolis Colts	24		Boxscore
+2019-09-29	Las Vegas Raiders	31	Indianapolis Colts	24		Boxscore
 2019-09-29	Los Angeles Chargers	30	Miami Dolphins	10		Boxscore
-2019-09-29	Washington Redskins	3	New York Giants	24		Boxscore
+2019-09-29	Washington Commanders	3	New York Giants	24		Boxscore
 2019-09-29	Seattle Seahawks	27	Arizona Cardinals	10		Boxscore
 2019-09-29	Tampa Bay Buccaneers	55	Los Angeles Rams	40		Boxscore
 2019-09-29	Minnesota Vikings	6	Chicago Bears	16		Boxscore
@@ -625,8 +625,8 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-10-06	New York Jets	6	Philadelphia Eagles	31		Boxscore
 2019-10-06	Baltimore Ravens	26	Pittsburgh Steelers	23	OT	Boxscore
 2019-10-06	Buffalo Bills	14	Tennessee Titans	7		Boxscore
-2019-10-06	New England Patriots	33	Washington Redskins	7		Boxscore
-2019-10-06	Chicago Bears	21	Oakland Raiders	24		Boxscore
+2019-10-06	New England Patriots	33	Washington Commanders	7		Boxscore
+2019-10-06	Chicago Bears	21	Las Vegas Raiders	24		Boxscore
 2019-10-06	Denver Broncos	20	Los Angeles Chargers	13		Boxscore
 2019-10-06	Green Bay Packers	34	Dallas Cowboys	24		Boxscore
 2019-10-06	Indianapolis Colts	19	Kansas City Chiefs	13		Boxscore
@@ -637,7 +637,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-10-13	Seattle Seahawks	32	Cleveland Browns	28		Boxscore
 2019-10-13	New Orleans Saints	13	Jacksonville Jaguars	6		Boxscore
 2019-10-13	Houston Texans	31	Kansas City Chiefs	24		Boxscore
-2019-10-13	Washington Redskins	17	Miami Dolphins	16		Boxscore
+2019-10-13	Washington Commanders	17	Miami Dolphins	16		Boxscore
 2019-10-13	Philadelphia Eagles	20	Minnesota Vikings	38		Boxscore
 2019-10-13	Atlanta Falcons	33	Arizona Cardinals	34		Boxscore
 2019-10-13	San Francisco 49ers	20	Los Angeles Rams	7		Boxscore
@@ -650,16 +650,16 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-10-20	Miami Dolphins	21	Buffalo Bills	31		Boxscore
 2019-10-20	Jacksonville Jaguars	27	Cincinnati Bengals	17		Boxscore
 2019-10-20	Minnesota Vikings	42	Detroit Lions	30		Boxscore
-2019-10-20	Oakland Raiders	24	Green Bay Packers	42		Boxscore
+2019-10-20	Las Vegas Raiders	24	Green Bay Packers	42		Boxscore
 2019-10-20	Houston Texans	23	Indianapolis Colts	30		Boxscore
 2019-10-20	Arizona Cardinals	27	New York Giants	21		Boxscore
-2019-10-20	San Francisco 49ers	9	Washington Redskins	0		Boxscore
+2019-10-20	San Francisco 49ers	9	Washington Commanders	0		Boxscore
 2019-10-20	Los Angeles Chargers	20	Tennessee Titans	23		Boxscore
 2019-10-20	New Orleans Saints	36	Chicago Bears	25		Boxscore
 2019-10-20	Baltimore Ravens	30	Seattle Seahawks	16		Boxscore
 2019-10-20	Philadelphia Eagles	10	Dallas Cowboys	37		Boxscore
 2019-10-21	New England Patriots	33	New York Jets	0		Boxscore
-2019-10-24	Washington Redskins	9	Minnesota Vikings	19		Boxscore
+2019-10-24	Washington Commanders	9	Minnesota Vikings	19		Boxscore
 2019-10-27	Seattle Seahawks	27	Atlanta Falcons	20		Boxscore
 2019-10-27	Philadelphia Eagles	31	Buffalo Bills	13		Boxscore
 2019-10-27	Los Angeles Chargers	17	Chicago Bears	16		Boxscore
@@ -670,25 +670,25 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-10-27	Denver Broncos	13	Indianapolis Colts	15		Boxscore
 2019-10-27	Cincinnati Bengals	10	Los Angeles Rams	24		Boxscore
 2019-10-27	Carolina Panthers	13	San Francisco 49ers	51		Boxscore
-2019-10-27	Oakland Raiders	24	Houston Texans	27		Boxscore
+2019-10-27	Las Vegas Raiders	24	Houston Texans	27		Boxscore
 2019-10-27	Cleveland Browns	13	New England Patriots	27		Boxscore
 2019-10-27	Green Bay Packers	31	Kansas City Chiefs	24		Boxscore
 2019-10-28	Miami Dolphins	14	Pittsburgh Steelers	27		Boxscore
 2019-10-31	San Francisco 49ers	28	Arizona Cardinals	25		Boxscore
 2019-11-03	Houston Texans	26	Jacksonville Jaguars	3		Boxscore
-2019-11-03	Washington Redskins	9	Buffalo Bills	24		Boxscore
+2019-11-03	Washington Commanders	9	Buffalo Bills	24		Boxscore
 2019-11-03	Tennessee Titans	20	Carolina Panthers	30		Boxscore
 2019-11-03	Minnesota Vikings	23	Kansas City Chiefs	26		Boxscore
 2019-11-03	New York Jets	18	Miami Dolphins	26		Boxscore
 2019-11-03	Chicago Bears	14	Philadelphia Eagles	22		Boxscore
 2019-11-03	Indianapolis Colts	24	Pittsburgh Steelers	26		Boxscore
-2019-11-03	Detroit Lions	24	Oakland Raiders	31		Boxscore
+2019-11-03	Detroit Lions	24	Las Vegas Raiders	31		Boxscore
 2019-11-03	Tampa Bay Buccaneers	34	Seattle Seahawks	40	OT	Boxscore
 2019-11-03	Cleveland Browns	19	Denver Broncos	24		Boxscore
 2019-11-03	Green Bay Packers	11	Los Angeles Chargers	26		Boxscore
 2019-11-03	New England Patriots	20	Baltimore Ravens	37		Boxscore
 2019-11-04	Dallas Cowboys	37	New York Giants	18		Boxscore
-2019-11-07	Los Angeles Chargers	24	Oakland Raiders	26		Boxscore
+2019-11-07	Los Angeles Chargers	24	Las Vegas Raiders	26		Boxscore
 2019-11-10	Detroit Lions	13	Chicago Bears	20		Boxscore
 2019-11-10	Baltimore Ravens	49	Cincinnati Bengals	13		Boxscore
 2019-11-10	Buffalo Bills	16	Cleveland Browns	19		Boxscore
@@ -709,9 +709,9 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-11-17	Buffalo Bills	37	Miami Dolphins	20		Boxscore
 2019-11-17	Denver Broncos	23	Minnesota Vikings	27		Boxscore
 2019-11-17	New Orleans Saints	34	Tampa Bay Buccaneers	17		Boxscore
-2019-11-17	New York Jets	34	Washington Redskins	17		Boxscore
+2019-11-17	New York Jets	34	Washington Commanders	17		Boxscore
 2019-11-17	Arizona Cardinals	26	San Francisco 49ers	36		Boxscore
-2019-11-17	Cincinnati Bengals	10	Oakland Raiders	17		Boxscore
+2019-11-17	Cincinnati Bengals	10	Las Vegas Raiders	17		Boxscore
 2019-11-17	New England Patriots	17	Philadelphia Eagles	10		Boxscore
 2019-11-17	Chicago Bears	7	Los Angeles Rams	17		Boxscore
 2019-11-18	Kansas City Chiefs	24	Los Angeles Chargers	17		Boxscore
@@ -722,8 +722,8 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-11-24	Pittsburgh Steelers	16	Cincinnati Bengals	10		Boxscore
 2019-11-24	Miami Dolphins	24	Cleveland Browns	41		Boxscore
 2019-11-24	Carolina Panthers	31	New Orleans Saints	34		Boxscore
-2019-11-24	Oakland Raiders	3	New York Jets	34		Boxscore
-2019-11-24	Detroit Lions	16	Washington Redskins	19		Boxscore
+2019-11-24	Las Vegas Raiders	3	New York Jets	34		Boxscore
+2019-11-24	Detroit Lions	16	Washington Commanders	19		Boxscore
 2019-11-24	Seattle Seahawks	17	Philadelphia Eagles	9		Boxscore
 2019-11-24	Jacksonville Jaguars	20	Tennessee Titans	42		Boxscore
 2019-11-24	Dallas Cowboys	9	New England Patriots	13		Boxscore
@@ -733,7 +733,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-11-28	Buffalo Bills	26	Dallas Cowboys	15		Boxscore
 2019-11-28	New Orleans Saints	26	Atlanta Falcons	18		Boxscore
 2019-12-01	San Francisco 49ers	17	Baltimore Ravens	20		Boxscore
-2019-12-01	Washington Redskins	29	Carolina Panthers	21		Boxscore
+2019-12-01	Washington Commanders	29	Carolina Panthers	21		Boxscore
 2019-12-01	New York Jets	6	Cincinnati Bengals	22		Boxscore
 2019-12-01	Tennessee Titans	31	Indianapolis Colts	17		Boxscore
 2019-12-01	Tampa Bay Buccaneers	28	Jacksonville Jaguars	11		Boxscore
@@ -741,7 +741,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-12-01	Green Bay Packers	31	New York Giants	13		Boxscore
 2019-12-01	Cleveland Browns	13	Pittsburgh Steelers	20		Boxscore
 2019-12-01	Los Angeles Rams	34	Arizona Cardinals	7		Boxscore
-2019-12-01	Oakland Raiders	9	Kansas City Chiefs	40		Boxscore
+2019-12-01	Las Vegas Raiders	9	Kansas City Chiefs	40		Boxscore
 2019-12-01	Los Angeles Chargers	20	Denver Broncos	23		Boxscore
 2019-12-01	New England Patriots	22	Houston Texans	28		Boxscore
 2019-12-02	Minnesota Vikings	30	Seattle Seahawks	37		Boxscore
@@ -749,7 +749,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-12-08	Carolina Panthers	20	Atlanta Falcons	40		Boxscore
 2019-12-08	Baltimore Ravens	24	Buffalo Bills	17		Boxscore
 2019-12-08	Cincinnati Bengals	19	Cleveland Browns	27		Boxscore
-2019-12-08	Washington Redskins	15	Green Bay Packers	20		Boxscore
+2019-12-08	Washington Commanders	15	Green Bay Packers	20		Boxscore
 2019-12-08	Denver Broncos	38	Houston Texans	24		Boxscore
 2019-12-08	Detroit Lions	7	Minnesota Vikings	20		Boxscore
 2019-12-08	San Francisco 49ers	48	New Orleans Saints	46		Boxscore
@@ -758,7 +758,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-12-08	Los Angeles Chargers	45	Jacksonville Jaguars	10		Boxscore
 2019-12-08	Pittsburgh Steelers	23	Arizona Cardinals	17		Boxscore
 2019-12-08	Kansas City Chiefs	23	New England Patriots	16		Boxscore
-2019-12-08	Tennessee Titans	42	Oakland Raiders	21		Boxscore
+2019-12-08	Tennessee Titans	42	Las Vegas Raiders	21		Boxscore
 2019-12-08	Seattle Seahawks	12	Los Angeles Rams	28		Boxscore
 2019-12-09	New York Giants	17	Philadelphia Eagles	23	OT	Boxscore
 2019-12-12	New York Jets	21	Baltimore Ravens	42		Boxscore
@@ -769,9 +769,9 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-12-15	Denver Broncos	3	Kansas City Chiefs	23		Boxscore
 2019-12-15	Miami Dolphins	20	New York Giants	36		Boxscore
 2019-12-15	Houston Texans	24	Tennessee Titans	21		Boxscore
-2019-12-15	Philadelphia Eagles	37	Washington Redskins	27		Boxscore
+2019-12-15	Philadelphia Eagles	37	Washington Commanders	27		Boxscore
 2019-12-15	Cleveland Browns	24	Arizona Cardinals	38		Boxscore
-2019-12-15	Jacksonville Jaguars	20	Oakland Raiders	16		Boxscore
+2019-12-15	Jacksonville Jaguars	20	Las Vegas Raiders	16		Boxscore
 2019-12-15	Minnesota Vikings	39	Los Angeles Chargers	10		Boxscore
 2019-12-15	Los Angeles Rams	21	Dallas Cowboys	44		Boxscore
 2019-12-15	Atlanta Falcons	29	San Francisco 49ers	22		Boxscore
@@ -786,9 +786,9 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-12-22	Cincinnati Bengals	35	Miami Dolphins	38	OT	Boxscore
 2019-12-22	Pittsburgh Steelers	10	New York Jets	16		Boxscore
 2019-12-22	New Orleans Saints	38	Tennessee Titans	28		Boxscore
-2019-12-22	New York Giants	41	Washington Redskins	35	OT	Boxscore
+2019-12-22	New York Giants	41	Washington Commanders	35	OT	Boxscore
 2019-12-22	Detroit Lions	17	Denver Broncos	27		Boxscore
-2019-12-22	Oakland Raiders	24	Los Angeles Chargers	17		Boxscore
+2019-12-22	Las Vegas Raiders	24	Los Angeles Chargers	17		Boxscore
 2019-12-22	Dallas Cowboys	9	Philadelphia Eagles	17		Boxscore
 2019-12-22	Arizona Cardinals	27	Seattle Seahawks	13		Boxscore
 2019-12-22	Kansas City Chiefs	26	Chicago Bears	3		Boxscore
@@ -802,11 +802,11 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2019-12-29	Miami Dolphins	27	New England Patriots	24		Boxscore
 2019-12-29	Atlanta Falcons	28	Tampa Bay Buccaneers	22	OT	Boxscore
 2019-12-29	Pittsburgh Steelers	10	Baltimore Ravens	28		Boxscore
-2019-12-29	Washington Redskins	16	Dallas Cowboys	47		Boxscore
+2019-12-29	Washington Commanders	16	Dallas Cowboys	47		Boxscore
 2019-12-29	Tennessee Titans	35	Houston Texans	14		Boxscore
 2019-12-29	Indianapolis Colts	20	Jacksonville Jaguars	38		Boxscore
 2019-12-29	Philadelphia Eagles	34	New York Giants	17		Boxscore
-2019-12-29	Oakland Raiders	15	Denver Broncos	16		Boxscore
+2019-12-29	Las Vegas Raiders	15	Denver Broncos	16		Boxscore
 2019-12-29	Arizona Cardinals	24	Los Angeles Rams	31		Boxscore
 2019-12-29	San Francisco 49ers	26	Seattle Seahawks	21		Boxscore
 2020-01-04	Buffalo Bills	19	Houston Texans	22	OT	Boxscore
@@ -830,25 +830,25 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2018-09-09	San Francisco 49ers	16	Minnesota Vikings	24		Boxscore
 2018-09-09	Tampa Bay Buccaneers	48	New Orleans Saints	40		Boxscore
 2018-09-09	Kansas City Chiefs	38	Los Angeles Chargers	28		Boxscore
-2018-09-09	Washington Redskins	24	Arizona Cardinals	6		Boxscore
+2018-09-09	Washington Commanders	24	Arizona Cardinals	6		Boxscore
 2018-09-09	Dallas Cowboys	8	Carolina Panthers	16		Boxscore
 2018-09-09	Seattle Seahawks	24	Denver Broncos	27		Boxscore
 2018-09-09	Chicago Bears	23	Green Bay Packers	24		Boxscore
 2018-09-10	New York Jets	48	Detroit Lions	17		Boxscore
-2018-09-10	Los Angeles Rams	33	Oakland Raiders	13		Boxscore
+2018-09-10	Los Angeles Rams	33	Las Vegas Raiders	13		Boxscore
 2018-09-13	Baltimore Ravens	23	Cincinnati Bengals	34		Boxscore
 2018-09-16	Carolina Panthers	24	Atlanta Falcons	31		Boxscore
 2018-09-16	Los Angeles Chargers	31	Buffalo Bills	20		Boxscore
 2018-09-16	Cleveland Browns	18	New Orleans Saints	21		Boxscore
 2018-09-16	Minnesota Vikings	29	Green Bay Packers	29	OT	Boxscore
 2018-09-16	Houston Texans	17	Tennessee Titans	20		Boxscore
-2018-09-16	Indianapolis Colts	21	Washington Redskins	9		Boxscore
+2018-09-16	Indianapolis Colts	21	Washington Commanders	9		Boxscore
 2018-09-16	Kansas City Chiefs	42	Pittsburgh Steelers	37		Boxscore
 2018-09-16	Miami Dolphins	20	New York Jets	12		Boxscore
 2018-09-16	Philadelphia Eagles	21	Tampa Bay Buccaneers	27		Boxscore
 2018-09-16	Arizona Cardinals	0	Los Angeles Rams	34		Boxscore
 2018-09-16	Detroit Lions	27	San Francisco 49ers	30		Boxscore
-2018-09-16	Oakland Raiders	19	Denver Broncos	20		Boxscore
+2018-09-16	Las Vegas Raiders	19	Denver Broncos	20		Boxscore
 2018-09-16	New England Patriots	20	Jacksonville Jaguars	31		Boxscore
 2018-09-16	New York Giants	13	Dallas Cowboys	20		Boxscore
 2018-09-17	Seattle Seahawks	17	Chicago Bears	24		Boxscore
@@ -857,12 +857,12 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2018-09-23	Denver Broncos	14	Baltimore Ravens	27		Boxscore
 2018-09-23	Buffalo Bills	27	Minnesota Vikings	6		Boxscore
 2018-09-23	Cincinnati Bengals	21	Carolina Panthers	31		Boxscore
-2018-09-23	Green Bay Packers	17	Washington Redskins	31		Boxscore
+2018-09-23	Green Bay Packers	17	Washington Commanders	31		Boxscore
 2018-09-23	New York Giants	27	Houston Texans	22		Boxscore
 2018-09-23	Indianapolis Colts	16	Philadelphia Eagles	20		Boxscore
 2018-09-23	Tennessee Titans	9	Jacksonville Jaguars	6		Boxscore
 2018-09-23	San Francisco 49ers	27	Kansas City Chiefs	38		Boxscore
-2018-09-23	Oakland Raiders	20	Miami Dolphins	28		Boxscore
+2018-09-23	Las Vegas Raiders	20	Miami Dolphins	28		Boxscore
 2018-09-23	Los Angeles Chargers	23	Los Angeles Rams	35		Boxscore
 2018-09-23	Chicago Bears	16	Arizona Cardinals	14		Boxscore
 2018-09-23	Dallas Cowboys	13	Seattle Seahawks	24		Boxscore
@@ -878,7 +878,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2018-09-30	Miami Dolphins	7	New England Patriots	38		Boxscore
 2018-09-30	Philadelphia Eagles	23	Tennessee Titans	26	OT	Boxscore
 2018-09-30	Seattle Seahawks	20	Arizona Cardinals	17		Boxscore
-2018-09-30	Cleveland Browns	42	Oakland Raiders	45	OT	Boxscore
+2018-09-30	Cleveland Browns	42	Las Vegas Raiders	45	OT	Boxscore
 2018-09-30	San Francisco 49ers	27	Los Angeles Chargers	29		Boxscore
 2018-09-30	New Orleans Saints	33	New York Giants	18		Boxscore
 2018-09-30	Baltimore Ravens	26	Pittsburgh Steelers	14		Boxscore
@@ -892,22 +892,22 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2018-10-07	Denver Broncos	16	New York Jets	34		Boxscore
 2018-10-07	Green Bay Packers	23	Detroit Lions	31		Boxscore
 2018-10-07	Jacksonville Jaguars	14	Kansas City Chiefs	30		Boxscore
-2018-10-07	Oakland Raiders	10	Los Angeles Chargers	26		Boxscore
+2018-10-07	Las Vegas Raiders	10	Los Angeles Chargers	26		Boxscore
 2018-10-07	Arizona Cardinals	28	San Francisco 49ers	18		Boxscore
 2018-10-07	Los Angeles Rams	33	Seattle Seahawks	31		Boxscore
 2018-10-07	Minnesota Vikings	23	Philadelphia Eagles	21		Boxscore
 2018-10-07	Dallas Cowboys	16	Houston Texans	19	OT	Boxscore
-2018-10-08	Washington Redskins	19	New Orleans Saints	43		Boxscore
+2018-10-08	Washington Commanders	19	New Orleans Saints	43		Boxscore
 2018-10-11	Philadelphia Eagles	34	New York Giants	13		Boxscore
 2018-10-14	Arizona Cardinals	17	Minnesota Vikings	27		Boxscore
 2018-10-14	Tampa Bay Buccaneers	29	Atlanta Falcons	34		Boxscore
 2018-10-14	Buffalo Bills	13	Houston Texans	20		Boxscore
-2018-10-14	Carolina Panthers	17	Washington Redskins	23		Boxscore
+2018-10-14	Carolina Panthers	17	Washington Commanders	23		Boxscore
 2018-10-14	Chicago Bears	28	Miami Dolphins	31	OT	Boxscore
 2018-10-14	Pittsburgh Steelers	28	Cincinnati Bengals	21		Boxscore
 2018-10-14	Los Angeles Chargers	38	Cleveland Browns	14		Boxscore
 2018-10-14	Indianapolis Colts	34	New York Jets	42		Boxscore
-2018-10-14	Seattle Seahawks	27	Oakland Raiders	3		Boxscore
+2018-10-14	Seattle Seahawks	27	Las Vegas Raiders	3		Boxscore
 2018-10-14	Los Angeles Rams	23	Denver Broncos	20		Boxscore
 2018-10-14	Baltimore Ravens	21	Tennessee Titans	0		Boxscore
 2018-10-14	Jacksonville Jaguars	7	Dallas Cowboys	40		Boxscore
@@ -923,7 +923,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2018-10-21	Houston Texans	20	Jacksonville Jaguars	7		Boxscore
 2018-10-21	Minnesota Vikings	37	New York Jets	17		Boxscore
 2018-10-21	New Orleans Saints	24	Baltimore Ravens	23		Boxscore
-2018-10-21	Dallas Cowboys	17	Washington Redskins	20		Boxscore
+2018-10-21	Dallas Cowboys	17	Washington Commanders	20		Boxscore
 2018-10-21	Los Angeles Rams	39	San Francisco 49ers	10		Boxscore
 2018-10-21	Cincinnati Bengals	10	Kansas City Chiefs	45		Boxscore
 2018-10-22	New York Giants	20	Atlanta Falcons	23		Boxscore
@@ -935,14 +935,14 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2018-10-28	Cleveland Browns	18	Pittsburgh Steelers	33		Boxscore
 2018-10-28	Denver Broncos	23	Kansas City Chiefs	30		Boxscore
 2018-10-28	Seattle Seahawks	28	Detroit Lions	14		Boxscore
-2018-10-28	Washington Redskins	20	New York Giants	13		Boxscore
-2018-10-28	Indianapolis Colts	42	Oakland Raiders	28		Boxscore
+2018-10-28	Washington Commanders	20	New York Giants	13		Boxscore
+2018-10-28	Indianapolis Colts	42	Las Vegas Raiders	28		Boxscore
 2018-10-28	San Francisco 49ers	15	Arizona Cardinals	18		Boxscore
 2018-10-28	Green Bay Packers	27	Los Angeles Rams	29		Boxscore
 2018-10-28	New Orleans Saints	30	Minnesota Vikings	20		Boxscore
 2018-10-29	New England Patriots	25	Buffalo Bills	6		Boxscore
-2018-11-01	Oakland Raiders	3	San Francisco 49ers	34		Boxscore
-2018-11-04	Atlanta Falcons	38	Washington Redskins	14		Boxscore
+2018-11-01	Las Vegas Raiders	3	San Francisco 49ers	34		Boxscore
+2018-11-04	Atlanta Falcons	38	Washington Commanders	14		Boxscore
 2018-11-04	Pittsburgh Steelers	23	Baltimore Ravens	16		Boxscore
 2018-11-04	Chicago Bears	41	Buffalo Bills	9		Boxscore
 2018-11-04	Tampa Bay Buccaneers	28	Carolina Panthers	42		Boxscore
@@ -962,8 +962,8 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2018-11-11	New Orleans Saints	51	Cincinnati Bengals	14		Boxscore
 2018-11-11	Jacksonville Jaguars	26	Indianapolis Colts	29		Boxscore
 2018-11-11	New England Patriots	10	Tennessee Titans	34		Boxscore
-2018-11-11	Washington Redskins	16	Tampa Bay Buccaneers	3		Boxscore
-2018-11-11	Los Angeles Chargers	20	Oakland Raiders	6		Boxscore
+2018-11-11	Washington Commanders	16	Tampa Bay Buccaneers	3		Boxscore
+2018-11-11	Los Angeles Chargers	20	Las Vegas Raiders	6		Boxscore
 2018-11-11	Miami Dolphins	12	Green Bay Packers	31		Boxscore
 2018-11-11	Seattle Seahawks	31	Los Angeles Rams	36		Boxscore
 2018-11-11	Dallas Cowboys	27	Philadelphia Eagles	20		Boxscore
@@ -972,19 +972,19 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2018-11-18	Dallas Cowboys	22	Atlanta Falcons	19		Boxscore
 2018-11-18	Cincinnati Bengals	21	Baltimore Ravens	24		Boxscore
 2018-11-18	Carolina Panthers	19	Detroit Lions	20		Boxscore
-2018-11-18	Houston Texans	23	Washington Redskins	21		Boxscore
+2018-11-18	Houston Texans	23	Washington Commanders	21		Boxscore
 2018-11-18	Tennessee Titans	10	Indianapolis Colts	38		Boxscore
 2018-11-18	Pittsburgh Steelers	20	Jacksonville Jaguars	16		Boxscore
 2018-11-18	Tampa Bay Buccaneers	35	New York Giants	38		Boxscore
-2018-11-18	Oakland Raiders	23	Arizona Cardinals	21		Boxscore
+2018-11-18	Las Vegas Raiders	23	Arizona Cardinals	21		Boxscore
 2018-11-18	Denver Broncos	23	Los Angeles Chargers	22		Boxscore
 2018-11-18	Philadelphia Eagles	7	New Orleans Saints	48		Boxscore
 2018-11-18	Minnesota Vikings	20	Chicago Bears	25		Boxscore
 2018-11-19	Kansas City Chiefs	51	Los Angeles Rams	54		Boxscore
 2018-11-22	Chicago Bears	23	Detroit Lions	16		Boxscore
-2018-11-22	Washington Redskins	23	Dallas Cowboys	31		Boxscore
+2018-11-22	Washington Commanders	23	Dallas Cowboys	31		Boxscore
 2018-11-22	Atlanta Falcons	17	New Orleans Saints	31		Boxscore
-2018-11-25	Oakland Raiders	17	Baltimore Ravens	34		Boxscore
+2018-11-25	Las Vegas Raiders	17	Baltimore Ravens	34		Boxscore
 2018-11-25	Jacksonville Jaguars	21	Buffalo Bills	24		Boxscore
 2018-11-25	Seattle Seahawks	30	Carolina Panthers	27		Boxscore
 2018-11-25	Cleveland Browns	35	Cincinnati Bengals	20		Boxscore
@@ -1006,12 +1006,12 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2018-12-02	Cleveland Browns	13	Houston Texans	29		Boxscore
 2018-12-02	Los Angeles Rams	30	Detroit Lions	16		Boxscore
 2018-12-02	Indianapolis Colts	0	Jacksonville Jaguars	6		Boxscore
-2018-12-02	Kansas City Chiefs	40	Oakland Raiders	33		Boxscore
+2018-12-02	Kansas City Chiefs	40	Las Vegas Raiders	33		Boxscore
 2018-12-02	New York Jets	22	Tennessee Titans	26		Boxscore
 2018-12-02	Minnesota Vikings	10	New England Patriots	24		Boxscore
 2018-12-02	San Francisco 49ers	16	Seattle Seahawks	43		Boxscore
 2018-12-02	Los Angeles Chargers	33	Pittsburgh Steelers	30		Boxscore
-2018-12-03	Washington Redskins	13	Philadelphia Eagles	28		Boxscore
+2018-12-03	Washington Commanders	13	Philadelphia Eagles	28		Boxscore
 2018-12-06	Jacksonville Jaguars	9	Tennessee Titans	30		Boxscore
 2018-12-09	Atlanta Falcons	20	Green Bay Packers	34		Boxscore
 2018-12-09	Baltimore Ravens	24	Kansas City Chiefs	27	OT	Boxscore
@@ -1020,12 +1020,12 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2018-12-09	Indianapolis Colts	24	Houston Texans	21		Boxscore
 2018-12-09	New England Patriots	33	Miami Dolphins	34		Boxscore
 2018-12-09	New Orleans Saints	28	Tampa Bay Buccaneers	14		Boxscore
-2018-12-09	New York Giants	40	Washington Redskins	16		Boxscore
+2018-12-09	New York Giants	40	Washington Commanders	16		Boxscore
 2018-12-09	Cincinnati Bengals	21	Los Angeles Chargers	26		Boxscore
 2018-12-09	Denver Broncos	14	San Francisco 49ers	20		Boxscore
 2018-12-09	Detroit Lions	17	Arizona Cardinals	3		Boxscore
 2018-12-09	Philadelphia Eagles	23	Dallas Cowboys	29	OT	Boxscore
-2018-12-09	Pittsburgh Steelers	21	Oakland Raiders	24		Boxscore
+2018-12-09	Pittsburgh Steelers	21	Las Vegas Raiders	24		Boxscore
 2018-12-09	Los Angeles Rams	6	Chicago Bears	15		Boxscore
 2018-12-10	Minnesota Vikings	7	Seattle Seahawks	21		Boxscore
 2018-12-13	Los Angeles Chargers	29	Kansas City Chiefs	28		Boxscore
@@ -1035,16 +1035,16 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2018-12-16	Tampa Bay Buccaneers	12	Baltimore Ravens	20		Boxscore
 2018-12-16	Detroit Lions	13	Buffalo Bills	14		Boxscore
 2018-12-16	Green Bay Packers	17	Chicago Bears	24		Boxscore
-2018-12-16	Oakland Raiders	16	Cincinnati Bengals	30		Boxscore
+2018-12-16	Las Vegas Raiders	16	Cincinnati Bengals	30		Boxscore
 2018-12-16	Dallas Cowboys	0	Indianapolis Colts	23		Boxscore
-2018-12-16	Washington Redskins	16	Jacksonville Jaguars	13		Boxscore
+2018-12-16	Washington Commanders	16	Jacksonville Jaguars	13		Boxscore
 2018-12-16	Miami Dolphins	17	Minnesota Vikings	41		Boxscore
 2018-12-16	Tennessee Titans	17	New York Giants	0		Boxscore
 2018-12-16	Seattle Seahawks	23	San Francisco 49ers	26	OT	Boxscore
 2018-12-16	New England Patriots	10	Pittsburgh Steelers	17		Boxscore
 2018-12-16	Philadelphia Eagles	30	Los Angeles Rams	23		Boxscore
 2018-12-17	New Orleans Saints	12	Carolina Panthers	9		Boxscore
-2018-12-22	Washington Redskins	16	Tennessee Titans	25		Boxscore
+2018-12-22	Washington Commanders	16	Tennessee Titans	25		Boxscore
 2018-12-22	Baltimore Ravens	22	Los Angeles Chargers	10		Boxscore
 2018-12-23	Atlanta Falcons	24	Carolina Panthers	10		Boxscore
 2018-12-23	Buffalo Bills	12	New England Patriots	24		Boxscore
@@ -1059,7 +1059,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2018-12-23	Chicago Bears	14	San Francisco 49ers	9		Boxscore
 2018-12-23	Pittsburgh Steelers	28	New Orleans Saints	31		Boxscore
 2018-12-23	Kansas City Chiefs	31	Seattle Seahawks	38		Boxscore
-2018-12-24	Denver Broncos	14	Oakland Raiders	27		Boxscore
+2018-12-24	Denver Broncos	14	Las Vegas Raiders	27		Boxscore
 2018-12-30	Atlanta Falcons	34	Tampa Bay Buccaneers	32		Boxscore
 2018-12-30	Miami Dolphins	17	Buffalo Bills	42		Boxscore
 2018-12-30	Carolina Panthers	33	New Orleans Saints	14		Boxscore
@@ -1072,9 +1072,9 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2018-12-30	Chicago Bears	24	Minnesota Vikings	10		Boxscore
 2018-12-30	Cincinnati Bengals	13	Pittsburgh Steelers	16		Boxscore
 2018-12-30	Los Angeles Chargers	23	Denver Broncos	9		Boxscore
-2018-12-30	Oakland Raiders	3	Kansas City Chiefs	35		Boxscore
+2018-12-30	Las Vegas Raiders	3	Kansas City Chiefs	35		Boxscore
 2018-12-30	San Francisco 49ers	32	Los Angeles Rams	48		Boxscore
-2018-12-30	Philadelphia Eagles	24	Washington Redskins	0		Boxscore
+2018-12-30	Philadelphia Eagles	24	Washington Commanders	0		Boxscore
 2018-12-30	Indianapolis Colts	33	Tennessee Titans	17		Boxscore
 2019-01-05	Indianapolis Colts	21	Houston Texans	7		Boxscore
 2019-01-05	Seattle Seahawks	22	Dallas Cowboys	24		Boxscore
@@ -1094,8 +1094,8 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-09-10	New York Jets	12	Buffalo Bills	21		Boxscore
 2017-09-10	Pittsburgh Steelers	21	Cleveland Browns	18		Boxscore
 2017-09-10	Jacksonville Jaguars	29	Houston Texans	7		Boxscore
-2017-09-10	Oakland Raiders	26	Tennessee Titans	16		Boxscore
-2017-09-10	Philadelphia Eagles	30	Washington Redskins	17		Boxscore
+2017-09-10	Las Vegas Raiders	26	Tennessee Titans	16		Boxscore
+2017-09-10	Philadelphia Eagles	30	Washington Commanders	17		Boxscore
 2017-09-10	Indianapolis Colts	9	Los Angeles Rams	46		Boxscore
 2017-09-10	Carolina Panthers	23	San Francisco 49ers	3		Boxscore
 2017-09-10	Seattle Seahawks	9	Green Bay Packers	17		Boxscore
@@ -1112,9 +1112,9 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-09-17	Minnesota Vikings	9	Pittsburgh Steelers	26		Boxscore
 2017-09-17	New England Patriots	36	New Orleans Saints	20		Boxscore
 2017-09-17	Miami Dolphins	19	Los Angeles Chargers	17		Boxscore
-2017-09-17	New York Jets	20	Oakland Raiders	45		Boxscore
+2017-09-17	New York Jets	20	Las Vegas Raiders	45		Boxscore
 2017-09-17	Dallas Cowboys	17	Denver Broncos	42		Boxscore
-2017-09-17	Washington Redskins	27	Los Angeles Rams	20		Boxscore
+2017-09-17	Washington Commanders	27	Los Angeles Rams	20		Boxscore
 2017-09-17	San Francisco 49ers	9	Seattle Seahawks	12		Boxscore
 2017-09-17	Green Bay Packers	23	Atlanta Falcons	34		Boxscore
 2017-09-18	Detroit Lions	24	New York Giants	10		Boxscore
@@ -1132,7 +1132,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-09-24	Seattle Seahawks	27	Tennessee Titans	33		Boxscore
 2017-09-24	Cincinnati Bengals	24	Green Bay Packers	27	OT	Boxscore
 2017-09-24	Kansas City Chiefs	24	Los Angeles Chargers	10		Boxscore
-2017-09-24	Oakland Raiders	10	Washington Redskins	27		Boxscore
+2017-09-24	Las Vegas Raiders	10	Washington Commanders	27		Boxscore
 2017-09-25	Dallas Cowboys	28	Arizona Cardinals	17		Boxscore
 2017-09-28	Chicago Bears	14	Green Bay Packers	35		Boxscore
 2017-10-01	New Orleans Saints	20	Miami Dolphins	0		Boxscore
@@ -1147,9 +1147,9 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-10-01	San Francisco 49ers	15	Arizona Cardinals	18	OT	Boxscore
 2017-10-01	Philadelphia Eagles	26	Los Angeles Chargers	24		Boxscore
 2017-10-01	New York Giants	23	Tampa Bay Buccaneers	25		Boxscore
-2017-10-01	Oakland Raiders	10	Denver Broncos	16		Boxscore
+2017-10-01	Las Vegas Raiders	10	Denver Broncos	16		Boxscore
 2017-10-01	Indianapolis Colts	18	Seattle Seahawks	46		Boxscore
-2017-10-02	Washington Redskins	20	Kansas City Chiefs	29		Boxscore
+2017-10-02	Washington Commanders	20	Kansas City Chiefs	29		Boxscore
 2017-10-05	New England Patriots	19	Tampa Bay Buccaneers	14		Boxscore
 2017-10-08	Arizona Cardinals	7	Philadelphia Eagles	34		Boxscore
 2017-10-08	Buffalo Bills	16	Cincinnati Bengals	20		Boxscore
@@ -1159,7 +1159,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-10-08	Jacksonville Jaguars	30	Pittsburgh Steelers	9		Boxscore
 2017-10-08	Los Angeles Chargers	27	New York Giants	22		Boxscore
 2017-10-08	Tennessee Titans	10	Miami Dolphins	16		Boxscore
-2017-10-08	Baltimore Ravens	30	Oakland Raiders	17		Boxscore
+2017-10-08	Baltimore Ravens	30	Las Vegas Raiders	17		Boxscore
 2017-10-08	Seattle Seahawks	16	Los Angeles Rams	10		Boxscore
 2017-10-08	Green Bay Packers	35	Dallas Cowboys	31		Boxscore
 2017-10-08	Kansas City Chiefs	42	Houston Texans	34		Boxscore
@@ -1171,14 +1171,14 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-10-15	Detroit Lions	38	New Orleans Saints	52		Boxscore
 2017-10-15	Green Bay Packers	10	Minnesota Vikings	23		Boxscore
 2017-10-15	New England Patriots	24	New York Jets	17		Boxscore
-2017-10-15	San Francisco 49ers	24	Washington Redskins	26		Boxscore
+2017-10-15	San Francisco 49ers	24	Washington Commanders	26		Boxscore
 2017-10-15	Tampa Bay Buccaneers	33	Arizona Cardinals	38		Boxscore
 2017-10-15	Los Angeles Rams	27	Jacksonville Jaguars	17		Boxscore
 2017-10-15	Pittsburgh Steelers	19	Kansas City Chiefs	13		Boxscore
-2017-10-15	Los Angeles Chargers	17	Oakland Raiders	16		Boxscore
+2017-10-15	Los Angeles Chargers	17	Las Vegas Raiders	16		Boxscore
 2017-10-15	New York Giants	23	Denver Broncos	10		Boxscore
 2017-10-16	Indianapolis Colts	22	Tennessee Titans	36		Boxscore
-2017-10-19	Kansas City Chiefs	30	Oakland Raiders	31		Boxscore
+2017-10-19	Kansas City Chiefs	30	Las Vegas Raiders	31		Boxscore
 2017-10-22	Arizona Cardinals	0	Los Angeles Rams	33		Boxscore
 2017-10-22	Baltimore Ravens	16	Minnesota Vikings	24		Boxscore
 2017-10-22	Tampa Bay Buccaneers	27	Buffalo Bills	30		Boxscore
@@ -1192,18 +1192,18 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-10-22	Denver Broncos	0	Los Angeles Chargers	21		Boxscore
 2017-10-22	Seattle Seahawks	24	New York Giants	7		Boxscore
 2017-10-22	Atlanta Falcons	7	New England Patriots	23		Boxscore
-2017-10-23	Washington Redskins	24	Philadelphia Eagles	34		Boxscore
+2017-10-23	Washington Commanders	24	Philadelphia Eagles	34		Boxscore
 2017-10-26	Miami Dolphins	0	Baltimore Ravens	40		Boxscore
 2017-10-29	Minnesota Vikings	33	Cleveland Browns	16		Boxscore
 2017-10-29	Atlanta Falcons	25	New York Jets	20		Boxscore
-2017-10-29	Oakland Raiders	14	Buffalo Bills	34		Boxscore
+2017-10-29	Las Vegas Raiders	14	Buffalo Bills	34		Boxscore
 2017-10-29	Carolina Panthers	17	Tampa Bay Buccaneers	3		Boxscore
 2017-10-29	Chicago Bears	12	New Orleans Saints	20		Boxscore
 2017-10-29	Indianapolis Colts	23	Cincinnati Bengals	24		Boxscore
 2017-10-29	Los Angeles Chargers	13	New England Patriots	21		Boxscore
 2017-10-29	San Francisco 49ers	10	Philadelphia Eagles	33		Boxscore
 2017-10-29	Houston Texans	38	Seattle Seahawks	41		Boxscore
-2017-10-29	Dallas Cowboys	33	Washington Redskins	19		Boxscore
+2017-10-29	Dallas Cowboys	33	Washington Commanders	19		Boxscore
 2017-10-29	Pittsburgh Steelers	20	Detroit Lions	15		Boxscore
 2017-10-30	Denver Broncos	19	Kansas City Chiefs	29		Boxscore
 2017-11-02	Buffalo Bills	21	New York Jets	34		Boxscore
@@ -1215,9 +1215,9 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-11-05	Los Angeles Rams	51	New York Giants	17		Boxscore
 2017-11-05	Tampa Bay Buccaneers	10	New Orleans Saints	30		Boxscore
 2017-11-05	Arizona Cardinals	20	San Francisco 49ers	10		Boxscore
-2017-11-05	Washington Redskins	17	Seattle Seahawks	14		Boxscore
+2017-11-05	Washington Commanders	17	Seattle Seahawks	14		Boxscore
 2017-11-05	Kansas City Chiefs	17	Dallas Cowboys	28		Boxscore
-2017-11-05	Oakland Raiders	27	Miami Dolphins	24		Boxscore
+2017-11-05	Las Vegas Raiders	27	Miami Dolphins	24		Boxscore
 2017-11-06	Detroit Lions	30	Green Bay Packers	17		Boxscore
 2017-11-09	Seattle Seahawks	22	Arizona Cardinals	16		Boxscore
 2017-11-12	New Orleans Saints	47	Buffalo Bills	10		Boxscore
@@ -1226,7 +1226,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-11-12	Cleveland Browns	24	Detroit Lions	38		Boxscore
 2017-11-12	Pittsburgh Steelers	20	Indianapolis Colts	17		Boxscore
 2017-11-12	Los Angeles Chargers	17	Jacksonville Jaguars	20	OT	Boxscore
-2017-11-12	Minnesota Vikings	38	Washington Redskins	30		Boxscore
+2017-11-12	Minnesota Vikings	38	Washington Commanders	30		Boxscore
 2017-11-12	New York Jets	10	Tampa Bay Buccaneers	15		Boxscore
 2017-11-12	Houston Texans	7	Los Angeles Rams	33		Boxscore
 2017-11-12	Dallas Cowboys	7	Atlanta Falcons	27		Boxscore
@@ -1241,15 +1241,15 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-11-19	Jacksonville Jaguars	19	Cleveland Browns	7		Boxscore
 2017-11-19	Kansas City Chiefs	9	New York Giants	12	OT	Boxscore
 2017-11-19	Los Angeles Rams	7	Minnesota Vikings	24		Boxscore
-2017-11-19	Washington Redskins	31	New Orleans Saints	34	OT	Boxscore
+2017-11-19	Washington Commanders	31	New Orleans Saints	34	OT	Boxscore
 2017-11-19	Buffalo Bills	24	Los Angeles Chargers	54		Boxscore
 2017-11-19	Cincinnati Bengals	20	Denver Broncos	17		Boxscore
-2017-11-19	New England Patriots	33	Oakland Raiders	8		Boxscore
+2017-11-19	New England Patriots	33	Las Vegas Raiders	8		Boxscore
 2017-11-19	Philadelphia Eagles	37	Dallas Cowboys	9		Boxscore
 2017-11-20	Atlanta Falcons	34	Seattle Seahawks	31		Boxscore
 2017-11-23	Minnesota Vikings	30	Detroit Lions	23		Boxscore
 2017-11-23	Los Angeles Chargers	28	Dallas Cowboys	6		Boxscore
-2017-11-23	New York Giants	10	Washington Redskins	20		Boxscore
+2017-11-23	New York Giants	10	Washington Commanders	20		Boxscore
 2017-11-26	Tampa Bay Buccaneers	20	Atlanta Falcons	34		Boxscore
 2017-11-26	Buffalo Bills	16	Kansas City Chiefs	10		Boxscore
 2017-11-26	Carolina Panthers	35	New York Jets	27		Boxscore
@@ -1259,11 +1259,11 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-11-26	Miami Dolphins	17	New England Patriots	35		Boxscore
 2017-11-26	Seattle Seahawks	24	San Francisco 49ers	13		Boxscore
 2017-11-26	Jacksonville Jaguars	24	Arizona Cardinals	27		Boxscore
-2017-11-26	Denver Broncos	14	Oakland Raiders	21		Boxscore
+2017-11-26	Denver Broncos	14	Las Vegas Raiders	21		Boxscore
 2017-11-26	New Orleans Saints	20	Los Angeles Rams	26		Boxscore
 2017-11-26	Green Bay Packers	28	Pittsburgh Steelers	31		Boxscore
 2017-11-27	Houston Texans	16	Baltimore Ravens	23		Boxscore
-2017-11-30	Washington Redskins	14	Dallas Cowboys	38		Boxscore
+2017-11-30	Washington Commanders	14	Dallas Cowboys	38		Boxscore
 2017-12-03	Minnesota Vikings	14	Atlanta Falcons	9		Boxscore
 2017-12-03	Detroit Lions	20	Baltimore Ravens	44		Boxscore
 2017-12-03	New England Patriots	23	Buffalo Bills	3		Boxscore
@@ -1276,7 +1276,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-12-03	Cleveland Browns	10	Los Angeles Chargers	19		Boxscore
 2017-12-03	Los Angeles Rams	32	Arizona Cardinals	16		Boxscore
 2017-12-03	Carolina Panthers	21	New Orleans Saints	31		Boxscore
-2017-12-03	New York Giants	17	Oakland Raiders	24		Boxscore
+2017-12-03	New York Giants	17	Las Vegas Raiders	24		Boxscore
 2017-12-03	Philadelphia Eagles	10	Seattle Seahawks	24		Boxscore
 2017-12-04	Pittsburgh Steelers	23	Cincinnati Bengals	20		Boxscore
 2017-12-07	New Orleans Saints	17	Atlanta Falcons	20		Boxscore
@@ -1287,10 +1287,10 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-12-10	Dallas Cowboys	30	New York Giants	10		Boxscore
 2017-12-10	Detroit Lions	24	Tampa Bay Buccaneers	21		Boxscore
 2017-12-10	San Francisco 49ers	26	Houston Texans	16		Boxscore
-2017-12-10	Oakland Raiders	15	Kansas City Chiefs	26		Boxscore
+2017-12-10	Las Vegas Raiders	15	Kansas City Chiefs	26		Boxscore
 2017-12-10	Tennessee Titans	7	Arizona Cardinals	12		Boxscore
 2017-12-10	New York Jets	0	Denver Broncos	23		Boxscore
-2017-12-10	Washington Redskins	13	Los Angeles Chargers	30		Boxscore
+2017-12-10	Washington Commanders	13	Los Angeles Chargers	30		Boxscore
 2017-12-10	Seattle Seahawks	24	Jacksonville Jaguars	30		Boxscore
 2017-12-10	Philadelphia Eagles	43	Los Angeles Rams	35		Boxscore
 2017-12-10	Baltimore Ravens	38	Pittsburgh Steelers	39		Boxscore
@@ -1298,7 +1298,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-12-14	Denver Broncos	25	Indianapolis Colts	13		Boxscore
 2017-12-16	Chicago Bears	10	Detroit Lions	20		Boxscore
 2017-12-16	Los Angeles Chargers	13	Kansas City Chiefs	30		Boxscore
-2017-12-17	Arizona Cardinals	15	Washington Redskins	20		Boxscore
+2017-12-17	Arizona Cardinals	15	Washington Commanders	20		Boxscore
 2017-12-17	Baltimore Ravens	27	Cleveland Browns	10		Boxscore
 2017-12-17	Miami Dolphins	16	Buffalo Bills	24		Boxscore
 2017-12-17	Green Bay Packers	24	Carolina Panthers	31		Boxscore
@@ -1309,7 +1309,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-12-17	Los Angeles Rams	42	Seattle Seahawks	7		Boxscore
 2017-12-17	New England Patriots	27	Pittsburgh Steelers	24		Boxscore
 2017-12-17	Tennessee Titans	23	San Francisco 49ers	25		Boxscore
-2017-12-17	Dallas Cowboys	20	Oakland Raiders	17		Boxscore
+2017-12-17	Dallas Cowboys	20	Las Vegas Raiders	17		Boxscore
 2017-12-18	Atlanta Falcons	24	Tampa Bay Buccaneers	21		Boxscore
 2017-12-23	Indianapolis Colts	16	Baltimore Ravens	23		Boxscore
 2017-12-23	Minnesota Vikings	16	Green Bay Packers	0		Boxscore
@@ -1318,7 +1318,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-12-24	Tampa Bay Buccaneers	19	Carolina Panthers	22		Boxscore
 2017-12-24	Cleveland Browns	3	Chicago Bears	20		Boxscore
 2017-12-24	Detroit Lions	17	Cincinnati Bengals	26		Boxscore
-2017-12-24	Denver Broncos	11	Washington Redskins	27		Boxscore
+2017-12-24	Denver Broncos	11	Washington Commanders	27		Boxscore
 2017-12-24	Miami Dolphins	13	Kansas City Chiefs	29		Boxscore
 2017-12-24	Los Angeles Chargers	14	New York Jets	7		Boxscore
 2017-12-24	Los Angeles Rams	27	Tennessee Titans	23		Boxscore
@@ -1326,21 +1326,21 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-12-24	New York Giants	0	Arizona Cardinals	23		Boxscore
 2017-12-24	Seattle Seahawks	21	Dallas Cowboys	12		Boxscore
 2017-12-25	Pittsburgh Steelers	34	Houston Texans	6		Boxscore
-2017-12-25	Oakland Raiders	10	Philadelphia Eagles	19		Boxscore
+2017-12-25	Las Vegas Raiders	10	Philadelphia Eagles	19		Boxscore
 2017-12-31	Chicago Bears	10	Minnesota Vikings	23		Boxscore
 2017-12-31	Cleveland Browns	24	Pittsburgh Steelers	28		Boxscore
 2017-12-31	Dallas Cowboys	6	Philadelphia Eagles	0		Boxscore
 2017-12-31	Green Bay Packers	11	Detroit Lions	35		Boxscore
 2017-12-31	Houston Texans	13	Indianapolis Colts	22		Boxscore
 2017-12-31	New York Jets	6	New England Patriots	26		Boxscore
-2017-12-31	Washington Redskins	10	New York Giants	18		Boxscore
+2017-12-31	Washington Commanders	10	New York Giants	18		Boxscore
 2017-12-31	Arizona Cardinals	26	Seattle Seahawks	24		Boxscore
 2017-12-31	Carolina Panthers	10	Atlanta Falcons	22		Boxscore
 2017-12-31	Cincinnati Bengals	31	Baltimore Ravens	27		Boxscore
 2017-12-31	Buffalo Bills	22	Miami Dolphins	16		Boxscore
 2017-12-31	Kansas City Chiefs	27	Denver Broncos	24		Boxscore
 2017-12-31	Jacksonville Jaguars	10	Tennessee Titans	15		Boxscore
-2017-12-31	Oakland Raiders	10	Los Angeles Chargers	30		Boxscore
+2017-12-31	Las Vegas Raiders	10	Los Angeles Chargers	30		Boxscore
 2017-12-31	San Francisco 49ers	34	Los Angeles Rams	13		Boxscore
 2017-12-31	New Orleans Saints	24	Tampa Bay Buccaneers	31		Boxscore
 2018-01-06	Tennessee Titans	22	Kansas City Chiefs	21		Boxscore
@@ -1359,8 +1359,8 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2016-09-11	Minnesota Vikings	25	Tennessee Titans	16		Boxscore
 2016-09-11	Cleveland Browns	10	Philadelphia Eagles	29		Boxscore
 2016-09-11	Cincinnati Bengals	23	New York Jets	22		Boxscore
-2016-09-11	Oakland Raiders	35	New Orleans Saints	34		Boxscore
-2016-09-11	San Diego Chargers	27	Kansas City Chiefs	33	OT	Boxscore
+2016-09-11	Las Vegas Raiders	35	New Orleans Saints	34		Boxscore
+2016-09-11	Los Angeles Chargers	27	Kansas City Chiefs	33	OT	Boxscore
 2016-09-11	Buffalo Bills	7	Baltimore Ravens	13		Boxscore
 2016-09-11	Chicago Bears	14	Houston Texans	23		Boxscore
 2016-09-11	Green Bay Packers	27	Jacksonville Jaguars	23		Boxscore
@@ -1368,11 +1368,11 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2016-09-11	New York Giants	20	Dallas Cowboys	19		Boxscore
 2016-09-11	Detroit Lions	39	Indianapolis Colts	35		Boxscore
 2016-09-11	New England Patriots	23	Arizona Cardinals	21		Boxscore
-2016-09-12	Pittsburgh Steelers	38	Washington Redskins	16		Boxscore
+2016-09-12	Pittsburgh Steelers	38	Washington Commanders	16		Boxscore
 2016-09-12	Los Angeles Rams	0	San Francisco 49ers	28		Boxscore
 2016-09-15	New York Jets	37	Buffalo Bills	31		Boxscore
 2016-09-18	San Francisco 49ers	27	Carolina Panthers	46		Boxscore
-2016-09-18	Dallas Cowboys	27	Washington Redskins	23		Boxscore
+2016-09-18	Dallas Cowboys	27	Washington Commanders	23		Boxscore
 2016-09-18	Cincinnati Bengals	16	Pittsburgh Steelers	24		Boxscore
 2016-09-18	New Orleans Saints	13	New York Giants	16		Boxscore
 2016-09-18	Miami Dolphins	24	New England Patriots	31		Boxscore
@@ -1381,15 +1381,15 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2016-09-18	Baltimore Ravens	25	Cleveland Browns	20		Boxscore
 2016-09-18	Seattle Seahawks	3	Los Angeles Rams	9		Boxscore
 2016-09-18	Tampa Bay Buccaneers	7	Arizona Cardinals	40		Boxscore
-2016-09-18	Jacksonville Jaguars	14	San Diego Chargers	38		Boxscore
-2016-09-18	Atlanta Falcons	35	Oakland Raiders	28		Boxscore
+2016-09-18	Jacksonville Jaguars	14	Los Angeles Chargers	38		Boxscore
+2016-09-18	Atlanta Falcons	35	Las Vegas Raiders	28		Boxscore
 2016-09-18	Indianapolis Colts	20	Denver Broncos	34		Boxscore
 2016-09-18	Green Bay Packers	14	Minnesota Vikings	17		Boxscore
 2016-09-19	Philadelphia Eagles	29	Chicago Bears	14		Boxscore
 2016-09-22	Houston Texans	0	New England Patriots	27		Boxscore
 2016-09-25	Arizona Cardinals	18	Buffalo Bills	33		Boxscore
-2016-09-25	Oakland Raiders	17	Tennessee Titans	10		Boxscore
-2016-09-25	Washington Redskins	29	New York Giants	27		Boxscore
+2016-09-25	Las Vegas Raiders	17	Tennessee Titans	10		Boxscore
+2016-09-25	Washington Commanders	29	New York Giants	27		Boxscore
 2016-09-25	Cleveland Browns	24	Miami Dolphins	30	OT	Boxscore
 2016-09-25	Baltimore Ravens	19	Jacksonville Jaguars	17		Boxscore
 2016-09-25	Detroit Lions	27	Green Bay Packers	34		Boxscore
@@ -1398,22 +1398,22 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2016-09-25	Los Angeles Rams	37	Tampa Bay Buccaneers	32		Boxscore
 2016-09-25	San Francisco 49ers	18	Seattle Seahawks	37		Boxscore
 2016-09-25	New York Jets	3	Kansas City Chiefs	24		Boxscore
-2016-09-25	San Diego Chargers	22	Indianapolis Colts	26		Boxscore
+2016-09-25	Los Angeles Chargers	22	Indianapolis Colts	26		Boxscore
 2016-09-25	Pittsburgh Steelers	3	Philadelphia Eagles	34		Boxscore
 2016-09-25	Chicago Bears	17	Dallas Cowboys	31		Boxscore
 2016-09-26	Atlanta Falcons	45	New Orleans Saints	32		Boxscore
 2016-09-29	Miami Dolphins	7	Cincinnati Bengals	22		Boxscore
 2016-10-02	Indianapolis Colts	27	Jacksonville Jaguars	30		Boxscore
 2016-10-02	Tennessee Titans	20	Houston Texans	27		Boxscore
-2016-10-02	Cleveland Browns	20	Washington Redskins	31		Boxscore
+2016-10-02	Cleveland Browns	20	Washington Commanders	31		Boxscore
 2016-10-02	Seattle Seahawks	27	New York Jets	17		Boxscore
 2016-10-02	Buffalo Bills	16	New England Patriots	0		Boxscore
 2016-10-02	Carolina Panthers	33	Atlanta Falcons	48		Boxscore
-2016-10-02	Oakland Raiders	28	Baltimore Ravens	27		Boxscore
+2016-10-02	Las Vegas Raiders	28	Baltimore Ravens	27		Boxscore
 2016-10-02	Detroit Lions	14	Chicago Bears	17		Boxscore
 2016-10-02	Denver Broncos	27	Tampa Bay Buccaneers	7		Boxscore
 2016-10-02	Los Angeles Rams	17	Arizona Cardinals	13		Boxscore
-2016-10-02	New Orleans Saints	35	San Diego Chargers	34		Boxscore
+2016-10-02	New Orleans Saints	35	Los Angeles Chargers	34		Boxscore
 2016-10-02	Dallas Cowboys	24	San Francisco 49ers	17		Boxscore
 2016-10-02	Kansas City Chiefs	14	Pittsburgh Steelers	43		Boxscore
 2016-10-03	New York Giants	10	Minnesota Vikings	24		Boxscore
@@ -1422,18 +1422,18 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2016-10-09	Philadelphia Eagles	23	Detroit Lions	24		Boxscore
 2016-10-09	Chicago Bears	23	Indianapolis Colts	29		Boxscore
 2016-10-09	Tennessee Titans	30	Miami Dolphins	17		Boxscore
-2016-10-09	Washington Redskins	16	Baltimore Ravens	10		Boxscore
+2016-10-09	Washington Commanders	16	Baltimore Ravens	10		Boxscore
 2016-10-09	Houston Texans	13	Minnesota Vikings	31		Boxscore
 2016-10-09	New York Jets	13	Pittsburgh Steelers	31		Boxscore
 2016-10-09	Atlanta Falcons	23	Denver Broncos	16		Boxscore
 2016-10-09	Cincinnati Bengals	14	Dallas Cowboys	28		Boxscore
 2016-10-09	Buffalo Bills	30	Los Angeles Rams	19		Boxscore
-2016-10-09	San Diego Chargers	31	Oakland Raiders	34		Boxscore
+2016-10-09	Los Angeles Chargers	31	Las Vegas Raiders	34		Boxscore
 2016-10-09	New York Giants	16	Green Bay Packers	23		Boxscore
 2016-10-10	Tampa Bay Buccaneers	17	Carolina Panthers	14		Boxscore
-2016-10-13	Denver Broncos	13	San Diego Chargers	21		Boxscore
+2016-10-13	Denver Broncos	13	Los Angeles Chargers	21		Boxscore
 2016-10-16	San Francisco 49ers	16	Buffalo Bills	45		Boxscore
-2016-10-16	Philadelphia Eagles	20	Washington Redskins	27		Boxscore
+2016-10-16	Philadelphia Eagles	20	Washington Commanders	27		Boxscore
 2016-10-16	Cleveland Browns	26	Tennessee Titans	28		Boxscore
 2016-10-16	Baltimore Ravens	23	New York Giants	27		Boxscore
 2016-10-16	Carolina Panthers	38	New Orleans Saints	41		Boxscore
@@ -1441,7 +1441,7 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2016-10-16	Los Angeles Rams	28	Detroit Lions	31		Boxscore
 2016-10-16	Pittsburgh Steelers	15	Miami Dolphins	30		Boxscore
 2016-10-16	Cincinnati Bengals	17	New England Patriots	35		Boxscore
-2016-10-16	Kansas City Chiefs	26	Oakland Raiders	10		Boxscore
+2016-10-16	Kansas City Chiefs	26	Las Vegas Raiders	10		Boxscore
 2016-10-16	Atlanta Falcons	24	Seattle Seahawks	26		Boxscore
 2016-10-16	Dallas Cowboys	30	Green Bay Packers	16		Boxscore
 2016-10-16	Indianapolis Colts	23	Houston Texans	26	OT	Boxscore
@@ -1452,25 +1452,25 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2016-10-23	Indianapolis Colts	34	Tennessee Titans	26		Boxscore
 2016-10-23	Minnesota Vikings	10	Philadelphia Eagles	21		Boxscore
 2016-10-23	Cleveland Browns	17	Cincinnati Bengals	31		Boxscore
-2016-10-23	Washington Redskins	17	Detroit Lions	20		Boxscore
-2016-10-23	Oakland Raiders	33	Jacksonville Jaguars	16		Boxscore
+2016-10-23	Washington Commanders	17	Detroit Lions	20		Boxscore
+2016-10-23	Las Vegas Raiders	33	Jacksonville Jaguars	16		Boxscore
 2016-10-23	Buffalo Bills	25	Miami Dolphins	28		Boxscore
 2016-10-23	Baltimore Ravens	16	New York Jets	24		Boxscore
 2016-10-23	Tampa Bay Buccaneers	34	San Francisco 49ers	17		Boxscore
-2016-10-23	San Diego Chargers	33	Atlanta Falcons	30	OT	Boxscore
+2016-10-23	Los Angeles Chargers	33	Atlanta Falcons	30	OT	Boxscore
 2016-10-23	New England Patriots	27	Pittsburgh Steelers	16		Boxscore
 2016-10-23	Seattle Seahawks	6	Arizona Cardinals	6	OT	Boxscore
 2016-10-24	Houston Texans	9	Denver Broncos	27		Boxscore
 2016-10-27	Jacksonville Jaguars	22	Tennessee Titans	36		Boxscore
-2016-10-30	Washington Redskins	27	Cincinnati Bengals	27	OT	Boxscore
+2016-10-30	Washington Commanders	27	Cincinnati Bengals	27	OT	Boxscore
 2016-10-30	Kansas City Chiefs	30	Indianapolis Colts	14		Boxscore
-2016-10-30	Oakland Raiders	30	Tampa Bay Buccaneers	24	OT	Boxscore
+2016-10-30	Las Vegas Raiders	30	Tampa Bay Buccaneers	24	OT	Boxscore
 2016-10-30	Seattle Seahawks	20	New Orleans Saints	25		Boxscore
 2016-10-30	Detroit Lions	13	Houston Texans	20		Boxscore
 2016-10-30	New York Jets	31	Cleveland Browns	28		Boxscore
 2016-10-30	New England Patriots	41	Buffalo Bills	25		Boxscore
 2016-10-30	Arizona Cardinals	20	Carolina Panthers	30		Boxscore
-2016-10-30	San Diego Chargers	19	Denver Broncos	27		Boxscore
+2016-10-30	Los Angeles Chargers	19	Denver Broncos	27		Boxscore
 2016-10-30	Green Bay Packers	32	Atlanta Falcons	33		Boxscore
 2016-10-30	Philadelphia Eagles	23	Dallas Cowboys	29	OT	Boxscore
 2016-10-31	Minnesota Vikings	10	Chicago Bears	20		Boxscore
@@ -1484,8 +1484,8 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2016-11-06	New Orleans Saints	41	San Francisco 49ers	23		Boxscore
 2016-11-06	Carolina Panthers	13	Los Angeles Rams	10		Boxscore
 2016-11-06	Indianapolis Colts	31	Green Bay Packers	26		Boxscore
-2016-11-06	Tennessee Titans	35	San Diego Chargers	43		Boxscore
-2016-11-06	Denver Broncos	20	Oakland Raiders	30		Boxscore
+2016-11-06	Tennessee Titans	35	Los Angeles Chargers	43		Boxscore
+2016-11-06	Denver Broncos	20	Las Vegas Raiders	30		Boxscore
 2016-11-07	Buffalo Bills	25	Seattle Seahawks	31		Boxscore
 2016-11-10	Cleveland Browns	7	Baltimore Ravens	28		Boxscore
 2016-11-13	Houston Texans	24	Jacksonville Jaguars	21		Boxscore
@@ -1494,9 +1494,9 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2016-11-13	Atlanta Falcons	15	Philadelphia Eagles	24		Boxscore
 2016-11-13	Kansas City Chiefs	20	Carolina Panthers	17		Boxscore
 2016-11-13	Chicago Bears	10	Tampa Bay Buccaneers	36		Boxscore
-2016-11-13	Minnesota Vikings	20	Washington Redskins	26		Boxscore
+2016-11-13	Minnesota Vikings	20	Washington Commanders	26		Boxscore
 2016-11-13	Green Bay Packers	25	Tennessee Titans	47		Boxscore
-2016-11-13	Miami Dolphins	31	San Diego Chargers	24		Boxscore
+2016-11-13	Miami Dolphins	31	Los Angeles Chargers	24		Boxscore
 2016-11-13	San Francisco 49ers	20	Arizona Cardinals	23		Boxscore
 2016-11-13	Dallas Cowboys	35	Pittsburgh Steelers	30		Boxscore
 2016-11-13	Seattle Seahawks	31	New England Patriots	24		Boxscore
@@ -1513,10 +1513,10 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2016-11-20	Miami Dolphins	14	Los Angeles Rams	10		Boxscore
 2016-11-20	New England Patriots	30	San Francisco 49ers	17		Boxscore
 2016-11-20	Philadelphia Eagles	15	Seattle Seahawks	26		Boxscore
-2016-11-20	Green Bay Packers	24	Washington Redskins	42		Boxscore
-2016-11-21	Houston Texans	20	Oakland Raiders	27		Boxscore
+2016-11-20	Green Bay Packers	24	Washington Commanders	42		Boxscore
+2016-11-21	Houston Texans	20	Las Vegas Raiders	27		Boxscore
 2016-11-24	Minnesota Vikings	13	Detroit Lions	16		Boxscore
-2016-11-24	Washington Redskins	26	Dallas Cowboys	31		Boxscore
+2016-11-24	Washington Commanders	26	Dallas Cowboys	31		Boxscore
 2016-11-24	Pittsburgh Steelers	28	Indianapolis Colts	7		Boxscore
 2016-11-27	Tennessee Titans	27	Chicago Bears	21		Boxscore
 2016-11-27	Jacksonville Jaguars	21	Buffalo Bills	28		Boxscore
@@ -1525,9 +1525,9 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2016-11-27	New York Giants	27	Cleveland Browns	13		Boxscore
 2016-11-27	Los Angeles Rams	21	New Orleans Saints	49		Boxscore
 2016-11-27	San Francisco 49ers	24	Miami Dolphins	31		Boxscore
-2016-11-27	San Diego Chargers	21	Houston Texans	13		Boxscore
+2016-11-27	Los Angeles Chargers	21	Houston Texans	13		Boxscore
 2016-11-27	Seattle Seahawks	5	Tampa Bay Buccaneers	14		Boxscore
-2016-11-27	Carolina Panthers	32	Oakland Raiders	35		Boxscore
+2016-11-27	Carolina Panthers	32	Las Vegas Raiders	35		Boxscore
 2016-11-27	New England Patriots	22	New York Jets	17		Boxscore
 2016-11-27	Kansas City Chiefs	30	Denver Broncos	27	OT	Boxscore
 2016-11-28	Green Bay Packers	27	Philadelphia Eagles	13		Boxscore
@@ -1540,18 +1540,18 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2016-12-04	Philadelphia Eagles	14	Cincinnati Bengals	32		Boxscore
 2016-12-04	Miami Dolphins	6	Baltimore Ravens	38		Boxscore
 2016-12-04	San Francisco 49ers	6	Chicago Bears	26		Boxscore
-2016-12-04	Buffalo Bills	24	Oakland Raiders	38		Boxscore
+2016-12-04	Buffalo Bills	24	Las Vegas Raiders	38		Boxscore
 2016-12-04	New York Giants	14	Pittsburgh Steelers	24		Boxscore
-2016-12-04	Washington Redskins	23	Arizona Cardinals	31		Boxscore
-2016-12-04	Tampa Bay Buccaneers	28	San Diego Chargers	21		Boxscore
+2016-12-04	Washington Commanders	23	Arizona Cardinals	31		Boxscore
+2016-12-04	Tampa Bay Buccaneers	28	Los Angeles Chargers	21		Boxscore
 2016-12-04	Carolina Panthers	7	Seattle Seahawks	40		Boxscore
 2016-12-05	Indianapolis Colts	41	New York Jets	10		Boxscore
-2016-12-08	Oakland Raiders	13	Kansas City Chiefs	21		Boxscore
+2016-12-08	Las Vegas Raiders	13	Kansas City Chiefs	21		Boxscore
 2016-12-11	Pittsburgh Steelers	27	Buffalo Bills	20		Boxscore
 2016-12-11	Denver Broncos	10	Tennessee Titans	13		Boxscore
-2016-12-11	Washington Redskins	27	Philadelphia Eagles	22		Boxscore
+2016-12-11	Washington Commanders	27	Philadelphia Eagles	22		Boxscore
 2016-12-11	Arizona Cardinals	23	Miami Dolphins	26		Boxscore
-2016-12-11	San Diego Chargers	16	Carolina Panthers	28		Boxscore
+2016-12-11	Los Angeles Chargers	16	Carolina Panthers	28		Boxscore
 2016-12-11	Cincinnati Bengals	23	Cleveland Browns	10		Boxscore
 2016-12-11	Chicago Bears	17	Detroit Lions	20		Boxscore
 2016-12-11	Houston Texans	22	Indianapolis Colts	17		Boxscore
@@ -1575,18 +1575,18 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2016-12-18	New Orleans Saints	48	Arizona Cardinals	41		Boxscore
 2016-12-18	San Francisco 49ers	13	Atlanta Falcons	41		Boxscore
 2016-12-18	New England Patriots	16	Denver Broncos	3		Boxscore
-2016-12-18	Oakland Raiders	19	San Diego Chargers	16		Boxscore
+2016-12-18	Las Vegas Raiders	19	Los Angeles Chargers	16		Boxscore
 2016-12-18	Tampa Bay Buccaneers	20	Dallas Cowboys	26		Boxscore
-2016-12-19	Carolina Panthers	26	Washington Redskins	15		Boxscore
+2016-12-19	Carolina Panthers	26	Washington Commanders	15		Boxscore
 2016-12-22	New York Giants	19	Philadelphia Eagles	24		Boxscore
 2016-12-24	Miami Dolphins	34	Buffalo Bills	31	OT	Boxscore
 2016-12-24	New York Jets	3	New England Patriots	41		Boxscore
 2016-12-24	Tennessee Titans	17	Jacksonville Jaguars	38		Boxscore
 2016-12-24	Minnesota Vikings	25	Green Bay Packers	38		Boxscore
-2016-12-24	San Diego Chargers	17	Cleveland Browns	20		Boxscore
-2016-12-24	Washington Redskins	41	Chicago Bears	21		Boxscore
+2016-12-24	Los Angeles Chargers	17	Cleveland Browns	20		Boxscore
+2016-12-24	Washington Commanders	41	Chicago Bears	21		Boxscore
 2016-12-24	Atlanta Falcons	33	Carolina Panthers	16		Boxscore
-2016-12-24	Indianapolis Colts	25	Oakland Raiders	33		Boxscore
+2016-12-24	Indianapolis Colts	25	Las Vegas Raiders	33		Boxscore
 2016-12-24	Tampa Bay Buccaneers	24	New Orleans Saints	31		Boxscore
 2016-12-24	Arizona Cardinals	34	Seattle Seahawks	31		Boxscore
 2016-12-24	San Francisco 49ers	22	Los Angeles Rams	21		Boxscore
@@ -1604,13 +1604,13 @@ Date	TeamA	ScoreA	TeamB	ScoreB	OT	BoxScore
 2017-01-01	Dallas Cowboys	13	Philadelphia Eagles	27		Boxscore
 2017-01-01	Cleveland Browns	24	Pittsburgh Steelers	27	OT	Boxscore
 2017-01-01	New Orleans Saints	32	Atlanta Falcons	38		Boxscore
-2017-01-01	New York Giants	19	Washington Redskins	10		Boxscore
+2017-01-01	New York Giants	19	Washington Commanders	10		Boxscore
 2017-01-01	Arizona Cardinals	44	Los Angeles Rams	6		Boxscore
-2017-01-01	Oakland Raiders	6	Denver Broncos	24		Boxscore
-2017-01-01	Kansas City Chiefs	37	San Diego Chargers	27		Boxscore
+2017-01-01	Las Vegas Raiders	6	Denver Broncos	24		Boxscore
+2017-01-01	Kansas City Chiefs	37	Los Angeles Chargers	27		Boxscore
 2017-01-01	Seattle Seahawks	25	San Francisco 49ers	23		Boxscore
 2017-01-01	Green Bay Packers	31	Detroit Lions	24		Boxscore
-2017-01-07	Oakland Raiders	14	Houston Texans	27		Boxscore
+2017-01-07	Las Vegas Raiders	14	Houston Texans	27		Boxscore
 2017-01-07	Detroit Lions	6	Seattle Seahawks	26		Boxscore
 2017-01-08	Miami Dolphins	12	Pittsburgh Steelers	30		Boxscore
 2017-01-08	New York Giants	13	Green Bay Packers	38		Boxscore

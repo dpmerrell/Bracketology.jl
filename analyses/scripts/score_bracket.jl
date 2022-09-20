@@ -6,12 +6,6 @@ Computes the predicted bracket's ESPN score and prints a summary to stdout.
 using Bracketology, JSON
 
 
-function score_bracket(pred_bracket, true_bracket)
-
-    espn_score(pred_bracket, true_bracket)
-
-end
-
 function main(args)
 
     pred_json = args[1]
@@ -20,7 +14,7 @@ function main(args)
     pred_bracket = JSON.parsefile(pred_json)
     true_bracket = JSON.parsefile(true_json)
 
-    score, pred_sets, true_sets = score_bracket(pred_bracket, true_bracket)
+    score, pred_sets, true_sets = espn_score(pred_bracket, true_bracket)
 
     for (i, (p,t)) in enumerate(zip(reverse(pred_sets), reverse(true_sets)))
         pd = setdiff(p,t)
