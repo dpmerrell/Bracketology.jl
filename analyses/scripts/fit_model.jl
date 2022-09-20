@@ -62,31 +62,52 @@ function main(args)
     # Model hyperparameters
     K=[1]
     reg_weight=[10.0, 15.0, 20.0]
-
+   
     # Optimizer hyperparameters
     lr=[0.25]
     max_iter=[10000]
     abs_tol=[1e-15] 
     rel_tol=[1e-9]
 
+    # Date for training/validation split
+    split_date = "2020-06-01"
+
     games_csv = args[1]
     out_bson = args[2]
+    existing_model_bson = nothing
+    if length(args) == 3
+        existing_model_bson = args[3]
+    end
 
     game_df = DataFrame(CSV.File(games_csv))
     game_df[!,:Date] .= string.(game_df[!,:Date])
 
-    train_df, val_df = split_data(game_df)
+    # If an existing model isn't provided, then
+    # fit one from scratch. Tune hyperparameters, too.
+    if existing_model_bson == nothing
+        println("Fitting model from scratch")
+        train_df, val_df = split_data(game_df; split_date=split_date)
 
-    best_params = hyperparam_tune(train_df, val_df; K=K, 
-                                                    reg_weight=reg_weight,
-                                                    lr=lr, max_iter=max_iter,
-                                                    abs_tol=abs_tol, 
-                                                    rel_tol=rel_tol)
-    println("Best hyperparameters:")
-    println(best_params)
+        best_params = hyperparam_tune(train_df, val_df; K=K, 
+                                                        reg_weight=reg_weight,
+                                                        lr=lr, max_iter=max_iter,
+                                                        abs_tol=abs_tol, 
+                                                        rel_tol=rel_tol)
+        println("Best hyperparameters:")
+        println(best_params)
 
-    println("Fitting final model on combined train+validation data...")
-    best_model = basic_fit(game_df; best_params...)
+        println("Fitting final model on combined train+validation data...")
+        best_model = basic_fit(game_df; best_params...)
+
+    else
+    # Otherwise, load the existing model and update it
+        println("Updating existing model from ", existing_model_bson)
+        best_model = load_model(existing_model_bson)
+        a_vec, b_vec, a_scores, b_scores, dates = unpack_df(game_df)
+        fit_update!(best_model, a_vec, b_vec, a_scores, b_scores, dates;
+                    lr=lr[1], max_iter=max_iter[1], abs_tol=abs_tol[1],
+                    rel_tol=rel_tol[1]) 
+    end
 
     save_model(best_model, out_bson)
 end

@@ -7,7 +7,7 @@ function win_prob_many(model, a_vec, b_vec)
     N = length(a_vec)
     preds = zeros(N) 
     for (i, (a, b)) in enumerate(zip(a_vec, b_vec))
-        preds[i] = win_prob(model, a, b)
+        preds[i], _, _ = win_prob(model, a, b)
     end
 
     return preds
