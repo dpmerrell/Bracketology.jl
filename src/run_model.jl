@@ -27,7 +27,8 @@ function fit!(model::CompetitionModel,
               a_score_vec::AbstractVector{<:Real}, 
               b_score_vec::AbstractVector{<:Real},
               date_vec::AbstractVector{<:AbstractString};
-              lr=0.01, max_iter=1000, abs_tol=1e-12, rel_tol=1e-9, kwargs...)
+              lr=0.01, max_iter=1000, abs_tol=1e-12, rel_tol=1e-9, 
+              noise_model="poisson", kwargs...)
 
     # Translate the games into a sparse I, J, V representation of scores.
     team_dates = collect(zip(model.team_vec, model.date_vec))
@@ -55,13 +56,39 @@ function fit!(model::CompetitionModel,
     # The GPU really makes a difference, if one is available
     matfac_gpu = gpu(model.matfac)
     V_gpu = gpu(V)
-     
+
     fit!(matfac_gpu, I, J, V_gpu; lr=lr, max_iter=max_iter,
-                                  abs_tol=abs_tol, rel_tol=rel_tol, kwargs...)
+                                  abs_tol=abs_tol, rel_tol=rel_tol, 
+                                  kwargs...)
+    
+    # For Normal-distributed data: 
+    # estimate a variance from the residuals
+    if matfac_gpu.noise_model == "normal" 
+        model.uncertainty_param = compute_avg_residuals(matfac_gpu, I, J, V_gpu)
+        println(string("ESTIMATED VARIANCE: ", model.uncertainty_param))
+    end
 
     model.matfac = cpu(matfac_gpu)
 
     return model
+end
+
+
+function compute_avg_residuals(matfac, I, J, V)
+    invlink_fn = SparseMatFac.INVLINK_FUNCTION_MAP[matfac.noise_model]
+    loss_fn = SparseMatFac.LOSS_FUNCTION_MAP[matfac.noise_model]
+    
+    X_view = view(matfac.X, :, I)
+    Y_view = view(matfac.Y, :, J)
+    row_b_view = view(matfac.row_transform, I)
+    col_b_view = view(matfac.col_transform, J)
+    
+    residual = SparseMatFac.neg_log_likelihood(X_view, Y_view, 
+                                               row_b_view, col_b_view, V,
+                                               invlink_fn, loss_fn)
+    residual *= (2/length(V))
+
+    return residual
 end
 
 
@@ -146,6 +173,7 @@ function impute_game(model::CompetitionModel,
     return Float64(A_mean_score), Float64(B_mean_score)
 end
 
+sigmoid(x) = 1 / (1 + exp(-x))
 
 function simulate_game(model::CompetitionModel,
                        team_A::AbstractString, team_B::AbstractString,
@@ -176,13 +204,24 @@ function simulate_game(model::CompetitionModel,
     B_col_b = B_std.*randn(n_samples) .+ model.matfac.col_transform.b[B_idx]
    
     # Compute game score means from the sampled parameters 
-    A_means = exp.(vec(sum(A_X .* B_Y; dims=1)) .+ A_row_b .+ B_col_b)
-    B_means = exp.(vec(sum(B_X .* A_Y; dims=1)) .+ B_row_b .+ A_col_b)
+    A_means = vec(sum(A_X .* B_Y; dims=1)) .+ A_row_b .+ B_col_b
+    B_means = vec(sum(B_X .* A_Y; dims=1)) .+ B_row_b .+ A_col_b
 
-    # Finally, sample scores from a Poisson distribution
-    A_scores = map(m -> rand(Poisson(m)), A_means)
-    B_scores = map(m -> rand(Poisson(m)), B_means)
-    
+    # Finally, sample scores from the appropriate distribution
+    if noise_model == "poisson"
+        A_means = exp.(A_means)
+        B_means = exp.(B_means)
+        A_scores = map(m -> rand(Poisson(m)), A_means)
+        B_scores = map(m -> rand(Poisson(m)), B_means)
+    elseif noise_model == "normal"
+        sigma = sqrt(model.uncertainty_param)
+        A_scores = map(m -> rand(Normal(m, sigma)), A_means)
+        B_scores = map(m -> rand(Normal(m, sigma)), B_means)
+    elseif noise_model == "bernoulli"
+        A_scores = sigmoid.(A_means)
+        B_scores = sigmoid.(B_means)
+    end
+
     return A_scores, B_scores
 end
 
@@ -205,11 +244,11 @@ function win_prob(model::CompetitionModel, team_A::AbstractString,
 
     noise_model = model.matfac.noise_model 
 
-    if noise_model=="poisson"
+    if noise_model in ("poisson", "normal","bernoulli")
         A_samples, B_samples = simulate_game(model, team_A, team_B, date; 
                                              n_samples=n_samples, noise_model=noise_model)
     else
-        throw(ArgumentError(string("For now we only support a `poisson` noise model! Not ", noise_model)))
+        throw(ArgumentError(string("For now we only support `poisson`, `normal`, and `bernoulli` noise models! Not ", noise_model)))
     end
 
     A_mean = sum(A_samples)/n_samples

@@ -688,9 +688,7 @@ uuid = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 
 [[SparseMatFac]]
 deps = ["BSON", "CUDA", "ChainRules", "ChainRulesCore", "Flux", "Functors", "HDF5", "LinearAlgebra", "ScikitLearnBase", "SparseArrays", "Zygote"]
-git-tree-sha1 = "e2baf255a4f9e756a89f404699c10c7f1c7d961e"
-repo-rev = "main"
-repo-url = "https://github.com/dpmerrell/SparseMatFac.jl"
+path = "../SparseMatFac.jl"
 uuid = "bde43a16-fe23-4bce-be8f-f199af2997b3"
 version = "0.1.0"
 

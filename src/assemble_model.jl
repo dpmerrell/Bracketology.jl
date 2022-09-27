@@ -72,7 +72,7 @@ function assemble_model(team_a_vec, team_b_vec, date_vec;
                                lambda_col=reg_weight)
 
     teams_vec, dates_vec = split_pairs(team_dates)
-    return CompetitionModel(matfac, teams_vec, dates_vec)
+    return CompetitionModel(matfac, teams_vec, dates_vec, 0.0)
 
 end
 

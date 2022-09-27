@@ -5,6 +5,7 @@ mutable struct CompetitionModel
     matfac::SparseMatFacModel
     team_vec::Vector{String}
     date_vec::Vector{String}
+    uncertainty_param::Number
 end
 
 
