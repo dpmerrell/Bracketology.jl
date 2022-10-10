@@ -12,7 +12,7 @@ replacements = {"Oakland Raiders": "Las Vegas Raiders",
 
 replacement_keys = set(replacements.keys())
 
-fields = ["Date", "TeamA", "ScoreA", "TeamB", "ScoreB", "OT", "BoxScore"]
+fields = ["Date", "TeamA", "ScoreA", "IsHomeA", "TeamB", "ScoreB", "IsHomeB", "OT", "BoxScore"]
 
 def process_line(line):
     
@@ -24,6 +24,12 @@ def process_line(line):
     # Reformat the date
     sp_line = line.split("\t")
     sp_line[0] = datetime.datetime.strptime(sp_line[0],"%m/%d/%Y").strftime("%Y-%m-%d")
+    
+    # Introduce "is home" fields. In this dataset, A=away and B=home.
+    # https://www.footballdb.com/games/index.html 
+    sp_line.insert(3, "0")
+    sp_line.insert(6, "1")
+
     line = "\t".join(sp_line)
 
     for k, v in replacements.items():
