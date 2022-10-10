@@ -73,7 +73,7 @@ end
 
 
 #######################################
-# Layer regularizers
+# ShiftLayer regularizer
 
 mutable struct ShiftRegularizer
     mat::AbstractMatrix
@@ -91,5 +91,43 @@ function (sr::ShiftRegularizer)(sl::ShiftLayer)
     return 0.5*dot(sl.b, sr.mat * sl.b)
 end
 
+#####################################
+# Covariate regressor layer regularizer
+
+mutable struct LinearCovariateRegularizer
+    mat::AbstractMatrix
+end
+
+@functor LinearCovariateRegularizer
+Flux.trainable(cr::LinearCovariateRegularizer) = ()
+
+function LinearCovariateRegularizer(team_dates::Vector{<:Tuple}; epsilon=0.0)
+    mat = assemble_regmat(team_dates, epsilon=epsilon)
+    return LinearCovariateRegularizer(mat)
+end
+
+function (cr::LinearCovariateRegularizer)(lcl::LinearCovariateLayer)
+    return 0.5*sum(lcl.w .* (lcl.w * cr.mat))
+end
+
+
+####################################
+# Regularizer for CombinedLayer
+mutable struct CombinedRegularizer
+    shiftreg::ShiftRegularizer
+    covreg::LinearCovariateRegularizer
+end
+
+@functor CombinedRegularizer
+Flux.trainable(cr::CombinedRegularizer) = ()
+
+function CombinedRegularizer(team_dates::Vector{<:Tuple}; epsilon=0.0)
+    return CombinedRegularizer(ShiftRegularizer(team_dates; epsilon=epsilon),
+                               LinearCovariateRegularizer(team_dates; epsilon=epsilon))
+end
+
+function (cr::CombinedRegularizer)(cl::CombinedLayer)
+    return cr.shiftreg(cl.shift) + cr.covreg(cl.covariates) 
+end
 
 

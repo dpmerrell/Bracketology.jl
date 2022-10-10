@@ -12,8 +12,8 @@ function win_prob_many(model, a_vec, b_vec, date_vec)
     # The model tends to be overconfident.
     # It seems unreasonable to ever be more than
     # 65% sure of the outcome of any game.
-    preds[preds .> 0.65] .= 0.65
-    preds[preds .< 0.35] .= 0.35
+    preds[preds .> 0.625] .= 0.625
+    preds[preds .< 0.375] .= 0.375
 
     return preds
 end
