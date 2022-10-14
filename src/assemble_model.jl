@@ -47,8 +47,31 @@ function split_pairs(v::Vector{<:Tuple})
 end
 
 
+function rearrange_covariates(team_a_covariates, team_b_covariates,
+                              team_a_vec, team_b_vec, date_vec, team_dates)
+
+    Kc = size(team_a_covariates, 2)
+    M = size(team_dates,1)
+
+    team_date_to_idx = Dict(td => i for (i, td) in enumerate(team_dates))
+
+    rearranged_covariates = zeros(Kc, M)
+    for (i, pair) in enumerate(zip(team_a_vec, date_vec))
+        rearranged_covariates[:, team_date_to_idx[pair]] = team_a_covariates[i,:]
+    end
+    for (i, pair) in enumerate(zip(team_b_vec, date_vec))
+        rearranged_covariates[:, team_date_to_idx[pair]] = team_b_covariates[i,:]
+    end
+
+    return rearranged_covariates
+end
+
+
 function assemble_model(team_a_vec, team_b_vec, date_vec;
-                        K=3, noise_model="poisson", reg_weight=1.0)
+                        team_a_covariates=Union{Nothing,AbstractMatrix}=nothing, 
+                        team_b_covariates=Union{Nothing,AbstractMatrix}=nothing,
+                        K=3, noise_model="poisson", reg_weight=1.0,
+                        constant_term=0.0)
 
     team_dates = unique_team_dates(team_a_vec, team_b_vec, date_vec) 
     regmat = assemble_regmat(team_dates)
@@ -56,12 +79,26 @@ function assemble_model(team_a_vec, team_b_vec, date_vec;
  
     X_reg = MatrixRegularizer(regmat)
     Y_reg = MatrixRegularizer(regmat)
-    row_trans_reg = ShiftRegularizer(regmat)
-    col_trans_reg = ShiftRegularizer(regmat)
+
+    if (team_a_covariates == nothing) || (team_b_covariates == nothing)
+        row_transform = ShiftLayer(M)
+        col_transform = ShiftLayer(M)
+        row_trans_reg = ShiftRegularizer(regmat)
+        col_trans_reg = ShiftRegularizer(regmat)
+    else
+        covariates = rearrange_covariates(team_a_covariates, team_b_covariates,
+                                          team_a_vec, team_b_vec, date_vec,
+                                          team_dates)
+        row_transform = CombinedLayer(0.5*constant_term, covariates)
+        col_transform = CombinedLayer(0.5*constant_term, covariates)
+        
+        row_trans_reg = CombinedRegularizer(regmat)
+        col_trans_reg = CombinedRegularizer(regmat)
+    end
 
     matfac = SparseMatFacModel(M, M, K;
-                               row_transform=ShiftLayer(M),
-                               col_transform=ShiftLayer(M),
+                               row_transform=row_transform,
+                               col_transform=col_transform,
                                X_reg=X_reg, Y_reg=Y_reg, 
                                row_transform_reg=row_trans_reg, 
                                col_transform_reg=col_trans_reg,

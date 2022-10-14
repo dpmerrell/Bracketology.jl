@@ -177,7 +177,9 @@ sigmoid(x) = 1 / (1 + exp(-x))
 
 function simulate_game(model::CompetitionModel,
                        team_A::AbstractString, team_B::AbstractString,
-                       date::AbstractString; n_samples=10000, noise_model="poisson")
+                       date::AbstractString;
+                       team_A_covariates=nothing, team_B_covariates=nothing,
+                       n_samples=10000, noise_model="poisson")
     
     K = size(model.matfac.X, 1)
     A_idx = findlast(model.team_vec .== team_A)
@@ -196,16 +198,21 @@ function simulate_game(model::CompetitionModel,
     # Sample possible values of the parameters
     A_X = A_std.*randn(K, n_samples) .+ model.matfac.X[:,A_idx]
     A_Y = A_std.*randn(K, n_samples) .+ model.matfac.Y[:,A_idx]
-    A_row_b = A_std.*randn(n_samples) .+ model.matfac.row_transform.b[A_idx]
-    A_col_b = A_std.*randn(n_samples) .+ model.matfac.col_transform.b[A_idx]
+    A_row_b = A_std.*randn(n_samples) .+ model.matfac.row_transform.shift.b[A_idx]
+    #A_row_cov_w = A_std.*randn(n_samples) .+ model.matfac.row_transform.covariates.w[:,A_idx]
+    A_col_b = A_std.*randn(n_samples) .+ model.matfac.col_transform.shift.b[A_idx]
+    #A_col_cov_w = A_std.*randn(n_samples) .+ model.matfac.col_transform.covariates.w[:,A_idx]
+
     B_X = B_std.*randn(K, n_samples) .+ model.matfac.X[:,B_idx]
     B_Y = B_std.*randn(K, n_samples) .+ model.matfac.Y[:,B_idx]
-    B_row_b = B_std.*randn(n_samples) .+ model.matfac.row_transform.b[B_idx]
-    B_col_b = B_std.*randn(n_samples) .+ model.matfac.col_transform.b[B_idx]
+    B_row_b = B_std.*randn(n_samples) .+ model.matfac.row_transform.shift.b[B_idx]
+    #B_row_cov_w = B_std.*randn(n_samples) .+ model.matfac.row_transform.covariates.w[:,B_idx]
+    B_col_b = B_std.*randn(n_samples) .+ model.matfac.col_transform.shift.b[B_idx]
+    #B_col_cov_w = B_std.*randn(n_samples) .+ model.matfac.col_transform.covariates.w[:,B_idx]
    
     # Compute game score means from the sampled parameters 
-    A_means = vec(sum(A_X .* B_Y; dims=1)) .+ A_row_b .+ B_col_b
-    B_means = vec(sum(B_X .* A_Y; dims=1)) .+ B_row_b .+ A_col_b
+    A_means = (model.matfac.row_transform.constant.constant[1] + model.matfac.col_transform.constant.constant[1]) .+ vec(sum(A_X .* B_Y; dims=1)) .+ A_row_b .+ B_col_b #.+ vec(sum(team_A_covariates .* A_row_cov_w; dims=1))
+    B_means = (model.matfac.row_transform.constant.constant[1] + model.matfac.col_transform.constant.constant[1]) .+ vec(sum(B_X .* A_Y; dims=1)) .+ B_row_b .+ A_col_b #.+ vec(sum(team_B_covariates .* B_row_cov_w; dims=1))
 
     # Finally, sample scores from the appropriate distribution
     if noise_model == "poisson"

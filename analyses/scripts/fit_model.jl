@@ -19,7 +19,7 @@ function split_data(game_df; split_dates=["2021-06-01", "2022-06-01"])
 end
 
 
-function basic_fit(train_df; K=1, reg_weight=15.0, noise_model="normal", opt_kwargs...)
+function basic_fit(train_df; K=1, reg_weight=15.0, noise_model="normal", print_iter=10, opt_kwargs...)
     
     # If the noise model is normal, then we first log-transform
     # the scores
@@ -27,25 +27,38 @@ function basic_fit(train_df; K=1, reg_weight=15.0, noise_model="normal", opt_kwa
         println("Log-transforming scores")
         train_df[!,:ScoreA] .= log.(train_df[!,:ScoreA] .+ 1) 
         train_df[!,:ScoreB] .= log.(train_df[!,:ScoreB] .+ 1)
+        constant_term = 0.5*sum(train_df[:,:ScoreA] .+ train_df[:,:ScoreB])/size(train_df,1)
     elseif noise_model == "bernoulli"
         println("Binarizing scores into win/lose") 
         train_df[!,:ScoreA] .= (train_df[!,:ScoreA] .> train_df[:,:ScoreB])
         train_df[!,:ScoreB] .= (train_df[!,:ScoreB] .> train_df[:,:ScoreA])
+        constant_term = 0.5*sum(train_df[:,:ScoreA] .+ train_df[:,:ScoreB])/size(train_df,1)
+    elseif noise_model == "poisson"
+        constant_term = 0.5*sum(log.(train_df[:,:ScoreA] .+ 1) .+ log.(train_df[:,:ScoreB] .+ 1))/size(train_df,1)
+        constant_term = exp(constant_term)
+        constant_term -= 1
+        constant_term = log(constant_term)
     end
 
-    team_a_vec, team_b_vec, a_scores, b_scores, date_vec = unpack_df(train_df)
+    team_a_vec, team_b_vec, a_scores, b_scores, date_vec, a_covariates, b_covariates = unpack_df(train_df)
 
     model = CompetitionModel(team_a_vec, team_b_vec, date_vec;
-                             K=K, reg_weight=reg_weight, noise_model=noise_model)
+                             K=K, reg_weight=reg_weight, noise_model=noise_model,
+                             team_a_covariates=a_covariates, 
+                             team_b_covariates=b_covariates, 
+                             constant_term=constant_term)
     
     fit!(model, team_a_vec, team_b_vec, a_scores, b_scores, date_vec;
-                verbosity=1, opt_kwargs...)
+                verbosity=1, print_iter=print_iter, opt_kwargs...)
 
     return model
 end
 
 
-function sequential_score(train_df, val_df; chunksize=16, fit_kwargs...)
+function sequential_score(train_df, val_df; chunksize=96, fit_kwargs...)
+
+    train_df = deepcopy(train_df)
+    val_df = deepcopy(val_df)
 
     score = 0
     idx = 0
@@ -92,10 +105,8 @@ function hyperparam_tune(train_df, val_df; kwargs...)
     @threads for i=1:length(combos)
         fit_kwargs = combos[i]
         println(fit_kwargs) 
-        model, score = sequential_score(deepcopy(train_df), 
-                                        deepcopy(val_df);
-                                        fit_kwargs...)
-        println(string("538 Brier score: ", round(-score, digits=2), " (Higher is better)"))
+        model, score = sequential_score(train_df, val_df; fit_kwargs...)
+        println(string(combos, "\n538 Brier score: ", round(-score, digits=2), " (Higher is better)"))
 
         scores[i] = score
         models[i] = model
@@ -114,12 +125,12 @@ function main(args)
     # Model hyperparameters
     K=[0]
     #reg_weight=[10.0, 20.0, 30.0]
-    reg_weight=[40.0, 50.0, 60.0]
+    reg_weight=[30.0, 40.0, 50.0]
     noise_model = "poisson"
    
     # Optimizer hyperparameters
-    lr=[0.5]
-    max_iter=[10]
+    lr=[0.2]
+    max_iter=[1000]
     abs_tol=[1e-15] 
     rel_tol=[1e-9]
 

@@ -1,7 +1,8 @@
 module Bracketology
 
 using SparseMatFac, Dates, SparseArrays, BSON, Flux, Functors,
-      ScikitLearnBase, CUDA, Distributions, LinearAlgebra, DataFrames
+      ScikitLearnBase, CUDA, Distributions, LinearAlgebra, DataFrames,
+      ChainRulesCore
 
 include("model.jl")
 include("layers.jl")

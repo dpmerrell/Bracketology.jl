@@ -12,10 +12,16 @@ end
 function CompetitionModel(team_a_vec::AbstractVector{<:AbstractString}, 
                           team_b_vec::AbstractVector{<:AbstractString}, 
                           date_vec::AbstractVector{<:AbstractString};
-                          K=3, noise_model="poisson", reg_weight=1.0)
+                          team_a_covariates::Union{Nothing,AbstractMatrix}=nothing,
+                          team_b_covariates::Union{Nothing,AbstractMatrix}=nothing,
+                          K=0, noise_model="poisson", reg_weight=1.0, 
+                          constant_term=0.0)
 
     model = assemble_model(team_a_vec, team_b_vec, date_vec;
-                           K=K, noise_model=noise_model, reg_weight=reg_weight)
+                           team_a_covariates=team_a_covariates,
+                           team_b_covariates=team_b_covariates,
+                           K=K, noise_model=noise_model, reg_weight=reg_weight,
+                           constant_term=constant_term)
 
     return model
 end

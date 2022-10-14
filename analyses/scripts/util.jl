@@ -5,8 +5,10 @@ function unpack_df(train_df)
     date_vec = train_df[:,:Date]
     a_scores = train_df[:,:ScoreA]
     b_scores = train_df[:,:ScoreB]
-
-    return team_a_vec, team_b_vec, a_scores, b_scores, date_vec
+    # TODO reverse these
+    a_covariates = Matrix{Float32}(train_df[:,[:IsHomeB]])
+    b_covariates = Matrix{Float32}(train_df[:,[:IsHomeA]])
+    return team_a_vec, team_b_vec, a_scores, b_scores, date_vec, a_covariates, b_covariates
 end
 
 

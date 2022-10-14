@@ -20,6 +20,9 @@ function assemble_regmat(team_dates; epsilon=0.0)
         team, date = team_dates[idx]
         
         if team == prev_team
+            # Assume a parameter's variance at time `t` is proportional
+            # to the time elapsed since its previous value. (This is 
+            # consistent with a Wiener process.)
             delta_t = Dates.days(Date(date) - Date(prev_date))/365.0
             weight = 1/delta_t
             diag[idx-1] += weight 
@@ -110,7 +113,6 @@ function (cr::LinearCovariateRegularizer)(lcl::LinearCovariateLayer)
     return 0.5*sum(lcl.w .* (lcl.w * cr.mat))
 end
 
-
 ####################################
 # Regularizer for CombinedLayer
 mutable struct CombinedRegularizer
@@ -126,8 +128,13 @@ function CombinedRegularizer(team_dates::Vector{<:Tuple}; epsilon=0.0)
                                LinearCovariateRegularizer(team_dates; epsilon=epsilon))
 end
 
+function CombinedRegularizer(reg_mat::AbstractMatrix)
+    return CombinedRegularizer(ShiftRegularizer(reg_mat),
+                               LinearCovariateRegularizer(reg_mat))
+end
+
 function (cr::CombinedRegularizer)(cl::CombinedLayer)
-    return cr.shiftreg(cl.shift) + cr.covreg(cl.covariates) 
+    return 0.5*dot(cl.constant.constant,cl.constant.constant) + cr.shiftreg(cl.shift) + cr.covreg(cl.covariates) 
 end
 
 
